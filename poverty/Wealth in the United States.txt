@@ -1,0 +1,74 @@
+Wealth in the United States is commonly measured in terms of net worth, which is the sum of all assets, including the market value of real estate, like a home, minus all liabilities.
+
+For example, a household in possession of an $800,000 house, $5,000 in mutual funds, $30,000 in cars, $20,000 worth of stock in their own company, and a $45,000 IRA would have assets totaling $900,000. Assuming that this household would have a $250,000 mortgage, $40,000 in car loans, and $10,000 in credit card debt, its debts would total $300,000. Subtracting the debts from the worth of this household's assets (900,000 − $300,000 = $600,000), this household would have a net worth of $600,000. Net worth can vary with fluctuations in value of the underlying assets.
+The wealth—more specifically, the median net worth—of households in the United States is varied with relation to race, education, geographic location and gender. As one would expect, households with greater income feature the highest net worths, though high income cannot be taken as an always accurate indicator of net worth. Overall the number of wealthier households is on the rise, with baby boomers hitting the highs of their careers. In addition, wealth is unevenly distributed, with the wealthiest 25% of US households owning 87% of the wealth in the United States, which was $54.2 trillion in 2009.
+Including human capital such as skills, the United Nations estimated the total wealth of the United States in 2008 to be $118 trillion.
+
+
+== Income vs. wealth ==
+
+While income is often seen as a type of wealth in colloquial language use, wealth and income are two substantially different measures of economic prosperity. While there may be a high correlation between income and wealth, the relationship cannot be described as causal.
+
+
+== Changes in wealth, 1989–2001 ==
+
+When observing the changes in the wealth among American households, one can note an increase in wealthier individuals and a decrease in the number of poor households, while net worth increased most substantially in semi-wealthy and wealthy households. Overall the percentage of households with a negative net worth (more debt than assets) declined from 9.5% in 1989 to 4.1% in 2001.
+The percentage of net worths ranging from $500,000 to one million doubled while the percentage of millionaires tripled. From 1995 to 2004, there was tremendous growth among household wealth, as it nearly doubled from $21.9 trillion to $43.6 trillion, but the wealthiest quartile of the economic distribution made up 89% of this growth. During this time frame, wealth became increasingly unequal, and the wealthiest 25% became even wealthier.
+According to US Census Bureau statistics this "Upward shift" is most likely the result of a booming housing market which caused homeowners to experience tremendous increases in home equity. Life-cycles have also attributed to the rising wealth among Americans. With more and more baby-boomers reaching the climax of their careers and the middle aged population making up a larger segment of the population now than ever before, more and more households have achieved comfortable levels of wealth. Zhu Xiao Di (2004) notes that household wealth usually peaks around families headed by people in their 50s, and as a result, the baby boomer generation reached this age range at the time of the analysis.
+
+
+=== Changes in wealth after 2007 ===
+Household net worth fell from 2007 to 2009 by a total of $17.5 trillion or 25.5%. This was the equivalent loss of one year of GDP. By the fourth quarter of 2010, the household net worth had recovered by a growth of 1.3 percent to a total of $56.8 trillion. An additional growth of 15.7 percent is needed just to bring the value to where it was before the recession started in December 2007. In 2014 a record breaking net worth of $80.7 trillion was achieved.
+
+
+== Mechanisms to gain wealth ==
+Assets are known as the raw materials of wealth, and they consist primarily of stocks and other financial and non-financial property, particularly homeownership. While these assets are unequally distributed, financial assets are much more unequal. In 2004, the top 1% controlled 50.3% of the financial assets while the bottom 90% only held 14.4% of the total US financial assets.
+These discrepancies exist despite the availability of many wealth building tools established by the Federal Government. These include 401k plans, 403b plans, and IRAs. Traditional IRAs, 401k and 403b plans are tax shelters created for working individuals. These plans allow for tax sheltered (or pre-tax) contributions of earned income directly to tax sheltered savings accounts. Annual contributions are capped to ensure that high earners cannot enjoy the tax benefit disproportionally. The Roth IRA is another tool that can help create wealth in the working and middle classes.
+Assets in Roth IRAs grow tax free; interests, dividends, and capital gains are all exempt from income taxes. Contributions to Roth IRAs are limited to those with annual incomes less than the threshold established yearly by the IRS. The benefits of these plans, however, are only available to workers and families whose incomes and expenses allow them excess funds to commit for a long period, typically until the investor reaches age 59½. The effect of these tools are further limited by the contribution limits placed on them.
+
+
+== Wealth distribution ==
+
+In 2007 the richest 1% of the American population owned 34.6% of the country's total wealth, and the next 19% owned 50.5%. Thus, the top 20% of Americans owned 85% of the country's wealth and the bottom 80% of the population owned 15%. Financial inequality was greater than inequality in total wealth, with the top 1% of the population owning 42.7%, the next 19% of Americans owning 50.3%, and the bottom 80% owning 7%.
+After the Great Recession which started in 2007, the share of total wealth owned by the top 1% of the population grew from 34.6% to 37.1%, and that owned by the top 20% of Americans grew from 85% to 87.7%. The Great Recession also caused a drop of 36.1% in median household wealth but a drop of only 11.1% for the top 1%.
+
+
+=== Income distribution ===
+
+Note: The IRS specifically warned that changes in their definition of Adjusted Gross Income make it impossible to compare pre-1987 AGI with post-1987 AGI, so keep in mind that comparisons should be in gross income or salary and not in AGI. When reading statistics, it behooves the reader to have this awareness. According to the Congressional Budget Office, between 1979 and 2007 incomes of the top 1% of Americans grew by an average of 275%. During the same time period, the 60% of Americans in the middle of the income scale saw their income rise by 40%. From 1992-2007 the top 400 income earners in the U.S. saw their income increase 392% and their average tax rate reduced by 37%. In 2009, the average income of the top 1% was $960,000 with a minimum income of $343,927.
+During the economic expansion between 2002 and 2007, the income of the top 1% grew 10 times faster than the income of the bottom 90%. In this period 66% of total income gains went to the 1%, who in 2007 had a larger share of total income than at any time since 1928. According to PolitiFact and others, the top 400 wealthiest Americans "have more wealth than half of all Americans combined." Inherited wealth may help explain why many Americans who have become rich may have had a "substantial head start". In September 2012, according to the Institute for Policy Studies, "over 60 percent" of the Forbes richest 400 Americans "grew up in substantial privilege".
+If a family has a positive net worth then it has more wealth than the combined net worth of over 30.6 million American families. This is because the bottom 25% of American families have a negative combined net worth.
+
+
+=== Complications in interpreting income statistics ===
+Interpreting these income statistics is complicated by several factors: membership in the top 1% changes from year to year, the IRS made large changes in the definition of adjusted gross income in 1987, and numbers for particular income ranges may be distorted by outliers (in the top segment) and failure to include transfer payments (in the lower segments).
+Income Mobility: The IRS occasionally studies income data from actual households over time, usually over one decade. They actually underestimate income mobility by excluding the most mobile population from their studies: those under age 25.
+Most people only look at annual reported income data split into income quintiles. It is erroneous to assume that individual households remain in the same quintile over time, just as it usually is when using aggregate data. A majority of households in the top income quintile in one year, for example, will have moved to a lower quintile within a decade. Three out of four households in the top 0.01% of income will no longer be in that small group ten years later. In summary, half of all of U.S. households move from one income quintile to a different income quintile every decade. And actual households who started a decade in the lowest quintile of income, when tracked over the next ten years, will have proportionally more income growth than actual households who started the decade in the highest quintile of income. Thus, when comparing income/wealth quintile distributions from different time periods, generalizations can only be made with regards to the households in aggregate for each quintile, and can not be made to any individual households over the same time period (i.e. assuming the wealth value has been appropriately adjusted for differences in time, one cannot infer that a decrease in total wealth percentage for one quintile over time means that the households from that quintile have lost wealth as individuals, but only that total wealth percentage has decreased for those in that quintile at the time of measurement).
+Top 20% income vs. Bottom 20% income households: (1) The average number of people with jobs in a top income quintile household is two, while a majority of bottom income quintile households have no one employed. (2) If there are two adult income earners in a household who are married, their incomes are combined on tax forms. This is very common among top quintile income households. The lowest quintile households, however, include a lot more single-person households, or two unmarried working adults living together, and sharing expenses, but reporting their incomes to the IRS as if they were two separate households. (3) 75% to 80% of the actual income for bottom quintile households is transfer payments (aka "welfare") that are not included in IRS income data. The top income quintile gets a very small percentage of their actual income from transfer payments.
+(4) The IRS warns against comparisons of pre-1987 and post-1987 income data due to significant changes in the definition of adjusted gross income (AGI) that made top quintile households appear to have large reported income gains, when in fact there was no change to their income at all. In addition to the AGI changes, large marginal tax rate reductions during the Reagan Administration caused another large change in tax reporting. A lot of corporate income formerly reported on corporate tax returns was switched to lower tax rate individual tax returns (as Subchapter S corporations). This reporting change appeared to boost top quintile income, when in fact their incomes had not changed. As a result, the top income quintile for households today includes a lot of corporate income previously reported in corporate tax returns, while Subchapter S corporations who lose money are likely to be included in the bottom income quintile households. Income comparisons that compare pre-1987 to post-1987 income are very common, but they are also biased, according to the IRS, and should be ignored.
+
+
+=== Home ownership and race ===
+
+Home ownership is one of the main sources of wealth among families in the United States.
+
+
+=== Statistics ===
+Family net worth
+
+The total value of all U.S. household wealth in 2000 was approximately $44 trillion. Prior to the Late-2000s recession which began in December 2007 its value was at $65.9 trillion. After, it plunged to $48.5 trillion during the first quarter of 2009. The total household net worth rose 1.3% by the fourth quarter of 2009 to $54.2 trillion, indicating the American economy is recovering.
+
+
+== See also ==
+Economy of the United States
+Household income in the United States
+Poverty in the United States
+Redistribution of wealth#Public opinion
+Wealth inequality in the United States
+
+
+== References ==
+
+
+== External links ==
+"Wealth Gap" - A Guide (AP News – January, 2014).

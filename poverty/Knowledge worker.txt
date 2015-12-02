@@ -1,0 +1,84 @@
+Knowledge workers are workers whose main capital is knowledge. Typical examples may include software engineers, physicians, Pharmacists, architects, engineers, scientists, public accountants, lawyers, and academics, whose job is to "think for a living".
+
+
+== Definition ==
+
+Knowledge work can be differentiated from other forms of work by its emphasis on "non-routine" problem solving that requires a combination of convergent, divergent, and creative thinking. But despite the amount of research and literature on knowledge work there remains to be a succinct definition of the term.
+Mosco and McKercher (2007) outline various viewpoints on the matter. They first point to the most narrow and defined definition of knowledge work, such as Florida’s view of it as specifically, "the direct manipulation of symbols to create an original knowledge product, or to add obvious value to an existing one", which limits the definition of knowledge work to mainly creative work. They then contrast this view of knowledge work with the notably broader view which includes the handling and distribution of information, arguing that workers who play a role in the handling and distribution of information add real value to the field, despite not necessarily contributing a creative element. Thirdly, one might consider a definition of knowledge work which includes, "all workers involved in the chain of producing and distributing knowledge products", which allows for a very broad and inclusive categorization of knowledge workers. It should thus be acknowledged that the term "knowledge worker" can be quite broad in its meaning, and is not always definitive in who it refers to.
+Knowledge workers spend 38% of their time searching for information. They are also often displaced from their bosses, working in various departments and time zones or from remote sites such as home offices and airport lounges.
+
+Knowledge workers are employees who have a deep background in education and experience and are considered people who "think for a living." They include software developers, doctors, lawyers, inventors, teachers, financial analysts and architects. As businesses increase their dependence on information technology, the number of fields in which knowledge workers must operate has expanded dramatically.
+Even though they sometimes are called "gold collars", because of their high salaries, as well as because of their relative independence in controlling the process of their own work, current research shows that they are also more prone to burnout, and very close normative control from organizations they work for, unlike regular workers.
+Managing knowledge workers can be a difficult task. Most knowledge workers prefer some level of autonomy, and do not like being overseen or managed. Those who manage knowledge workers are often knowledge workers themselves, or have been in the past. Projects must be carefully considered before assigning to a knowledge worker, as their interest and goals will affect the quality of the completed project. Knowledge workers must be treated as individuals.
+
+
+== History ==
+The term was first coined by Peter Drucker (1957). He suggested "the most valuable asset of a 21st-century institution, whether business or non-business, will be its knowledge workers and their productivity."
+Paul Alfred Weiss (1960) said that "knowledge grows like organisms, with data serving as food to be assimilated rather than merely stored". Popper (1963) stated there is always an increasing need for knowledge to grow and progress continually, whether tacit (Polanyi, 1976) or explicit.
+Toffler (1990) observed that typical knowledge workers (especially R&D scientists and engineers) in the age of knowledge economy must have some system at their disposal to create, process and enhance their own knowledge. In some cases they would also need to manage the knowledge of their co-workers.
+Nonaka (1991) described knowledge as the fuel for innovation, but was concerned that many managers failed to understand how knowledge could be leveraged. Companies are more like living organisms than machines, he argued, and most viewed knowledge as a static input to the corporate machine. Nonaka advocated a view of knowledge as renewable and changing, and that knowledge workers were the agents for that change. Knowledge-creating companies, he believed, should be focused primarily on the task of innovation.
+This laid the foundation for the new practice of knowledge management, or "KM", which evolved in the 1990s to support knowledge workers with standard tools and processes.
+Savage (1995) describes a knowledge-focus as the third wave of human socio-economic development. The first wave was the Agricultural Age with wealth defined as ownership of land. In the second wave, the Industrial Age, wealth was based on ownership of Capital, i.e. factories. In the Knowledge Age, wealth is based upon the ownership of knowledge and the ability to use that knowledge to create or improve goods and services. Product improvements include cost, durability, suitability, timeliness of delivery, and security. Using data, in the Knowledge Age, 2% of the working population will work on the land, 10% will work in Industry and the rest will be knowledge workers.
+
+
+== Knowledge work in the 21st century ==
+Davenport (2005) says that the rise of knowledge work has actually been foreseen for years. He points to the fact that Fritz Machlup did a lot of the early work on both knowledge as well as knowledge work roles and as early as 1958 stated that the sector was growing much faster than the rest of the economy with knowledge workers making up almost a third of the workforce in the United States. "According to the Organization for Economic Co-operation and Development (1981), by the beginning of the 1970s around 40 percent of the working population in the USA and Canada were classified to the information sector, whereas in most other OECD countries the figures were still considerably lower."
+Tapscott (2006) sees a strong, on-going linkage between knowledge workers and innovation, but the pace and manner of interaction have become more advanced. He describes social media tools on the internet that now drive more powerful forms of collaboration. Knowledge workers engage in ‘’peer-to-peer’’ knowledge sharing across organizational and company boundaries, forming networks of expertise. Some of these are open to the public. While he echoes concern over copyright and intellectual property law being challenged in the marketplace, he feels strongly that businesses must engage in collaboration to survive. He sees on-going alliance of public (government) and private (commercial) teams to solve problems, referencing the open source Linux operating system along with the Human Genome Project as examples where knowledge is being freely exchanged, with commercial value being realized.
+Due to the rapid global expansion of information-based transactions and interactions being conducted via the Internet, there has been an ever-increasing demand for a workforce that is capable of performing these activities. Knowledge Workers are now estimated to outnumber all other workers in North America by at least a four to one margin.
+While knowledge worker roles overlap heavily with professions that require college degrees, the comprehensive nature of knowledge work in today's connected workplace requires virtually all workers to obtain these skills at some level. To that end, the public education and community college systems have become increasingly focused on lifelong learning to ensure students receive skills necessary to be productive knowledge workers in the 21st century.
+Many of the knowledge workers currently entering the workforce are from the generation X demographic. These new knowledge workers value life-long learning over life-long employment. "They seek employability over employment [and] value career over self-reliance" (Elsdon and Iyer, 1999). Where baby boomers are proficient in specified knowledge regarding a specific firm, generation X knowledge workers acquire knowledge from many firms and take that knowledge with them from company to company (2002).
+
+
+== Roles ==
+Knowledge workers bring benefits to organizations in a variety of important ways. These include:
+
+These knowledge worker contributions are in contrast with activities that they would typically not be asked to perform, including:
+transaction processing
+routine tasks
+simple prioritization of work
+There is a set of transitional tasks which include roles that are seemingly routine, but that require deep technology, product, or customer knowledge to fulfill the function. These include:
+providing technical or customer support
+handling unique customer issues
+addressing open-ended inquiries
+Generally, if the knowledge can be retained, knowledge worker contributions will serve to expand the knowledge assets of a company. While it can be difficult to measure, this increases the overall value of its intellectual capital. In cases where the knowledge assets have commercial or monetary value, companies may create patents around their assets, at which point the material becomes restricted intellectual property. In these knowledge-intensive situations, knowledge workers play a direct, vital role in increasing the financial value of a company. They can do this by finding solutions on how they can find new ways to make profits. This can also be related with market and research. Davenport (2005) says that even if knowledge workers are not a majority of all workers, they do have the most influence on their economies. He adds that companies with a high volume of knowledge workers are the most successful and fastest growing in leading economies including the United States.
+Reinhardt et al.'s (2011) review of current literature shows that the roles of knowledge workers across the workforce are incredibly diverse. In two empirical studies they have "proposed a new way of classifying the roles of knowledge workers and the knowledge actions they perform during their daily work." The typology of knowledge worker roles suggested by them are "controller, helper, learner, linker, networker, organizer, retriever, sharer, solver, and tracker":
+
+
+== Additional context and frameworks ==
+Drucker (1999) defines six factors for knowledge worker productivity:
+Knowledge worker productivity demands that we ask the question: "What is the task?"
+It demands that we impose the responsibility for their productivity on the individual knowledge workers themselves. Knowledge workers have to manage themselves.
+Continuing innovation has to be part of the work, the task and the responsibility of knowledge workers.
+Knowledge work requires continuous learning on the part of the knowledge worker, but equally continuous teaching on the part of the knowledge worker.
+Productivity of the knowledge worker is not — at least not primarily — a matter of the quantity of output. Quality is at least as important.
+Finally, knowledge worker productivity requires that the knowledge worker is both seen and treated as an "asset" rather than a "cost." It requires that knowledge workers want to work for the organization in preference to all other opportunities.
+The theory of Human Interaction Management asserts that there are 5 principles characterizing effective knowledge work:
+Build effective teams
+Communicate in a structured way
+Create, share and maintain knowledge
+Align your time with strategic goals
+Negotiate next steps as you work
+Another, more recent breakdown of knowledge work (author unknown) shows activity that ranges from tasks performed by individual knowledge workers to global social networks. This framework spans every class of knowledge work that is being or is likely to be undertaken. There are seven levels or scales of knowledge work, with references for each are cited.
+Knowledge work (e.g., writing, analyzing, advising) is performed by subject-matter specialists in all areas of an organization. Although knowledge work began with the origins of writing and counting, it was first identified as a category of work by Drucker (1973).
+Knowledge functions (e.g., capturing, organizing, and providing access to knowledge) are performed by technical staff, to support knowledge processes projects. Knowledge functions date from c. 450 BC, with the Library of Alexandria, but their modern roots can be linked to the emergence of information management in the 1970s.
+Knowledge processes (preserving, sharing, integration) are performed by professional groups, as part of a knowledge management program. Knowledge processes have evolved in concert with general-purpose technologies, such as the printing press, mail delivery, the telegraph, telephone networks, and the Internet.
+Knowledge management programs link the generation of knowledge (e.g., from science, synthesis, or learning) with its use (e.g., policy analysis, reporting, program management) as well as facilitating organizational learning and adaptation in a knowledge organization. Knowledge management emerged as a discipline in the 1990s (Leonard, 1995).
+Knowledge organizations transfer outputs (content, products, services, and solutions), in the form of knowledge services, to enable external use. The concept of knowledge organizations emerged in the 1990s.
+Knowledge services support other organizational services, yield sector outcomes, and result in benefits for citizens in the context of knowledge markets. Knowledge services emerged as a subject in the 2000s.
+Social media networks enable knowledge organizations to co-produce knowledge outputs by leveraging their internal capacity with massive social networks. Social networking emerged in the 2000s 
+The hierarchy ranges from the effort of individual specialists, through technical activity, professional projects, and management programs, to organizational strategy, knowledge markets, and global-scale networking.
+This framework is useful for positioning the myriad types of knowledge work relative to each other and within the context of organizations, markets, and the global knowledge economy. It also provides a useful context for planning, developing, and implementing knowledge management projects.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==
+
+
+== External links ==
+How to think like a knowledge worker (UNPAN)
+Personal knowledge balance sheets for knowledge workers

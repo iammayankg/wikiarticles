@@ -1,0 +1,79 @@
+The Anti-Terrorism Act 2005 is Australian legislation intended to hamper the activities of any potential terrorists in the country. It was passed by the Commonwealth Parliament on 6 December 2005.
+
+
+== Chronology ==
+The bill was prepared by the Liberal-National Coalition government in the wake of a series of terrorist attacks overseas, in particular London, with the stated intent of preventing such events from happening in Australia.
+Due to the division of powers in Australia's constitution, the bill needed the support of the states. An outline of the bill was given in-principle support by the State Premiers.
+Prior to its reading in federal parliament, a confidential draft of the legislation was published online by ACT Chief Minister Jon Stanhope, who stated "Law of this significance made in this haste can't be good law". The Opposition and minor parties expressed concern that a Senate inquiry would not be given enough time to consider the new laws. Prime Minister John Howard rejected the concern and criticised Stanhope, saying that "the premiers and the other chief minister did not deserve to be hijacked in relation to their ability to participate in consultation." The public exposure saw elements of the bill, including a 'shoot to kill' clause, criticised as excessive. Victorian Premier Steve Bracks noted the 'shoot to kill' clause had not been discussed at the Council of Australian Governments meeting where the draft laws were forged. Community concern arose that Muslims would be unfairly targeted by the new law.
+The Australian government planned for the bill to be introduced, debated and passed on 1 November 2005 (Melbourne Cup race day). The Labor Opposition and the minor parties decried the paucity of time allowed for debate. The Prime Minister agreed to allow more time on the proviso that the bill be passed before Christmas 2005.
+The bill became law on 6 December 2005. Measures for greater protection of free speech and greater scrutiny of the law's application, proposed at different stages by individual government members and Labor, were not accommodated. Labor voted to support the bill. The Greens and Australian Democrat senators voted against.
+
+
+== Constitutional issues ==
+The first three "chapters" of the Australian Constitution separate power between the executive, legislative and judicial arms of government. This "separation of powers" doctrine has been interpreted by the High Court in Lim v Minister for Immigration (1992) 176 CLR 1 as granting an immunity for Australian Citizens from involuntary detention by the Government except as a consequence of a finding of criminal guilt before a court. There are some exceptions, such as the detention of a person following their arrest and before they are brought before a court, or whilst on remand awaiting trial where bail is refused. The Federal Government appears to have interpreted as Constitutional periodic detention for up to 48 hours and co-operated with State governments (which do not have the same entrenched separation of powers doctrine) to allow for detention up to 14 days. The Federal government also introduced "control orders" which allow for a range of restrictions to be placed on an individual (who has not been charged, let alone found guilty of any criminal offence) including subjecting that person to 12 months house arrest.
+Former Queensland Premier Peter Beattie announced that he has received advice that the blurring of boundaries between the executive and judicial powers is likely to be unconstitutional. This assertion was rejected by the then Prime Minister, John Howard: "Lawyers often have different opinions as to what the law means.". Former federal Treasurer Peter Costello has adopted a more cautious attitude, stating that "you never really know" the answer to the vexed question of constitutionality "until such time as the courts decide on these things".(SMH, 27 October 2005) According to spokespeople for the then Prime Minister, his and the Treasurer's views were compatible, but some media outlets, including the Sydney Morning Herald, insinuated otherwise.
+
+
+== Deficiencies in previous laws ==
+Attorney General Philip Ruddock said that the new laws are needed, on advice from the Australian Federal Police that existing laws would not protect Australians from London-style terrorist attacks.
+
+
+== Summary of changes ==
+
+Potential for preventive detention: detention for named individuals. Without evidence and without criminal involvement the detainee may be interrogated by Australian Security Intelligence Organisation (ASIO). Disclosing that an individual has been so detained or interrogated is, in almost all circumstances, a crime.
+Control orders: Potential for restrictions on named individuals including; freedom of movement, freedom of association (including one's lawyer), banning the performing of named actions and owning named items, unlimited requirements to be (or not to be) at specified places at any or all times of the day and week, wear a tracking device, encouragement to submit to re-education. These restrictions are referred to as "control orders", and may be granted for a period of one year before review.
+Significant restrictions on the right of any citizen to express certain opinions, including; criticism, or "urging disaffection", of the sovereign, the constitution, the government, the law, or 'different groups'. Exemptions may exist where the target of criticism is agreed to be 'in error'. Exemptions appear to exist where the claim is that a feature of a group of people is in some way offensive to the mainstream of society. Onus of proof is on the defendant, the presumption is not of innocence.
+To recklessly provide funds to a potential terrorist is a criminal offence. Funds include money and equivalents and also assets. It is not necessary that the culprit know the receiver is a terrorist, only that they are reckless about the possibility. It is not necessary that the receiver be a terrorist, only that the first person is reckless about the possibility that they might be.
+Police can request information from any source about any named person: any information about the person's travel, residence, telephone calls, financial transactions amongst other information; professional privilege does not apply. It can be an offence to disclose that such documents have been obtained.
+A legislative provision for 'hoax offences' created a more serious charge for people who cause chaos for the public and emergency services by dreaming up devastating terrorist-inspired hoaxes.
+
+
+=== The "Shoot to Kill" Clause ===
+The "Shoot to kill" clause instructs police to treat people wanted under detention orders in the same way that an equivalent clause in the current law treats wanted suspects.
+The clause in particular has raised the concern of some state premiers, the so-called "Shoot to kill" clause, where police may use lethal force if they perceive a threat to life. The clause was not put to the premiers in the original discussions between the States and Federal Governments.
+Law Council of Australia president John North, suggested that such powers were designed to protect police in the event of a mistaken fatal shooting such as that of Jean Charles de Menezes.
+John Howard has declared that the whole issue is a "misnomer, a furphy, a diversion," but has suggested that changes to the clause are possible.
+
+
+=== The "Reckless Funding" Clause ===
+As a result of the Anti-Terrorism Act 2005, Division 103 of the Criminal Code makes it an offence to provide funds to a person who may use those funds to facilitate or engage in a terrorist act. These funds must be intentionally made available to another person (e.g., a donation or cash transfer). The definition of funds includes money and assets of any kind but does not include goods or services. The mental element for the crimes created under Division 103 is subjective recklessness. This means that the accused must know that there is a substantial risk of the funds being used for terrorism but still makes those funds available regardless of the risks involved in the matter.
+
+
+== Judicial oversight ==
+The published version of the Anti-Terrorism Bill has attracted the criticism that it does not respect the separation of powers and is thus unconstitutional. Prime Minister John Howard has declared, "Speaking for the Commonwealth, and based on the advice I have received from the Crown law authorities at a Commonwealth level, these laws are quite constitutional." John North, President of the Law Council of Australia, said "The power to make control orders is to be given to federal courts and is clearly non-judicial. Judicial power requires a fair procedure, including notice of the proceedings and disclosure of the basis upon which orders are sought and made. None of this occurs in relation to control orders." Similar concerns were raised by the Queensland and Western Australian Premiers and NSW Premier Morris Iemma.
+
+
+== See also ==
+Australian anti-terrorism legislation, 2004
+Terrorism in Australia#Anti-terrorism Legislation
+Australian sedition law
+USA PATRIOT Act
+List of terrorist organisations outlawed in Australia
+Terrorism Suppression Act 2002 (New Zealand)
+
+
+== References ==
+
+
+== External links ==
+The legislation, proposed and current:
+Draft legislation on the ACT Chief Minister's website
+Current Australian Criminal Code at ComLaw
+the new bill side by side with the old bill
+Popular press response:
+Sydney Morning Herald, 11 October 2005, 'Anti-terrorism bill splits politics'
+The Age Melbourne - Should we be afraid of the terror laws
+ABC TV Media Watch - Seditious opinion? Lock 'em up
+Terrorism laws in place before XMAS
+Security Australia Laws.
+Australia accused of rushing shoot-to-kill terror laws
+Paul Kelly, " More power to the PM"
+Other commentary:
+Former PM Malcolm Fraser, Stephen Murray-Smith Memorial Lecture of 19 October 2005
+NSW Council for Civil Liberties
+Free Speech Australia
+Human rights implications of the Anti-Terrorism Bill 2005 Prof. Andrew Byrnes, Prof. Hilary Charlesworth and Gabrielle McKinnon Australian National University, 18 October 2005
+George Williams, "Responding to Terrorism without a Bill of Rights: The Australian Experience", AsiaRights Journal
+ACT Chief Minister Jon Stanhope, "Rights at Risk: My Dissent from the Australian Anti-Terror Bill", JURIST
+Anti-terrorism Legislation Public Forum - Quaker Peace & Justice Committee: Audio recording of Sydney public forum discussing the bill with speakers including Lance Collins and Warren Reed
+Legislating with urgency — The enactment of the anti-terrorism act (No 1) 2005 Melbourne University Law Review. Detailed review of the legislation, including the process of its enactment.

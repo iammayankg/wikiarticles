@@ -1,0 +1,118 @@
+Rural electrification is the process of bringing electrical power to rural and remote areas. Electricity is used not only for lighting and household purposes, but it also allows for mechanization of many farming operations, such as threshing, milking, and hoisting grain for storage. In areas facing labor shortages, this allows for greater productivity at reduced cost. One famous program was the New Deal's Rural Electrification Administration in the United States, which pioneered many of the schemes still practiced in other countries.
+At least a billion people worldwide still lack household electric power - a population equal to that of the entire world in the early 19th century.
+As of the mid 2010s an estimated 200 to 300 million people in India (20-25 percent of the total population) lack electricity as well as 7 out of 8 rural Sub-Saharan Africans. Many more receive only intermittent and poor quality electric power. In 2012 Some 23% of people in East Java, Indonesia, a core region, also lack electricity, as surveyed in 2013.
+It is estimated that the absolute number of people without power was growing until the late 1980s when rural electrification programs, particularly in East Asia outpaced the growth of population. Up from about 1.84 billion in 1970, approximately 2.01 billion (equal to the world population in 1927) people in developing countries still lacked household electric power in 1990 (the year the World Wide Web was invented)  - about 38 percent of the world's population at that time, 51 percent of the population of so-called developing countries, and 67 percent of rural parts of the developing world.
+The IEA estimates that, if current trends do not change, the number of people without electricity will rise to 1.2 billion by the year 2030. Due to high population growth, the number of people without electricity is expected to rise in Sub-Saharan Africa.
+
+
+== BenefitsEdit ==
+In impoverished and undeveloped areas, small amounts of electricity can free large amounts of human time and labor. In the poorest areas, people carry water and fuel by hand, their food storage may be limited, and their activity is limited to daylight hours.
+Adding electric-powered wells for clean water can prevent many water-borne diseases, e.g. dysentery, by reducing or eliminating direct contact between people (hands) and the water supply. Refrigerators increase the length of time that food can be stored, potentially reducing hunger, while evening lighting can lengthen a community's daylight hours  allowing more time for productivity.
+
+
+== DrawbacksEdit ==
+Depending on the source, rural electrification (and electricity in general) can bring problems as well as solutions. New power plants may be built, or existing plants' generation capacity increased to meet the demands of the new rural electrical users. Among the main issues that have to be considered in rural electrification are the potential conflicts with land use and the impact on the rural environments. With regard to land use, administrators will need to ensure that adequate planning in regards to infrastructure development and land use allocation is put in place. The economic cost attached to providing electricity in rural areas is also of major concern.
+Environmental impact concerns on the effects of generating and distributing electricity in rural areas is also of significance. The environment in rural areas will be affected by the location of power plants. The energy source used in this power generation is the area that may have the most impact. The use of coal-based power is dangerous to the environment as it releases pollutants such as oxides of sulfur, nitric oxide, carbon dioxide among others. The use of hydro power is much cleaner with fewer pollutants released into the atmosphere. However this method is more land intensive and would thus a larger financial commitment to acquire property and to relocate locals who reside in identified zones. A developer may be inclined to use the cheapest generation source, which may be highly polluting, and locate the power plant next to vulnerable minorities or rural areas.
+
+
+== TechnologyEdit ==
+One of the least expensive, most reliable, and best proven electricity distribution systems for rural electrification is single wire earth return. This system is widely used in countries such as Australia with very low population densities. There are some geographical requirements necessary for its use.
+Since modern power distribution networks can cheaply include optic fibres in the centre of electricity transfer wires, telephone and internet service may become available with rural electrification.
+Locally generated renewable energy is an alternative technology, particularly compared to electrification with diesel generators. The extension of wires is expensive and usually do not last long in these environments, such as in the middle of the jungle, therefore mini grids are a good alternative. Mini-grids (central generation and village wide distribution network) can be a more potent alternative to energy home systems since they can provide capacity for the productive use of electricity (small businesses). Hybrid mini-grids (renewables combined with diesel generators) are a widely acknowledged technology for rural electrification in developing countries.In some countries (particularly Bangladesh and India) hundreds of thousands of Solar Home Systems have been installed in recent years. The deployment of these systems is coupled with microfinance schemes, such as Grameen Shakti. Most of these systems provide electricity for lighting and some small appliances (radio, TV).
+
+
+== Continental and national initiativesEdit ==
+
+
+=== AfricaEdit ===
+In 2006, financed under the Energy Facility Program and promoted by the French consulting firm, Innovation Energie Développement (IED), was created the Club of national agencies and structures in charge of rural electrification (Club-ER). More than 17 African countries are now members of this south-south initiative with IED as secretariat. The CLUB-ER has the purpose to accelerate the development of rural electrification in Africa by creating the conditions for a mutually beneficial sharing of experiences between agencies and national structures in charge of rural electrification.
+
+
+==== SenegalEdit ====
+Senegal's electricity sector was reformed in 1998. Since then the country has implemented several electrification initiatives:
+A national Senegalese Rural Electrification Action Plan (Plan d'Action Sénégalais d'Électrification Rurale), designed to increase private sector participation in rural electrification (details below);
+Covenants and an Emergency Programme (Programme d'Urgence d'Électrification Rurale), both led and funded largely by the Government of Senegal;
+Individual projects led by NGOs and private companies.
+The Senegalese Rural Electrification Action Plan was launched in 2002 with the aim of maximising investment from the private sector. It raised an average of 49% private finance over 2002-2012, more than double the 22% global average for energy access projects. However, during the same period it directly increased rural electrification levels by less than 1%. Analysis by Mawhood and Gross (2014) indicates that the Action Plan has faced considerable political and institutional barriers, notably institutional opposition, wavering ministerial support and lengthy stakeholder negotiations, as well as the inherent difficulties of implementing an innovative policy framework. Although the Action Plan has been very successful at attracting private finance, the political/institutional challenges it has faced reflect the experiences of reform-based electrification schemes across Sub-Saharan Africa. This highlights the importance of designing initiatives to fit the local policy environment.
+
+
+=== BrazilEdit ===
+In 1981, 74.9% of Brazilian households were served by electric power, according to the IBGE's PNAD survey. In 2000, the Federal government of Brazil, under the Fernando Henrique Cardoso administration, launched the Luz no Campo program to expand the distribution of electricity in Brazilian domiciles, with a focus on rural households. From 2003 on, the program was reinforced and renamed Luz para Todos by the Lula administration. The results were that, according to the PNAD, by 1996, 79.9% of all households had access to an electric power supply and that proportion rose to 90.8% in 2002 and 98.9% in 2009.
+
+
+=== ChinaEdit ===
+Over 99 percent of Chinese people now have access to power, up from only 50% in 1976 and 90% in 1990. China launched the China Township Electrification Program in 2001 to provide renewable electricity to 1,000 townships, one of the largest of such programs in the world. This was followed by the China Village Electrification Program, also using renewable energy, aimed at the electrification of a further 3.5 million households in 10,000 villages by 2010, to be followed by full rural electrification by 2015.
+
+
+=== IndiaEdit ===
+
+Rural areas in India are electrified non-uniformly, with richer states being able to provide a majority of the villages with power while poorer states still struggling to do so. The Rural Electrification Corporation Limited was formed to specifically address the issue of providing electricity in all the villages across the country.Poverty, lack of resources, lack of political will, poor planning and electricity theft are some of the major causes which has left many villages in India without electricity, while urban areas have enjoyed growth in electricity consumption and capacity. The central government is increasingly trying to improve the dire conditions by investing heavily in bio-gas, solar as well as wind energy.Programs such as The JNN solar mission, Pradhan Mantri Gram Vidyut yojna to fasten the pace of electrification and diversify the procedure.The work is also on-going for reducing wastage, providing better equipments and improving the overall infrastructure for electrical transmissions in villages. Currently, more than 95% of villages in India have been electrified with a further goal of providing complete electrification by 2020. Northern and North-Eastern states in India are lagging behind the national average bringing the numbers down, primarily due to inefficient state governments and lack of economic resources; these states are currently the focus of many NGOs as well as state programs. It is estimated that 1-2 GW of solar power will be required for the 1 lakh un-electrified villages in the country, not to mention the solar power requirements of un-electrified households of electrified villages. A breakdown is provided below on the number of states and UTs (Union Territories) that have been electrified :
+
+
+=== European UnionEdit ===
+In Europe exists the Alliance for Rural Electrification (ARE), an international non-profit organization founded in 2006. ARE promotes the use of renewable energy in developing countries. ARE is partner of the United Nations Global Compact and the only business association of the United Nation Sustainable Energy for All (SE4All) initiative.
+
+
+==== IrelandEdit ====
+During the 1930s most towns in Ireland were connected to the national grid. The outbreak of World War II in Europe lead to shortages of fuel and materials and the electrification process was brought to a virtual halt. In the early 1950s the Rural Electrification scheme gradually brought electric power to the countryside, a process that was completed on the mainland in 1973 (although it wasn't until 2003 that the last of the inhabited offshore islands were fully connected). Currently the Rural Electrification scheme continues, but is primarily concerned with upgrading the quality of the network (voltage fluctuations are still a problem in parts of Ireland - particularly in rural areas) and making three phase supplies available to larger farms and rural businesses requiring it.
+
+
+=== United StatesEdit ===
+In 1892, Guy Beardslee, the original owner of Beardslee Castle, was paid $40,000 to provide hydroelectric power to East Creek in New York.
+Despite widespread electricity in cities, by the 1920s electricity was not delivered by power companies to rural areas because of the general belief that the infrastructure costs would not be recouped. In sparsely-populated farmland, there were far fewer houses per mile of installed electric lines. A Minnesota state committee was organized to carry out a study of the costs and benefits of rural electrification. The University of Minnesota Department of Biosystems and Agricultural Engineering, working jointly with Northern States Power Company (NSP, now Xcel Energy), conducted an experiment, providing electricity to nine farms in the Red Wing area. Electricity was first delivered on December 24, 1923. The "Red Wing Project" was successful- the power company and the University concluded that rural electrification was economically feasible. The results of the report were influential in the National government's decision to support rural electrification.
+Before 1936, a small but growing number of farms installed small wind-electric plants. These generally used a 40V DC generator to charge batteries in the barn or the basement of the farmhouse. This was enough to provide lighting, washing machines and some limited well-pumping or refrigeration. Wind-electric plants were used mostly on the Great Plains, which have usable winds on most days.
+Of the 6.3 million farms in the United States in January 1925, only 205,000 were receiving centralized electric services. The Rural Electrification Administration (REA) was created by executive order as an independent federal bureau in 1935, authorized by the United States Congress in the 1936 Rural Electrification Act, and later in 1939, reorganized as a division of the U.S. Dept. of Agriculture. It was charged with administering loan programs for electrification and telephone service in rural areas. Between 1935 and 1939 – or the first 4½ years after REA's establishment, the number of farms using electric services more than doubled.
+The REA undertook to provide farms with inexpensive electric lighting and power. To implement those goals the administration made long-term, self-liquidating loans to state and local governments, to farmers' cooperatives, and to nonprofit organizations; no loans were made directly to consumers. In 1949 the REA was authorized to make loans for telephone improvements; in 1988, REA was permitted to give interest-free loans for job creation and rural electric systems. By the early 1970s about 98% of all farms in the United States had electric service, a demonstration of REA's success. In 1994 the administration was reorganized into the Rural Utilities Service by the Federal Crop Insurance Reform and Department of Agriculture Reorganization Act of 1994. Also, the Tennessee Valley Authority is an agency involved in rural electrification.
+
+
+=== JamaicaEdit ===
+The Rural Electrification Programme (REP) was incorporated in 1975 with the specific mandate to expand the reach of electricity supply to rural areas, where the provision of such services would not be economically viable for commercial providers of electricity. The REP extends the national grid through the construction of electrical distribution pole lines to un-electrified areas and provides house wiring assistance through a loan programme to householders.
+In June 2012 Energy Minister Phillip Paulwell disclosed that, approximately 16,000 homes in remote parts of the island which do not have electricity are to be supplied with solar or wind electricity through the Rural Electrification Programme (REP). At a USAID-funded Analysis and Investigation for Low Emission (AILEG) project symposium, held at the Jamaica Pegasus Hotel, on Tuesday, July 9, 2013, Energy Minister Phillip Paulwell stated that the REP has also been mandated to complete its target of providing electricity to 100 per cent of rural areas. "Those three per cent that now remain are in areas that are so far from the grid, it is too expensive (to provide), and we are going to be deploying photovoltaic systems in these areas," he explained. In March 2015 he told a newspaper that, by 2017, "we should no longer have REP in the way we do now", adding that if the Government finds it too challenging to run power lines into communities, it will use solar."
+See Also Solar Power in Jamaica
+
+
+== In the artsEdit ==
+
+
+=== MusicalsEdit ===
+In 2005, a musical about the rural electrification of Ireland, The Wiremen, written by composer Shay Healy, directed by Matt Ryan with musical direction by Julian Kelly, and produced by John McColgan/Moya Doherty of Riverdance fame, ran for six weeks at The Gaiety Theatre, Dublin. Set in the fictional village of Kilnacree in North Mayo, the story had the drama of a young local farmer resisting progress, set against the comedy and upheaval occasioned by the arrival of The Wiremen, in this case seven Dubliners, known as The Lightning Jacks.
+
+
+=== FilmsEdit ===
+The movie O Brother, Where Art Thou? contains a reference to rural electrification in the end, when the main character Everett (George Clooney) talks about how life will change with the introduction of a hydroelectric dam.
+The 1937 movie Slim (based on the novel by William Wister Haines) starring Henry Fonda salutes the linemen who wired the remote parts of the United States for electric power during the 1930s and realistically details many of the dangers they faced climbing towers and working on energized high-voltage equipment. The movie is shown occasionally on Turner Classic Movies and is said to have been one of Henry Fonda's favorite roles. The beginning of the film contains a montage tribute to the men who pioneered the electric power industry and contains scenes from REA documentaries describing the electrification of America.
+
+
+== See alsoEdit ==
+
+Distributed generation
+Category:Energy by country
+Indoor air pollution in developing nations
+List of energy storage projects
+Microgeneration
+Off-the-grid
+Power line communications
+Renewable energy in Africa
+Stand-alone power system
+Universal Service Fund
+
+
+== ReferencesEdit ==
+
+
+== External linksEdit ==
+Solar Energy Estimator and Planner for off-grid rural electrification in Africa and Asia
+Interactive Solar Radiation Maps for Rural Electrification
+Alliance for Rural Electrification (non-profit trade organization)
+Sustainable Energy Supply for Developing Countries
+Observatoire Méditerranéen de l'Energie
+
+Lighting Africa, a World Bank Group (WBG) initiative
+Modi Research Group of Columbia University
+Rural electrification and the Millennium Development Goals, Algorithmic approaches to rural electrification
+Electricity planning in Senegal, Electricity costing in Senegal
+Electricity planning in Kenya
+
+Photovoltaics in Rural Electrification
+American Society of Agricultural and Biological Engineers Historic Landmark: The Red Wing Project
+Department of Bioproducts and Biosystems Engineering: The Red Wing Project

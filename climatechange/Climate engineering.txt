@@ -1,0 +1,221 @@
+Climate engineering, also referred to as geoengineering or climate intervention, is the deliberate and large-scale intervention in the Earth’s climatic system with the aim of limiting adverse climate change. Climate engineering is an umbrella term for two types of measures: carbon dioxide removal and solar radiation management. Carbon dioxide removal addresses the cause of climate change by removing one of the greenhouse gases (carbon dioxide) from the atmosphere. Solar radiation management attempts to offset effects of greenhouse gases by causing the Earth to absorb less solar radiation.
+Climate engineering approaches are sometimes viewed as additional potential options for limiting climate change, alongside mitigation and adaptation. There is substantial agreement among scientists that climate engineering cannot substitute for climate change mitigation. Some approaches might be used as accompanying measures to sharp cuts in greenhouse gas emissions. Given that all types of measures for addressing climate change have economic, political or physical limitations  a some climate engineering approaches might eventually be used as part of an ensemble of measures. Research on costs, benefits, and various types of risks of most climate engineering approaches is at an early stage and their understanding needs to improve to judge their adequacy and feasibility.
+No known large-scale climate engineering projects have taken place to date. Almost all research into solar climate engineering has consisted of computer modelling or laboratory tests, and attempts to move to real-world experimentation have proved controversial for many types of climate engineering. Some carbon dioxide removal practices, such as planting of trees and whitening of surfaces as well as bio-energy with carbon capture and storage projects, are underway, their scalability to effectively affect global climate is however debated. Ocean iron fertilization has been given small-scale research trials, sparking substantial controversy.
+Most experts and major reports advise against relying on climate engineering techniques as a simple solution to climate change, in part due to the large uncertainties over effectiveness and side effects. However, most experts also argue that the risks of such interventions must be seen in the context of risks of dangerous climate change. Interventions at large scale may run a greater risk of disrupting natural systems resulting in a dilemma that those approaches that could prove highly (cost-) effective in addressing extreme climate risk, might themselves cause substantial risk. Some have suggested that the concept of climate engineering the climate presents a so-called "moral hazard" because it could reduce political and public pressure for emissions reduction, which could exacerbate overall climate risks; others assert that the threat of climate engineering could spur emissions cuts. Groups such as ETC Group and some climate researchers (such as Raymond Pierrehumbert) are in favour of a moratorium on out-of-doors testing and deployment of SRM.
+
+
+== Background ==
+With respect to climate, geoengineering is defined by the Royal Society as "... the deliberate large-scale intervention in the Earth’s climate system, in order to moderate global warming."
+Several organizations have investigated climate engineering with a view to evaluating its potential, including the US Congress, the National Academy of Sciences, the Royal Society, and the UK Parliament. The Asilomar International Conference on Climate Intervention Technologies was convened to identify and develop risk reduction guidelines for climate intervention experimentation.
+Some environmental organisations (such as Friends of the Earth and Greenpeace) have been reluctant to endorse solar radiation management, but are often more supportive of some carbon dioxide removal projects, such as afforestation and peatland restoration. Some authors have argued that any public support for climate engineering may weaken the fragile political consensus to reduce greenhouse gas emissions.
+
+
+== Proposed strategies ==
+
+Several climate engineering strategies have been proposed. IPCC documents detail several notable proposals. These fall into two main categories: solar radiation management and carbon dioxide removal. However, other proposals exist.
+
+
+=== Solar radiation management ===
+
+Solar radiation management (SRM) techniques would seek to reduce sunlight absorbed (ultra-violet, near infra-red and visible). This would be achieved by deflecting sunlight away from the Earth, or by increasing the reflectivity (albedo) of the atmosphere or the Earth's surface. These methods would not reduce greenhouse gas concentrations in the atmosphere, and thus would not seek to address problems such as the ocean acidification caused by CO2. In general solar radiation management projects would have the advantage of speedy deployment and effect when compared to other climate policies of mitigation or carbon dioxide removal. While greenhouse gas remediation offers a more comprehensive possible solution to climate change, it does not give instantaneous results; for that, solar radiation management is required.
+Solar radiation management methods may include:
+Surface-based (land or ocean albedo modification); e.g. cool roof—using pale-colored roofing materials.
+Troposphere-based, for example marine cloud brightening – using fine sea water spray to whiten clouds and thus increase cloud reflectivity.
+Upper atmosphere-based: creating reflective aerosols, such as stratospheric sulfate aerosols, aluminium oxide particles, even specifically designed self-levitating aerosols.
+Space-based: space sunshade—obstructing solar radiation with space-based mirrors, asteroid dust, etc.
+
+
+=== Carbon dioxide removal ===
+
+Carbon dioxide removal (sometimes known as negative emissions technologies or greenhouse gas removal) projects seek to remove carbon dioxide from the atmosphere. Proposed methods include those that directly remove such gases from the atmosphere, as well as indirect methods that seek to promote natural processes that draw down and sequester CO2 (e.g. tree planting). Many projects overlap with carbon capture and storage projects, and may not be considered to be climate engineering by all commentators. Techniques in this category include:
+Creating biochar, which can be mixed with soil to create terra preta
+Bio-energy with carbon capture and storage to sequester carbon and simultaneously provide energy
+Carbon air capture to remove carbon dioxide from ambient air
+Afforestation, reforestation and forest restoration to absorb carbon dioxide
+Ocean fertilization including iron fertilisation of the oceans
+
+
+== Justification ==
+
+
+=== Tipping points and positive feedback ===
+
+It is argued that climate change may cross tipping points where elements of the climate system may 'tip' from one stable state to another stable state, much like a glass tipping over. When the new state is reached, further warming may be caused by positive feedback effects,. An example of a proposed causal chain leading to runaway global warming is the collapse of Arctic sea ice triggering subsequent release of methane.
+The precise identity of such "tipping points" is not clear, with scientists taking differing views on whether specific systems are capable of "tipping" and the point at which this "tipping" will occur. An example of a previous tipping point is that which preceded the rapid warming leading up to the Paleocene–Eocene Thermal Maximum. Once a tipping point is crossed, cuts in anthropogenic greenhouse gas emissions will not be able to reverse the change. Conservation of resources and reduction of greenhouse emissions, used in conjunction with climate engineering, are therefore considered a viable option by some commentators. climate engineering offers the hope of temporarily reversing some aspects of climate change and allowing the natural climate to be substantially preserved whilst greenhouse gas emissions are brought under control and removed from the atmosphere by natural or artificial processes.
+
+
+=== Costs ===
+Some climate engineering techniques, such as cool roof techniques, can be achieved at little or no cost, and may even offer a financial payback. IPCC (2007) concluded that reliable cost estimates for climate engineering options had not been published. More recently, early research into costs of solar radiation management have been published. This suggests that "well designed systems" might be available for costs in the order of a few hundred million dollars per year. These are much lower than costs to achieve comprehensive reductions in CO2 emissions. Such costs would be within the budget of most nations, and even a handful of rich individuals.
+In their 2009 report Geoengineering the Climate the Royal Society adjudged afforestation and stratospheric aerosols as the methods with the "highest affordability" (meaning lowest costs). Furthermore, stratospheric aerosol injection, having the highest effectiveness and affordability, would be the nearest approximation to the "ideal method", with the (significant) disadvantage of high uncertainties considering safety and unwanted side effects. While afforestation scored highly for safety, it was found to be of limited effectiveness for treating climate change (see Table 5.1, Figure 5.1., pages 48–49)
+
+
+=== Ethics and responsibility ===
+Climate engineering would represent a large-scale, intentional effort to modify the climate. It would differ from activities such as burning fossil fuels, as they change the climate inadvertently. Intentional climate change is often viewed differently from a moral standpoint. It raises questions of whether humans have the right to change the climate deliberately, and under what conditions. Furthermore, ethical arguments often confront larger considerations of worldview, including individual and social religious commitments. This arguably means discussions of climate engineering should reflect on how religious commitments influence the debate. For many people, religious beliefs are pivotal in defining the role of human beings in the wider world. Some religious communities might claim that humans have no responsibility in managing the climate, instead seeing such world systems as the exclusive domain of a Creator. In contrast, other religious communities might see the human role as one of "stewardship" or benevolent management of the world. The question of ethics also relates to issues of policy decision-making. For example, the selection of a globally agreed target temperature is a significant problem in any climate engineering governance regime, as different countries or interest groups may seek different global temperatures.
+What most ethicists, policy-makers, and scientists agree on is this: Solar radiation management is an incomplete solution to global warming. The possible option of climate engineering may reduce incentives to reduce emissions of greenhouse gases. It is argued that climate engineering could be used to 'buy time' before drastic climate change happens, allowing mitigation and adaptation measures more time to be implemented and work. But the opposition points out that the resources spent on climate engineering could be used for mitigation and efforts to reduce emissions of greenhouse gases. Climate engineering also does not resolve other issues related to increasing levels of carbon dioxide.
+
+
+=== Politics and Governance ===
+It has been argued that regardless of the economic, scientific and technical aspects, the difficulty of achieving concerted political action on climate change requires other approaches. Those arguing political expediency say the difficulty of achieving meaningful emissions cuts and the effective failure of the Kyoto Protocol demonstrate the practical difficulties of achieving carbon dioxide emissions reduction by the agreement of the international community. However, others point to support for climate engineering proposals among think tanks with a history of climate change skepticism and opposition to emissions reductions as evidence that the prospect of climate engineering is itself already politicized and being promoted as part of an argument against the need for (and viability of) emissions reductions; that, rather than climate engineering being a solution to the difficulties of emissions reductions, the prospect of climate engineering is being used as part of an argument to stall emissions reductions in the first place.
+Climate engineering poses several challenges in the context of governance because of issues of power and jurisdiction. Climate engineering as a climate change solution differs from other mitigation and adaptation strategies. Unlike a carbon trading system that would be focused on participation from multiple parties along with transparency, monitoring measures and compliance procedures; this is not necessarily required by climate engineering. Bengtsson (2006) argues that "the artificial release of sulphate aerosols is a commitment of at least several hundred years". This highlights the importance for a political framework that is sustainable enough to contain a multilateral commitment over such a long period and yet is flexible as the techniques innovate through time. There are many controversies surrounding this topic and hence, climate engineering has been made into a very political issue. Most discussions and debates are not about which climate engineering technique is better than the other, or which one is more economically and socially feasible. Discussions are broadly on who will have control over the deployment of climate engineering and under what governance regime the deployment can be monitored and supervised. This is especially important due to the regional variability of the effects of many climate engineering techniques, benefiting some countries while damaging others. The challenge posed by climate engineering is not how to get countries to do it. It is to address the fundamental question of who should decide whether and how climate engineering should be attempted – a problem of governance.
+
+
+== Risks and criticisms ==
+
+Various criticisms have been made of climate engineering, particularly solar radiation management (SRM) methods. Decision making suffers from intransitivity of policy choice. Some commentators appear fundamentally opposed. Groups such as ETC Group and individuals such as Raymond Pierrehumbert have called for a moratorium on climate engineering techniques.
+
+
+=== Ineffectiveness ===
+The effectiveness of the techniques proposed may fall short of predictions. In ocean iron fertilization, for example, the amount of carbon dioxide removed from the atmosphere may be much lower than predicted, as carbon taken up by plankton may be released back into the atmosphere from dead plankton, rather than being carried to the bottom of the sea and sequestered.
+
+
+=== Incomplete solution to CO2 emissions ===
+Techniques that do not remove greenhouse gases from the atmosphere may control global warming, but do not reduce other effects from these gases, such as ocean acidification. While not an argument against climate engineering per se, this is an argument against reliance on climate engineering to the exclusion of greenhouse gas reduction.
+
+
+=== Control and predictability problems ===
+The full effects of various climate engineering schemes are not well understood. Matthews et al. compared climate engineering to a number of previous environmental interventions and concluded that "Given our current level of understanding of the climate system, it is likely that the result of at least some climate engineering efforts would follow previous ecological examples where increased human intervention has led to an overall increase in negative environmental consequences."
+It may be difficult to predict the effectiveness of projects, with models of techniques giving widely varying results. In the instances of systems which involve tipping points, this may result in irreversible effects. Climate modelling is far from an exact science even when applied to comparatively well-understood natural climate systems, and it is made more complex by the need to understand novel and unnatural processes which by definition lack relevant observation data.
+
+
+=== Side effects ===
+The techniques themselves may cause significant unintended consequences or unforeseen harm.
+Ozone depletion is a risk of techniques involving sulfur delivery into the stratosphere.
+The active nature of climate engineering may in some cases create a clear division between winners and losers. Most of the proposed interventions are regional, such as albedo modification in the Arctic.
+There may be unintended climatic consequences, such as changes to the hydrological cycle including droughts or floods, caused by the climate engineering techniques, but possibly not predicted by the models used to plan them. Such effects may be cumulative or chaotic in nature, making prediction and control very difficult.
+Not all side effects are negative, and an increase in agricultural productivity has been predicted by some studies.
+
+
+=== Unreliable systems ===
+The performance of the interventions may be inconsistent due to mechanical failure, non-availability of consumables or funding problems.
+The climate engineering techniques would, in many instances, be vulnerable to being switched off or deliberately destroyed. As examples, cloud making ships could be switched off or sunk and space mirrors could be tilted to make them useless. Anyone capable of exerting such power may seek to abuse it for commercial gain, military advantage or simple terrorism.
+
+
+=== Termination shock ===
+If solar radiation management were masking a significant amount of warming and then were to abruptly stop, the climate would rapidly warm. This would cause a sudden rise in global temperatures towards levels which would have existed without the use of the climate engineering technique. The rapid rise in temperature may lead to more severe consequences than a gradual rise of the same magnitude.
+
+
+=== Weaponisation ===
+In 1976, 85 countries signed the U.N. Convention on the Prohibition of Military or Any Other Hostile Use of Environmental Modification Techniques. The Environmental Modification Convention generally prohibits weaponising climate engineering techniques. However, this does not eliminate the risk. If perfected to a degree of controllability and accuracy that is not considered possible at the moment, climate engineering techniques could theoretically be used by militaries to cause droughts or famines. Theoretically they could also be used simply to make battlefield conditions more favourable to one side or the other in a war.
+Carnegie's Ken Caldeira said, "It will make it harder to achieve broad consensus on developing and governing these technologies if there is suspicion that gaining military advantage is an underlying motivation for its development..."
+
+
+=== Effect on sunlight, sky and clouds ===
+Managing solar radiation using aerosols or cloud cover would involve changing the ratio between direct and indirect solar radiation. This would affect plant life and solar energy. It is believed that there would be a significant effect on the appearance of the sky from stratospheric aerosol injection projects, notably a hazing of blue skies and a change in the appearance of sunsets. Aerosols are affecting the formation of clouds, especially cirrus clouds.
+
+
+=== Moral hazard or risk compensation ===
+The existence of such techniques may reduce the political and social impetus to reduce carbon emissions. This has generally been called a potential moral hazard, although risk compensation may be a more accurate term. This concern causes many environmental groups and campaigners to be reluctant to advocate or discuss climate engineering for fear of reducing the imperative to cut greenhouse gas emissions. However, several public opinion surveys and focus groups have found evidence of either assertions of a desire to increase emission cuts in the face of climate engineering, or of no effect. Other modelling work suggests that the threat of climate engineering may in fact increase the likelihood of emissions reduction.
+
+
+== Governance ==
+Climate engineering opens up various political and economic issues. David Keith argues that the cost of climate engineering the Earth is within the realm of small countries, large corporations, or even very wealthy individuals. Steve Rayner agrees that not all climate engineering possibilities are expensive, and that some, such as ocean iron fertilisation, are within the reach of very wealthy individuals. David Victor suggests that climate engineering is within the reach of a lone "Greenfinger," an individual who has a small fraction of the bank account of Bill Gates and who takes it upon him or her self to be the "self-appointed protector of the planet". However, it has been argued that a rogue state threatening climate engineering may strengthen action on mitigation.
+This may seem to eliminates any control over who gets to decide when to cool the Earth and how this should be done. The resulting power would be enormous, and could not necessarily be readily controlled by legal, political or regulatory systems. The legal and regulatory systems may face a significant challenge in effectively regulating the use of these technologies in a manner that allows for an acceptable result for society. There are however significant incentives for states to cooperate in choosing a specific climate engineering policy, which make unilateral deployment a rather unlikely event.
+A small number of carbon offsetting firms have in the past attempted to set up unregulated and unsupervised climate engineering projects. In the long-run such firms may aim to sell carbon credits to individuals, firms or countries.
+Climate engineering has the potential to cause significant environmental damage, and could even end up releasing further greenhouse gases into the atmosphere. Opposition to some early schemes has been intense, with respected environmental groups campaigning against them. Some researchers have suggested that building a global agreement on climate engineering deployment will be very difficult, and instead power blocs are likely to emerge.
+There is presently a lack of a universally agreed framework for the regulation of either climate engineering activity or research. The London Convention addresses some aspects of the law in relation to biomass ocean storage and ocean fertilization. Scientists at the Oxford Martin School at Oxford University have proposed a set of voluntary principles, which may guide climate engineering research. The short version of the 'Oxford Principles' is:
+Principle 1: Geoengineering to be regulated as a public good.
+Principle 2: Public participation in geoengineering decision-making
+Principle 3: Disclosure of geoengineering research and open publication of results
+Principle 4: Independent assessment of impacts
+Principle 5: Governance before deployment
+These principles have been endorsed by the House of Commons of the United Kingdom Science and Technology Select Committee on “The Regulation of Geoengineering”, and have been referred to by authors discussing the issue of governance.
+The Asilomar conference was replicated to deal with the issue of climate engineering governance, and covered in a TV documentary, broadcast in Canada.
+
+
+== Implementation issues ==
+There is general consensus that no climate engineering technique is currently sufficiently safe or effective to solve the problem of climate change, for the reasons listed above. Some environmentalists see some of the calls for climate engineering to be researched as part of an explicit strategy to delay emissions reductions on the part of those with connections to coal and oil industries.
+All proposed climate engineering techniques require implementation on a relatively large scale, in order to make a significant difference to the Earth's climate. The least costly schemes are budgeted at a cost of billions, with many more complex schemes such as space sunshade costing far more.
+Many techniques, again such as space sunshade, would require a complex technical development process before they are ready to be implemented. There is no clear institutional mechanism for handling this research and development process. As a result, many promising techniques do not have the engineering development or experimental evidence to determine their feasibility or efficacy at present.
+Once a technique has been developed and tested, its implementation may still be difficult. Climate change is by nature a global problem, and therefore no one institution, company or government is responsible for it. Who was to bear the substantial costs of some climate engineering techniques (especially CDR methods) therefore would be hard to agree. Roll-out of such technologies is therefore likely to be delayed until these issues can be resolved.
+Due to the potentially uneven changes caused by climate engineering interventions, legal issues may also be an impediment to implementation. The changes resulting from some climate engineering techniques (particularly SRM methods) may benefit some people and disadvantage others (although modelling studies have indicated that the effects would be much less unequal than the effects of climate change that the climate engineering would be masking). There may therefore be legal challenges to the implementation of climate engineering techniques by those who perceive that they are adversely affected by them.
+
+
+== Evaluation of climate engineering ==
+Most of what is known about the suggested techniques is based on laboratory experiments, observations of natural phenomena and on computer modelling techniques. Some climate engineering schemes employ methods that have analogues in natural phenomena such as stratospheric sulfur aerosols and cloud condensation nuclei. As such, studies about the efficacy of these schemes can draw on information already available from other research, such as that following the 1991 eruption of Mount Pinatubo. However, comparative evaluation of the relative merits of each technology is complicated, especially given modelling uncertainties and the early stage of engineering development of many climate engineering schemes.
+Reports into climate engineering have also been published in the United Kingdom by the Institution of Mechanical Engineers and the Royal Society. The IMechE report examined a small subset of proposed schemes (air capture, urban albedo and algal-based CO2 capture schemes), and its main conclusions were that climate engineering should be researched and trialled at the small scale alongside a wider decarbonisation of the economy.
+The Royal Society review examined a wide range of climate engineering schemes and evaluated them in terms of effectiveness, affordability, timeliness and safety (assigning qualitative estimates in each assessment). The report divided schemes into "carbon dioxide removal" (CDR) and "solar radiation management" (SRM) approaches that respectively address longwave and shortwave radiation. The key recommendations of the report were that "Parties to the UNFCCC should make increased efforts towards mitigating and adapting to climate change, and in particular to agreeing to global emissions reductions", and that "[nothing] now known about climate engineering options gives any reason to diminish these efforts". Nonetheless, the report also recommended that "research and development of climate engineering options should be undertaken to investigate whether low risk methods can be made available if it becomes necessary to reduce the rate of warming this century".
+In a 2009 review study, Lenton and Vaughan evaluated a range of climate engineering schemes from those that sequester CO2 from the atmosphere and decrease longwave radiation trapping, to those that decrease the Earth's receipt of shortwave radiation. In order to permit a comparison of disparate techniques, they used a common evaluation for each scheme based on its effect on net radiative forcing. As such, the review examined the scientific plausibility of schemes rather than the practical considerations such as engineering feasibility or economic cost. Lenton and Vaughan found that "[air] capture and storage shows the greatest potential, combined with afforestation, reforestation and bio-char production", and noted that "other suggestions that have received considerable media attention, in particular "ocean pipes" appear to be ineffective". They concluded that "[climate] geoengineering is best considered as a potential complement to the mitigation of CO2 emissions, rather than as an alternative to it".
+In October 2011, a Bipartisan Policy Center panel issued a report urging immediate researching and testing in case "the climate system reaches a 'tipping point' and swift remedial action is required".
+
+
+=== National Academy of Sciences ===
+The National Academy of Sciences conducted a 21-month project to study the potential impacts, benefits, and costs of two different types of geoengineering: carbon dioxide removal and albedo modification (solar radiation management). The differences between these two classes of geoengineering "led the committee to evaluate the two types of approaches separately in companion reports, a distinction it hopes carries over to future scientific and policy discussions."
+According to the two-volume study released in February 2015:
+
+"Climate intervention is no substitute for reductions in carbon dioxide emissions and adaptation efforts aimed at reducing the negative consequences of climate change. However, as our planet enters a period of changing climate never before experienced in recorded human history, interest is growing in the potential for deliberate intervention in the climate system to counter climate change. ...Carbon dioxide removal strategies address a key driver of climate change, but research is needed to fully assess if any of these technologies could be appropriate for large-scale deployment. Albedo modification strategies could rapidly cool the planet’s surface but pose environmental and other risks that are not well understood and therefore should not be deployed at climate-altering scales; more research is needed to determine if albedo modification approaches could be viable in the future."
+
+The project was sponsored by the National Academy of Sciences, U.S. Intelligence Community, National Oceanic and Atmospheric Administration, NASA, and U.S. Department of Energy.
+
+
+=== Intergovernmental Panel on Climate Change ===
+The Intergovernmental Panel on Climate Change (IPCC) has assessed the scientific literature on climate engineering (referred to as "geoengineering" in its reports). The IPCC's Fourth Assessment Report was published in 2007. It states:
+
+Geo-engineering options, such as ocean fertilization to remove CO2 directly from the atmosphere, or blocking sunlight by bringing material into the upper atmosphere, remain largely speculative and unproven, and with the risk of unknown side-effects. Reliable cost estimates for these options have not been published
+
+Working Group I's contribution to the IPCC's Fifth Assessment Report was published in 2013. It states:
+
+Models suggest that if SRM methods were realizable they would be effective in countering increasing temperatures, and would be less, but still, effective in countering some other climate changes. SRM would not counter all effects of climate change, and all proposed geoengineering methods also carry risks and side effects. Additional consequences cannot yet be anticipated as the level of scientific understanding about both SRM and CDR is low. There are also many (political, ethical, and practical) issues involving geoengineering that are beyond the scope of this report.
+
+
+== See also ==
+
+
+== References ==
+
+IPCC AR5 WG1 (2013), Stocker, T.F.,; et al., eds., Climate Change 2013: The Physical Science Basis. Working Group 1 (WG1) Contribution to the Intergovernmental Panel on Climate Change (IPCC) 5th Assessment Report (AR5), Cambridge University Press . Climate Change 2013 Working Group 1 website.
+
+
+== Further reading ==
+Macnaghten, Phil; Owen, Richard (November 2011). "Environmental Science: Good Governance for Geoengineering". Nature 479 (7373): 293. Bibcode:2011Natur.479..293M. doi:10.1038/479293a. PMID 22094673.  – Abstract only (subscription required)
+Royal Society (September 2009). Geoengineering the Climate: Science, Governance and Uncertainty (PDF) (Report) (RS Policy document 10/09). p. 1. ISBN 978-0-85403-773-5. Retrieved 2011-12-01. 
+GAO (July 2011). Climate Engineering: Technical Status, Future Directions, and Potential Responses (PDF) (Report) (GAO-11-71). Center for Science, Technology, and Engineering. Retrieved 2011-12-01. 
+Launder, Brian; Thompson, J. Michael T., eds. (December 2009). Geo-Engineering Climate Change: Environmental Necessity or Pandora's Box?. Cambridge University Press. ISBN 978-0-521-19803-5. 
+Eli Kintisch (2010). Hack the Planet: Science's Best Hope, or Worst Nightmare, for Averting Climate Catastrophe. ISBN 978-0-470-52426-8. 
+Jeff Goodell (2010). How to Cool the Planet: Geoengineering and the Audacious Quest to Fix Earth's Climate. ISBN 978-0-618-99061-0. 
+Morton, Oliver (May 10, 2007). "Climate change: Is this what it takes to save the world?". Nature 447 (7141): 132–136. Bibcode:2007Natur.447..132M. doi:10.1038/447132a. PMID 17495899.  – Abstract only (subscription required)
+James Rodger Fleming (September 15, 2010). Fixing the Sky: The Checkered History of Weather and Climate Control. Columbia University Press. ISBN 978-0-231-14412-4. 
+Granger Morgan, Katharine Ricke (2010). An Opinion Piece for IRGC. Cooling the Earth Through Solar Radiation Management: The need for research and an approach to its governance. ISBN 978-2-9700672-8-3
+If Cutting Carbon Emissions Isn't Working, What's Next? March 2012 "Suck It Up" book review
+
+
+== External links ==
+
+
+=== Studies ===
+Royal Society "Geoengineering the Climate: Science, Governance and Uncertainty." Report. ISBN 978-0-85403-773-5. September, 2009
+Climate Engineering Kiel Earth Institute and Marsilius Kolleg of Heidelberg University, since Sept 2011
+Engineering the Climate : Research Needs and Strategies for International Coordination October 2010 report from the U.S. House of Representatives
+Cost evaluation study of 6 climate engineering schemes
+
+
+=== Articles (newspapers and magazines) ===
+Geoengineering may be our best chance to save what sea ice is left by Peter Wadhams Scientific American December 15, 2012
+Geo-engineering - A Tool in the Fight to Tackle Climate Change, or a Dangerous Distraction? by Jon Taylor, Climate Change Programme Manager at WWF-UK, September 11, 2012 Huffington Post
+Field test stashes climate-warming carbon in deep ocean; Strategically dumping metal puts greenhouse gas away, possibly for good July 18, 2012 Science News
+Geoengineering: An Interim strategy to curb global warming? - An interview with John Latham
+What the UN ban on geoengineering really means November 1, 2010 by Fred Pearce of New Scientist
+Geoengineering sparks international ban, first-ever congressional report Juliet Eilperin Washington Post October 30, 2010
+Threat of global warming sparks U.S. interest in geoengineering by Juliet Eilperin of the Washington Post October 3, 2010
+The powerful coalition that wants to engineer the world's climate: Businessmen, scientists and right-wing thinktanks are joining forces to promote 'geo-engineering' ideas to cool the planet's climate Clive Hamilton The Guardian, September 13, 2010
+Bill Gates' cloud-whitening trials 'a dangerous experiment', The Guardian, May 14, 2010 regarding Bill Gates
+We need birth control, not geoengineering, The Guardian, April 6, 2010
+"The Geoengineering Gambit", Technology Review, Jan. 2010
+Re-Engineering the Earth July 2009 The Atlantic
+Geo-engineering in the Southern Ocean, by John Paull, Australian National University, 2009
+10 Ideas That Are Changing The World: 6.Geoengineering Time (magazine), March 2008
+Geoengineering Retrospective Overview of articles on geoengineering by Julia Levitt, Worldchanging, August 2008
+"Futuristic fleet of 'cloudseeders'" John Latham BBC News. Feb. 15, 2007
+Geo-engineering website, describing current methods/proposals done to revert climate change by geo-engineering, by Sam Carana
+Climate Engineering Is Doable, as Long as We Never Stop Wired (magazine), July 2007
+Geoengineering links, GeoCrisis annotated list, 2006?
+Terraforming Earth IV: The Question of Methane August 11, 2005 Jamais Cascio
+Geoengineering: 'A Bad Idea Whose Time Has Come' discussion on NPR
+"Geoengineering: A Climate Change Manhattan Project" by Jay Michaelson, Stanford Environmental Law Journal, 1998
+
+
+=== Videos (documentaries, interviews, video reports) ===
+A Debate on Geoengineering: Vandana Shiva vs. Gwynne Dyer – video report by Democracy Now!
+5 ways to save the earth, BBC documentary about geo-engineering, 20 February 2007
+Wonderfest 2010: Dare We Try to Engineer Earth's Climate?, Speakers: Julio Friedmann, Jane C.S. Long, Location: Stanley Hall, Berkeley (CA), 11 July 2010
+Project Earth (TV series) on climate engineering
+Can we Trust Technological Fixes, Including Climate Engineering, When the Driving Force is Financial Profit?, Chris Williams, The Real News

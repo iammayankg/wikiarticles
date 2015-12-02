@@ -1,0 +1,65 @@
+Manslaughter is a legal term for the killing of a human being, in a manner considered by law as less culpable than murder. The distinction between murder and manslaughter is sometimes said to have first been made by the Ancient Athenian lawmaker Draco in the 7th century B.C.
+The definition of manslaughter differs from place of jurisdiction. The law generally differentiates between levels of criminal culpability based on the mens rea, or state of mind, or the circumstances under which the killing occurred (mitigating factors). Manslaughter is usually broken down into two distinct categories: voluntary manslaughter and involuntary manslaughter; however, this is not the case in all jurisdictions.
+In some jurisdictions, such as the UK, Canada, and some Australian states, "adequate provocation" is a partial defense to a charge of murder, which, if accepted by the jury, would convert what would otherwise have been murder into manslaughter. In Australia, specifically New South Wales, manslaughter is a common law offence as it is not defined in the Crimes Act 1900 (NSW) under section 18(1)(b), but in the case of Wilson v R and Cittadini v R.
+
+
+== GeneralEdit ==
+
+
+=== Voluntary manslaughterEdit ===
+
+Voluntary manslaughter occurs either when the defendant kills with malice aforethought (intention to kill or cause serious harm), but there are mitigating circumstances that reduce culpability, or when the defendant kills only with an intent to cause serious bodily harm. Voluntary manslaughter in some jurisdictions is a lesser included offense of murder. The traditional mitigating factor was provocation; however, others have been added in various jurisdictions. The most common type of voluntary manslaughter occurs when a defendant is provoked to commit the homicide. It is sometimes described as a heat-of-passion killing. In most cases, the provocation must induce rage or anger in the defendant, although some cases have held that fright, terror, or desperation will suffice.
+
+
+=== Involuntary manslaughterEdit ===
+Involuntary manslaughter is the unlawful killing of a human being without malice aforethought, either expressed or implied. It is distinguished from voluntary manslaughter by the absence of intention. It is normally divided into two categories; constructive manslaughter and criminally negligent manslaughter, both of which involve criminal liability.
+
+
+==== Constructive manslaughterEdit ====
+Constructive manslaughter is also referred to as ‘unlawful act’ manslaughter. It is based on the doctrine of constructive malice, whereby the malicious intent inherent in the commission of a crime is considered to apply to the consequences of that crime. It occurs when someone kills, without intent, in the course of committing an unlawful act. The malice involved in the crime is transferred to the killing, resulting in a charge of manslaughter.
+For example, a person who runs a red light driving a vehicle and hits someone crossing the street could be found to intend or be reckless as to assault or criminal damage (see DPP v Newbury). There is no intent to kill, and a resulting death would not be considered murder, but would be considered involuntary manslaughter. The accused's responsibility for causing death is constructed from the fault in committing what might have been a minor criminal act. Reckless drinking or reckless handling of a potentially lethal weapon may result in a death that is deemed manslaughter.
+Involuntary manslaughter may be distinguished from accidental death. A person who is driving carefully, but whose car nevertheless hits a child darting out into the street, has not committed manslaughter. A person who pushes off an aggressive drunk, who then falls and dies, has probably not committed manslaughter, although in some jurisdictions it may depend whether "excessive force" was used or other factors.
+It is also possible to be held civilly liable for a death (and pay damages) without being criminally liable (and going to prison), e.g. O.J. Simpson.
+As manslaughter is not defined by legislation in Australia, common law decisions provide the basis for determining whether an act resulting in death amounts to manslaughter by unlawful and dangerous act. To be found guilty of manslaughter by an unlawful and dangerous act, the accused must be shown to have committed an unlawful act which is contrary to the criminal law and that a reasonable person in the position of the accused would have known that by his or her act, he or she was exposing the victim to an ‘appreciable risk of serious injury’.
+
+
+==== Criminally negligent manslaughterEdit ====
+Criminally negligent manslaughter is variously referred to as criminally negligent homicide in the United States, and gross negligence manslaughter in England and Wales. In Scotland and some Commonwealth of Nations jurisdictions the offence of culpable homicide might apply.
+It occurs where death results from serious negligence, or, in some jurisdictions, serious recklessness. A high degree of negligence is required to warrant criminal liability. A related concept is that of willful blindness, which is where a defendant intentionally puts himself or herself in a position where the defendant will be unaware of facts which would render him or her liable.
+Criminally negligent manslaughter occurs where there is an omission to act when there is a duty to do so, or a failure to perform a duty owed, which leads to a death. The existence of the duty is essential because the law does not impose criminal liability for a failure to act unless a specific duty is owed to the victim. It is most common in the case of professionals who are grossly negligent in the course of their employment. An example is where a doctor fails to notice a patient's oxygen supply has disconnected and the patient dies (R v Adomako). Another example could be leaving a child locked in a car on a hot day.
+
+
+==== Vehicular or intoxication manslaughterEdit ====
+In some jurisdictions, such as the United States, there exists the specific crime of Vehicular or intoxication manslaughter. An equivalent in Canada is causing death by criminal negligence under the Criminal Code, punishable by a maximum penalty of life imprisonment.
+
+
+==== Assisted suicideEdit ====
+In some places, such as most of the United States, assisted suicide is punishable as manslaughter.
+
+
+== United States lawEdit ==
+
+Manslaughter is a crime in the United States.
+
+
+== English lawEdit ==
+
+In English law, manslaughter is a less serious offence than murder. In England and Wales, the usual practice is to prefer a charge of murder, with the judge or defence able to introduce manslaughter as an option (see lesser included offence). The jury then decides whether the defendant is guilty or not guilty of either murder or manslaughter. Manslaughter may be either voluntary or involuntary, depending on whether the accused has the required mens rea for murder.
+The Homicide Act 1957 and Coroners and Justice Act 2009 are relevant acts.
+Voluntary manslaughter occurs when the defendant kills with malice aforethought (an intention to kill or cause grievous bodily harm), but one of the partial defences which reduce murder to manslaughter applies. The partial defences are: diminished responsibility; loss of control; and suicide pacts.
+Involuntary manslaughter arises where the accused did not intend to cause death or serious injury, but caused the death of another through recklessness or criminal negligence.
+
+
+== See alsoEdit ==
+Culpable homicide
+Criminal transmission of HIV
+Depraved heart murder
+Imperfect self-defense
+Manslaughter in English law
+Twinkie defense
+
+
+== ReferencesEdit ==
+
+
+== External linksEdit ==

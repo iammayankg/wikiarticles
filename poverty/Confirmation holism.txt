@@ -1,0 +1,28 @@
+In the epistemology of science, confirmation holism, also called epistemological holism, is the view that no individual statement can be confirmed or disconfirmed by an empirical test, but only a set of statements (a whole theory).
+It is attributed to Willard van Orman Quine who motivated his holism through extending Pierre Duhem's problem of underdetermination in physical theory to all knowledge claims. Duhem's idea was, roughly, that no theory of any type can be tested in isolation but only when embedded in a background of other hypotheses, e.g. hypotheses about initial conditions. Quine thought that this background involved not only such hypotheses but also our whole web-of-belief, which, among other things, includes our mathematical and logical theories and our scientific theories. This last claim is sometimes known as the Duhem–Quine thesis. A related claim made by Quine, though contested by some (see Adolf Grünbaum 1962), is that one can always protect one's theory against refutation by attributing failure to some other part of our web-of-belief. In his own words, "Any statement can be held true come what may, if we make drastic enough adjustments elsewhere in the system.".
+
+
+== Underdetermination in physical theory ==
+By 1845 astronomers found that the orbit of planet Uranus around the Sun departed from expectations. Not concluding that Newton's law of universal gravitation was flawed, however, astronomers John Couch Adams as well as Urbain Le Verrier independently predicted a new planet, eventually known as Neptune, and even calculated its weight and orbit through Newton's theory. And yet neither did this empirical success of Newton's theory verify Newton's theory.
+Le Verrier soon reported that Mercury's perihelion—the peak of its orbital ellipse nearest to the Sun—advanced each time Mercury completed an orbit, a phenomenon not predicted by Newton's theory, which astrophysicists were so confident in that they predicted a new planet, named Vulcan, which a number of astronomers subsequently claimed to have seen. In 1905, however, Einstein's special theory of relativity claimed that space and time are both relative, refuting the very framework of Newton's theory that claimed that space and time were both absolute.
+In 1915, Einstein's general theory of relativity newly explained gravitation while precisely predicting Mercury's orbit. In 1919, astrophysicist Arthur Eddington led an expedition to test Einstein's prediction of the Sun's mass reshaping spacetime in its vicinity. The Royal Society announced confirmation—accepted by physicists as the fall of Newton's theory. Yet few theoretical physicists believe general relativity is a fundamentally accurate description of gravitation, and instead seek a theory of quantum gravity.
+
+
+== Total vs. partial holism ==
+Some scholars, like W.v.O. Quine, argue that if a prediction that a theory makes comes out true, then the corresponding piece of evidence confirms the whole theory and even the whole framework within which that theory is embedded. Some have questioned this radical or total form of confirmational holism. If total holism were true, they argue, that would lead to absurd consequences like the confirmation of arbitrary conjunctions. For example, if the general theory of relativity is confirmed by the perihelion of Mercury then, according to total holism, the conjunction of the general theory of relativity with the claim that the moon is made of cheese also gets confirmed. More controversially, the two conjuncts are meant to be confirmed in equal measure. The critics of total holism do not deny that evidence may spread its support far and wide. Rather, they deny that it always spreads its support to the whole of any theory or theoretical framework that entails or probabilistically predicts the evidence. This view is known as partial holism. One early advocate of partial confirmational holism is Adolf Grünbaum (1962). Another is Ken Gemes (1993). The latter provides refinements to the hypothetico-deductive account of confirmation, arguing that a piece of evidence may be confirmationally relevant only to some content parts of a hypothesis. More recently, and in a similar vein, Ioannis Votsis (2014) argues for an objectivist account of confirmation, according to which, monstrous hypotheses, i.e. roughly hypotheses that are put together in an ad hoc or arbitrary way, have internal barriers that prevent the spread of confirmation between their parts. Thus even though the conjunction of the general theory of relativity with the claim that the moon is made of cheese gets confirmed by the perihelion of mercury since the latter is entailed by the conjunction, the confirmation does not spread to the conjunct that the moon is made of cheese. In other words, it is not always the case that support spreads to all the parts of a hypotheses and even when it does it is not always the case that it spreads to the different parts in equal measure.
+
+
+== See also ==
+Coherentism
+Duhem–Quine thesis
+Semantic holism
+No true Scotsman
+Theory-ladenness
+Truth theory
+Underdetermination
+
+
+=== Theories of truth ===
+
+
+== References ==

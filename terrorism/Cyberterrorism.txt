@@ -1,0 +1,163 @@
+Cyberterrorism is the act of Internet terrorism in terrorist activities, including acts of deliberate, large-scale disruption of computer networks, especially of personal computers attached to the Internet, by the means of tools such as computer viruses.
+Cyberterrorism is a controversial term. Some authors choose a very narrow definition, relating to deployments, by known terrorist organizations, of disruption attacks against information systems for the primary purpose of creating alarm and panic. By this narrow definition, it is difficult to identify any instances of cyberterrorism.
+Cyberterrorism can be also defined as the intentional use of computer, networks, and public internet to cause destruction and harm for personal objectives. Objectives may be political or ideological since this can be seen as a form of terrorism.
+There is much concern from government and media sources about potential damages that could be caused by cyberterrorism, and this has prompted official responses from government agencies.
+Several minor incidents of cyberterrorism have been documented.
+
+There is debate over the basic definition of the scope of cyberterrorism. There is variation in qualification by motivation, targets, methods, and centrality of computer use in the act. Depending on context, cyberterrorism may overlap considerably with cybercrime, cyberwar or ordinary terrorism. Eugene Kaspersky, founder of Kaspersky Lab, now feels that "cyberterrorism" is a more accurate term than "cyberwar." He states that "with today's attacks, you are clueless about who did it or when they will strike again. It's not cyber-war, but cyberterrorism." He also equates large-scale cyber weapons, such as the Flame Virus and NetTraveler Virus which his company discovered, to biological weapons, claiming that in an interconnected world, they have the potential to be equally destructive.
+
+If cyberterrorism is treated similarly to traditional terrorism, then it only includes attacks that threaten property or lives, and can be defined as the leveraging of a target's computers and information, particularly via the Internet, to cause physical, real-world harm or severe disruption of infrastructure.
+There are some who say that cyberterrorism does not exist and is really a matter of hacking or information warfare. They disagree with labelling it terrorism because of the unlikelihood of the creation of fear, significant physical harm, or death in a population using electronic means, considering current attack and protective technologies.
+If a strict definition is assumed, then there have been no or almost no identifiable incidents of cyberterrorism, although there has been much public concern.
+However, there is an old saying that death or loss of property are the side products of terrorism, the main purpose of such incidents is to create terror in peoples mind. If any incident in the cyber world can create terror, it may be called a Cyber-terrorism.
+
+
+== Broad definitionEdit ==
+Cyberterrorism is defined by the Technolytics Institute as "The premeditated use of disruptive activities, or the threat thereof, against computers and/or networks, with the intention to cause harm or further social, ideological, religious, political or similar objectives. Or to intimidate any person in furtherance of such objectives." The term appears first in defense literature, surfacing in reports by the U.S. Army War College as early as 1998.
+The National Conference of State Legislatures, an organization of legislators created to help policymakers with issues such as economy and homeland security defines cyberterrorism as:
+
+[T]he use of information technology by terrorist groups and individuals to further their agenda. This can include use of information technology to organize and execute attacks against networks, computer systems and telecommunications infrastructures, or for exchanging information or making threats electronically. Examples are hacking into computer systems, introducing viruses to vulnerable networks, web site defacing, Denial-of-service attacks, or terroristic threats made via electronic communication.
+
+For the use of the Internet by terrorist groups for organization, see Internet and terrorism.
+Cyberterrorism can also include attacks on Internet business, but when this is done for economic motivations rather than ideological, it is typically regarded as cybercrime.
+Cyberterrorism is limited to actions by individuals, independent groups, or organizations. Any form of cyber warfare conducted by governments and states would be regulated and punishable under international law.
+As shown above, there are multiple definitions of cyber terrorism and most are overly broad. There is controversy concerning overuse of the term and hyperbole in the media and by security vendors trying to sell "solutions".
+
+
+== Types of cyberterror capabilityEdit ==
+The following three levels of cyberterror capability is defined by Monterey group
+Simple-Unstructured: The capability to conduct basic hacks against individual systems using tools created by someone else. The organization possesses little target analysis, command and control, or learning capability.
+Advanced-Structured: The capability to conduct more sophisticated attacks against multiple systems or networks and possibly, to modify or create basic hacking tools. The organization possesses an elementary target analysis, command and control, and learning capability.
+Complex-Coordinated: The capability for a coordinated attack capable of causing mass-disruption against integrated, heterogeneous defenses (including cryptography). Ability to create sophisticated hacking tools. Highly capable target analysis, command and control, and organization learning capability.
+
+
+== ConcernsEdit ==
+As the Internet becomes more pervasive in all areas of human endeavor, individuals or groups can use the anonymity afforded by cyberspace to threaten citizens, specific groups (i.e. with membership based on ethnicity or belief), communities and entire countries, without the inherent threat of capture, injury, or death to the attacker that being physically present would bring. Many groups such as Anonymous, use tools such as Denial-of-service attack to attack and censor groups who oppose them, creating many concerns for freedom and respect for differences of thought.
+Many believe that cyberterrorism is an extreme threat to countries' economies, and fear an attack could potentially lead to another Great Depression. Several leaders agree that cyberterrorism has the highest percentage of threat over other possible attacks on U.S. territory. Although natural disasters are considered a top threat and have proven to be devastating to people and land, there is ultimately little that can be done to prevent such events from happening. Thus, the expectation is to focus more on preventative measures that will make Internet attacks impossible for execution.
+As the Internet continues to expand, and computer systems continue to be assigned increased responsibility while becoming more complex and interdependent, sabotage or terrorism via the Internet may become a more serious threat and is possibly one of the top 10 events to "end the human race." The Internet of Things promises to further merge the virtual and physical worlds, which some experts see as a powerful incentive for states to use terrorist proxies in furtherance of objectives.
+Dependence on the internet is rapidly increasing on a worldwide scale, creating a platform for international cyber terror plots to be formulated and executed as a direct threat to national security. For terrorists, cyber-based attacks have distinct advantages over physical attacks. They can be conducted remotely, anonymously, and relatively cheaply, and they do not require significant investment in weapons, explosive and personnel. The effects can be widespread and profound. Incidents of cyberterrorism are likely to increase. They will be conducted through denial of service attacks, malware, and other methods that are difficult to envision today.
+In an article about cyber attacks by Iran and North Korea, the New York Times observes, "The appeal of digital weapons is similar to that of nuclear capability: it is a way for an outgunned, outfinanced nation to even the playing field. 'These countries are pursuing cyberweapons the same way they are pursuing nuclear weapons,' said James A. Lewis, a computer security expert at the Center for Strategic and International Studies in Washington. 'It’s primitive; it’s not top of the line, but it’s good enough and they are committed to getting it.'"
+
+
+=== HistoryEdit ===
+Public interest in cyberterrorism began in the late 1980s, when the term was coined by Barry C. Collin. As 2000 approached, the fear and uncertainty about the millennium bug heightened, as did the potential for attacks by cyber terrorists. Although the millennium bug was by no means a terrorist attack or plot against the world or the United States, it did act as a catalyst in sparking the fears of a possibly large-scale devastating cyber-attack. Commentators noted that many of the facts of such incidents seemed to change, often with exaggerated media reports.
+The high profile terrorist attacks in the United States on September 11, 2001 and the ensuing War on Terror by the US led to further media coverage of the potential threats of cyberterrorism in the years following. Mainstream media coverage often discusses the possibility of a large attack making use of computer networks to sabotage critical infrastructures with the aim of putting human lives in jeopardy or causing disruption on a national scale either directly or by disruption of the national economy.
+Authors such as Winn Schwartau and John Arquilla are reported to have had considerable financial success selling books which described what were purported to be plausible scenarios of mayhem caused by cyberterrorism. Many critics claim that these books were unrealistic in their assessments of whether the attacks described (such as nuclear meltdowns and chemical plant explosions) were possible. A common thread throughout what critics perceive as cyberterror-hype is that of non-falsifiability; that is, when the predicted disasters fail to occur, it only goes to show how lucky we've been so far, rather than impugning the theory.
+
+
+== U.S. militaryEdit ==
+The US Department of Defense (DoD) charged the United States Strategic Command with the duty of combating cyberterrorism. This is accomplished through the Joint Task Force-Global Network Operations, which is the operational component supporting USSTRATCOM in defense of the DoD's Global Information Grid. This is done by integrating GNO capabilities into the operations of all DoD computers, networks, and systems used by DoD combatant commands, services and agencies.
+On November 2, 2006, the Secretary of the Air Force announced the creation of the Air Force's newest MAJCOM, the Air Force Cyber Command, which would be tasked to monitor and defend American interest in cyberspace. The plan was however replaced by the creation of Twenty-Fourth Air Force which became active in August 2009 and would be a component of the planned United States Cyber Command.
+On December 22, 2009, the White House named its head of Computer security as Howard Schmidt to coordinate U.S Government, military and intelligence efforts to repel hackers. He left the position in May, 2012. Michael Daniel was appointed to the position of White House Coordinator of Cyber Security the same week and continues in the position during the second term of the Obama administration.
+
+
+== Estonia and NATOEdit ==
+
+The Baltic state of Estonia was target to a massive denial-of-service attack that ultimately rendered the country offline and shut out from services dependent on Internet connectivity for three weeks in the spring of 2007. The infrastructure of Estonia including everything from online banking and mobile phone networks to government services and access to health care information was disabled for a time. The tech-dependent state was in severe problem and there was a great deal of concern over the nature and intent of the attack.
+The cyber attack corresponded to an Estonian-Russian dispute over the removal of a bronze statue depicting a World War II-era Soviet soldier from the center of the capital, Tallinn. In the midst of the armed conflict with Russia, Georgia likewise was subject to sustanined and coordinated attacks on its electronic infrastructure in August 2008. In both of these cases, circumstantial evidence point to coordinated Russian attacks, but attribution of the attacks is difficult; though both the countries point the finger at Moscow, proof establishing legal culpability is lacking.
+Estonia joined NATO in 2004, therefore NATO carefully monitored its member state's response to the attack and worried both about escalation and the possibility of cascading effects beyond Estonia's border to other NATO members. In 2008, directly as a result of the attacks, NATO opened a new center of excellence on cyberdefense to conduct research and training on cyber warfare in Tallinn.
+
+
+== ChinaEdit ==
+The Chinese Defense Ministry confirmed the existence of an online defense unit in May 2011. Composed of about thirty elite internet specialists, the so-called "Cyber Blue Team," or "Blue Army," is officially claimed to be engaged in cyber-defense operations, though there are fears the unit has been used to penetrate secure online systems of foreign governments.
+
+
+== ExamplesEdit ==
+An operation can be done by anyone anywhere in the world, for it can be performed thousands of miles away from a target. An attack can cause serious damage to a critical infrastructure which may result in casualties. Attacking an infrastructure can be power grids, monetary systems, dams, media, and personal information.
+Some attacks are conducted in furtherance of political and social objectives, as the following examples illustrate:
+In 1996, a computer hacker allegedly associated with the White Supremacist movement temporarily disabled a Massachusetts ISP and damaged part of the ISP's record keeping system. The ISP had attempted to stop the hacker from sending out worldwide racist messages under the ISP's name. The hacker signed off with the threat, "you have yet to see true electronic terrorism. This is a promise."
+In 1998, Spanish protesters bombarded the Institute for Global Communications (IGC) with thousands of bogus e-mail messages. E-mail was tied up and undeliverable to the ISP's users, and support lines were tied up with people who couldn't get their mail. The protestors also spammed IGC staff and member accounts, clogged their Web page with bogus credit card orders, and threatened to employ the same tactics against organizations using IGC services. They demanded that IGC stop hosting the Web site for the Euskal Herria Journal, a New York-based publication supporting Basque independence. Protestors said IGC supported terrorism because a section on the Web pages contained materials on the terrorist group ETA, which claimed responsibility for assassinations of Spanish political and security officials, and attacks on military installations. IGC finally relented and pulled the site because of the "mail bombings."
+In 1998, ethnic Tamil guerrillas attempted to disrupt Sri Lankan embassies by sending large volumes of e-mail. The embassies received 800 e-mails a day over a two-week period. The messages read "We are the Internet Black Tigers and we're doing this to disrupt your communications." Intelligence authorities characterized it as the first known attack by terrorists against a country's computer systems.
+During the Kosovo conflict in 1999, NATO computers were blasted with e-mail bombs and hit with denial-of-service attacks by hacktivists protesting the NATO bombings. In addition, businesses, public organizations, and academic institutes received highly politicized virus-laden e-mails from a range of Eastern European countries, according to reports. Web defacements were also common. After the Chinese Embassy was accidentally bombed in Belgrade, Chinese hacktivists posted messages such as "We won't stop attacking until the war stops!" on U.S. government Web sites.
+Since December 1997, the Electronic Disturbance Theater (EDT) has been conducting Web sit-ins against various sites in support of the Mexican Zapatistas. At a designated time, thousands of protestors point their browsers to a target site using software that floods the target with rapid and repeated download requests. EDT's software has also been used by animal rights groups against organizations said to abuse animals. Electrohippies, another group of hacktivists, conducted Web sit-ins against the WTO when they met in Seattle in late 1999. These sit-ins all require mass participation to have much effect, and thus are more suited to use by activists than by terrorists.
+In 2000, a Japanese Investigation revealed that the government was using software developed by computer companies affiliated with Aum Shinrikyo, the doomsday sect responsible for the sarin gas attack on the Tokyo subway system in 1995. "The government found 100 types of software programs used by at least 10 Japanese government agencies, including the Defense Ministry, and more than 80 major Japanese companies, including Nippon Telegraph and Telephone." Following the discovery, the Japanese government suspended use of Aum-developed programs out of concern that Aum-related companies may have compromised security by breaching firewalls. gaining access to sensitive systems or information, allowing invasion by outsiders, planting viruses that could be set off later, or planting malicious code that could cripple computer systems and key data system.
+In March 2013, the New York Times reported on a pattern of cyber attacks against U.S. financial institutions believed to be instigated by Iran as well as incidents affecting South Korean financial institutions that originate with the North Korean government.
+In August 2013, media companies including the New York Times, Twitter and the Huffington Post lost control of some of their websites Tuesday after hackers supporting the Syrian government breached the Australian Internet company that manages many major site addresses. The Syrian Electronic Army, a hacker group that has previously attacked media organisations that it considers hostile to the regime of Syrian president Bashar al-Assad, claimed credit for the Twitter and Huffington Post hacks in a series of Twitter messages. Electronic records showed that NYTimes.com, the only site with an hours-long outage, redirected visitors to a server controlled by the Syrian group before it went dark.
+
+
+=== SabotageEdit ===
+Non-political acts of sabotage have caused financial and other damage, as in a case where a disgruntled employee, Vitek Boden (aka Peter Markan) caused the release of 800,000 litres of untreated sewage into waterways in Maroochy Shire, Australia.
+More recently, in May 2007 Estonia was subjected to a mass cyber-attack in the wake of the removal of a Russian World War II war memorial from downtown Tallinn. The attack was a distributed denial-of-service attack in which selected sites were bombarded with traffic to force them offline; nearly all Estonian government ministry networks as well as two major Estonian bank networks were knocked offline; in addition, the political party website of Estonia's current Prime Minister Andrus Ansip featured a counterfeit letter of apology from Ansip for removing the memorial statue. Despite speculation that the attack had been coordinated by the Russian government, Estonia's defense minister admitted he had no conclusive evidence linking cyber attacks to Russian authorities. Russia called accusations of its involvement "unfounded," and neither NATO nor European Commission experts were able to find any conclusive proof of official Russian government participation. In January 2008 a man from Estonia was convicted for launching the attacks against the Estonian Reform Party website and fined.
+During the Russia-Georgia War, on 5 August 2008, three days before Georgia launched its invasion of South Ossetia, the websites for OSInform News Agency and OSRadio were hacked. The OSinform website at osinform.ru kept its header and logo, but its content was replaced by a feed to the Alania TV website content. Alania TV, a Georgian government supported television station aimed at audiences in South Ossetia, denied any involvement in the hacking of the websites. Dmitry Medoyev, at the time the South Ossetian envoy to Moscow, claimed that Georgia was attempting to cover up information on events which occurred in the lead up to the war. One such cyber attack caused the Parliament of Georgia and Georgian Ministry of Foreign Affairs websites to be replaced by images comparing Georgian president Mikheil Saakashvili to Adolf Hitler. Other attacks involved denials of service to numerous Georgian and Azerbaijani websites, such as when Russian hackers allegedly disabled the servers of the Azerbaijani Day.Az news agency.
+
+
+=== Website defacement and denial of serviceEdit ===
+
+Even more recently, in October 2007, the website of Ukrainian president Viktor Yushchenko was attacked by hackers. A radical Russian nationalist youth group, the Eurasian Youth Movement, claimed responsibility.
+In 1999 hackers attacked NATO computers. The computers flooded them with email and hit them with a denial of service (DoS). The hackers were protesting against the NATO bombings of the Chinese embassy in Belgrade. Businesses, public organizations and academic institutions were bombarded with highly politicized emails containing viruses from other European countries.
+
+
+== In fictionEdit ==
+The Japanese cyberpunk manga, Ghost in the Shell (as well as its popular movie and TV adaptations) centers around an anti-cyberterrorism and cybercrime unit. In its mid-21st century Japan setting such attacks are made all the more threatening by an even more widespread use of technology including cybernetic enhancements to the human body allowing people themselves to be direct targets of cyberterrorist attacks.
+Dan Brown's Digital Fortress.
+Amy Eastlake's Private Lies.
+In the movie Live Free or Die Hard, John McClane (Bruce Willis) takes on a group of cyberterrorists intent on shutting down the entire computer network of the United States.
+The movie Eagle Eye involves a super computer controlling everything electrical and networked to accomplish the goal.
+The plots of 24 Day 4 and Day 7 include plans to breach the nation's nuclear plant grid and then to seize control of the entire critical infrastructure protocol.
+The Tom Clancy created series Netforce was about a FBI/Military team dedicated to combating cyberterrorists.
+Much of the plot of Mega Man Battle Network is centered around cyberterrorism.
+In the 2009 Japanese animated film Summer Wars, an artificial intelligence cyber-terrorist attempts to take control over the world's missiles in order to "win" against the main characters that attempted to keep it from manipulating the world's electronic devices.
+In the 2012 film Skyfall, part of the James Bond franchise, main villain Raoul Silva (Javier Bardem) is an expert cyberterrorist who is responsible for various cyberterrorist incidents in the past.
+Cyberterrorism plays a role in the 2012 video game Call of Duty: Black Ops II, first when main antagonist Raul Menendez cripples the Chinese economy with a cyberattack and frames the United States for it, starting a new Cold War between the two powers. Later, another cyberattack with a computer worm leads to Menendez seizing control of the entire U.S drone fleet. Finally, one of the game's endings leads to another attack similar to the latter, this time crippling the U.S' electrical and water distribution grids. An alternate ending depicts the cyberattack failing after it is stopped by one of the game's characters pivotal to the storyline.
+The plot of the 2013 video game Watch Dogs is heavily influenced by cyber-terrorism. In which players take control of the game's protagonist, Aiden Pierce, an accused murder suspect, who hacks into a ctOS (Central Operating System), giving him complete control of Chicago's mainframe in order to hunt down his accusers.
+The video game Metal Slug 4 focuses on Marco and Fio, joined by newcomers Nadia and Trevor, to battle a terrorist organization known as Amadeus that is threatening the world with a computer virus.
+The visual novel Baldr Force has the main character Tooru Souma joining a military organization to fight cyberterrorism to avenge the death of his friend.
+The Japanese Manga and Live Action Bloody Monday is Highly influenced with Hacking and Cracking, the main character Takagi Fujimaru is a Super Elite hacker which use his hacking knowledge to fight against his enemies.
+
+
+== See alsoEdit ==
+
+
+== ReferencesEdit ==
+
+
+== Further readingEdit ==
+Alexander, Yonah Swetman, Michael S. (2001). Cyber Terrorism and Information Warfare: Threats and Responses. Transnational Publishers Inc.,U.S. ISBN 1-57105-225-9. 
+Bibi van Ginkel, "The Internet as Hiding Place of Jihadi Extremists" (International Centre for Counter-Terrorism - The Hague, 2012)
+Colarik, Andrew M. (2006). Cyber Terrorism: Political and Economic Implications. Idea Group, U.S. ISBN 1-59904-022-0. 
+Verton, Dan (2003). Black Ice: The Invisible Threat of Cyber-terrorism. Osborne/McGraw-Hill, U.S. ISBN 0-07-222787-7. 
+Weimann, Gabriel (2006). Terror on the Internet: The New Arena, the New Challenges. United States Institute of Peace, U.S. ISBN 1-929223-71-4. 
+Blau, John (November 2004). "The battle against cyberterror". NetworkWorld. Retrieved March 20, 2005. 
+Gross, Grant (Nov 2003). "Cyberterrorist attack would be more sophisticated that past worms, expert says". ComputerWorld. Retrieved March 17, 2005. 
+Poulsen, Kevin (March 17, 2005). "South Pole 'cyberterrorist' hack wasn't the first". SecurityFocus News. 
+Thevenet, Cédric (November 2005). "Cyberterrorisme, mythe ou réalité?" (PDF) (in French). terrorisme.net. 
+U.S. Army Cyber Operations and Cyber Terrorism Handbook 1.02
+Jacqueline Ching (2010). Cyberterrorism. Rosen Pub Group. ISBN 1-4358-8532-5. 
+Rolón, Darío N., (2013) Control, vigilancia y respuesta penal en el ciberespacio, Latinamerican´s new security thinking, Clacso.
+Costigan, Sean (2012). Cyberspaces and Global Affairs. Ashgate. ISBN 978-1-4094-2754-4. 
+
+
+== External linksEdit ==
+
+
+=== GeneralEdit ===
+What is Cyberterrorism? Even experts can't agree in the Harvard Law Record
+AIC Australian Institute of Criminology - Cyberterrorism
+CRS Report for Congress - Computer Attack and Cyber Terrorism - 17/10/03
+Statement for the Record of Louis J. Freeh, Director Federal Bureau of Investigation on Cybercrime - Mar 28, 2000
+Cyber-Terrorism: Propaganda or Probability?
+FBI Laboratory - Cyberterrorism: Fact or Fancy by Mark M. Pollitt
+How terrorists use the Internet ABC Australia interview with Professor Hsinchun Chen
+Department of Defense Cyber Crime Center
+Documentary about Cyberterrorism on YouTube (Spanish)
+defcon.org
+library.thinkquest.org
+swinburne.com.au by Internet Security Visionary WC
+Information Warfare
+RedShield Association- Cyber Defense
+Cyber Infrastructure Protection - Strategic Studies Institute
+strategicstudiesinstitute.army.mil
+Cyber-Terrorism and Freedom of Expression: Sultan Shahin Asks United Nations to Redesign Internet Governance New Age Islam
+Global response to cyberterrorism and cybercrime: A matrix for international cooperation and vulnerability assessment
+
+
+=== NewsEdit ===
+Cyber Security Task Force Takes ‘Whole Government’ Approach FBI, October 20, 2014
+Politically Motivated Computer Crime - Current news on political hacking
+NDTV News - Terror in cyber space toughest to check - December 9, 2008
+Wanabehuman - modern militant, counter-terror use of the Internet - 25/01/07
+Wanabehuman - approaches to understanding radicalization - 02/05/07
+BBC News - US warns of al-Qaeda cyber threat - 01/12/06
+BBC News - Cyber terrorism 'overhyped' - 14/03/03
+MSNBC - Hacker plan: take down the Net - March 3, 2000
+Angelica, Amara D. "The New Face of War" TechWeek. November 2, 1998

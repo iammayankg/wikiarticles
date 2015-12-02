@@ -1,0 +1,61 @@
+Agricultural productivity is measured as the ratio of agricultural outputs to agricultural inputs. While individual products are usually measured by weight, their varying densities make measuring overall agricultural output difficult. Therefore, output is usually measured as the market value of final output, which excludes intermediate products such as corn feed used in the meat industry. This output value may be compared to many different types of inputs such as labour and land (yield). These are called partial measures of productivity. Agricultural productivity may also be measured by what is termed total factor productivity (TFP). This method of calculating agricultural productivity compares an index of agricultural inputs to an index of outputs. This measure of agricultural productivity was established to remedy the shortcomings of the partial measures of productivity; notably that it is often hard to identify the factors cause them to change. Changes in TFP are usually attributed to technological improvements.
+
+
+== Sources of agricultural productivityEdit ==
+
+Some sources of agricultural productivity are:
+Mechanization
+High yield varieties, which were the basis of the Green revolution
+Fertilizers: Primary plant nutrients: nitrogen, phosphorus and potassium and secondary nutrients such as sulfur, zinc, copper, manganese, calcium, magnesium and molybdenum on deficient soil
+Liming of acid soils to raise pH and to provide calcium and magnesium
+Irrigation
+Herbicides
+Pesticides
+Increased plant density
+Animal feed made more digestible by processing
+Keeping animals indoors in cold weather
+See: Productivity improving technologies (historical) Section: 2.4.1: Mechanization: Agriculture, Section 2.6: Scientific agriculture.
+
+
+== Importance of agricultural productivityEdit ==
+The productivity of a region's farms is important for many reasons. Aside from providing more food, increasing the productivity of farms affects the region's prospects for growth and competitiveness on the agricultural market, income distribution and savings, and labour migration. An increase in a region's agricultural productivity implies a more efficient distribution of scarce resources. As farmers adopt new techniques and differences, the more productive farmers benefit from an increase in their welfare while farmers who are not productive enough will exit the market to seek success elsewhere.
+
+As a region's farms become more productive, its comparative advantage in agricultural products increases, which means that it can produce these products at a lower opportunity cost than can other regions. Therefore, the region becomes more competitive on the world market, which means that it can attract more consumers since they are able to buy more of the products offered for the same amount of money.
+Increases in agricultural productivity lead also to agricultural growth and can help to alleviate poverty in poor and developing countries, where agriculture often employs the greatest portion of the population. As farms become more productive, the wages earned by those who work in agriculture increase. At the same time, food prices decrease and food supplies become more stable. Labourers therefore have more money to spend on food as well as other products. This also leads to agricultural growth. People see that there is a greater opportunity earn their living by farming and are attracted to agriculture either as owners of farms themselves or as labourers.
+
+However, it is not only the people employed in agriculture who benefit from increases in agricultural productivity. Those employed in other sectors also enjoy lower food prices and a more stable food supply. Their wages may also increase.
+Agricultural productivity is becoming increasingly important as the world population continues to grow. India, one of the world's most populous countries, has taken steps in the past decades to increase its land productivity. Forty years ago, North India produced only wheat, but with the advent of the earlier maturing high-yielding wheats and rices, the wheat could be harvested in time to plant rice. This wheat/rice combination is now widely used throughout the Punjab, Haryana, and parts of Uttar Pradesh. The wheat yield of three tons and rice yield of two tons combine for five tons of grain per hectare, helping to feed India's 1.1 billion people.
+
+
+== Agricultural productivity and sustainable developmentEdit ==
+Increase in agricultural productivity are often linked with questions about sustainability and sustainable development. Changes in agricultural practices necessarily bring changes in demands on resources. This means that as regions implement measures to increase the productivity of their farm land, they must also find ways to ensure that future generations will also have the resources they will need to live and thrive.
+
+
+== U.S. Agriculture productivityEdit ==
+
+Between 1950 and 2000, during the so-called "second agricultural revolution of modern times", U.S. agricultural productivity rose fast, especially due to the development of new technologies. For example, the average amount of milk produced per cow increased from 5,314 pounds to 18,201 pounds per year (+242%), the average yield of corn rose from 39 bushels to 153 bushels per acre (+292%), and each farmer in 2000 produced on average 12 times as much farm output per hour worked as a farmer did in 1950.
+
+
+== Productive farmsEdit ==
+
+For many farmers (especially in non-industrial countries) agricultural productivity may mean much more. A productive farm is one that provides most of the resources necessary for the farmer's family to live, such as food, fuel, fiber, healing plants, etc. It is a farm which ensures food security as well as a way to sustain the well-being of a community. This implies that a productive farm is also one which is able to ensure proper management of natural resources, such as biodiversity, soil, water, etc. For most farmers, a productive farm would also produce more goods than required for the community in order to allow trade.
+Diversity in agricultural production is one key to productivity, as it enables risk management and preserves potentials for adaptation and change. Monoculture is an example of such a nondiverse production system. In a monocultural system a farmer may produce only crops, but no livestock, or only livestock and no crop.
+The benefits of raising livestock, among others, are that it provides multiple goods, such as food, wool, hides, and transportation. It also has an important value in term of social relationships (such as gifts in weddings). In case of famine, when crops are not sufficient to ensure food safety, livestock can be used as food. Livestock may also provide manure, which can be used to fertilize cultivated soils, which increases soil productivity. On the other hand, in an agricultural system based only on raising livestock, food has to be bought to other farmers, and wastes produced cannot be easily disposed of. Production has many functions, and diversity is the foundation of such production. To ignore the complex functions provided by a farm is thought by many to turn agricultural production into a commodity.
+
+
+== See alsoEdit ==
+Biodiversity
+Green Revolution
+Mechanized agriculture
+Productivity
+Productivity improving technologies (historical) Section 4: Mechanized agriculture, Section 6: Scientific agriculture
+
+
+== ReferencesEdit ==
+
+
+== External linksEdit ==
+Food and Agriculture Organization of the United Nations – www.fao.org
+OECD Department for Trade and Agriculture: Food, Agriculture and Fisheries
+OECD Agricultural Outlook Database (2006–2015)
+Field, Alexander J. (2008). "Productivity". In David R. Henderson. Concise Encyclopedia of Economics (2nd ed.). Indianapolis: Library of Economics and Liberty. ISBN 978-0865976658. OCLC 237794267.

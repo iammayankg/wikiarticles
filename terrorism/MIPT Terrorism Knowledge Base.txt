@@ -1,0 +1,31 @@
+The MIPT Terrorism Knowledge Base (TKB) was an online portal containing information on terrorist incidents, leaders, groups, and related court cases. It was active from September 2004 to March 2008 and is now defunct, however the group profiles that were included in the knowledge base are now hosted by the National Consortium for the Study of Terrorism and Responses to Terrorism. TKB was sponsored by the National Memorial Institute for the Prevention of Terrorism (MIPT), a non-profit organization funded by the United States Department of Homeland Security.
+The TKB contained historical information on terrorism dating back to 1968, with over 29,000 incident profiles, 900 group profiles, and 1,200 leader biographies. The TKB contained several features to analyze terrorism data, including graphing tools, interactive maps, and statistical summaries.
+
+
+== Incident databases ==
+The TKB contains two separate terrorist incident databases, the RAND Terrorism Chronology 1968–1997 and the RAND Terrorism Incident database (1998–Present). While the former component tracked international incidents, the latter database includes both domestic and international attacks. The RAND Corporation is a global think tank founded in 1946 by the United States armed forces.
+
+
+== Group and leader profiles ==
+In addition to incident databases, the TKB contains information on several hundred terrorist groups and leaders. DFI International, a consulting firm based in Washington DC, is responsible for these group and leader profiles. Group profiles include information about group ideology, founding philosophy, current goals, as well as basic “quick facts” such as member strength and funding sources. Leader profiles contain information about the membership and role of key terrorist leaders, as well as the individual’s history and current whereabouts.
+
+
+== Legal database and documents ==
+The TKB also contains several hundred case profiles from the American Terrorism Study. Directed by Dr. Brent Smith (University of Arkansas) and Dr. Kelly Damphousse, the ATS is a database of individuals and groups indicted by the United States government as the result of an official FBI terrorism investigation. Case profiles contain a synopsis of the indictment as well as scanned copies of public record documents relating to the court proceedings.
+
+
+== Other tools ==
+The Terrorism Knowledge Base also includes an interactive map with satellite imagery and overlay capabilities, allowing users to plot terrorist incidents as well as key infrastructure such as roads, pipelines, and natural resources. Other features include a graphing program known as the "incident analysis wizard", interactive tables, an advanced search tool, and terrorism related news items.
+
+
+== See also ==
+Global Terrorism Database
+Global Terrorism Index
+Patterns of Global Terrorism
+
+
+== References ==
+
+
+== External links ==
+Archive of TKB's organization profiles, hosted by START

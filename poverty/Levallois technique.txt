@@ -1,0 +1,54 @@
+The Levallois technique (IPA: [lə.va.lwa]) is a name given by archaeologists to a distinctive type of stone knapping developed by precursors to modern humans during the Palaeolithic period.
+It is named after nineteenth century finds of flint tools in the Levallois-Perret 48°53′40″N 2°17′18″E suburb of Paris, France. The technique was more sophisticated than earlier methods of lithic reduction, involving the striking of flakes from a prepared core. A striking platform is formed at one end and then the core's edges are trimmed by flaking off pieces around the outline of the intended flake. This creates a domed shape on the side of the core, known as a tortoise core as the various scars and rounded form are reminiscent of a tortoise's shell. When the striking platform is finally hit, a flake separates from the core with a distinctive plano-convex profile and with all of its edges sharpened by the earlier trimming work.
+This method provides much greater control over the size and shape of the final flake which would then be employed as a scraper or knife although the technique could also be adapted to produce projectile points known as Levallois points. Scientists consider the Levallois complex to be a Mode 3 technology, as a result of its diachronic variability. This is one level superior to the Acheulean complex of the Lower Paleolithic.
+
+
+== OriginsEdit ==
+The technique is first found in the Lower Palaeolithic but is most commonly associated with the Neanderthal Mousterian industries of the Middle Palaeolithic. In the Levant, Levallois methods were also in use in the Upper Palaeolithic and later. In East Africa, Levallois methods were used in the Middle Stone Age. While Levallois cores do display some variability in their planform, their flake production surfaces show remarkable uniformity. This would seem to indicate that some sort of teaching process was occurring, which some have speculated would have involved language.
+
+
+== EvolutionEdit ==
+The distinctive forms of the flakes were originally thought to indicate a wide ranging Levallois culture resulting from the expansion of archaic Homo sapiens out of Africa. However, the wide geographical and temporal spread of the technique has rendered this interpretation obsolete.
+
+Adler et al., further argues that Levallois technology evolved independently in different populations and thus cannot be used as a reliable indicator of Paleolithic human population change and expansion. Aside from technique, the overarching commonality in Levallois complexes is the attention given to maximizing core efficiency. Lycett and von Cramon-Taubedel (2013) measured variability in shape and geometrics relationships between cores over multiple regions, with an outcome that suggests a tendency for knappers to choose planforms with a specific surface morphology. In other words, they conclude that Levallois knappers cared less about the overall outline or shape of their core and more about the striking surface, evidence of complex pre-planning and recognition of an "ideal form" of Levallois core. A recent article by Lycett and Eren(2013) statistically shows the efficiency of the Levallois technique which at times has been called into question. Lycett and Eren created 75 Levallois flakes from 25 Texas Chert nodules. They counted the 3957 flakes and separated them into four stages in order to show efficiency, which grew subsequently in each stage. Based on the comparative study of 567 debitage flakes and 75 preferential Levallois flakes, Lycett and Eren found out the thickness is more evenly distributed and less variable across preferential Levallois flakes, which indicates the thickness is an important factor for efficiency and retouch potential. The experiment also shows that the Levallois core is an economic optimal strategy of raw material (lithic) usage, which mean it can generate longest cutting edge per weight unit of raw material. This result also imply that the mobility of prehistoric people was higher when applying Levallois technology; prehistoric people may explore more area with Levallois cores, which can make longer cutting edge than the other flake making technique under same amount of cores, and no need to worry about the lack of raw material to make tools.
+
+
+=== Defining LevalloisEdit ===
+There is disagreement when it comes to defining Levallois technology. Archeologists question which attributes and dimensions are specifically associated with Levallois, and argue that there are other techniques with similar cosmetic and functional aspects. Due to these disagreements, there is now a more precise set of criteria that outlines Levallois technology from a geometric standpoint. These criteria are:
+
+Exploitation of the volume of raw material is organized in terms of two intersecting planes, or flaking surfaces;
+The two surfaces are hierarchically related, one constituting the striking platform and the other the primary reduction surface;
+The primary reduction surface is shaped such that the morphology of the product is pre-determined, which is fundamentally a function of the lateral and distal convexities of the surface;
+The fracture plane for removing primary products is sub-parallel to the plane of intersection of the two surfaces; and
+The striking platform size and shape is adjusted to allow removal of flakes parallel to this plane, usually through retouch or faceting.
+
+
+== LocationsEdit ==
+
+
+=== AfricaEdit ===
+Egypt: Within the banks of the Nile River, excavations have located within the 30-, 15-, and 10-foot terraces, Lavalloisean implements. Within the 30-foot terrace, the implements were originally thought to be early Mousterian, but were later reclassified. The 15- and 10-foot terraces again were classified first as Egyptian Mousterian, but later as developed Lavalloisean.
+Kenya: Large Levallois flakes struck from boulder cores have been found at the Kapthurin Formation site in western Kenya, near Lake Bogoria and Lake Baringo. The earliest examples come from the Leaky Handaxe Area and the Factory Site. Both examples feature large flakes, approximately 10–20 cm in diameter, and have been dated between 284-509 thousand years ago.
+
+
+=== AsiaEdit ===
+Syria/Palestine: Excavated within a stratigraphic column containing tools from this culture.
+Afghanistan: Implements located in the Haibak valley.
+North-east Asia: The extension of the Levallois method to this part of the world now seems undoubtable with recent evidence at Shuidonggou (Northern China) in Mongolia and Altai-Siberia, dating from the Late Pleistocene.
+Pakistan: The Soanian techno-complex from the Soan Valley located in northern Pakistan, has been identified as a Mode-3 Levallois complex.
+The first discovered blade site in China was in Shuidonggou in 1923 by Lincent and Teihard de Chardin. When they excavated the location, twelve localities were founded and had an age range of roughly 40,000 - 10,000 BP. Out of the twelve localities, SDG1 proved to be most important with the discovery of numerous unique, elongated blanks and Levallois-like cores found.
+
+
+=== Southern CaucasusEdit ===
+Armenia: Nor Geghi 1 archaeological site. The artifacts, found preserved in soil under a later lava flow and dated at 325,000 – 335,000 years old, were a mix of two distinct stone tool technology traditions: bifacial tools and Levallois tools. Daniel Adler suggests that the artifacts found at Nor Geghi reflect the technological flexibility and variability of a single population.
+
+
+== See alsoEdit ==
+Yubetsu technique
+
+
+== ReferencesEdit ==
+
+
+== External linksEdit ==
+http://www.persee.fr/web/revues/home/prescript/article/paleo_0153-9345_1993_num_19_2_4593

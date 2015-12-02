@@ -1,0 +1,27 @@
+Income deficit is the difference between a single person or family's income and its poverty threshold or poverty line, when the former is exceeded by the latter. Data on the income deficits of various members of a population allow for the construction of one type of measurement of income inequality in that population. Individuals or families that fall below the line are considered to be in poverty whereas families that fall above are not. The income deficit is one of two measures that are used to determine a person or family's income distance from the poverty threshold,the other being a ratio rather than a difference.
+
+
+== Poverty threshold ==
+The poverty threshold in the U.S. is updated each year by the U.S. Census Bureau. The number is adjusted according to inflation to reflect the updated cost of living in particular areas. In a typical year, it is estimated that nearly 12% of Americans are living below the poverty threshold. Poverty thresholds depend on the number of people living in the household.
+
+
+== Problems with income deficit ==
+While the poverty line reflects the general circumstances of a household (specifically, number of people and location), it does not capture the household's individual circumstances, such as health problems.
+
+
+== US Income Deficit ==
+In the United States, the census bureau separates data collected into several different categories. Each category is then separated even further by number of children, age of children, yearly salary, social security income, et cetera. The data below shows the average of each subcategory within the three larger ones. Data is from the year 2000.
+Families have a mean income deficit of $7,247.
+Married-couple families have a mean income deficit of $6,946.
+Families with female householder and no male present have a mean income deficit of $7,562
+
+
+== References ==
+[1]
+[2]
+Hurst, Charles. Social Inequality: forms, causes, and consequences
+
+
+== External links ==
+US Census Bureau
+America's Deficit, the World's Problem

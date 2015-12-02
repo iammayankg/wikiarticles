@@ -1,0 +1,31 @@
+Community health, a field of public health, is a discipline which concerns itself with the study and improvement of the health characteristics of biological communities. While the term community can be broadly defined, community health tends to focus on geographical areas rather than people with shared characteristics. The health characteristics of a community are often examined using geographic information system (GIS) software and public health datasets. Some projects, such as InfoShare or GEOPROJ combine GIS with existing datasets, allowing the general public to examine the characteristics of any given community in participating countries.
+Because 'health III' (broadly defined as well-being) is influenced by a wide array of socio-demographic characteristics, relevant variables range from the proportion of residents of a given age group to the overall life expectancy of the neighborhood/community. Medical interventions aimed at improving the health of a community range from improving access to medical care to public health communications campaigns. Recent research efforts have focused on how the built environment and socio-economic status affect health.
+Community health may be studied within three broad categories:
+Primary healthcare which refers to interventions that focus on the individual or family such as hand-washing, immunization, circumcision
+Secondary healthcare refers to those activities which focus on the environment such as draining puddles of water near the house, clearing bushes and spraying insecticides to control vectors like mosquitoes.
+Tertiary healthcare on the other hand refers to those interventions that take place in a hospital setting such as intravenous rehydration or surgery.
+The success of community health programmes relies upon the transfer of information from health professionals to the general public using one-to-one or one to many communication (mass communication). The latest shift is towards health marketing.
+
+
+== Academic resources ==
+Journal of Urban Health, Springer. ISSN: 1468-2869 (electronic) 1099-3460 (paper).[1]
+
+
+== See also ==
+Population health
+Community mental health service
+Online health communities
+Prison reform
+
+
+== Notes ==
+
+John Sanbourne Bockoven. Moral Treatment in American Psychiatry, New York: Springer Publishing Co., 1963
+
+
+== External links ==
+Progress in Community Health Partnerships: Research, Education, and Action
+InfoShare
+GEOPROJ
+Health Action by People India (HAP)
+Health marketing- CDC

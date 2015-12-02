@@ -1,0 +1,61 @@
+A red team is an independent group that challenges an organization to improve its effectiveness. The United States intelligence community (military and civilian) has red teams that explore alternative futures and write articles as if they were foreign world leaders. Little formal doctrine or publications about Red Teaming in the military exist.
+Private business, especially those heavily invested as government contractors/defense contractors such as IBM and SAIC, and U.S. government agencies such as the CIA, have long used Red Teams. Red Teams in the United States armed forces were used much more frequently after a 2003 Defense Science Review Board recommended them to help prevent the shortcomings that led up to the attacks of September 11, 2001. The U.S. Army then stood up a service-level Red Team, the Army Directed Studies Office, in 2004. This was the first service-level Red Team and until 2011 was the largest in the DoD.
+Penetration testers assess organization security, often unbeknownst to client staff. This type of Red Team provides a more realistic picture of the security readiness than exercises, role playing, or announced assessments. The Red Team may trigger active controls and countermeasures within a given operational environment.
+In wargaming, the opposing force (or OPFOR) in a simulated military conflict may be referred to as a red cell (a very narrow form of Red Teaming) and may also engage in red team activity. The key theme is that the aggressor is composed of various threat actors, equipment and techniques that are at least partially unknown by the defenders. The red cell challenges the operations planning by playing the role of a thinking enemy. In United States war-gaming simulations, the U.S. force is always the Blue Team and the opposing force is always the Red Team.
+When applied to intelligence work, red-teaming is sometimes called alternative analysis.
+When used in a hacking context, a red team is a group of white-hat hackers that attack an organization's digital infrastructure as an attacker would in order to test the organization's defenses (often known as "penetration testing"). Companies including Microsoft perform regular exercises under which both red and blue teams are utilized.
+Benefits include challenges to preconceived notions and clarifying the problem state that planners are attempting to mitigate. More accurate understanding can be developed of how sensitive information is externalized and of exploitable patterns and instances of bias.
+
+
+== HistoryEdit ==
+Billy Mitchell – a passionate early advocate of air power – demonstrated the obsolescence of battleships in bombings against the captured World War I German battleship Ostfriesland and the U.S.pre-dreadnought battleship Alabama.
+Rear Admiral Harry E. Yarnell demonstrated in 1932 the effectiveness of an attack on Pearl Harbor almost exactly showing how the tactics of the Japanese would destroy the fleet in harbor nine years later. Although the umpires ruled the exercise a total success, the umpire's report on the overall exercises makes no mention of the stunning effectiveness of the simulated attack. Their conclusion to what became known as Fleet Problem XIII was surprisingly quite the opposite:
+
+It is doubtful if air attacks can be launched against Oahu in the face of strong defensive aviation without subjecting the attacking carriers to the danger of material damage and consequent great losses in the attack air force. 
+
+
+== United StatesEdit ==
+
+
+=== ArmyEdit ===
+In the US Army, red teaming is defined as a “structured, iterative process executed by trained, educated and practiced team members that provides commanders an independent capability to continuously challenge plans, operations, concepts, organizations and capabilities in the context of the operational environment and from our partners’ and adversaries’ perspectives.”
+
+
+=== University of Foreign Military and Cultural Studies (UFMCS)Edit ===
+The Army Red Team Leaders Course is conducted by the University of Foreign Military and Cultural Studies at Fort Leavenworth. The target students are graduates of the U.S. Army CGSC or equivalent intermediate and senior level school (Major through Colonel, and Chief Warrant Officer 3/4/5 with MEL IV qualification or equivalent) and to a much-lesser extent, highly trained civilians.
+The UFMCS Red Team Leader’s Course (RTLC) is a graduate-level education of 720 Academic Hours (18 weeks) designed to effectively anticipate change, reduce uncertainty and improve operational decisions. The typical academic day is 8 hours and the typical reading load is 250 pages per night.
+The University of Foreign Military and Cultural Studies was formed as an outgrowth of recommendations from the Army Chief of Staff's Actionable Intelligence Task Force. UFMCS, as an element of the TRADOC (DCSINT) Intelligence Support Activity, or TRISA, located at Fort Leavenworth. TRADOC is an Army-directed education, research, and training initiative for Army organizations and other joint and government agencies designed to provide a Red Teaming capability.
+A UFMCS-trained Red Team is educated to look at problems from the perspectives of the adversary and our multinational partners, with the goal of identifying alternative strategies. The Red Team provides commanders with critical decision-making expertise during planning and operations. The team’s responsibilities are broad—from challenging planning assumptions to conducting independent analysis to examining courses of action to identifying vulnerabilities.
+Red Team Leaders are expert in:
+Analyzing complex systems and problems from different perspectives to aid in decision making, using models of theory.
+Employing concepts, theories, insights, tools and methodologies of cultural and military anthropology to predict other’s perceptions of our strengths and vulnerabilities.
+Applying critical and creative thinking in the context of the operational environment to fully explore alternatives to plans, operations, concepts, organizations and capabilities.
+Applying advanced analytical skills and techniques at tactical through strategic levels and developing products supporting command decision making and execution.
+
+
+=== Joint Enabling Capabilities Command (Now US Transportation Command's JECC)Edit ===
+Two operational positions associated with red teaming existed at the United States Joint Forces Command formerly called Blue Red Planners within the Standing Joint Force Headquarters (SJFHQs). These two positions, now called Red Team Leaders (RTLs) were designed to provide the Joint Task Force Plans and Operations Groups with insight into the adversary’s political and military objectives and potential course of action (COA) in response to real or perceived Blue action. RTLs are the leads of an RT Cell composed of operationally oriented experts that analyze Blue conditions-driven COA from an adversary-based perspective. The RT Cell anticipates potential adversary responses, identifies critical Blue vulnerabilities and potential operational miscues and assists in war gaming, COA development early in the Joint Operations Planning Process (JOPP). RTLs, in collaboration with the Combatant Commander's staff and Centers of Excellence, provide in-depth knowledge of the local political landscape, of the adversary’s history, military doctrine, training, political and military alliances and partnerships and strategic and operational objectives. RTLs postulate the adversary’s desired end-state, and what the adversary may surmise Blue’s desired end-state or objectives to be. Finally, the RTLs help identify, validate and/or re-scope potential critical nodes.
+
+
+=== Marine CorpsEdit ===
+The mission of Marine Corps Red Teams is to "provide the Commander an independent capability that offers critical reviews and alternative perspectives that challenge prevailing notions, rigorously test current Tactics, Techniques and Procedures, and counter group think in order to enhance organizational effectiveness."
+
+
+=== Federal Aviation AdministrationEdit ===
+The FAA has been implementing red teams since the Pan Am Flight 103 over Lockerbie, Scotland. Red teams conduct tests at about 100 US airports annually. Tests were on hiatus after September 11, 2001 and resumed in 2003.
+The FAA use of red teaming revealed severe weaknesses in security at Logan International Airport in Boston, where two of the four hijacked 9/11 flights originated. Some former FAA investigators who participated on these teams feel that the FAA deliberately ignored the results of the tests and that this resulted in part in the 9/11 terrorist attack on the US. 
+
+
+=== Elsewhere in governmentEdit ===
+Red teaming is normally associated with assessing vulnerabilities and limitations of systems or structures. Various watchdog agencies such as the Government Accountability Office and the National Nuclear Security Administration employ red teaming. Red teaming refers to the work performed to provide an adversarial perspective, especially when this perspective includes plausible tactics, techniques, and procedures (TTP) as well as realistic policy and doctrine.
+
+
+== See alsoEdit ==
+
+
+== ReferencesEdit ==
+
+
+== External linksEdit ==
+
+ This article incorporates public domain material from the United States Army document "Army approves plan to create school for Red Teaming". This article incorporates public domain material from the United States Army document "University of Foreign Military and Cultural Studies".

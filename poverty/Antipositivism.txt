@@ -1,0 +1,48 @@
+Antipositivism (also known as interpretivism or negativism) is the belief within social science that the social realm may not be subject to the same methods of investigation as the natural world; the social realm requires a different epistemology in which academics work beyond empiricism and the scientific method. Antipositivists hold that researchers need to be, first, aware that our concepts, ideas, and language shape how we think about the social world. Therefore, antipositivists focus on understanding the interpretative method employed.
+
+
+== ConceptEdit ==
+Beginning with Giambattista Vico in the early 18th Century, and later with Montesquieu, there was a separation between natural history and human history. The former is not directly under man's control whereas the latter is in fact man's creation. As such, an epistemological distinction is made which between the natural world and the social realm which informs antipositivism. The natural world can only be understood with regards to its external characteristics, whereas the social realm can be understood externally and internally, and can therefore be known fully. The internal focus is seen fully developed in antipositivist methods.
+In the early 19th century, various intellectuals, led by the Hegelians, questioned the prospect of empirical social analysis. Karl Marx died before the establishment of formal social science, but nonetheless fiercely rejected Comtean sociological positivism—despite himself attempting to establish a historical materialist "science of society".
+The enhanced positivism presented by Emile Durkheim would serve to found modern academic sociology and social research, yet retained many of the mechanical elements of its predecessor. Hermeneuticians such as Wilhelm Dilthey theorized in detail on the distinction between natural and social science ('Geisteswissenschaft'), whilst neo-Kantian philosophers such as Heinrich Rickert maintained that the social realm, with its abstract meanings and symbolisms, is inconsistent with scientific methods of analysis. Edmund Husserl, meanwhile, negated positivism through the rubric of phenomenology.
+At the turn of the 20th century, the first wave of German sociologists formally introduced verstehende (interpretive) sociological antipositivism, proposing research should concentrate on human cultural norms, values, symbols, and social processes viewed from a resolutely subjective perspective. As an antipositivist, however, one seeks relationships that are not as "ahistorical, invariant, or generalizable" as those pursued by natural scientists.
+The interaction between theory (or constructed concepts) and data is always fundamental in social science and this subjection distinguishes it from physical science. Durkheim himself noted the importance of constructing concepts in the abstract (e.g. "collective consciousness" and "social anomie") in order to form workable categories for experimentation. Both Weber and Georg Simmel pioneered the verstehen (or 'interpretative') approach toward social science; a systematic process in which an outside observer attempts to relate to a particular cultural group, or indigenous people, on their own terms and from their own point of view.
+
+[Sociology is ] ... the science whose object is to interpret the meaning of social action and thereby give a causal explanation of the way in which the action proceeds and the effects which it produces. By 'action' in this definition is meant the human behaviour when and to the extent the agent or agents see it as subjectively meaningful ... the meaning to which we refer may be either (a) the meaning actually intended either by an individual agent on a particular historical occasion or by a number of agents on an approximate average in a given set of cases, or (b) the meaning attributed to the agent or agents, as types, in a pure type constructed in the abstract. In neither case is the 'meaning' thought of as somehow objectively 'correct' or 'true' by some metaphysical criterion. This is the difference between the empirical sciences of action, such as sociology and history, and any kind of a priori discipline, such as jurisprudence, logic, ethics, or aesthetics whose aim is to extract from their subject-matter 'correct' or 'valid' meaning.
+
+Through the work of Simmel, in particular, sociology acquired a possible character beyond positivist data-collection or grand, deterministic systems of structural law. Relatively isolated from the sociological academy throughout his lifetime, Simmel presented idiosyncratic analyses of modernity more reminiscent of the phenomenological and existential writers than of Comte or Durkheim, paying particular concern to the forms of, and possibilities for, social individuality. His sociology engaged in a neo-Kantian critique of the limits of human perception. One may say Michel Foucault's critiques of the human sciences take Kantian scepticism to its extreme over half a century later.
+Antipositivism thus holds there is no methodological unity of the sciences: the three goals of positivism - description, control, and prediction - are incomplete, since they lack any understanding. Science aims at understanding causality so control can be exerted. If this succeeded in sociology, those with knowledge would be able to control the ignorant and this could lead to social engineering.
+This perspective has led to controversy over how one can draw the line between subjective and objective research, much less draw an artificial line between environment and human organization (see environmental sociology), and influenced the study of hermeneutics. The base concepts of antipositivism have expanded beyond the scope of social science, in fact, phenomenology has the same basic principles at its core. Simply put, positivists see sociology as a science, while anti-positivists do not.
+
+
+=== Frankfurt SchoolEdit ===
+The antipositivist tradition continued in the establishment of critical theory, particularly the work associated with the Frankfurt School of social research. Antipositivism would be further facilitated by rejections of 'scientism'; or science as ideology. Jürgen Habermas argues, in his On the Logic of the Social Sciences (1967), that "the positivist thesis of unified science, which assimilates all the sciences to a natural-scientific model, fails because of the intimate relationship between the social sciences and history, and the fact that they are based on a situation-specific understanding of meaning that can be explicated only hermeneutically ... access to a symbolically prestructured reality cannot be gained by observation alone."
+Sociologist Zygmunt Bauman thinks that "our innate tendency to express moral concern and identify with the Other's wants is stifled in modernity by positivistic science and dogmatic bureaucracy. If the Other does not "fit in" to modernity´s approved classifications, it is liable to be extinguished."
+
+
+== See alsoEdit ==
+Critical theory
+Grounded theory
+Humanistic sociology
+Holism
+Philosophy of social science
+Positivism
+Positivism dispute
+Postpositivism
+Poststructuralism
+Social action
+Symbolic interactionism
+Verstehen
+
+
+== ReferencesEdit ==
+^ Macionis, John J.; Gerber, Linda M. Sociology (7th Canadian ed.). Toronto: Pearson Canada. p. 32. ISBN 978-0-13-700161-3. 
+^ Hamilton, Peter (1974). Knowledge and Social Structure. London: Routledge and Kegan Paul. p. 4. ISBN 0710077467. 
+^ Jordan, Zbigniew A. (1967). The Evolution of Dialectical Materialism: A Philosophical and Sociological Analysis. New York, NY, USA: Macmillan. pp. 131, 321.  [1] [2]
+^ Outhwaite, William, 1988 Habermas: Key Contemporary Thinkers, Polity Press (Second Edition 2009), ISBN 978-0-7456-4328-1 p. 20-5
+^ Ashley D, Orenstein DM (2005). Sociological theory: Classical statements (6th ed.). Boston, MA, USA: Pearson Education. p. 241. 
+^ Weber, Max The Nature of Social Action in Runciman, W.G. 'Weber: Selections in Translation' Cambridge University Press, 1991. p7.
+^ Levine, Donald (ed) 'Simmel: On individuality and social forms' Chicago University Press, 1971. pxix.
+^ Levine, Donald (ed) 'Simmel: On individuality and social forms' Chicago University Press, 1971. p6.
+^ Outhwaite, William, 1988 Habermas: Key Contemporary Thinkers, Polity Press (Second Edition 2009), ISBN 978-0-7456-4328-1 p. 22
+^ John Scott. Fifty Key Sociologists: The Contemporary Theorists. Routledge. 2006. p. 19

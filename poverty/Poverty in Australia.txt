@@ -1,0 +1,86 @@
+Poverty in Australia deals with the incidence of poverty in Australia and its measurement. The issue of poverty and its measurement are contentious political issues, with many on the left wing of Australian politics arguing that relative poverty ought to be the appropriate measure. Relative income poverty, for example, looks at the percentage of the population that earns less in comparison to average earnings. Many on the right of Australian politics argue that this relative measure is a mistake because it hides the existence of absolute poverty in Australia by looking only at those who, for whatever reason, earn relatively little.
+Some of the latest information on poverty in Australia comes from a study conducted by the Australian Council of Social Service in 2012. The Report, Poverty In Australia, shows that in 2010, after taking account of housing costs, an estimated 2,265,000 people or 12.5% of all people, including 575,000 children (17.3% of all children), lived in households below the most austere poverty line widely used in international research.
+
+
+== Defining poverty ==
+
+The main way of measuring poverty is to set a poverty line and then determine how many people fall below this line. Poverty lines can be set as either absolute poverty lines or relative poverty lines. Australia does not have an official poverty line, either absolute or relative. The 2012 report entitled Poverty in Australia used two poverty lines and also took account of people's housing costs. One poverty line used by the OECD and in this study, referred to half of the middle income for all households, that is, 50% of median household income and the other is 60% of median income.
+
+
+=== Absolute poverty, extreme poverty ===
+First introduced in 1990, the dollar a day poverty line measured absolute poverty by the standards of the world's poorest countries. The World Bank defined the new international poverty line as $1.25 a day for 2005 (equivalent to $1.00 a day in 1996 US prices). but have recently been updated to be $1.25 and $2.50 per day. Absolute poverty, extreme poverty, or abject poverty is "a condition characterized by severe deprivation of basic human needs, including food, safe drinking water, sanitation facilities, health, shelter, education and information. It depends not only on income but also on access to services."
+The term 'absolute poverty', when used in this fashion, is usually synonymous with 'extreme poverty': Robert McNamara, the former President of the World Bank, described absolute or extreme poverty as, "...a condition so limited by malnutrition, illiteracy, disease, squalid surroundings, high infant mortality, and low life expectancy as to be beneath any reasonable definition of human decency". Australia is one of the world's wealthier nations. In his article published in Australian Policy Online, Robert Tanton notes that, "While this amount is appropriate for third world countries, in Australia, the amount required to meet these basic needs will naturally be much higher because prices of these basic necessities are higher."
+
+However, as the amount of wealth required for survival is not the same in all places and time periods, particularly in highly developed countries where few people would fall below the World Bank's poverty lines, countries often develop their own National poverty lines.
+An absolute poverty line was calculated in Australia for the Henderson poverty inquiry in 1973. It was $62.70 a week, which was the disposable income required to support the basic needs of a family of two adults and two dependent children at the time. This poverty line has been updated regularly by the Melbourne Institute according to increases in average incomes; for a single employed person it was $391.85 per week (including housing costs) in March 2009. In Australia the OECD poverty would equate to a "disposable income of less than $358 per week for a single adult (higher for larger households to take account of their greater costs).
+
+
+=== Relative poverty ===
+Poverty can also be measured in relative terms, where the poverty line is set as some proportion of the average income or wealth of the society.
+There are many different ways to calculate relative poverty, resulting in different levels of poverty, and researchers often argue about where the line should be drawn. For example, a Smith Family and NATSEM (The National Centre for Social and Economic Modelling) report in 2000 indicated as many as 1 in 8 Australians are experiencing poverty. The Centre for Independent Studies (CIS) argues that their research indicates the figure is at least 1 in 12 and could even be as low as 1 in 20. This is because their poverty lines were determined in different ways:
+The Smith family researchers "added up all the pay packets in Australia and divided them by the number of wage earners. That average is then halved to find the poverty line" (the Mean).
+The CIS "ranks all the pay packets in descending order, finds the wage in the very middle of that range and then halves that... wage to find the poverty line" (the Median). This gives very different results.
+The problem of these measures is that they focus exclusively on income. But poverty is also defined through other indicators such as education, health, access to services and infrastructure, vulnerability, social exclusion, access to social capital, etc.
+The most widely used indicator to take non-income factors into consideration is the Human Development Index (HDI) compiled yearly by the United Nations Development Programme (UNDP), which combines measure for income, health and education. For advanced economies, the Human Poverty Index (HPI-2) was developed, which takes into consideration the higher levels of income, health and education in these countries. Australia ranks very high on these global indexes.
+
+
+== Incidence of poverty in Australia ==
+
+During the first decade of the twenty-first century, the notion of "the rich getting richer and the poor getting poorer" was increasing in popularity. Often, different conclusions have been reached depending on how poverty is measured. It is argued that Australia's middle class is shrinking and that those in the bottom 5% of income earners in Australia had, in fact, become poorer over the past decade.
+
+
+=== 2001 poverty line ===
+According to the Smith Family in 2001:
+13.0% of Australians live in poverty (2.86 million).
+2.9% of children live in poverty.
+6.8% of single parent families live in poverty.
+This report highlighted the relationship between poverty and unemployment with the under-employed facing greater risks of poverty particularly with the increasing casualisation of the workforce.
+According to the census figures, Australia's population during census night 2001 was 18,972,350.
+
+
+=== 2006 UN Human Poverty Index ===
+The last report, 2006, The UN Human Poverty Index (HPI) for 2006 only has a ranking for 18 of the 21 countries with the highest Human Development Index.
+In the report, Australia is ranked 4th in the OECD, with a HPI of 12.8.
+The value for the 'Population below 50% of median income (%)' for Australia was 14.3% (2.84 Million).
+According to the census figures, Australia's population during census night 2006 was 19,855,288
+
+
+=== 2007 child poverty ===
+Australia's child poverty rate falls in the middle of the international rankings. In 2007, UNICEF's report on child poverty in OECD countries revealed that Australia had the 14th highest child poverty rate.
+
+
+=== Poverty among Indigenous Australians ===
+Indigenous and minority groups are sometimes referred to as the "Fourth World". They experience a lower life expectancy, higher rates of infant mortality, higher unemployment rates, a lower general standard of living (health, housing), high rates of arrest and imprisonment, plus problems of alcohol and other substance abuses.
+Australian Indigenous people are no exception. In 2000, life expectancy of Indigenous Australians was some 20 years below that of other Australians. All the socioeconomic indicators such as income, employment, housing, education and health show considerable disparities between Australia's Indigenous and non-Indigenous populations. In fact, Australian Indigenous poverty ranks alongside countries as poor as Bangladesh where absolute poverty is real.
+
+
+== History of poverty in Australia ==
+
+
+=== Post-war period ===
+In the years following the end of the Second World War, and during Australia's long post-war economic boom, it was widely believed that the introduction of the welfare state together with the emergence of the affluent society had finally put an end to poverty in "the lucky country". The mid-to-late Sixties, however, saw a "rediscovery" of poverty, as it was found that many Australians had failed to share in the post-war economic boom.
+A number of researchers and organisations highlighted the persistence of poverty in Australia. According to one academic in 1960, Helen Hughes, about a third of the half-a-million widows and aged and invalid pensioners in Australia were estimated by social workers to be living in poverty. In 1959, another academic by the name of James Jupp wrote about the "submerged tenth" of the Australian population left out of the country's economic prosperity, including Aborigines, shack dwellers, deserted wives, unemployed migrants, slum dwellers, pensioners, and "no-hopers". Research into the extent of poverty in Australia was also undertaken by the Victorian and Australian Councils of Social Service, while the church-based welfare agency, the Brotherhood of St. Laurence, carried out a number of studies into the needs of low-income families and pensioners.
+In 1963, a Melbourne university lecturer called Ray Brown estimated that 5% of Australians lived in chronic poverty, with articles published in the radical magazine "Dissent" by David Scott, Leon Glezer, and Michael Keating coming to similar conclusions. In 1966 popular awareness of poverty was further extended by the publication of John Stubb's "The Hidden People", where he estimated that half-a-million Australians lived in poverty.
+Housing conditions also remained underdeveloped for many Australians. A census carried out in 1954 revealed that 49,148 families were living in huts and sheds, while by the end of 1972, more than 1.5 million people in the major cities were living in flats and houses that were not connected to a complete sewerage reticulation system. In 1971, the Institute of Applied Economic Research estimated that at least 1 million Australians lived in poverty. A report by Justice John A. Nimmo from the start of the Seventies estimated that there were about a million Australians living below a miserably poor "poverty line."
+Labor parliamentarians provided numerous instances of social and financial deprivation in their own constituencies. As one Labor parliamentarian representing East Sydney asked the Minister for Social Services, Hugh Robinson, to see in May 1964
+“if he would like to get up early one morning and go to Paddy's Market or the general City Markets area of Sydney he would see many pensioners going through rubbish heaps to pick out food scraps with which to supplement their meals. You will see pensioners buying second-hand clothing because it is cheap. You will see other pensioners trying on spectacles. Spectacles are not included in social service benefits and the pensioners go to Paddy's Market because glasses may be bought there for one or two shillings a pair. I have seen age pensioners in the market trying sets of false teeth which are sold there. These people go to the market and can be seen standing there actually trying false teeth to see whether they fit. This situation obtains in Australia at present and we should be ashamed of it and so should the Government."
+Other studies on poverty carried out by the International Labour Office in Geneva also revealed high incidences of poverty in Australia. In 1973, using a national poverty line, it was estimated that 20.8% of Australians lived in poverty before benefits were taken into account, and 11.0% after benefits were taken into account. By contrast, using a standard poverty line, it was estimated that 24.3% of Australians lived in poverty before benefits, and 19.3% after benefits.
+One academic whose work on poverty would galvanise both public and political opinion was that of Professor Ronald Henderson who, together with his fellow researchers from the Melbourne University Institute of Applied Economic and Social Research, carried out the "first systematic attempt to estimate the extent of poverty in Australia".
+In 1966, Henderson and the Melbourne University Institute of Applied Economic and Social Research which he headed set out to measure the extent of poverty in the city of Melbourne. A poverty line was set at $33, which was close to the basic wage plus child endowment for two children. Based on this figure, 7.7% of all family units in Melbourne lived on or below the poverty line, while an additional 5.2% "hovered dangerously close to the minimum level".
+A Commission of Inquiry into Poverty was set up in August 1972 by the Liberal Prime Minister William McMahon, and Henderson was appointed as Chairman of the inquiry. The Whitlam Government elected later that year expanded the size of the Commission and scope, giving it specific responsibility to focus on the extent of poverty in Australia together with the groups most at risk of experiencing poverty, the income needs of those living in poverty, and issues relating to housing and welfare services. These issues were addressed in the Commission's first main report, "Poverty in Australia", which was released in April 1975.
+In this report, Henderson sought to identify the extent of poverty in Australia in terms of inadequate income relative to need, and the poverty line was defined as a percentage of average earnings, adjusted for household size. The poverty line was set at 56.5% of average earnings for a "standard" family (consisting of a male breadwinner, a woman not in paid employment, and two dependent children). According to the report, 8.2% of the population lived in poverty in 1972–73, or 6.4% when housing costs were taken into account. Before housing costs, over 10% of income units in 1972–73 were below the Commission's poverty line, while a further 8% were defined as 'rather poor', having an income of less than 20% above that line. After housing costs were taken into account, the percentage of income units living below the poverty line was about 7%.
+The Henderson Commission of Inquiry into Poverty also estimated that more than 50% of Aborigines had living standards below the poverty line and less than 20% above it. The infant mortality rates among Aborigines in the period 1973–77 were 63 deaths per thousand live births in the Northern Territory and 71 per thousand in Queensland. This compared with a rate of 62 per thousand in South America, 59 per thousand in Africa, 41 per thousand in Central America, 68 per thousand in Asia, and 15 per thousand amongst non-Aboriginal Australians.
+
+
+== See also ==
+Homelessness in Australia
+Home ownership in Australia
+Median household income in Australia and New Zealand
+General:
+Poverty by country
+
+
+== Notes ==
+
+
+== References ==

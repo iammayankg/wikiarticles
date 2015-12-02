@@ -1,0 +1,66 @@
+The environmental impact of transport is significant because it is a major user of energy, and burns most of the world's petroleum. This creates air pollution, including nitrous oxides and particulates, and is a significant contributor to global warming through emission of carbon dioxide, for which transport is the fastest-growing emission sector. By subsector, road transport is the largest contributor to global warming.
+Environmental regulations in developed countries have reduced the individual vehicles emission; however, this has been offset by an increase in the number of vehicles, and more use of each vehicle. Some pathways to reduce the carbon emissions of road vehicles considerably have been studied. Energy use and emissions vary largely between modes, causing environmentalists to call for a transition from air and road to rail and human-powered transport, and increase transport electrification and energy efficiency.
+Other environmental impacts of transport systems include traffic congestion and automobile-oriented urban sprawl, which can consume natural habitat and agricultural lands. By reducing transportation emissions globally, it is predicted that there will be significant positive effects on Earth's air quality, acid rain, smog and climate change.
+The health impact of transport emissions is also of concern. A recent survey of the studies on the effect of traffic emissions on pregnancy outcomes has linked exposure to emissions to adverse effects on gestational duration and possibly also intrauterine growth.
+
+
+== Sectors ==
+
+
+=== Aviation ===
+
+Aviation emissions vary based on length of flight. For covering long distances, longer flights are a better investment of the high energy costs of take-off and landing than very short flights, yet by nature of their length inevitably use much more energy. CO2 emissions from air travel range from .24 kg CO2 per passenger mile for short flights down to .18 kg CO2 per passenger mile for long flights. Researchers have been raising concern about the globally increasing hypermobility of society, involving frequent and often long distance air travel and the resulting environmental and climate impacts. This threatens to overcome gains made in the efficiency of aircraft and their operations. Climate scientist Kevin Anderson raised concern about the growing effect of air transport on the climate in a paper[13] and a presentation[14] in 2008. He has pointed out that even at a reduced annual rate of increase in UK passenger air travel and with the government's targeted emissions reductions in other energy use sectors, by 2030 aviation would be causing 70% of the UK's allowable CO2 emissions.
+
+
+=== Road transport ===
+
+
+==== Cars ====
+Unleaded gasoline has 8.91 kg and diesel has 10.15 kg of CO2 per gallon. CO2 emissions originating from ethanol are disregarded by international agreements however so gasoline containing 10% ethanol would only be considered to produce 8.02 kg of CO2 per gallon. The average fuel economy for cars sold in the US 2005 was about 25.2 MPG giving around 0.35 kg of CO2 per mile. The Department of Transportation's MOBILE 6.2 model, used by regional governments to model air quality, uses a fleet average (all cars, old and new) of 20.3 mpg giving around 0.44 kg of CO2 per mile.
+
+
+==== Buses ====
+On average, inner city commuting buses emit 0.3 kg of CO2 per passenger mile (0.18 kg/km per passenger), and long distance (>20 mi, >32 km) bus trips emit 0.08 kg of CO2 per passenger mile (0.05 kg/km per passenger). Road and transportation conditions vary, so some carbon calculations add 10% to the total distance of the trip to account for potential traffic jams, detours, and pit-stops that may arise.
+
+
+=== Rail ===
+On average, commuter rail and subway trains emit 0.17 kg of CO2 per passenger mile (0.26 kg/km per passenger), and long distance (>20 mi, >32 km) trains emit 0.19 kg of CO2 per passenger mile (0.3 kg/km per passenger). Some carbon calculations add 10% to the total trip distance to account for detours, stop-overs, and other issues that may arise. Electric trains contributes relatively less to the pollution as pollution happens in the power plants which are lot more efficient than diesel driven engines.
+
+
+=== Shipping ===
+
+The fleet emission average for delivery vans, trucks and big rigs is 10.17 kg CO2 per gallon of diesel consumed. Delivery vans and trucks average about 7.8 mpg (or 1.3 kg of CO2 per mile) while big rigs average about 5.3 mpg (or 1.92 kg of CO2 per mile).
+Shipping Emissions Factors:
+
+   - Air cargo - 0.8063 kg of CO2 per Ton-Mile
+   - Truck - 0.1693 kg of CO2 per Ton-Mile
+   - Train - 0.1048 kg of CO2 per Ton-Mile
+   - Sea freight - 0.0403 kg of CO2 per Ton-Mile
+   - Zeppelin - 0.0887 kg of CO2 per Ton-Mile
+
+
+== Mitigation of environmental impact ==
+
+
+=== Road-Rail Parallel Layout ===
+
+Road-Rail Parallel Layout is a design option to reduce the environmental impact of new transportation routes by locating railway tracks alongside a highway. In 1984 the Paris—Lyon high-speed rail route in France had about 14% parallel layout with the highway, and in 2002, 70% parallel layout was achieved with the Cologne–Frankfurt high-speed rail line.
+
+
+== Australia ==
+
+The environmental impact of transport in Australia is considerable. Australia subsidizes fossil fuel energy, keeping prices artificially low and raising greenhouse gas emissions due to the increased use of fossil fuels as a result of the subsidies. The Australian Energy Regulator and state agencies such as the New South Wales' Independent Pricing and Regulatory Tribunal set and regulate electricity prices, thereby lowering production and consumer cost.
+
+
+== See also ==
+Environmental impact of aviation
+Environmental effects of biodiesel
+List of environmental issues
+Vehicle recycling
+
+
+== References ==
+
+
+== External links ==
+Personal Transportation Factsheet by the University of Michigan's Center for Sustainable Systems

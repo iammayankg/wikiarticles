@@ -1,0 +1,70 @@
+A wage is monetary compensation (or remuneration, personnel expenses, labor) paid by an employer to an employee in exchange for work done. Payment may be calculated as a fixed amount for each task completed (a task wage or piece rate), or at an hourly or daily rate, or based on an easily measured quantity of work done.
+Wages are an example of expenses that are involved in running a business.
+Payment by wage contrasts with salaried work, in which the employer pays an arranged amount at steady intervals (such as a week or month) regardless of hours worked, with commission which conditions pay on individual performance, and with compensation based on the performance of the company as a whole. Waged employees may also receive tips or gratuity paid directly by clients and employee benefits which are non-monetary forms of compensation. Since wage labour is the predominant form of work, the term "wage" sometimes refers to all forms (or all monetary forms) of employee compensation.
+
+
+== Origins and necessary components ==
+Wage labour involves the exchange of money for time spent at work (the latter quantity is termed labor power by Marx and subsequent economists). As Moses I. Finley lays out the issue in The Ancient Economy:
+The very idea of wage-labour requires two difficult conceptual steps. First it requires the abstraction of a man's labour from both his person and the product of his work. When one purchases an object from an independent craftsman … one has not bought his labour but the object, which he had produced in his own time and under his own conditions of work. But when one hires labour, one purchases an abstraction, labour-power, which the purchaser then uses at a time and under conditions which he, the purchaser, not the "owner" of the labour-power, determines (and for which he normally pays after he has consumed it). Second, the wage labour system requires the establishment of a method of measuring the labour one has purchased, for purposes of payment, commonly by introducing a second abstraction, namely labour-time.
+The wage is the monetary measure corresponding to the standard units of working time (or to a standard amount of accomplished work, defined as a piece rate). The earliest such unit of time, still frequently used, is the day of work. The invention of clocks coincided with the elaborating of subdivisions of time for work, of which the hour became the most common, underlying the concept of an hourly wage. GEIA SAS RE KOPELIA
+
+Wages were paid in the Middle Kingdom of Ancient Egypt, Ancient Greece, and Ancient Rome.
+
+
+== Determinants of wage rates ==
+Depending on the structure and traditions of different economies around the world, wage rates will be influenced by market forces (supply and demand), legislation, and tradition. Market forces are perhaps more dominant in the United States, while tradition, social structure and seniority, perhaps play a greater role in Japan.
+
+
+=== Wage Differences ===
+
+Even in countries where market forces primarily set wage rates, studies show that there are still differences in remuneration for work based on sex and race. For example, according to the U.S. Bureau of Labor Statistics, in 2007 women of all races made approximately 80% of the median wage of their male counterparts. This is likely due to the supply and demand for women in the market because of family obligations. Similarly, white men made about 84% the wage of Asian men, and black men 64%. These are overall averages and are not adjusted for the type, amount, and quality of work done.
+
+
+== Wages in the United States ==
+
+Seventy-five million workers earned hourly wages in the United States in 2012, making up 59% of employees. In the United States, wages for most workers are set by market forces, or else by collective bargaining, where a labor union negotiates on the workers' behalf. The Fair Labor Standards Act establishes a minimum wage at the federal level that all states must abide by, among other provisions. Fourteen states and a number of cities have set their own minimum wage rates that are higher than the federal level. For certain federal or state government contacts, employers must pay the so-called prevailing wage as determined according to the Davis-Bacon Act or its state equivalent. Activists have undertaken to promote the idea of a living wage rate which account for living expenses and other basic necessities, setting the living wage rate much higher than current minimum wage laws require. The minimum wage rate is there to protect the well being of the working class. 
+
+
+=== U.S. Federal income tax withholding ===
+For purposes of federal income tax withholding, 26 U.S.C. § 3401(a) defines the term "wages" specifically for chapter 24 of the Internal Revenue Code:
+"For purposes of this chapter, the term “wages” means all remuneration (other than fees paid to a public official) for services performed by an employee for his employer, including the cash value of all remuneration (including benefits) paid in any medium other than cash;" In addition to requiring that the remuneration must be for "services performed by an employee for his employer," the definition goes on to list 23 exclusions that must also be applied.
+
+
+== See also ==
+Compensation of employees
+Employee benefit (non-monetary compensation in exchange for labor)
+Employment
+Labour in Economics
+List of countries by average wage
+Performance-related pay
+Wage labour
+Wage share
+Real wage
+List of sovereign states in Europe by net average wage
+Marginal factor cost
+Political science:
+Labour power
+Proletarian
+Working class
+Wage slavery
+
+
+== References ==
+
+
+== Further reading ==
+Galbraith, James Kenneth. Created Unequal: the Crisis in American Pay, in series, Twentieth Century Fund Book[s]. New York: Free Press, 1998. ISBN 0-684-84988-7
+
+
+== External links ==
+Lebergott, Stanley (2002). "Wages and Working Conditions". In David R. Henderson (ed.). Concise Encyclopedia of Economics (1st ed.). Library of Economics and Liberty.  OCLC 317650570, 50016270 and 163149563
+U.S. Bureau of Labor Statistics
+Wealth of Nations – click Chapter 8
+Understanding Capitalism Part III: Wages and Labor Markets – Critical of capitalism
+U.S. Department of Labor: Minimum Wage Laws – Different laws by State
+Average U.S. farm and non-farm wage
+LaborFair Resources – Link to Fair Labor Practices
+The Truth Behind Wages in Mining – How Wages are measured and Current Standards for Mining Professionals
+Database Central Europe – Data on average wages in Central Europe and in Emerging Markets
+Salary and wages data collection – Salary and wages data collection
+Prices and Wages library guide - Prices and Wages research guide at the University of Missouri libraries

@@ -1,0 +1,53 @@
+Galena, also called lead glance, is the natural mineral form of lead(II) sulfide. It is the most important ore of lead and an important source of silver.
+Galena is one of the most abundant and widely distributed sulfide minerals. It crystallizes in the cubic crystal system often showing octahedral forms. It is often associated with the minerals sphalerite, calcite and fluorite.
+
+
+== Lead ore depositsEdit ==
+
+Galena is the main ore of lead, used since ancient times. Because of its somewhat low melting point, it was easy to liberate by smelting.
+In some deposits galena contains about 1-2 percent silver, a byproduct that far outweighs the main lead ore in revenue. Galena deposits often also contain significant amounts of silver as included silver sulfide mineral phases or as limited solid solution within the galena structure. These argentiferous galenas have long been the most important ore of silver.
+Galena deposits are found worldwide in various environments. Noted deposits include those at Freiberg in Saxony; Cornwall, The Mendips, Somerset, Derbyshire, and Cumberland in England; the Madan, Smolyan Province, Rhodope Mountains in Bulgaria; the Sullivan Mine of British Columbia; Broken Hill in Australia and the ancient mines of Sardinia. Galena also occurs in North African countries and at Mount Hermon in Northern Israel. In the United States, it occurs most notably in the Mississippi Valley type deposits of the Lead Belt in southeastern Missouri, and in the Driftless Area of Illinois, Iowa and Wisconsin. The economic importance of galena to the early history of the Driftless Area was so great that one of the towns in the region was named Galena, Illinois.
+
+Galena also was a major mineral of the zinc-lead mines of the tri-state district around Joplin in southwestern Missouri and the adjoining areas of Kansas and Oklahoma. Galena is also an important ore mineral in the silver mining regions of Colorado, Idaho, Utah and Montana. Of the latter, the Coeur d'Alene district of northern Idaho was most prominent.
+Galena is the official state mineral of the U.S. states of Missouri and Wisconsin; the former mining town of Galena, Kansas takes its name from deposits of this mineral.
+Derbyshire in the UK was one of the main areas where galena was mined.
+The largest documented crystal of galena is composite cubo-octahedra from Great Laxey Mine, Isle of Man, U.K. measuring 25×25×25 cm.
+
+
+== Crystal structureEdit ==
+Galena belongs to the octahedral sulfide group of minerals with metal ions in octahedral positions, like members pyrrhotite and niccolite. The galena group is named after its most common member, with other isometric members that include manganese bearing alabandite and niningerite.
+Divalent lead (Pb) cations and sulfur (S) anions form a close-packed cubic unit cell much like the mineral halite of the halide mineral group. Zinc, cadmium, iron, copper, antimony, arsenic, bismuth, and selenium also occur in variable amounts in galena. Selenium substitutes for sulfur in the structure constituting a solid solution series. The lead telluride mineral altaite has the same crystal structure as galena.
+
+
+== GeochemistryEdit ==
+Within the weathering or oxidation zone galena alters to anglesite (lead sulfate) or cerussite (lead carbonate). Galena exposed to acid mine drainage can be oxidized to anglesite by naturally occurring bacteria and archaea, in a process similar to bioleaching.
+
+
+== Galena usesEdit ==
+One of the oldest uses of galena was as kohl, which, in Ancient Egypt, was applied around the eyes to reduce the glare of the desert sun and to repel flies, which were a potential source of disease.
+Galena is the primary ore of lead which is mainly used in making lead-acid batteries; however, significant amounts are also used to make lead sheets and shot. Galena is often mined for its silver content (e.g. the Galena Mine in northern Idaho).
+Also known as "potters ore", galena is used in a green glaze applied to pottery.
+Galena is a semiconductor with a small bandgap of about 0.4 eV which found use in early wireless communication systems. It was used as the crystal in crystal radio sets, in which it was used as a point-contact diode capable of rectifying alternating voltages and current and when used in a hence to detect the radio signals. The galena crystal was used with a sharp wire, known as a "cat's whisker" in contact with it. The operation of the radio required that the point of contact on the galena be shifted about to find a part of the crystal that acted as a rectifying diode. Making such wireless sets was a popular home hobby in Britain and other European countries during the 1930s. Scientists associated with the investigation of the diode effect are Karl Ferdinand Braun and Sir Jagdish Bose. In modern wireless communication systems, galena detectors have been replaced by more reliable semiconductor devices.
+
+
+== Health issuesEdit ==
+Galena contains lead, a toxic element. While bound to crystal structure, the lead content of galena is of minor concern and the mineral is safe to handle. However, prolonged exposure via inhalation or ingestion of the pulverized dust is hazardous to one's health.
+
+
+== See alsoEdit ==
+List of minerals
+Lead smelter
+
+
+== NotesEdit ==
+
+
+== ReferencesEdit ==
+Klein, Cornelis and Cornelius S. Hurlbut, Jr. (1985) Manual of Mineralogy, Wiley, 2nd ed., pp. 274–276, ISBN 0-471-80580-7.
+Franklin and Sterling Hill mineral deposits.
+
+
+== External linksEdit ==
+Case Studies in Environmental Medicine (CSEM): Lead Toxicity.
+ToxFAQs: Lead.
+Mineral information institute entry for lead.

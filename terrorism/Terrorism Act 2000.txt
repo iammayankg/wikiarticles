@@ -1,0 +1,202 @@
+The Terrorism Act 2000 (c.11) is the first of a number of general Terrorism Acts passed by the Parliament of the United Kingdom. It superseded and repealed the Prevention of Terrorism (Temporary Provisions) Act 1989 and the Northern Ireland (Emergency Provisions) Act 1996. The powers it provides the police have been controversial, leading to noted cases of alleged abuse, and to legal challenges in British and European courts. The stop-and-search powers under section 44 of the Act have been ruled illegal by the European Court of Human Rights. The inclusion in its definition of the phrase or threat mirrors the common law, as it was codified with respect to written words, in 27 Geo II c.15 (1754) and again in 4 Geo IV c.54 (1823).
+
+
+== Definition of terrorism ==
+
+Terrorism is defined, in the first section of the Act, as follows:
+
+Section 1. –
+(1) In this Act "terrorism" means the use or threat of action where-
+(a) the action falls within subsection (2),
+(b) the use or threat is designed to influence the government [or an international governmental organisation] or to intimidate the public or a section of the public, and
+(c) the use or threat is made for the purpose of advancing a political, religious[, racial] or ideological cause.
+
+(2) Action falls within this subsection if it-
+(a) involves serious violence against a person,
+(b) involves serious damage to property,
+(c) endangers a person's life, other than that of the person committing the action,
+(d) creates a serious risk to the health or safety of the public or a section of the public, or
+(e) is designed seriously to interfere with or seriously to disrupt an electronic system.
+
+(3) The use or threat of action falling within subsection (2) which involves the use of firearms or explosives is terrorism whether or not subsection (1)(b) is satisfied.
+
+Sections (2)(b) and (e) have been criticised as falling well outside the scope of what is generally understood to be the definition of terrorism, i.e. acts that require life-threatening violence.
+Prior to this, terrorism was defined in an Act as a footnote, such as Reinsurance (Acts of Terrorism) Act 1993 (c. 18) section 2(2):
+
+"acts of terrorism" means acts of persons acting on behalf of, or in connection with, any organisation which carries out activities directed towards the overthrowing or influencing, by force or violence, of Her Majesty's government in the United Kingdom or any other government de jure or de facto.
+
+and Prevention of Terrorism (Temporary Provisions) Act 1989 (c. 4) section 20(1):
+
+In this Act "terrorism" means the use of violence for political ends, and includes any use of violence for the purpose of putting the public or any section of the public in fear.
+
+In Northern Ireland (Emergency Provisions) Act 1996, the criminal offences referred to as terrorism are provided as an exhaustive list of over 70 items.
+This move to establish a sound definition of terrorism in the law made it possible to build an entirely new set of police and investigatory powers into incidents of this kind, beyond what they could do for ordinary violent offences.
+
+
+== Proscribed groups ==
+As in previous Terrorism Acts, such as the Prevention of Terrorism (Temporary Provisions) Act 1989, the Home Secretary had the power to maintain a list of "proscribed groups" that they believe are "concerned in terrorism". The act of being a member of, or supporting such a group, or wearing an item of clothing such as "to arouse reasonable suspicion that he is a member or supporter of a proscribed organisation" is sufficient to be prosecuted for a terrorist offence.
+
+
+=== International groups ===
+The secretary of state's list proscribes a number of international organisations, the majority because of accusations connected with Islamic fundamentalism. The list as of August 2014 comprises 60 groups:
+
+Mujaheddin e Khalq (MeK) was removed from the list of proscribed organisations in June 2008, as a result of judgements of the Proscribed Organisations Appeal Commission and the Court of Appeal.
+Under the act aliases of organizations can be added. For example, Al Muhajiroun, Islam4UK, Call to Submission, Islamic Path, London School of Sharia and Muslims Against Crusades were added in January 2010 and November 2011 as alternative names for Al Ghurabaa and The Saved Sect (also deemed to be the same organization) and in June 2014 Need4Khilafah, the Shariah Project and the Islamic Dawah Association were added to this list. An alias does not have to be added to the list for prosecution to be possible, provided it can be demonstrated that for all intents and purposes the organization is a proscribed one, and that the person involved has committed a proscribed act.
+
+
+=== Domestic groups ===
+A number of armed paramilitary groups are also proscribed because of involvement in the Troubles in Northern Ireland. The list as of December 2011 is:
+Continuity Army Council (CAC)
+Cumann na mBan
+Fianna na hÉireann, a name claimed by multiple groups
+Irish National Liberation Army (INLA)
+Irish People's Liberation Organisation (IPLO)
+Irish Republican Army (IRA), a name claimed by multiple groups
+Loyalist Volunteer Force (LVF)
+Orange Volunteers
+Red Hand Commando
+Red Hand Defenders
+Saor Éire
+Ulster Defence Association (UDA)
+Ulster Freedom Fighters (UFF)
+Ulster Volunteer Force (UVF)
+
+
+== Provisions ==
+
+
+=== Section 41 (detention without charge) ===
+Section 41 of the Act provided the police with the power to arrest and detain a person without charge for up to 48 hours if they were suspected of being a terrorist. This period of detention could be extended to up to seven days if the police can persuade a judge that it is necessary for further questioning.
+This was a break from ordinary criminal law where suspects had to be charged within 24 hours of detention or be released. This period was later extended to 14 days by the Criminal Justice Act 2003, and to 28 days by the Terrorism Act 2006.
+
+
+=== Stop and search without suspicion ===
+
+
+==== Section 44 ====
+The most commonly encountered use of the Act was outlined in Section 44 which enables the police and the Home Secretary to define any area in the country as well as a time period wherein they could stop and search any vehicle or person, and seize "articles of a kind which could be used in connection with terrorism". Unlike other stop and search powers that the police can use, Section 44 does not require the police to have "reasonable suspicion" that an offence has been committed, to search an individual.
+In 2009, over 100,000 searches were conducted under the powers, but none of these resulted in people being arrested for terrorism offences. 504 were arrested for other offences.
+In January 2010 the stop-and-search powers granted under Section 44 were ruled illegal by the European Court of Human Rights. It held that Article 8 of the European Convention on Human Rights had been violated in the case of two people stopped in 2003 outside the ExCeL convention centre in London, which at the time was hosting a military equipment exhibition. The Court found the powers were "not sufficiently circumscribed" and lacked "adequate legal safeguards against abuse", over-ruling a 2003 High Court judgement upheld at the Court of Appeal and the House of Lords.
+Pending new powers in the Protection of Freedoms Bill (see Section 47A), Theresa May made a remedial order under the Human Rights Act 1998 (the Terrorism Act 2000 (Remedial) Order 2011), which had the effect of repealing sections 44, 45, 46 and most of section 47.
+
+
+==== Section 47A ====
+As discussed above, since 18 March 2011 section 44 has been treated as repealed. It has been replaced with a new section 47A by the Terrorism Act 2000 (Remedial) Order 2011. Under the new provisions, searches can only be carried out as follows:
+A senior police officer must make an authorisation in relation to a specified area or place. He can make such an authorisation only if he:
+reasonably suspects that an act of terrorism will take place, and
+considers that:
+the authorisation is necessary to prevent such an act,
+the specified area or place is no greater than is necessary to prevent such an act, and
+the duration of the authorisation is no longer than is necessary to prevent such an act.
+
+When such an authorisation is in force, any constable in uniform can, in the specified area or place, stop:
+a vehicle, and search:
+the vehicle,
+the driver of the vehicle,
+a passenger in the vehicle, and
+anything in or on the vehicle or carried by the driver or a passenger,
+
+a pedestrian, and search:
+the pedestrian, and
+anything carried by the pedestrian.
+
+But the power to search can only be used for the purpose of discovering whether there is anything which may constitute evidence that:
+the vehicle concerned is being used for the purposes of terrorism, or that
+the person concerned is or has been concerned in the commission, preparation or instigation of acts of terrorism.
+The power conferred by such an authorisation may be exercised whether or not the constable reasonably suspects that there is such evidence. A person or vehicle searched under this power may be detained for as long as is reasonably required. A person who is searched may be required to remove their headgear, footwear, outer coat, jacket or gloves, but nothing else whilst in public. If requested, a form must be given stating that the person/vehicle was stopped.
+An authorisation can be given by an Assistant Chief Constable (or if the area is in the Metropolitan Police District of the City of London, then a Commander of the Metropolitan Police/City of London Police). Authorisations can also be given by the Assistant Chief Constables of:
+the British Transport Police, in relation to railway property,
+the Ministry of Defence Police, in relation to military land, ordnance factories or dockyards, or other places where the Ministry of Defence Police have an agreement to police (some gas terminals)
+the Civil Nuclear Constabulary, in relation to nuclear power stations and associated land, and land up to 5 kilometres from such places.
+If given verbally, authorisations must be confirmed in writing as soon as reasonably practicable, and in either case must be notified to the Home Office as soon as reasonably practicable. Authorisations must be confirmed by the Home Office within 48 hours of their being made, or they expire automatically. If confirmed, an authorisation can only last for up to 14 days. An authorisation can be cancelled at any time, or restricted in respect of the time it ends or the area which it covers, but it cannot be expanded. New authorisations can be made regardless of whether previous authorisations exist, or have been cancelled or have expired.
+
+
+=== Section 58 – Collection of information ===
+This section creates the offence, liable to a prison term of up to ten years, to collect or possess "information of a kind likely to be useful to a person committing or preparing an act of terrorism".
+Sections 57–58: Possession offences: Section 57 is dealing with possessing articles for the purpose of terrorist acts. Section 58 is dealing with collecting or holding information that is of a kind likely to be useful to those involved in acts of terrorism. Section 57 includes a specific intention, section 58 does not.
+Bilal Zaheer Ahmad, 23, from Wolverhampton, is believed to be the first person convicted of collecting information likely to be of use to a terrorist, including the al-Qaeda publication Inspire.
+
+
+=== Part 7 ===
+Part 7, comprising sections 65 to 113, contained particular provisions applying to Northern Ireland, that were to require parliamentary approval on an annual basis by means of a statutory instrument to continue in force. The part replaced previous provisions under the Northern Ireland (Emergency Provisions) Act 1996.
+Part 7 was succeeded by the Terrorism (Northern Ireland) Act 2006, which in turn was succeeded by the Justice and Security (Northern Ireland) Act 2007.
+
+
+==== Section 75 (Trial without jury) ====
+Section 75 provided for bench trials instead of jury trials in Northern Ireland for scheduled offences, continuing the system of Diplock courts first established in 1973.
+
+
+== Stop and search, arrest and conviction rates ==
+Between July and December 2007, the BBC reported that more than 14,000 people and vehicles had been stopped and searched by British Transport Police in Scotland. In 2008 the Metropolitan Police conducted 175,000 searches using Section 44, these included over 2313 children (aged 15 or under), of whom 58 were aged under 10.
+Up to early 2004 around 500 people are believed to have been arrested under the Act; seven people had been charged. By October 2005 these figures had risen to 750 arrested with 22 convictions; the then current Home Secretary, Charles Clarke, said "the statistics illustrate the difficulty of getting evidence to bring prosecution".
+Figures released by the Home Office on 5 March 2007 show that 1,126 people were arrested under the Act between 11 September 2001 and 31 December 2006. Of the total 1,166 people arrested under the Act or during related police investigations, 221 were charged with terrorism offences, and 40 convicted.
+Noted arrests under Section 58 include Abu Bakr Mansha in December 2005, and the eight suspects involved in the 2004 financial buildings plot.
+
+
+== Reactions and analysis ==
+In his comprehensive commentary on this Act and other anti-terrorism legislation, Professor Clive Walker of the University of Leeds comments:
+"The Terrorism Act 2000 represents a worthwhile attempt to fulfil the role of a modern code against terrorism, though it fails to meet the desired standards in all respects. There are aspects where rights are probably breached, and its mechanisms to ensure democratic accountability and constitutionalism are even more deficient, as discussed in the section on 'Scrutiny' earlier in this chapter. It is also a sobering thought, proffered by the Home Affairs Committee, that the result is that ‘This country has more anti-terrorist legislation on its statute books than almost any other developed democracy.’ (Report on the Anti-terrorism, Crime and Security Bill 2001 (2001–02 HC 351) para.1). But at least that result initially flowed from a solemnly studied and carefully constructed legislative exercise."
+The Terrorism Act 2000 is subject to annual review by the Independent Reviewer of Terrorism Legislation. The Independent Reviewer's reports are submitted to the Home Secretary, laid before Parliament and published in full.
+
+
+== Alleged abuses ==
+The laws have been criticised for allowing excessive police powers leaving scope for abuse. There have been various cases in which the laws have been used in scenarios criticised for being unrelated to fighting terrorism. Critics allege there is systematic abuse of the act against protesters.
+Many instances have been reported in the media of innocent people who have been stopped and searched under section 44 of the Act. According to Home Office guidelines, police are required to have "reasonable suspicion" that a person is acting as a terrorist. Critics of the Act claim that, in practice, police are using Section 44 emergency powers as "an additional tool in their day-to-day policing kit" to stop and search innocent citizens without reasonable grounds, going beyond the original intention of Parliament.
+One of the issues arising from the Section 44 authorisations has been the use of the Act to detain lawful protestors or other people who are in the vicinity of demonstrations. Critics claim the Act gives police extended powers to deter or prevent peaceful protest.
+
+Problematic use of Section 44 powers has not been restricted to political protestors; according to reports, journalists, amateur and professional photographers, trainspotters, politicians and children have been subject to stop and search under suspicion of being involved in terrorist activities while engaged in lawful acts such as photography. The taking of photographs in public spaces is permitted under the Copyright, Designs and Patents Act 1988 (freedom of panorama), and while the Terrorism Act does not prohibit such activity, critics have alleged misuse of the powers of the Act to prevent lawful photography. (Further restrictions on photography have, however, been introduced with the Counter-Terrorism Act 2008)
+Disquiet among the police and government about Section 44 increased; in an interview on BBC Radio 4's programme iPM, Peter Smyth, chairman of the Metropolitan Police Federation, remarked that the Act was not clear about police and that a lack of training for police officers had led to some officers being "overzealous" in implementing the Act. Vernon Coaker, the Minister of State stated on 20 April 2009 that, "counter-terrorism measures should only be used for counter-terrorism purposes".
+In December 2009, the Association of Chief Police Officers (Acpo) issued a warning to police chiefs to stop using Section 44 powers to target photographers, whether tourists, amateurs or professionals, stating that the practice was "unacceptable". As of 2011, the Section 44 powers effectively no longer exist (see above), and police must "reasonably" suspect an individual of involvement in terrorism before intervening.
+
+
+=== Incidents ===
+
+
+==== General ====
+In October 2005 Sally Cameron was held for four hours after being arrested under the act for walking on a cycle path in a controlled port area in Dundee owned by Forth Ports. While cyclists were free to pass through the port zone, she was arrested and detained because she was a pedestrian and under suspicion of being a terrorist.
+In July 2008 anti-terror police held a 12-year-old autistic boy with cerebral palsy and his parents whilst travelling on the Eurotunnel Shuttle rail service under Section 7 of the Terrorism Act. The child's mother was taken to an interrogation room and questioned on suspicion of child trafficking and released without charge. Kent Police later apologised for the incident.
+In August 2013, while travelling home from a visit to Germany, carrying work in progress relating to classified US government documents to Glenn Greenwald in Brazil, David Miranda, 28, was detained by the Metropolitan Police Service at London's Heathrow Airport under Schedule 7 of the Terrorism Act 2000.
+
+
+==== Section 44 ====
+
+In September 2003 two people – Kevin Gillan and Pennie Quinton – intending to protest against the Defence Systems Equipment International (DSEI) show in London's Docklands, were stopped and searched under the Act. Quinton, who is a journalist, was ordered by police to stop filming the protest. The pressure group Liberty took the case to High Court where the Judge ruled in favour of the police. Appeals to the Court of Appeal, and, in March 2006, to the House of Lords, failed. The case was then taken to the European Court of Human Rights, on the grounds of an alleged violation of Articles 5,8,10 and 11 of the European Convention on Human Rights. The court ruled that the stop and search powers of the Police constituted a violation of the right to privacy.
+Walter Wolfgang was removed from the 2005 Labour Party conference for heckling Jack Straw. He was later stopped by police under the Terrorism Act on attempting to re-enter the conference.
+Over 1000 anti-war protesters, were stopped and required to empty their pockets, on their way to RAF Fairford (used by American B-52 bombers during the Iraq conflict).
+During the 2005 G8 protests in Auchterarder, Scotland, a cricketer on his way to a match was stopped at King's Cross station in London under Section 44 powers and questioned over his possession of a cricket bat.
+In October 2008 police stopped a 15-year-old schoolboy in south London who was taking photographs of Wimbledon railway station for his school geography project. He was questioned under suspicion of being a terrorist. His parents raised concerns that his personal data could be held on a police database for up to six years.
+In January 2009, Member of Parliament Andrew Pelling was questioned after photographing roadworks near a railway station
+In April 2009 a man in Enfield was questioned under Section 44 for photographing a police car that he considered was being driven inappropriately along a public footpath. The police claimed (incorrectly) that the act made it illegal to take photographs of police officers and vehicles.
+Trainspotters have frequently been subjected to stop and search; in August 2009 a rail enthusiast was pursued by Dyfed-Powys Police for photographing a locomotive at a Murco oil refinery in Milford Haven. Between 2000 and 2009, police used powers under the Act to stop 62,584 people at railway stations.
+In November 2009, BBC photographer Jeff Overs was searched and questioned by police outside the Tate Modern art gallery for photographing the sunset over St Paul's Cathedral, under suspicion of preparing for a terrorist act. Overs lodged a formal complaint with the Metropolitan Police.
+In December 2009, renowned architectural photographer Grant Smith was searched by a group of City of London Police officers under Section 44 because he was taking photographs of Christ Church Greyfriars; although he was working on public ground, the church's proximity to the Bank of America City of London branch caused a bank security guard to call the police.
+In June 2010 Metropolitan Police officers attempted to prevent a 15-year-old boy from photographing an Armed Forces Day parade in Romford, East London, citing "antisocial behaviour" and the Terrorism Act. A police misconduct hearing held in December 2011 found that the police had no legal power to prevent the teenager from taking pictures and that the police inspector involved in the incident had used abusive language in calling the boy "silly", "gay" and "stupid". The boy was awarded compensation and given an apology.
+In October 2011 a man was challenged by security staff in the Braehead Shopping Centre in Glasgow after taking photographs of his own four-year-old daughter eating an ice cream in the centre. He was held by Strathclyde Police under the Terrorism Act and eventually released without charge.
+
+
+== Amendments ==
+Section 6 of the Counter-Terrorism and Security Act 2015 made amendments to the act.
+
+
+== See also ==
+Terrorism Acts (since 2000)
+Human rights in the United Kingdom
+Walter Wolfgang – subject of an oft-quoted abuse of Section 44 of the Terrorism Act.
+Samina Malik – first woman convicted under the Terrorism Act.
+Rizwaan Sabir – Postgraduate Student Arrested & Detained for 6 Days under Section 41 of the Terrorism Act 2000
+Proscribed Organisations Appeal Commission
+Photography and the law – issues arising around the taking of photographs
+Censorship in the United Kingdom
+List of designated terrorist organisations
+US State Department list of Foreign Terrorist Organizations
+
+
+== References ==
+
+
+== External links ==
+Explanatory notes to the Terrorism Act 2000, from the Office of Public Sector Information.
+Home Office independent reviews of the Act
+Lord Carlile's review of the Act in 2005
+Review of definition of “Terrorism” in British Law published
+Terrorism Act 2000 Schedule 7 Port and Border Controls

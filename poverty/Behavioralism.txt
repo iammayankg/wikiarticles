@@ -1,0 +1,85 @@
+Behaviouralism (or behavioralism in the United States) is an approach in political science, which emerged in the 1930s in the United States. It represents a sharp break from previous political science. This is because it emphasized an objective, quantified approach to explain and predict political behavior. It is associated with the rise of the behavioral sciences, modeled after the natural sciences. This means that behavioralism claims it can explain political behavior from an unbiased, neutral point of view.
+Behavioralism seeks to examine the behavior, actions, and acts of individuals – rather than the characteristics of institutions such as legislatures, executives, and judiciaries – and groups in different social settings and explain this behavior as it relates to the political system.
+
+
+== Origins ==
+From the 1940s through the 1970s, behavioralism gained support. It was the site of discussion between traditionalist and new emerging approaches to political science. The origins of behavioralism is often attributed to the work of University of Chicago professor Charles Merriam who in the 1920s and 1930s, emphasized the importance of examining political behavior of individuals and groups rather than only considering how they abide by legal or formal rules.
+
+
+== Behavioralism as a political approach ==
+Prior to the "behavioralist revolution", political science being a science at all was disputed. Critics saw the study of politics as being primarily qualitative and normative, and claimed that it lacked a scientific method necessary to be deemed a science.
+Behavioralists used strict methodology and empirical research to validate their study as a social science. The behavioralist approach was innovative because it changed the attitude of the purpose of inquiry. It moved toward research that was supported by verifiable facts. During its rise in popularity in the 1960s and 70s, behavioralism challenged the realist and liberal approaches, which the behavioralists called "traditionalism", and other studies of political behavior that was not based on fact.
+To understand political behavior, behavioralism uses the following methods: sampling, interviewing, scoring and scaling and statistical analysis.
+Behavioralism studies how individuals behave in group positions realistically rather than how they should behave. For example, a study of the United States Congress might include a consideration of how members of Congress behave in their positions. The subject of interest is how Congress becomes an 'arena of actions' and the surrounding formal and informal spheres of power.
+
+
+== Meaning of behavioralism ==
+David Easton was the first to differentiate behavioralism from behaviorism in the 1950s. In the early 1940s, behaviorism itself was referred to as a behavioral science and later referred to as behaviorism. However, Easton sought to differentiate between the two disciplines:
+
+Behavioralism was not a clearly defined movement for those who were thought to be behavioralists. It was more clearly definable by those who were opposed to it, because they were describing it in terms of the things within the newer trends that they found objectionable. So some would define behavioralism as an attempt to apply the methods of natural sciences to human behavior. Others would define it as an excessive emphasis upon quantification. Others as individualistic reductionism. From the inside, the practitioners were of different minds as what it was that constituted behavioralism. [...] And few of us were in agreement.
+
+With this in mind, behavioralism resisted a single definition. Dwight Waldo emphasized that behavioralism itself is unclear, calling it "complicated" and "obscure." Easton agreed, stating, "every man puts his own emphasis and thereby becomes his own behavioralist" and attempts to completely define behavioralism are fruitless. From the beginning, behavioralism was a political, not a scientific concept. Moreover, since behavioralism is not a research tradition, but a political movement, definitions of behavioralism follow what behavioralists wanted. Therefore, most introductions to the subject emphasize value-free research. This is evidenced by Easton's eight "intellectual foundation stones" of behavioralism:
+Regularities - The generalization and explanation of regularities.
+Commitment to Verification - The ability to verify ones generalizations.
+Techniques - An experimental attitude toward techniques.
+Quantification - Express results as numbers where possible or meaningful.
+Values - Keeping ethical assessment and empirical explanations distinct.
+Systemization - Considering the importance of theory in research.
+Pure Science - Deferring to pure science rather than applied science.
+Integration - Integrating social sciences and value.
+Subsequently, much of the behavioralist approach has been challenged by the emergence of postpositivism in political (particularly international relations) theory.
+
+
+== Objectivity and value-neutrality ==
+According to David Easton, behavioralism sought to be "analytic, not substantive, general rather than particular, and explanatory rather than ethical." In this, the theory seeks to evaluate political behavior without "introducing any ethical evaluations." Rodger Beehler cites this as "their insistence on distinguishing between facts and values."
+
+
+== Criticism ==
+The approach has come under fire from both conservatives and radicals for the purported value-neutrality. Conservatives see the distinction between values and facts as a way of undermining the possibility of political philosophy. Neal Riemer believes behavioralism dismisses "the task of ethical recommendation" because behavioralists believe "truth or falsity of values (democracy, equality, and freedom, etc.) cannot be established scientifically and are beyond the scope of legitimate inquiry."
+Christian Bay believed behavioralism was a pseudopolitical science and that it did not represent "genuine" political research. Bay objected to empirical consideration taking precedence over normative and moral examination of politics.
+Behavioralism initially represented a movement away from "naive empiricism", but as an approach has been criticized for "naive scientism". Additionally, radical critics believe that the separation of fact from value makes the empirical study of politics impossible.
+
+
+=== Crick's critique ===
+British scholar Bernard Crick in The American Science of Politics (1959), attacked the behavioral approach to politics, which was dominant in the United States, but little known in Britain. He identified and rejected six basic premises and in each case argued the traditional approach was superior to behaviouralism:
+research can discover uniformities in human behavior,
+these uniformitiess could be confirmed by empirical tests and measurements,
+quantitative data was of the highest quality, and should be analyzed statistically,
+Political Science should be empirical and predictive, downplaying the philosophical and historical dimensions,
+value-free research was the ideal, and
+social scientists should search for a macro theory covering all the social sciences, as opposed to applied issues of practical reform.
+
+
+== See also ==
+Behavioral economics
+Behaviourism
+Postpositivism
+Post-behavioralism
+
+
+== Notes ==
+
+
+== References ==
+Baer, Michael A. (1991). Jewell, Malcolm E. and Lee Sigelman (eds), ed. Political Science in America: Oral Histories of a Discipline. Lexington: The University Press of Kentucky. ISBN 0-8131-0805-5. 
+Beehler, Rodger; Drengson, Alan R. (1978). The Philosophy of Society. Routledge. ISBN 0-416-83490-6. 
+Berndtson, Erkki. "Behavioralism: Origins of the Concept". 
+Dahl, Robert A. (December 1961). "The Behavioral Approach in Political Science: Epitaph for a Monument to a Successful Protest". American Political Science Review 55 (4): 763–772. doi:10.2307/1952525. JSTOR 1952525. 
+Easton, David (1953). The Political System. An Inquiry into the State of Political Science. New York: Alfred A. Knopf. 
+Easton, David (1962). "Introduction: The Current Meaning of "Behavioralism". In Charlesworth, James. Political Science. Philadelphia: American Academy of Political and Social Science. 
+Engeman, Thomas S. (1995). "Behavioralism, Postbehavioralism, and the Reemergence of Political Philosophy". Perspectives on Political Science 24 (4): 214. doi:10.1080/10457097.1995.9941880. 
+Eulau, Heinz (1969). Behavioralism in Political Science. Transaction. 
+Gilman, Nils (2007). Mandarins of the Future: Modernization Theory in Cold War America. JHU Press. ISBN 0-8018-8633-3. 
+Grigsby, Ellen (2011). Analyzing Politics: An Introduction to Political Science. Cengage Learning. 
+Guy, James John (2000-08-01). People, Politics and Government: A Canadian Perspective. Pearson Education Canada. ISBN 0-13-027246-9. 
+Hanson, Jon D.; Douglas A. Kysar (June 1999). "Taking Behavioralism Seriously: The Problem of Market Manipulation" (PDF). New York University Law Review 74 (630): 75–83. ISBN 0-8131-0805-5. Archived from the original (pdf) on 2003-03-24. 
+Kegley, Charles W. (2008). World Politics: Trend and Transformation (12 ed.). Cengage Learning. ISBN 0-495-50019-4. 
+Petro, Nicolai (1995). The Rebirth of Russian Democracy: An Interpretation of Political Culture. Harvard University Press. ISBN 0-674-75001-2. 
+Riemer, Neal (1997). The New World of Politics: An Introduction to Political Science. Rowman & Littlefield. ISBN 0-939693-41-0. 
+Somit, Albert; Joseph Tanenhaus (1967). The Development of American Political Science: From Burgess to Behavioralism. Irvington Publishers. 
+Waldo, Dwight (1975). "Political Science: Tradition, Discipline, Profession, Science, Enterprise". In Greenstein, Fred; Polsby, Nelson. Handbook of Political Science. Reading, Mass: Addison-Wesley. 
+Walton, Hanes (1985). Invisible Politics. SUNY Press. ISBN 0-87395-966-3. 
+
+
+== External links ==
+Brooks, David (2008-10-27). "The Behavioral Revolution". The New York Times.

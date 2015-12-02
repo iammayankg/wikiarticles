@@ -1,0 +1,118 @@
+The Prevention of Terrorism Act 2005 (c 2) was an Act of the Parliament of the United Kingdom, intended to deal with the Law Lords' ruling of 16 December 2004 that the detention without trial of eight foreigners (known as the 'Belmarsh 8') at HM Prison Belmarsh under Part 4 of the Anti-terrorism, Crime and Security Act 2001 was unlawful, being incompatible with European (and, thus, domestic) human rights laws.
+The Act allowed the Home Secretary to impose "control orders" on people who were suspected of involvement in terrorism, which in some cases may have derogated (opt out) from human rights laws. As yet, no derogating control orders have been obtained under s.4 of the relevant Act.
+In April 2006, a High Court judge issued a declaration that section 3 of the Act was incompatible with the right to a fair trial under article 6 of the European Convention on Human Rights. The system of control orders was described by Mr Justice Sullivan as an 'affront to justice'. The Act was repealed on 14 December 2011 by section 1 of the Terrorism Prevention and Investigation Measures Act 2011.
+
+
+== Background ==
+
+Despite having passed permanent counter-terrorism legislation only a year earlier, in the shape of the Terrorism Act 2000, the British government's response to the September 11, 2001 attacks was to rush through emergency legislation to increase powers to deal with individuals suspected of planning or assisting terrorist attacks within the UK.
+A key feature of the Anti-terrorism, Crime and Security Act 2001 was that resident foreigners suspected of terrorism could be interned without trial, if they could not be deported to another country without breaching British human rights legislation (for example, if they might be subject to torture or the death penalty in their native country). Several individuals were interned, mainly in Belmarsh prison, under these powers; they were free to leave, but only if they left the country, which some did.
+The Government claims that it has evidence against these individuals that is inadmissible in court — or unusable in open court due to security concerns — and is reluctant to allow this evidence to be used. However, the House of Lords ruled that the internment of these people, without trial, was contrary to the Human Rights Act 1998, mainly because the powers only extended to foreign nationals; the new act allows control orders to be issued against British citizens as well as foreign nationals. This Act remedied the discriminatory nature of the previous provisions.
+
+
+== Parliamentary passage ==
+
+
+=== First stages ===
+The Bill was introduced in the House of Commons on 22 February 2005 and allows the Home Secretary to make "control orders" for people he suspects of involvement in terrorism, including placing them under house arrest, restricting their access to mobile telephones and the internet and requiring that visitors be named in advance, so that they may be vetted by MI5.
+The Bill passed the Commons, despite a substantial rebellion by backbench Labour Members of Parliament (MPs), and was sent to the House of Lords, which made several amendments, the most significant being the introduction of a sunset clause, so the Act would automatically expire in March 2006, unless it were renewed by further legislation, much like the Prevention of Terrorism Acts of 1974–1989.
+Other amendments included requiring the Director of Public Prosecutions to make a statement that a prosecution would be impossible before each individual control order could be issued, to require a judge to authorise each control order, requiring a review of the legislation by Privy Councillors and restoring the "normal" burden of proof ("beyond a reasonable doubt"), rather than the weaker "balance of probabilities".
+The vote in the Lords was notable for being the first time Lord Irvine, friend and mentor of Tony Blair and recent Lord Chancellor, ever voted against the Labour government.
+
+
+=== Constitutional crisis ===
+The Commons considered the Lords' amendments on 10 March and rejected most of them. The Bill was exchanged between the two chambers several more times that parliamentary day, which extended well into 11 March and led to the longest sitting of the House of Lords in its history, of over 30 hours. (Parliamentary custom dictates that the parliamentary day continues until the House is adjourned. Therefore although it was midnight March 11 outside the House of Commons, inside it was still March 10.)
+That the Bill was "ping-ponged" between both houses was evidence of an unusual constitutional crisis, notable because the urgency of the legislation — the previous powers to detain the individuals in HMP Belmarsh and elsewhere were due to expire on 14 March 2005 — meant that the Parliament Acts 1911 and 1949, the usual device to handle situations where the Commons and Lords cannot agree on a measure, could not be invoked in order to acquire Royal Assent without the consent of the upper house.
+
+
+=== Compromise ===
+Eventually, a compromise was agreed, with both sides claiming victory: the opposition parties conceded all their amendments for the promise of a review of the legislation a year later. The Bill received Royal Assent later that day, and the first control orders, to deal with the ten suspects previously interned in HMP Belmarsh, were issued by Charles Clarke, the Home Secretary, immediately.
+Some critics were still unhappy with the compromise reached in the evening of 11 March, pointing out that an Act that removes the 790-year-old principle of habeas corpus, codified in Magna Carta, should not have been rushed through Parliament in the first place and that a review leaves it to the opposition to defeat the legislation, unlike a sunset clause, which would require the government to prove that these extraordinary powers were still a necessary and proportionate response to the threat of terrorism in the UK; comparisons were made with the detention provisions of South Africa's apartheid-era Terrorism Act No 83 of 1967.
+Few critics claimed that the terrorist threat was not real, merely that these powers were not the best way to address that threat, that arbitrary powers are more likely to lead to a miscarriage of justice and that prosecution in a court of law would be a better solution. The most commonly presented counter-argument was that protecting British citizens' freedom to live and go about their lives without fear of terrorism is more important than the civil liberties of suspected terrorists.
+
+
+== Restrictions permitted by the Act ==
+Control orders may contain restrictions that the Home Secretary or a court "considers necessary for purposes connected with preventing or restricting involvement by that individual in terrorism-related activity", including:
+restrictions on the possession of specified articles or substances (such as a mobile telephone);
+restrictions on the use of specified services or facilities (such as internet access);
+restrictions on work and business arrangements;
+restrictions on association or communication with other individuals, specified or generally;
+restrictions on where an individual may reside and who may be admitted to that place;
+a requirement to admit specified individuals to certain locations and to allow such places to be searched and items to be removed therefrom;
+a prohibition on an individual being in specified location(s) at specified times or days;
+restrictions to an individual's freedom of movement, including giving prior notice of proposed movements;
+a requirement to surrender the individual's passport;
+a requirement to allow the individual to be photographed;
+a requirement to cooperate with surveillance of the individual's movements or communications, including electronic tagging;
+a requirement to report to a specified person and specified times and places.
+
+
+== Opposition to the Act ==
+Measures in the Act were opposed by a number of human rights organisations, including Amnesty International, Human Rights Watch, JUSTICE and Liberty. Criticism of the Act included complaints about the range of restrictions that could be imposed, the use of closed proceedings and special advocates to hear secret evidence against the detainee, and the possibility that evidence against detainees may include evidence obtained in other countries by torture.
+
+
+== Renewal ==
+Due to the extremely swift passage of the Act through Parliament (18 days between introduction and Royal Assent), the Home Secretary Charles Clarke had agreed to table legislation in Spring 2006 in order to allow Parliament to consider amendments to the Act following the first report of the Independent Reviewer, The Lord Carlile of Berriew, QC.
+Lord Carlile reported on 2 February but the Home Secretary announced that he would not be introducing fresh legislation, given that the Terrorism Bill was already under consideration. Instead, the government indicated that it would allow amendment to the Act in consolidating counter-terrorism legislation scheduled for 2007.
+In any event, sections 1-9 of the Act were subject to annual renewal by affirmative resolution of both Houses of Parliament. Those provisions were renewed in 2007 following votes of the Commons (22 February 2007) and the Lords (5 March 2007). The provisions were again renewed on 11 March 2009.
+
+
+== Incompatibility with human rights ==
+In April 2006, in his judgment in the case of Re MB, Mr Justice Sullivan issued a declaration under section 4 of the Human Rights Act 1998 that section 3 of the Prevention of Terrorism Act 2005 was incompatible with the right to fair proceedings under article 6 of the European Convention on Human Rights. Mr Justice Sullivan held:
+"To say that the Act does not give the respondent in this case, against whom a non-derogating control order has been made by the Secretary of State, a fair hearing in the determination of his rights under Article 6 of the Convention would be an understatement. The court would be failing in its duty under the 1998 Act, a duty imposed upon the court by Parliament, if it did not say, loud and clear, that the procedure under the Act whereby the court merely reviews the lawfulness of the Secretary of State's decision to make the order upon the basis of the material available to him at that earlier stage are conspicuously unfair. The thin veneer of legality which is sought to be applied by section 3 of the Act cannot disguise the reality. That controlees' rights under the Convention are being determined not by an independent court in compliance with Article 6.1, but by executive decision-making, untrammelled by any prospect of effective judicial supervision."
+However, on 1 August 2006, the Court of Appeal reversed this judgement (in part). They agreed that MB's Article 5 rights had been breached, but said that it did not infringe on his Article 6 rights.
+On the point of particular Convention rights being breached, it is interesting to note the distinction the court made in the above case. Indeed, following Secretary of State for the Home Department v JJ the House of Lords held that the restrictions imposed within the control would be open to challenge on the basis of incompatibility, with focus on Art 8 (right to privacy and family life), Art 10 (freedom of speech) and Art 11 (freedom of assembly). In the case of JJ, the House of Lords drew an analogy between a prisoner in an open prison, and a suspected terrorist under a control order. Consequently, it was viewed as an anomaly for the Home Secretary to enforce harsher conditions on an individual who has not been convicted of any crime, in comparison with an open prisoner who enjoys freedom of association. The court brought up the example of the detainee being in a "prison with three walls", the 4th wall of course being that of voluntary deportation, which is a derogation from Art 5 under Art 5(1)(g) of the ECHR (detention with a view to deport is compatible). However, in reality, such a decision is highly unlikely, as the detainee would be unwilling to return home and be subjected to torture and/or inhuman/degrading treatment
+
+
+== See also ==
+Terrorism Act 2006
+Terrorism Acts
+Human rights in the United Kingdom
+
+
+== References ==
+
+
+== External links ==
+
+
+=== The Act, the Bill for the Act and the explanatory notes to the Act ===
+Text of the Prevention of Terrorism Act 2005 as in force today (including any amendments) within the United Kingdom, from the UK Statute Law Database
+The initial text of the Bill, from 22 February 2005 (PDF)
+Explanatory notes to the Prevention of Terrorism Act 2005.
+
+
+=== Government and Parliamentary reports and debates ===
+Home Office page about the Act
+Home Office page about the "Part IV powers" the Act replaces
+Report on Part IV powers by Lord Carlile of Berriew, QC (PDF)
+Parliamentary Joint Committee on Human Rights' report on the Bill, dated 23 February 2005
+International Terrorism: The Threat Labour party briefing on the Bill, paper one
+International Terrorism: The Government's Strategy Labour party briefing on the Bill, paper two
+International Terrorism: Reconciling Liberty and Security - The Government's Strategy to Reduce the Threat Labour party briefing on the Bill, paper three
+International Terrorism: Protect and Prepare Labour party briefing on the Bill, paper four
+First Commons debate after the Lords' Third Reading, 10 March 2005
+Second Commons debate after the Lords' Third Reading, 11 March 2005 (after midnight, but still in the 10 March Parliamentary session)
+Third Commons debate after the Lords' Third Reading, 11 March 2005 (daytime on 11 March, but still in the 10 March Parliamentary session)
+Backbench rebellion in the final Commons vote
+Home office review of the Act in 2006
+
+
+=== News reportage ===
+BBC News article on the Law Lords' ruling, 16 December 2004
+BBC article reporting the passage of the Act, 11 March 2005
+BBC article explaining the controversy, 12 March 2005
+The Guardian article on the Parliamentary "ping-pong", 12 March 2005
+Islamic Human Rights Commission - Britain: An Outpost of Tyranny
+Jean-Claude Paye, The End Of Habeas Corpus in Great Britain. Monthly Review, November 2005.
+
+
+=== Opposition groups ===
+Joint briefing paper to House of Lords from JUSTICE and the International Commission of Jurists. (PDF)
+Briefing paper to the House of Lords from Liberty (PDF)
+Amnesty International press release, dated February 28, 2005
+Human Rights Watch commentary, dated 1 March 2005
+
+
+=== Legal Analysis ===
+UK Government Loses another Control Order Case - Counter-terrorism-law.org

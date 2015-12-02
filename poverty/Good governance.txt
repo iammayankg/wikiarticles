@@ -1,0 +1,93 @@
+Good governance is an indeterminate term used in international development literature to describe how public institutions conduct public affairs and manage public resources. Governance is "the process of decision-making and the process by which decisions are implemented (or not implemented)". The term governance can apply to corporate, international, national, local governance or to the interactions between other sectors of society.
+The concept of "good governance" often emerges as a model to compare ineffective economies or political bodies with viable economies and political bodies. The concept centers on the responsibility of governments and governing bodies to meet the needs of the masses as opposed to select groups in society. Because countries often described as "most successful" are Western liberal democratic states, concentrated in Europe and the Americas, good governance standards often measure other state institutions against these states. Aid organizations and the authorities of developed countries often will focus the meaning of "good governance" to a set of requirements that conform to the organization's agenda, making "good governance" imply many different things in many different contexts.
+
+
+== Forms ==
+In international affairs, analysis of good governance can look at any of the following relationships:
+between governments and markets,
+between governments and citizens,
+between governments and the private or voluntary sector,
+between elected officials and appointed officials,
+The varying types of comparisons comprising the analysis of governance in scholastic and practical discussion can cause the meaning of "good governance" to vary greatly from practitioner to practitioner.
+
+
+== Reform and standards ==
+Three institutions can be reformed to promote good governance: the state, the private sector and civil society. However, amongst different cultures, the need and demand for reform can vary depending on the priorities of that country's society. A variety of country level initiatives and international movements put emphasis on various types of governance reform. Each movement for reform establishes criteria for what they consider good governance based on their own needs and agendas. The following are examples of good governance standards for prominent organizations in the international community.
+
+
+=== IMF ===
+
+The International Monetary Fund (IMF) declared in 1996 that "promoting good governance in all its aspects, including by ensuring the rule of law, improving the efficiency and accountability of the public sector, and tackling corruption, as essential elements of a framework within which economies can prosper." The IMF feels that corruption within economies is caused by the ineffective governance of the economy, either too much regulation or too little regulation. To receive loans from the IMF, countries must have certain good governance policies, as determined by the IMF, in place.
+
+
+=== UN ===
+The United Nations emphasizes reform through human development and political institution reform. According to the UN, good governance has eight characteristics. Good governance is:
+Consensus Oriented
+Participatory
+following the Rule of Law
+Effective and Efficient
+Accountable
+Transparent
+Responsive
+Equitable and Inclusive
+
+
+=== World Bank ===
+
+The World Bank is more concerned with the reform of economic and social resource control. In 1992, it underlined three aspects of society which they feel affect the nature of a country's governance:
+type of political regime;
+process by which authority is exercised in the management of the economic and social resources, with a view to development; and
+capacity of governments to formulate policies and have them effectively implemented.
+
+
+== Effects ==
+
+
+=== International humanitarian funding ===
+Good governance defines an ideal which is difficult to achieve in full, though it is something development supporters consider donating to causes. Major donors and international financial institutions, like the International Monetary Fund (IMF) or World Bank, are basing their aid and loans on the condition that the recipient undertake reforms ensuring good governance . This is mostly due to the close link between poor governance and corruption.
+
+
+=== Democratization ===
+Because concepts such as civil society, decentralisation, peaceful conflict management and accountability are often used when defining the concept of good governance, the definition of good governance promotes many ideas that closely align with effective democratic governance. Not surprisingly, emphasis on good governance can sometimes be equated with promoting democratic government. However, a 2011 literature review analyzing the link between democracy and development by Alina Rocha Menocal of the Overseas Development Institute stresses the inconclusiveness of evidence on this relationship.
+
+
+==== Example ====
+A good example of this close association, for some actors, between western democratic governance and the concept of good governance is the following statement made by U.S. Secretary of State Hillary Clinton in Nigeria on August 12, 2009:
+
+Again, to refer to President Obama’s speech, what Africa needs is not more strong men, it needs more strong democratic institutions that will stand the test of time. (Applause.) Without good governance, no amount of oil or no amount of aid, no amount of effort can guarantee Nigeria’s success. But with good governance, nothing can stop Nigeria. It’s the same message that I have carried in all of my meetings, including my meeting this afternoon with your president. The United States supports the seven-point agenda for reform that was outlined by President Yar'Adua. We believe that delivering on roads and on electricity and on education and all the other points of that agenda will demonstrate the kind of concrete progress that the people of Nigeria are waiting for.
+
+
+== Role of political parties ==
+Researchers at the Overseas Development Institute have criticised past studies of good governance to place too little importance on developing political parties, their capacity and their ties to their grassroots supporters. While political parties play a key role in well-functioning democracies, elsewhere political parties are disconnected from voters and dominated by elites, with few incentives or capabilities to increase the representation of other voters. Political parties can play a key role in pivotal moments of a state's development, either negatively (e.g. organising and instigating violence) or positively (e.g. by leading dialogue in a fractured society). While differences in the electoral system play their role in defining the number of parties and their influence once in power (proportional, first past the post, etc.), the funding and expertise available to parties also plays an important role not only in their existence, but their ability to connect to a broad base of support. While the United Nations Development Program and the European Commission have been providing funding to political parties since the 1990s, there are still calls to increase the support for capacity development activities including the development of party manifestos, party constitutions and campaigning skills.
+
+
+== Scholarly approaches ==
+Nayef Al-Rodhan, in his 2009 book Sustainable History and the Dignity of Man: A Philosophy of History and Civilisational Triumph, proposed eight minimum criteria for ensuring good national governance. Al-Rodhan's eight minimum criteria are: 1) participation, equity, and inclusiveness, 2) rule of law, 3) separation of powers, 4) free, independent, and responsible media, 5) government legitimacy, 6) accountability, 7) transparency, and 8) limiting the distorting effect of money in politics. In the book, he argues that good national governance is an important component in creating a history of sustainability for the human race. For Al-Rodhan, the eight minimal criteria of good governance are expressions of the fundamental values of democracy and more liberal constitutionalism.
+
+
+== Criticism ==
+According to Sam Agere "The discretionary space left by the lack of a clear well-defined scope for what governance encompasses allows users to choose and set their own parameters."
+In the book "Contesting 'good' governance", Eva Poluha and Mona Rosendahl contest standards that are common to western democracy as measures of "goodness" in government. By applying political anthropological methods, they conclude that while governments believe they apply concepts of good governance while making decisions, cultural differences can cause conflict with the heterogeneous standards of the international community.
+
+
+== See also ==
+Due diligence
+Good government
+Peace, order and good government
+Worldwide Governance Indicators
+Governance
+
+
+== References ==
+
+
+=== Book sources ===
+Agere, Sam (2000). Promoting good governance. Commonwealth Secretariat. ISBN 978-0-85092-629-3.  found at Google Books
+Khan, Mushtaq Husain (2004). State formation in Palestine: viability and governance during a social transformation: Volume 2 of Political economy of the Middle East and North Africa. Routledge. ISBN 978-0-415-33802-8.  found at Google Books
+Heritier, P. & Silvestri P. (Eds.), Good government, Governance, Human complexity. Luigi Einaudi's legacy and contemporary societies, Leo Olschki, Firenze, 2012.
+
+
+== External links ==
+What is Good Governance?, UNESCAP
+sgi-network.org Sustainable Governance Indicators
+World Bank Researchers Analysising Governance

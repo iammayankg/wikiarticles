@@ -1,0 +1,117 @@
+Intelligence-led policing (ILP) is a policing model built around the assessment and management of risk. Intelligence officers serve as guides to operations, rather than operations guiding intelligence.
+Calls for intelligence-led policing originated in the 1990s, both in Britain and in the United States. In the U.S., Mark Riebling's 1994 book Wedge - The Secret War between the FBI and CIA spotlighted the conflict between law enforcement and intelligence, and urged cops to become "more like spies." Intelligence-led policing gained considerable momentum globally following the September 11 terrorist attacks on the United States. It is now advocated by the leading police associations in North America and the UK.
+Although intelligence-led policing builds on earlier paradigms, such as community policing, problem-oriented policing, and the partnership model of policing, it originated as a rejection of the "reactive" focus on crime of community policing, with calls for police to spend more time employing informants and surveillance to combat recidivist offenders.
+Recently, intelligence-led policing has undergone a 'revisionist' expansion to allow incorporation of reassurance and neighbourhood policing.
+
+
+== History ==
+Prior to intelligence-led policing, a responsive strategy was the main method of policing. However, as crime was perceived to outgrow police resources in the UK, there was a demand gap, and a call for a new strategy that would more efficiently use the resources available at the time 
+Early development of intelligence-led policing took place in the UK. It was perceived that police were spending too much time responding to specific incidents, and not tackling the problem of repeat offenders. Therefore, reports by the Audit Commission in 1993 and Her Majesty's Inspectorate of Constabulary in 1997 advocated increased use of intelligence, surveillance and informants to target recidivist offenders, so that police could be more effective in fighting crime. The call was quickly taken up by some police forces, particularly the Kent Constabulary. Intelligence led policing was not a major proponent of policing styles until the September 11th terrorist attacks. Prior to these attacks the majority of all branches of the government would often not divulge any information to each other. The main assumptions of this theory can be described by Ratcliffe’s 3i format. As shown by the figure below,the three I’s call for close cooperation between police chiefs and intelligence analysts in order to facilitate a strategy that will impact the criminal environment.
+
+Figure 1. 3i Model of Intelligence-led Policing adapted from Ratcliffe
+
+
+== Misconceptions ==
+Oftentimes the intelligence in intelligence led policing is seen as the gathering of information, however the process does not start or begin there. The National Criminal Intelligence Sharing Plan (NCISP) which was introduced in 2003 contained 28 recommendations for major changes to policing and a process of collecting data. NCISP is a process of intelligence, also known as the intelligence cycle. Intelligence is seen as information that has been gathered and analyzed. This can be done through computer software but usually that only simplifies data, instead to be considered intelligence it must be analyzed by a trained analyst.
+
+
+== Camden Study ==
+Camden, New Jersey was once considered one of the most violent cities in the world. This was attributed to the large amount of violent crimes that were reported in the city. The large amount of violent crime was attributed to the disputed "gang corners". On these gang corners, rival gangs would often dispute territory boundaries of where they could sell drugs. A study found that the majority of crime took place in areas that had multiple gangs. Through interviews with police officers, the study also found that their focus was more on gang activity, rather than the location of said activity. Therefore, in order to change the environment, the police department of Camden would use a "location denial strategy", where a police officer would be placed in these locations until they were no longer disputed.
+
+
+== United Kingdom ==
+Intelligence-led policing in the UK has been applied as a specialized police practice involving the identification and targeting of high-rate, chronic offenders, and devising strategic interventions based on that intelligence. ILP originated as a problem-oriented strategy in the Kent and Northumbria Constabularies in combating motor vehicle theft and other property crime.
+Kent prioritized its calls for service, placing less priority on minor service calls, and referring them to other agencies, in order to provide police with more time to focus on the property crimes. Rather than reactively responding to individual incidents, a systematic analysis of offenses was conducted, which showed that a small number of offenders were responsible for a disproportionately large number of motor vehicle thefts in the area, as well as identifying repeat victims and problem areas. Using this knowledge to formulate a response, the automobile theft rate dropped significantly. Since 2000, ILP has been enshrined in Britain as the philosophy underpinning the National Intelligence Model.
+
+
+== United States ==
+Intelligence-led policing gained its momentum in the 1970s, when the National Advisory Commission on Criminal Justice Standards and Goals announced that every law enforcement agency should immediately create system for gathering and analyzing data. However, agencies were not governed by polices and violated many civil liberties, resulting in many agencies shutting down their intelligence functions by court order or voluntarily.
+In 1976, standards and policies were introduced to address the abuses that had taken place. These stated that an individual had to meet certain criminal criteria in order to be entered into intelligence files. In the 1980s, Regional Information Sharing Systems (RISS) Centers, a sharing system, were introduced throughout the nation to collect and store data on criminals.
+The post-9/11 environment in the US, the "era of Homeland Security" for American policing, has increased demands for law enforcement to build global partnerships and to work more closely with local agencies to expand the capacity of the state to fight both crime and terrorism. Owing to the belief held by some that 9/11 and other terrorist attacks could have been prevented if not for intelligence failures, a key difference between intelligence-led policing and earlier strategies is that intelligence is no longer considered a specialized function for crime analysts or intelligence units.
+Investigations following bombings of the rail systems in Madrid and London and the arrest of suspected terrorists in Canada, Britain, and Florida suggested that intelligence culled from a variety of sources may be the key to identifying suspects and successfully intervening to prevent attacks.
+On March 16, 2005, Department of Homeland Security Secretary Michael Chertoff outlined a risk-based approach to homeland security threats, vulnerabilities, and consequences when he said,
+
+"Risk management must guide our decision-making as we examine how we can best organize to prevent, respond, and recover from an attack . . . . Our strategy is, in essence, to manage risk in terms of these three variables – threat, vulnerability, consequence. We seek to prioritize according to these variables, to fashion a series of preventive and protective steps that increase security at multiple levels."
+
+In 2006, Mark Riebling of the Center for Policing Terrorism published a doctrine on Intelligence-Led Policing. Riebling's model leverages both Israeli counter-terrorist tactics, and the NYPD's Broken Windows policing theories. Among the Broken Windows mechanisms, Riebling's doctrine blends problem solving, environmental design, community policing, and public-private partnerships. Analyzing the operations of the Israeli National Police in Tel Aviv, Riebling notes approvingly that "investigation of the incident, even a traffic accident, is secondary to the number one goal—which is gathering intelligence. "For instance, when they raided a bordello, where the patrons were primarily Arabs from different parts of the region, Israeli police were less concerned about the criminal activity, than with preparing intelligence reports on who these people were, and how they got into Israel."
+In its current conceptualization, intelligence-led policing is envisioned as a tool for information sharing both within law enforcement agencies and between all participants in the community, private sector, intelligence community, and public government. The concept aids law enforcement agencies in identifying threats and developing responses to prevent those threats from reaching fruition in America’s communities. There is no universally accepted definition of ILP, although the components of most definitions are the same or at least similar.
+
+The collection and analysis of information related to crime and conditions that contribute to crime, resulting in an actionable intelligence product intended to aid law enforcement in developing tactical responses to threats and/or strategic planning related to emerging or changing threats.
+
+Researchers have argued that, while the British experience with ILP has provided an important foundation for U.S. initiatives, there are "important differences in legacy and functional responsibilities that limit the wholesale adoption of the British model in the United States. Among those limitations has been the array of post-9/11 federal standards for the American law enforcement intelligence process, including the new dimension of homeland security intelligence. One of the differences between the British model and the U.S. model is that of balancing American constitutional rights, and the act of gathering intelligence."  Although the implementation of ILP is expected to be difficult for most U.S. law enforcement agencies, Carter and Carter argue that the experiences and foundation of CompStat and community policing serve as important springboards for success. Although there are substantive differences in the concepts, the similarities serve as reliable policy experiences to make implementation of ILP a functional reality" (p. 322)
+
+
+== Canada ==
+In the Canadian context, the lineage of intelligence-led policing can be traced to the Royal Canadian Mounted Police’s failure to prevent the 1985 bombing of Air India flight 182. Post-event analysis concluded that if the RCMP had had a better relationship with the Sikh community in Vancouver, they might have acquired actionable intelligence alerting them to the plot by extremists looking to establish an independent Sikh state in the Punjab region of India.
+This was an impetus for the adoption of community policing, but it was soon realized that the focus on “community” was a distraction in that hardened targets are not easily penetrated through better police-community relations; rather, it is the “mode of information that is important.” Consequently, the RCMP developed its CAPRA model (Clients, Analysis, Partnerships, Response, Assessment), which fits with, and has been re-cast as, intelligence-led policing.
+
+
+== New Zealand ==
+New Zealand has been experimenting with intelligence-led policing since the 1990s and has implemented it throughout the New Zealand Police, which is the national police organization in the country of New Zealand. Intelligence-led policing is encouraged throughout the districts of the New Zealand Police, and is implemented throughout the country and is an implementation of intelligence-led policing throughout an entire country. One of the results of this experiment is that there was little sharing of information between districts in New Zealand. In the New Zealand study there were problems both organizational and behavioral that hindered the results of either using the information or gathering the information to make intelligence based decisions. The New Zealand Police are now implementing more aspects of problem-oriented policing to their intelligence-led policing system.
+
+
+== Crime prevention implications ==
+ILP is often viewed as a management tool instead of a crime reduction strategy. Jerry Ratcliffe claims ten benefits of the use of intelligence led policing:
+Supportive and informed command structure
+Intelligence-led policing is the heart of an organization‐wide approach
+Integrated crime and criminal analysis
+Focus on prolific and serious offenders
+Analytical and executive training available
+Both strategic and tactical tasking meetings take place
+Much routine investigation is screened out
+Data are sufficiently complete, reliable and available to support quality products that influence decision‐making
+Management structures exist to action intelligence products
+Appropriate use of prevention, disruption and enforcement
+He argues that these all help prevent crime by creating a police force that is more efficient with its resources. There is also a growing recognition within policing that external agencies may hold the key to long-term crime reduction. These agencies, such as local councils, housing authorities, and health and education departments, are believed to have a greater potential to impact a wider range of causal factors. As agencies share information amongst each other, a larger "network of intelligence" is created, which proponents hope, when used effectively, will cause a substantial decrease in crime.
+
+
+== Issues ==
+Intelligence-led policing is still in its early stages, and therefore lacks a universal conceptual framework that can be applied to disparate contexts as a policing paradigm. Implementation can also be difficult, because it requires police managers to “have faith in the intelligence process and in the judgments and recommendations of their intelligence staff.”
+Some have also questioned whether the foundational ingredient - intelligence - has been properly considered, given that police and security professionals already have to contend with “information overload” from the huge databanks that have been built up in the intelligence process, and that increasing raw data is not the same as generating “knowledge” or actionable intelligence.
+As intelligence-led policing represents a move towards surveillance, it focuses on information collection and analyzing data. However, the way that this data is collected is a concern for privacy advocates. The United States Supreme Court has not made any particular decisions in relation to searches that deal specifically with intelligence-led policing. The cases that do cover most searches, such as Mapp v. Ohio (1961) and Terry v. Ohio (1968), were decided prior to the implementation of intelligence-led policing. The question arises with intelligence-led policing of when a search has occurred. The U.S. Supreme Court has given a two part test to determine a search in Katz v. United States (1967). The first is an expectation of privacy, and the second is that the expectation of privacy should be reasonable. The issue exists in what type of privacy expectation an individual can hope to have with technology. Technology has given officers access to information that was unobtainable in the past.
+Finally, intelligence-led policing has been described as part of a larger trend of blurring the distinction between national security and domestic policing, risking the same perils that have tarnished policing in the past, such as political interference, violating civil liberties, and a greater potential for the abuse of police power with the increased secrecy that intelligence work entails.
+
+
+== See also ==
+High policing
+Evidence-based policing
+
+
+== References ==
+^ a b c Willem de Lint, “Intelligence in Policing and Security: Reflections on Scholarship,” Policing & Society, Vol. 16, no. 1 (March 2006): 1-6.
+^ a b Royal Canadian Mounted Police, “Intelligence-led policing: A Definition,” RCMP Criminal Intelligence Program. Retrieved 13 June 2007.
+^ a b c d e Edmund F. McGarrell, Joshua D. Freilich, and Steven Chermak, “Intelligence-led Policing as a Framework for Responding to Terrorism,” Journal of Contemporary Criminal Justice, Vol. 23, no. 2 (May 2007): 142-158.
+^ a b Audit Commission "Helping With Enquiries: Tackling Crime Effectively" (London: HMSO, 1993).
+^ Hale, C., Heaton, R. and Uglow, S. (2004) "Uniform styles? Aspects of police centralization in England and Wales", Policing and Society, Vol. 14, no. 3 (2004), 291-312.
+^ Maguire, M. and John, T. "Intelligence led policing, managerialism and community engagement: Competing priorities and the role of the National Intelligence Model in the UK", Policing and Society, Vol. 16 no. 1 (2006): 67-85.
+^ Anderson, R. (1994). "Intelligence led policing: A British perspective". In Smith, A. Intelligence Led Policing: International Perspectives on Policing in the 21st Century. Lawrenceville, NJ: International Association of Law Enforcement Intelligence Analysts. pp. 5–8. 
+^ a b Ratcliffe, Jerry (2008). Intelligence-Led Policing. Cullompton, Devon: Willan Publishing. 
+^ Peterson, Marilyn (September 2005). "Intelligence-Led Policing: The New Intelligence Architecture" (PDF). Bureau of Justice Assistance. NCJ 210681. 
+^ Ratcliffe, J.H. and Taniguchi, T. A. (in press) “Is crime higher around drug‐gang street corners? Two spatial approaches to the relationship between gang set spaces and local crime levels”. Crime Patterns and Analysis, Vol 1, Issue 1.
+^ a b c Taylor, Robert W.; Davis, Jennifer Elaine (2010). "Intelligence-Led Policing and Fusion Centers". In Dunham, Roger G.; Albert, Geoffrey P. Critical Issues in Policing. Long Grove Il: Waveland Press Inc. 
+^ Willard M. Oliver, “The Fourth Era of Policing: Homeland Security,” International Review of Law Computers & Technology, Vol. 20, nos. 1&2 (March–July 2006): 49-62.
+^ DHS Secretary Michael Chertoff, Prepared Remarks at George Washington University Homeland Security Policy Institute (Mar. 16, 2005)
+^ Mark Riebling, The New Paradigm: Merging Law Enforcement and Intelligence Strategies, Center for Policing Terrorism, January 2006.
+^ Carter, D. L. & Carter, J. G. (2009). Intelligence Led Policing: Conceptual Considerations for Public Policy. Criminal Justice Policy Review, 20(3), 310-325.
+^ Darroch, S., & Mazerolle, L. (2013). Intelligence-Led Policing: A Comparative Analysis of Organizational Factors Influencing Innovation Uptake. Police Quarterly, 16(1), 3-37.
+^ Ratcliffe, Jerry. "The Effectiveness Of Police Intelligence Management: A New Zealand Case Study." Police Practice & Research 6.5 (2005): 435-451. Academic Search Premier. Web.
+^ Ericson, R. V.; Haggerty, K. D. (1997). Policing the Risk Society. Oxford: Clarendon Press. 
+^ Ratcliffe, Jerry (2003) Trends & Issues in Crime and Criminal Justice
+^ a b Jean-Paul Brodeur and Benoit Dupont, “Knowledge Workers or ‘Knowledge’ Workers?,” Policing & Society, Vol. 16, no. 1 (March 2006): 7-26.
+^ a b Newton, Samuel P., Welch, Teresa L. Understanding Criminal Evidence: A Case Method Approach. 2013. Wolters Kluwer. Frederick MO.
+^ Pickering, Sharon (October 2004). "Border Terror: Policing, Forced Migration, and Terrorism". Global Change, Peace & Security 16 (3): 211–226. 
+Flood, B. (2004) 'Strategic aspects of the UK National Intelligence Model', in J.H. Ratcliffe (Ed) Strategic Thinking in Criminal Intelligence (Sydney: Federation Press) pp. 37‐52
+Bacon, M. (2009), Intelligence-Led Policing by J. Ratcliffe. The Howard Journal of Criminal Justice, 48: 540–541. doi: 10.1111/j.1468-2311.2009.00594.x
+Bureau of Justice Assistance. Intelligence-Led Bureau of Justice Assistance / Policing: The New Intelligence Architecture . U.S. Department of Justice. https://www.ncjrs.gov/pdffiles1/bja/210681.pdf
+Elements of Terrorism Preparedness in Local Police Agencies, 2003-2007: Impact of Vulnerability, Organizational Characteristics, and Contagion in the Post-9/11 Era
+
+
+== External links ==
+“Intelligence-Led Policing: The New Intelligence Architecture”, United States Department of Justice
+“Practical Guide to Intelligence-led Policing,” New Jersey State Police
+“Intelligence-Led Policing: The Integration of Community Policing and Law Enforcement Intelligence”, Office of Community Oriented Policing Services, United States Department of Justice
+“Guidance on the National Intelligence Model,” Association of Chief Police Officers (ACPO) – Official business model of ACPO, based on Intelligence-led policing.
+Mark Riebling, The New Paradigm: Merging Law Enforcement and Intelligence Stratgies, Center for Policing Terrorism, January 2006.
+i2 Intelligence-Led Operations Platform
+PoliceArch ICP Intelligence Led Platform
+"Actionable Intelligence: A guide to delivering results from Big Data Fast! 2014," Keith B. Carter published by Wiley

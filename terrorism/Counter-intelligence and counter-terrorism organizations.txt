@@ -1,0 +1,305 @@
+Counterintelligence, and closely related counterterrorism, may well be a source of positive intelligence on the opposition's priorities and thinking, not just a defensive measure. Still, foreign intelligence capability is an important part of early warning. Not all nations maintain offensive counterespionage and counterterrorism capability, and, of course, not all countries can have a worldwide presence. "Charles Burton Marshall wrote that his college studies failed to teach him about espionage, the role of intelligence services, or the role of propaganda. "States’ propensities for leading double lives—having at once forensic and efficient policies, one sort for display, the other to be pursued—were sloughed over." This window into the “double lives” of states of which Marshall wrote is a less familiar dimension of CI work, one that national security decisionmakers and scholars alike have largely neglected.
+(USNDU-Van Cleave-2007) inferred from Marshall's remark, "the positive intelligence that counter-intelligence may supply—that is, how and to what ends governments use the precious resources that their intelligence services represent—can help inform the underlying [national] foreign and defense policy debate, but only if our policy leadership is alert enough to appreciate the value of such insights." She emphasizes that CI is directed not at all hostile actions against one's own countries, but those originated by foreign intelligence services (FIS), a term of art that includes transnational and non-national adversaries.
+Nations have different structure for counter-intelligence and counter-terrorism organizations. There will usually be separate civilian and military organizations. The civilian side may be split by foreign and domestic responsibilities, or by intelligence versus law enforcement responsibility.
+Other countries also deal with the proper organization of defenses against FIS, often with separate services with no common authority below the head of government.
+The counter-terrorism page primarily deals with special police or military organizations that carry out arrest or direct combat with terrorists. This page is intended to deal with the other aspects of counter-terrorism: the national authority over it, identification and monitoring of threats, clandestine and covert interference with their internal organization (and detection of and interference with their finances), and warning of planned attacks. A final category is mitigation of incidents, which may be the organization that also deals with major accidents and natural disasters.
+
+
+== Australia ==
+Australia treats terrorism with a modified law enforcement model, with the domestic intelligence agency authorized to direct the police to make secret arrests and conduct interrogations.
+
+
+=== Foreign Intelligence on Terrorist Threats ===
+Foreign intelligence is the responsibility of the Australian Secret Intelligence Service (ASIS). Australia belongs to the Five Powers Defense Arrangement (FPDA) of Australia, Great Britain, New Zealand, Singapore and Malaysia, which appears to be concerned primarily with counter-terrorism. In addition, Australia is a member of the UKUSA agreement for sharing communications intelligence.
+
+
+=== Internal Security and Police ===
+The Australian Security Intelligence Organisation (ASIO) is the domestic security agency, which, following the British model, has no police powers. Due to this, it operates closely with the Australian Federal Police or with State and Territory police forces. The Australian anti-terrorism legislation, 2004 gave ASIO the authority to have police detain suspects without charge to enable their interrogation by ASIO officers, with severe penalties for those who reveal that questioning or detention has taken place. This change generated controversy over the balance between security and civil liberties, as it does in many countries.
+
+
+=== Criminal Justice for Terrorists ===
+
+
+== Belgium ==
+The Prime Minister has direct responsibility for counter-terrorism, with the Council of Ministers setting strategic policy. A Ministerial Committee on Intelligence and Security works out detailed policies. Belgium, with due regard to domestic concern about sovereignty, takes a leadership role in European cooperation on terrorism.
+Principally, counter terrorism is seen as a police responsibility, coordinated principally by the Ministry of the Interior, with some work in the Ministry of Justice. Either the police or a federal magistrate do investigations.
+
+
+=== Foreign Intelligence on Terrorist Threats ===
+The Ministry of Justice controls the civilian intelligence agency, the State Security and General Intelligence Service, which may call on the military intelligence service under specific and limited circumstances.
+
+
+=== Measures to Interfere with Terrorist Organization ===
+Two organizations are responsible for investigating and preventing the financing of terrorism. The Financial Information Processing Unit, an independent agency supervised by the Finance and Justice Ministries, collects and analyzes financial data about possible terrorist linkages. The Treasury, part of the Federal Public Finance Department, is responsible for freezing assets belonging to terrorists. In addition, Belgium is a member of the international Financial Action Task Force on Money Laundering, a 31-country organization formed by the G-7 in 1989 to combat money laundering.
+
+
+=== Internal Security and Police ===
+Anti-terrorism and homeland security intelligence is handled by the civilian intelligence agency — the State Security and General Intelligence Service under the Ministry of Justice.
+Four agencies have some anti-terrorism role:
+
+the Department of Terrorism and Sects of the Federal Police, responsible mainly for coordinating activities relating to the Turkish Kurd issue, terrorism, and religious sects;
+the mixed anti-terrorist group, a small group, supervised by the Justice and Interior Ministries, that collects and analyzes information for the development of policy and legislation (this group has since been replaced by the OCAM/CODA);
+State Security, which handles intelligence and security matters in several areas, including terrorism, proliferation, and organized crime;
+the Terrorism and Public Order Service of the Federal Police, a deliberately low-profile group of about 40 field staff with wide-ranging responsibilities.
+
+
+=== Warning and Coordination ===
+A new organization, OCAM/CODA (Organe de coordination pour l’analyse de la menace/Coördinatieorgaan voor de dreigingsanalyse) does terrorist threat analysis and coordinates intelligence and police activity.
+
+
+=== Criminal Justice for Terrorists ===
+Individual components of homeland security, counter-terrorism, and emergency management responsibilities are spread throughout the government; different agencies look at various issues; for example, one group handles threat assessment, while another one is responsible for intelligence gathering, and border control and financial questions are handled by two other ministries.
+
+
+=== Incident Mitigation ===
+Monitoring and response to major disasters and terrorist incidents is under Governmental Coordination and Crisis Center, part of the Interior Ministry, It is one of five divisions of the Interior Ministry along with the General Directorate of Civil Defense.
+
+
+== Brazil ==
+Agência Brasileira de Inteligência (Abin)
+
+
+== Canada ==
+
+
+=== Foreign Intelligence on Terrorist Threats ===
+Canada does not maintain a foreign HUMINT function, but has a strong analytic capability in the Canadian Security Intelligence Service (CSIS), which is also responsible for personnel security clearances.
+The military is served by the Intelligence Branch (Canadian Forces). Communications Security Establishment does collect SIGINT, and is Canada's only acknowledged foreign intelligence collection agency beyond the tactical intelligence units of the military.
+
+
+=== Internal Security and Police ===
+The Royal Canadian Mounted Police was once the principal counter-intelligence agency, but most functions transferred to CSIS. Recently, however, some activities are back in the RCMP Security Service
+
+
+=== Incident Mitigation ===
+Public Safety Canada (PSC) is Canada’s national emergency management agency, with a counterpart in each province.
+
+
+== France ==
+France, for example, builds its domestic counterterrorism in a law enforcement framework.
+
+
+=== Foreign Intelligence on Terrorist Threats ===
+In France, a senior anti-terrorism magistrate is in charge of defense against terrorism. French magistrates have multiple functions that overlap US and UK functions of investigators, prosecutors, and judges. An anti-terrorism magistrate may call upon France's domestic intelligence service Direction de la surveillance du territoire (DST), which may work with the Direction générale de la sécurité extérieure (DGSE), foreign intelligence service.
+
+
+== Germany ==
+German authorities rely on intelligence, law enforcement, and judicial prosecution to prevent terrorist acts and to identify and neutralize potential terrorists.
+
+
+=== Foreign Intelligence on Terrorist Threats ===
+Federal Intelligence Service (BND) under the Federal Chancellory and Militärischer Abschirmdienst (MAD) is responsible for strategic-level preparation of military forces against all threats for which they are responsible.
+
+
+=== Measures to Interfere with Terrorist Organization ===
+Within the BKA (Federal Criminal Police Office), a Financial Intelligence Unit (FIU) serves as Germany’s central office for tracking money laundering as well as a main contact point with foreign authorities concerning financial crime.
+In the financial area, new measures against money laundering were announced in October 2001. A new office within the Ministry of the Interior was charged with collecting and analyzing information contained in financial disclosures. Procedures were set up to better enforce asset seizure and forfeiture laws. German authorities were given wider latitude in accessing financial data of terrorist groups. Steps were taken to curb international money laundering and improve bank customer screening procedures. The Federal Criminal Police Office set up an independent unit responsible for the surveillance of suspicious financial flows. Measures to prevent money laundering now include the checking of electronic databases to ensure that banks are properly screening their clients’ business relationships and that they are meeting the requirement to set up internal monitoring systems. In seeking to dry up the sources of terrorist financing, recent regulations aim to strengthen Germany’s own capabilities, as well as German cooperation with international efforts.
+Under the oversight of the German Federal Banking Supervisory Office, banks, financial service providers and others must monitor all financial flows for illegal activity. Germany was the first country to implement an EU guideline against money laundering as well as the recommendations of the Financial Action Task Force on Money Laundering (FATF).
+
+
+=== Internal Security and Police ===
+The Federal Bureau for the Protection of the Constitution (BfV) is given authority to track any activities of extremist groups that seek to foment ideological or religious strife domestically.
+The Federal Police, also on airliners
+The most important law enforcement authorities are the Federal Criminal Police Office (BKA) and the German Federal Police, both under the Ministry of the Interior, and the Federal Public Prosecutor General (GBA). Post- 9/11, the BKA has the authority to lead its own investigations, replacing the former system which required a formal request from the BfV.
+
+
+=== Criminal Justice for Terrorists ===
+The Federal Public Prosecutor General at the Federal Court of Justice is charged with prosecution of terrorist offenses. A Criminal Senate within the Federal Court of Justice deals with national security measures and is responsible for ruling on complaints of investigative abuse, under the Courts Constitution Act.
+
+
+== Italy ==
+The Italian Council of Ministers (or cabinet), headed by the President of the Council (the Prime Minister) is the supreme, collective decision-making body in the Italian government. Protecting domestic security and combating terrorism involves a coordinated effort by the main governmental ministries.
+Within the Prime Minister’s office exists a Political-Military Unit that reports directly to the Prime Minister. The members of the Unit are the senior representatives of all government departments and agencies responsible for combating terrorism and protecting the population throughout Italy. Italian officials assert that the Political-Military Unit’s role, powers, and responsibilities have been strengthened further post–September 11. Among other measures since then, the Unit has: updated the national emergency plan to deal with any chemical, biological, radiological, and nuclear (CBRN) incidents, coordinated action plans and operations relating to transport safety and bio-terrorism; and sought to enhance both civil and military preemptive measures against terrorism.
+
+
+=== Foreign Intelligence on Terrorist Threats ===
+Intelligence and security policy are under the Inter-ministerial Committee for Intelligence and Security (CIIS) provides advice and makes proposals to the Prime Minister on the general direction and fundamental objectives for intelligence and security policy. The CIIS is chaired by the Prime Minister; other statutory members are the ministers for the Interior, Defense, Foreign Affairs, Justice, and Economy and Finance; the heads of the intelligence services and other ministers or government officials may be invited to participate as required.
+
+
+=== Measures to Interfere with Terrorist Organization ===
+The Economics and Finance Ministry has the lead on stemming terrorist financing and customs policy.
+
+
+=== Internal Security and Police ===
+The Ministry of the Interior is the lead government ministry on counterterrorism policy, public order and security, immigration and border controls, and civil protection.
+Within the Interior Ministryn, the Public Security Department directs and manages the national police force and is responsible for implementing the public order and security policy; the Civil Liberty and Immigration Department sets immigration and asylum policy; and the Fire Brigade, Public Aid, and Civil Defense Department has the lead on setting emergency preparedness and response policy, including for terrorist incidents. Several other government ministries may also play a role in different aspects of combating terrorism and homeland security affairs; these include the Defense Ministry, the Health Ministry, and the Infrastructure and Transport Ministry.
+Chaired by the Interior Minister, The Public Order and Security Committee examines every issue relative to the protection of public order and security and to the organization of the police forces. Other key members are the Chief of Police/Director General of Public Security (who heads the Interior Ministry’s Public Security Department), and a Council of Ministers’ undersecretary with special responsibility for the intelligence services (this undersecretary is designated by the Prime Minister). The heads of Italy’s other police forces also take part in the Public Order and Security Committee, and additional ministers may be involved depending on the particular issue to be discussed.
+The Interior Ministry has ministerial responsibility for Italy’s Polizia di Stato (State Police), or national police force. At the central government level, the Interior Ministry’s Public Security Department coordinates the tasks and activities of the Polizia di Stato. At the provincial level, the top public security authorities are the prefect, who is appointed by and answerable to the central government, and the questore, or the senior provincial official of the Polizia di Stato. Each questore has operational control of the provincial police headquarters, which has jurisdiction in the field of public order, security, and criminal and intelligence matters. There are also Polizia di Stato officials at the local level in charge of detached police stations.
+Other relevant specialist police units are the traffic police, which patrol Italy’s roads and highways; the railway police, which ensure the security of travelers and their belongings on Italy’s railway system, the security of railway stations, and control of dangerous goods transported by rail; the immigration and border police, which are responsible for the entry and stay of foreign nationals and immigrants in Italy, as well as the prevention and control of illegal immigrants; and the postal and communications police, which seek to prevent and tackle the illegal use of communication technologies (for example, computer hackers and computer viruses). The police air service and the nautical squads perform services ranging from mountain or sea rescues to contributing to the fight against illegal immigration by patrolling the national coasts and other points of entry.
+
+
+=== Warning and Coordination ===
+The Polizia di Stato includes various specialist units that may play a role in combating terrorism and protecting different aspects of Italian homeland security. The anti-terrorism police, at both the central and provincial level, have primary responsibility for investigations aimed at preventing and fighting terrorism, including the collection and analysis of information related to terrorist offenses.
+
+
+=== Incident Mitigation ===
+There is also an Inter-ministerial Committee for Civil Defense.
+Also within the Prime Minister’s office is the Department of Civil Protection, which is responsible at the national level for prevention, preparedness, and coordination of responses to both natural and man-made disasters. This Department coordinates Italy’s “National Service” for civil protection, which consists of central, regional, provincial, and local (or municipal) state administrations, public agencies, and voluntary organizations. This national service system operates on the principle of subsidiarity. In the event of an emergency, primary responsibility for managing the response falls on the local mayor. If the resources at the disposal of the mayor are insufficient, support may be drawn from provincial, regional, or national assets. Military assets can also be used to assist with a large-scale emergency, including those with a CBRN dimension. Any military forces deployed, however, would be under the command of the civil authorities.
+Italy also has a military corps, or Carabinieri, that carries out police duties among its civilian population. The Italian Carabinieri is similar to France’s Gendarmerie, or Spain’s Guardia Civil. The Carabinieri has an elite counterterrorism unit with the authority to combat domestic and international terrorism; it is empowered to gather intelligence, investigate terrorist organizations, and respond to high-risk situations or instances in which military installations are under threat. Institutionally, the Carabinieri are responsible primarily to the Ministry of Defense and the Ministry of Interior, although various specialist departments may also report to different government ministries, such as the Ministry of Foreign Affairs, on issues such as the protection of Italian diplomatic institutions abroad.64
+Italy has two main intelligence and security services engaged in the fight against terrorism. The Military Intelligence and Security Service (SISMI) reports directly to the Minister of Defense and fulfills all intelligence and security tasks for the defense of the state’s independence and integrity against any danger on the military front; it has both counterespionage and counter-intelligence duties. The Democratic Intelligence and Security Service (SISDE) reports directly to the Minister of the Interior and has responsibility for intelligence and security tasks related to the defense of the democratic state and its institutions against all forms of subversion The division of responsibilities between SISMI and SISDE is based on the interests to be protected (military and democratic security), rather than on a territorial basis (domestic and international security). The directors of SISMI and SISDE have operational control over their respective services.
+The main instrument for coordinating the work of the two services and for advising the Prime Minister and other government officials on intelligence priorities is the Executive Committee for the Intelligence and Security Services (CESIS). CESIS is strategic in nature; it analyzes the intelligence provided by the services as well as the police and presents coordinated assessments to the government. Some have likened CESIS to the U.S. National Intelligence Council, or the UK’s Joint Intelligence Committee. Italy has also created a Committee for Strategic Anti- Terrorism Analysis (CASA) within the Interior Ministry to collate and evaluate intelligence about potential threats and provide early warning. CASA is composed of representatives of all law enforcement bodies and the secret services, and seeks to break down institutional barriers among these bodies; it appears to be similar to the U.S. National Counter Terrorism Center or the UK’s Joint Intelligence Analysis Center
+
+
+== India ==
+
+
+=== Foreign Intelligence on Terrorist Threats ===
+The lead anti-terrorism organization is the Research and Analysis Wing (RAW), which reports to the Prime Minister.
+
+
+=== Internal Security and Police ===
+Domestically, the Intelligence Bureau is the domestic intelligence service. India's lead police agency is the Central Bureau of Investigation. As opposed to the British Security Service and US FBI, its jurisdiction is much more restricted, with state police agencies often taking the lead.
+
+
+== Israel ==
+
+
+=== Foreign Intelligence on Terrorist Threats ===
+External and offensive counter-intelligence, counter-terrorism, and some direct action is the general responsibility of Mossad, although military units will carry out specific counterterrorism actions. There are some standing military special operations forces, such as Sayeret Matkal, but ad hoc task forces were assembled for major operations such as the 1976 Entebbe rescue.
+Mossad, on foreign intelligence, also works with Aman, the military intelligence service.
+
+
+=== Internal Security and Police ===
+Shabak is the Israeli domestic counterintelligence organization. It works with police organizations, especially the Israel Border Police (Hebrew: משמר הגבול, Mishmar HaGvul) is the combat branch of the Israeli Police, known by its Hebrew abbreviation Magav. Shabak also works with the Yamam special police unit,
+
+
+=== Incident Mitigation ===
+The Home Front Command provides emergency services for major disasters and terrorist attacks.
+
+
+== Pakistan ==
+Inter-Services Intelligence
+
+
+== Portugal ==
+Serviço de Informações e Segurança (SIS)
+
+
+== Romania ==
+Serviciul Român de Informaţii (SRI)
+
+
+== Russia and former USSR ==
+Russia, and the former USSR, did not make a clear split between foreign and domestic intelligence, as do many other nations.
+
+
+=== Foreign Intelligence on Terrorist Threats ===
+The current intelligence service is the Federal Security Service (FSB). Under the Soviet Union, the Committee for State Security (KGB) was the main security agency.
+
+
+=== Internal Security and Police ===
+There are some anti-terrorism capabilities under the Ministry of the Interior.
+
+
+=== Incident Mitigation ===
+Ministry of Emergency Situations (EMERCOM) does emergency management for natural and human-made disasters.
+
+
+== South Africa ==
+National Intelligence Agency (NIA) - South Africa
+Counter Intelligence Agency (CIA) - South Africa The Counter Intelligence Agency (CIA) of South Africa was established in 2010 to develop Industrial fraud prevention and counter intelligence measures in Africa. Presently there is an industrial legislation bill one the way to prevent industrial espionage in South Africa. The organizations main collaboration is with Governments, industrial organization and law enforcement.The organization is non-accessible to public.
+
+
+== Spain ==
+Spain gives its Interior Ministry, with military support, the leadership in domestic counterterrorism. The military has organic counter-intelligence to meet specific military needs.
+
+
+=== Foreign Intelligence on Terrorist Threats ===
+For international threats, the National Intelligence Center (CNI) has responsibility. CNI, which reports directly to the Prime Minister, is staffed principally by which is subordinated directly to the Prime Minister’s office.
+
+
+=== Warning and Coordination ===
+After the March 11, 2004 Madrid train bombings, the national investigation found problems between the Interior Ministry and CNI, and as a result, the National Anti-Terrorism Coordination Center was created. Spain's 3/11 Commission called for this Center to do operational coordination as well as information collection and dissemination.
+
+
+== Sweden ==
+The Swedish Security Service (Säpo) is the domestic intelligence and counterterrorism organization, under the Swedish National Police Board.
+
+
+== United Kingdom ==
+The UK Cabinet, chaired by the Prime Minister, is the top decision-making body of the UK government. The Cabinet Office supports the UK ministerial committee system by coordinating policy and strategy across government departments, and as such, has a role in bringing together department ministers, officials, and others involved in homeland security affairs and counterterrorism. The Cabinet Secretariat, which sits in the Cabinet Office, largely manages the day-to-day business of the Cabinet committees and is divided into six individual secretariats that support the different Cabinet committees.
+A Security and Intelligence Coordinator within the Cabinet Office is directly responsible to the Prime Minister and is tasked with coordinating and developing, across all government departments, work on counterterrorism and crisis management. The Security and Intelligence Coordinator plays a key role in setting priorities and budgets for the intelligence services.
+In April 2004, the British government unveiled a new comprehensive, cross-departmental Counterterrorism Strategy (known as CONTEST) centered on the “4Ps” of prevent, pursue, protect, and prepare. Prevention work seeks to address the underlying causes of terrorism both at home and abroad; pursuit efforts aim to disrupt terrorist organizations and their ability to operate; protection measures focus on protecting the public, critical national infrastructure, and key sites at particular risk; preparedness work aims to enable the UK to respond and recover from the consequences of a terrorist attack. The “4Ps” seek to give greater coherence to UK counterterrorism measures and take advantage of existing expertise and resources throughout the UK government.
+
+
+=== Foreign Intelligence on Terrorist Threats ===
+The UK has three main intelligence and security services engaged in the fight against terrorism. The Secret Intelligence Service (SIS, or MI6), the UK’s foreign intelligence service, gathers intelligence overseas. The Government Communications Headquarters (GCHQ) provides signals intelligence to counter a range of threats, including terrorism, and is also the national technical authority for information assurance, helping to keep data residing on government communication and information systems safe from theft, manipulation, and other threats. Both MI6 and GCHQ operate under the statutory authority of the Foreign Secretary, although neither is part of the Foreign and Commonwealth Office.
+The Joint Intelligence Committee (JIC), part of the Cabinet Office, advises on intelligence priorities. Like the US National Intelligence Council, the JIC, is intended to improve intelligence-sharing and cooperation against terrorism further among the UK’s different law enforcement and intelligence agencies.
+
+
+=== Measures to Interfere with Terrorist Organization ===
+HM Revenue and Customs, a nonministerial department that reports to the Chancellor of the Exchequer (or Treasury Secretary), has the lead responsibility for detecting prohibited and restricted goods at import and export, including those goods that may be used by terrorists. Customs officers also have the power to seize terrorist-linked cash anywhere in the UK, although the Treasury ministry has the lead in the fight against terrorist financing. The Department for Transport’s Transport Security and Contingencies Directorate is responsible for the security of the traveling public and transport facilities through regulation of the aviation, maritime, and railway industries.
+
+
+=== Internal security and police ===
+The Home Office, which would be called the Interior Ministry in many European countries, is the government department that has the lead on several aspects of homeland security affairs, including counterterrorism policy within the UK.
+The Security Service (MI5) is responsible for the protection of national security against threats from espionage, sabotage, and terrorism. MI5 operates under the statutory authority of the Home Secretary, although it is not part of the Home Office.
+It is the focal point for the response to the terrorist threat, both through promulgation of legislative measures and counter-terrorist contingency planning. It is also responsible for domestic security policies, planning for chemical, biological, radiological, and nuclear (CBRN) incidents, and the national counterterrorism exercise program.
+The Home Office also has the lead on setting immigration and asylum policy, and ministerial responsibility for the UK immigration service, which controls entry and exit to the UK at air, sea, land, and rail ports and identifies, monitors, and removes immigration offenders.
+The Home Secretary is a member of the full Defence and Overseas Policy ministerial committee, deputy chair of the DOP’s international terrorism subcommittee, and chair of the DOP’s protective security and resilience subcommittee. The Home Secretary also chairs the Civil Contingencies Committee and sits on the Intelligence Services ministerial committee.
+Policing in the UK is largely decentralized. The Home Office has ministerial responsibility for the police services in England and Wales. The Scottish Ministry of Justice has ministerial responsibility for policing in Scotland, while the Secretary of State for Northern Ireland sets policy for policing there. Operational control, however, of all of the police services in England, Wales, Scotland, and Northern Ireland rests with the chief constable of each force. Currently, there are 43 regional police forces in England and Wales, and eight in Scotland; the Police Service of Northern Ireland (PSNI) is responsible for policing in Northern Ireland. In England, Wales, and Scotland, these regional police forces have primary responsibility for the investigation of terrorist offenses; the PSNI has lead responsibility for terrorist investigations related to the affairs of Northern Ireland. Each police force also has its own Special Branch, which works in partnership with the Security Service (MI5), the UK’s domestic security service, to acquire intelligence on those who may be involved in terrorism. The Metropolitan Police (Scotland Yard) has responsibility for London and also has various specialist units, such as those that deal with anti-terrorism, that may be called upon to fulfill a national role.
+In addition to the regional forces, there are a few other British police forces that may play a role in homeland security affairs. The British Transport Police (BTP) police the railway systems of England, Wales, and Scotland; the BTP is also responsible for policing some metro and commuter systems, including the London Underground. The Department of Transport has ministerial responsibility over the BTP. The Civil Nuclear Constabulary (CNC) is an armed police force that protects civil nuclear installations and nuclear materials in the UK; it operates under the strategic direction of the Department of Trade and Industry.
+Although the police and security services have the primary role in domestic protection against terrorism, the armed forces may be called upon domestically in the event of a major terrorist incident requiring military units with specialized skills (such as the Special Forces hostage rescue commandos or those trained to deal with CBRN events). There is a formal turnover of authority from a police organization to the military for a rescue operation, such as the Special Air Service intervention in the Iranian Embassy Siege in 1980.
+
+
+=== Warning and Coordination ===
+In the event of an actual terrorist incident, a Cabinet-level emergency crisis management body — known as Cabinet Office Briefing Rooms (COBR) convenes to coordinate the government’s immediate emergency response; COBR brings together the Prime Minister and other Cabinet ministers and officials.
+The Joint Intelligence Analysis Center (JTAC) collates and evaluates intelligence about potential threats and provide early warning. JTAC seeks to break down institutional barriers between analysts of the different security and intelligence agencies by drawing together about 100 officials from 11 government departments and agencies, including MI5, MI6, GCHQ, the police, and the defense and transport ministries. JTAC provides both long-term studies of international terrorism and immediate assessments of current threats; it is analogous to the U.S. National Counter Terrorism Center. JTAC is responsible to the director-general of MI5.
+
+
+=== Incident Mitigation ===
+The Civil Contingencies Committee (CCC) is heavily involved in longer-term emergency preparedness and response, and has a Civil Contingencies Secretariat (CCS) within the Cabinet Secretariat to support the CCC, review UK emergency planning arrangements, and improve UK preparedness for and response to emergencies.
+The Health Protection Agency (HPA), a non-departmental body accountable to the Health Secretary, was established in 2003 to help provide a coordinated and consistent public health response to a range of national emergencies, from a disease outbreak to a terrorist attack.
+The UK armed forces may also be deployed to assist in the management of a natural disaster. The decision to deploy the military to assist the civil authorities in an emergency would be made by COBR, and the armed forces would have no jurisdiction outside of supporting the civil powers. The Ministry of Defense and the armed forces are also responsible for protecting 160 key UK sites, and for guarding UK nuclear weapons.
+
+
+== United States ==
+Few nations have as complex a structure as the United States, and the structure is reorganized frequently. In the US, there is a very careful line drawn between intelligence and law enforcement.
+Several supervisory and coordinating organizations report to the President, principally the Director of National Intelligence (DNI) and Office of the National Counterintelligence Executive (NCIX).
+
+
+=== Foreign Intelligence on Terrorist Threats ===
+The large and complex intelligence community all gather information. Agencies variously have capabilities for collection, analysis, or both. Information is sent to the National Counterterrorism Center, which reports to the DNI.
+Certain counter-intelligence agencies to protect military forces are largely classified functions called Counterintelligence Force Protection Source Operations (CFSO). These report to military chains of command for direct support, but coordinate offensive activities through the NCS. Each major military service has a counter-intelligence function: U.S. Army Counter Intelligence, the Air Force Office of Special Investigations (AFOSI),and the Naval Criminal Investigative Service (NCIS), formerly (NIS). NCIS serves the US Marine Corps. NOTE: The U.S. Marine Corps also has Counterintelligence/Tactical HUMINT assets (CI/HUMINT). There is also a Defense-wide Counterintelligence Field Activity (CIFA).
+
+
+=== Internal Security and Police ===
+Domestic counter-intelligence is principally under Federal Bureau of Investigation (FBI), a law enforcement service. The FBI and CIA jointly operate the National Counterterrorism Center, although the CIA is not allowed to do field operations within the US.
+The lead agency for terrorism law enforcement is the FBI, although a number of units of the Department of Homeland Security may provide support After the Oklahoma City bombing of 19 April 1995, by Timothy McVeigh, an American, the CI definition reasonably extends to included domestically-originated terrorism. There is also the challenge of what organizations, laws, and doctrines are relevant to protection against all sorts of terrorism in one's own country. See Counter-intelligence Force Protection Source Operations for a discussion of special considerations of protection of government personnel and facilities, both in the US and internationally.
+Immigration services, formerly under the United States Immigration and Naturalization Service (INS) transferred from the Department of Justice to the Department of Homeland Security in March 2003.
+The administration of immigration services, including permanent residence, naturalization, asylum, and other functions became the responsibility of the Bureau of Citizenship and Immigration Services (BCIS), which existed only for a short time before changing to its current name, U.S. Citizenship and Immigration Services (USCIS).
+The investigative and enforcement functions (including investigations, deportation, and intelligence) were combined with U.S. Customs investigators, the Federal Protective Service, and the Federal Air Marshal Service, to create U.S. Immigration and Customs Enforcement (ICE).
+The border functions of the INS, which included the Border Patrol along with INS Inspectors, were combined with U.S. Customs Inspectors into the newly created U.S. Customs and Border Protection (CBP).
+
+
+=== Warning and Coordination ===
+The National Counterterrorism Center, reporting to the Director of National Intelligence receives information from intelligence agencies and law enforcement, does threat analysis, and disseminates as appropriate.
+
+
+=== Criminal Justice for Terrorists ===
+Police activity would principally be under the FBI, with prosecution in the Federal court system.
+
+
+=== Measures to Interfere with Terrorist Organization ===
+Offensive counterespionage, which also includes offensive (but not combat) activity against terrorists, appears to have remained in the Central Intelligence Agency's National Clandestine Service (NCS), which formerly was the CIA Directorate of Operations.
+The Financial Crimes Enforcement Network (FinCEN), in the Department of the Treasury, is the clearinghouse for banks and other institutions' reporting of suspected money laundering, terrorist financing, etc. In general, if there is a matter to be prosecuted, the FBI will take the case.
+
+
+=== Incident Mitigation ===
+DHS contains a number of organizations for mitigation, which work with state and local organizations. All use the Incident Command System operations paradigm, which scales from local level to the National Incident Management System/National Response Plan.
+DHS organizations involved in mitigation include the Federal Emergency Management Agency, National Communications System and US Coast Guard. National Guard units, variously federalized, used by agreement between states, or in their own states, are a major resource, especially for large disasters.
+
+
+== See also ==
+Counter-terrorism for a more detailed discussion of tactical response
+Intelligence cycle management
+Intelligence collection management
+HUMINT
+Intelligence analysis management
+Intelligence analysis
+Incident Command System
+
+
+== References ==
+^ Van Cleave, Michelle K. (April 2007). "Counterintelligence and National Strategy" (PDF). School for National Security Executive Education, National Defense University (NDU). USNDU-Van Cleave-2007. Archived from the original (PDF) on 2007-11-28. Retrieved 2007-11-05. 
+^ Archick, Kristen (2006-07-24). "European Approaches to Homeland Security and Counterterrorism" (PDF). Congressional Research Service. CRS-Van Cleave-2006. Retrieved 2007-11-05.

@@ -1,0 +1,66 @@
+Poverty Reduction Strategy Papers (PRSPs) are documents required by the International Monetary Fund (IMF) and World Bank before a country can be considered for debt relief within the Heavily Indebted Poor Countries (HIPC) initiative. PRSPs are also required before low-income countries can receive aid from most major donors and lenders. The IMF specifies that the PRSP should be formulated according to five core principles. The PRSP should be country-driven, result-oriented, comprehensive, partnership-oriented, and based on a long-term perspective. The PRS process encourages countries to develop a more poverty-focused government and to own their own strategies through developing the plan in close consultation with the population. A comprehensive poverty analysis and wide-ranging participation are vital parts of the PRSP formulation process. There are many challenges to PRS effectiveness, such as state capacity to carry out the established strategy. Criticism of PRSP include aid conditionality, donor influence, and poor fulfillment of the participatory aspect.
+
+
+== Purpose ==
+The World Bank and IMF require countries to produce a Poverty Reduction Strategy Paper as a condition for debt relief through the HIPC initiative and other monetary aid, as do several bilateral donors. PRSPs are intended to help aid recipient countries meet the Millennium Development Goals (MDGs). They detail a country's plan to promote growth and reduce poverty through implementation of specific economic, social and structural policies over a period of three years or longer. PRSPs provide lending organizations, like the World Bank and the IMF, assurance that aid receiving countries will utilize aid to pursue development outcomes that have been elaborated in the PRSPs and approved by lenders.
+
+
+== Goals ==
+The IMF has outlined five core principles for the process through which PRSPs are elaborated. First, it should be country-driven, meaning that country ownership of the strategy should be culminated through broad-based participation of civil society. It should also be result-oriented by focusing on outcomes that will benefit the poor, comprehensive in exploring and understanding the multidimensional nature of poverty, partnership-oriented by involving development partners such as the government, domestic stakeholders, and external donors. Lastly, the development of the PRSP should be based on a long-term perspective geared towards reducing poverty. These core principles are central to the goals of the PRS process.
+
+
+=== Poverty-focused government ===
+One central goal is to create a more poverty-focused government. Previously, poverty reduction had been largely a marginalized concern within governments of developing countries. Through the PRSP process, the issue of poverty has moved up in priority, creating more comprehensive plans addressing poverty specifically than ever before. There has also been an increase in “pro-poor” spending within the health, education and transportation sectors. Due to the demands from the donors to show results, there has been an increase in poverty monitoring through participatory poverty assessments and household surveys.
+
+
+=== Civil society involvement ===
+One major function of the PRS is to encourage more participation from the population. The purpose of civil society involvement is to increase the influence of stakeholders in policy creation, program implementation, resource allocation and priority setting. The intent here to culminate a degree of national consensus, thereby creating a poverty reduction strategy that is more representative of stakeholder's interests. The idea behind this is that the PRS will then be owned by the population and will be sustainable, as it suits the needs and capacities of the country.
+
+
+=== Ownership ===
+Ownership of the PRS by the government and population is a very important goal of PRS. It addresses the ineffectiveness of donor imposition of policy conditions from the outside, a common approach of lending organizations. One way the PRS process encourages ownership is by having governments create their own PRSPs in close consultation with the population. This allows them to take ownership over, and thereby stick to, the strategies they and their population deem necessary to improve conditions in their counties. Additionally, the hope is that in developing a PRSP together, a country will gain a more comprehensive understanding of the poverty issues it faces. The PRSP process is also meant to encourage government leadership in implementing their own strategies by allowing them to allocate the aid money themselves in accordance with the strategies they had drawn up in the PRSP. The emphasis on government leadership stems from the problems that arise when donors establish their own strategy implementation agencies within the client countries, bypassing state agencies and therefore undermining the development of state capacity as well as creating a dependency on aid organizations.
+
+
+== Formulation process ==
+
+
+=== Poverty analysis ===
+The PRSP process begins with an analysis of poverty within the country, taking into account both quantitative and qualitative data. This analysis becomes the basis for the poverty reduction strategy as it indicates the priority issues. It is important at this stage for the government to initiate civil participation, though to the degree with which this is done varies by country.
+
+
+=== Participatory process ===
+One of the most important factors of the PRSP is the participatory process through which it is created. It is vital to increasing country ownership of the PRS and promote accountability. The World Bank outlines the following participatory levels:
+Government participation, including ministries, parliament and sub-national governments
+Stakeholder participation and involvement. This can include civil society groups, women’s groups, ethnic minorities, policy research institutes and academics, the private sector, trade unions and representatives from different regions of the country.
+Participation of bilateral and multilateral external development partners
+Participation and consultation of the poor or their representatives
+Participation has been facilitated by civil society organizations, mainly NGOs. However, since there is no clear framework for consultation with the masses, nor a clear definition of participation, many governments are able to conduct and organize it in whichever way they decide. This often results in governments coordinating selective participation and employing other such tactics aimed at diluting public influence over government objectives. Governments have also been unclear on how much they should incorporate the opinions of the poor into their PRSP, especially while also trying to appease the donors. Furthermore, there is no clear criteria on which to judge whether or not the participatory aspect has been fulfilled in the PRSP. This means that the PRSP might be approved by the IMF and World Bank regardless of the lack of true civil society participation in its making.
+
+
+== Content ==
+According to the World Bank's PRS Sourcebook, a PRSP should contain a poverty analysis, a prioritization of the programs needed to achieve development objectives, targets and indicators, a plan for keeping track of progress towards goals and evaluating effectiveness of implementation of programs, and a description of the participatory process in preparing the strategy.
+
+
+== Criticism and challenges ==
+Even with an approved PRSP, some countries have difficulty following through with intended policies and therefore do not reach the PRS outcomes. A large factor of this is the misallocation of budgetary funds that were intended to go towards the PRS.
+The PRSP process has been scrutinized for increasing aid conditionality even though it was supposedly created to undo the imposition of policy conditions from the outside by increase country ownership. Some have argued that it is a "process conditionality" not a "content conditionality". This differentiation is important because it means donors are only monitoring if the country has made a PRSP and if it was made in a participitory way. However, this might still pose a problem. Since in the past donors were unable to impose content effectively in the client country's policies, it seems unlikely that donors would be able to impose process standards in making a PRSP. It has already been shown that donor's attempts to influence domestic politics have not been successful in the past. Furthermore, international financial institutions do in fact evaluate PRSP content, not process alone.
+A clear definition of what civil participation means has not been laid out by the IMF or World Bank. This creates a problem when evaluating one of the key requirements of the PRSP, which is that it has to be formulated with civil participation. In fact, participation that involves the population working with the government to develop specific strategies to reduce poverty doesn't exist in any developing country. This seems to suggest that the WB and IMF approve PRSPs regardless of the fulfillment of this condition.
+
+
+== See also ==
+Poverty reduction
+
+
+== References ==
+
+
+== Further reading ==
+Jeremy Gould (ed), The New Conditionality: The Politics of Poverty Reduction Strategies, Zed Books 2005
+Caillods, F. Hallak, J. 2004. Education and PRSPs: a review of experiences. Paris: IIEP/UNESCO. [1]
+
+
+== External links ==
+A selection of up-to-date resources on the PRSP approach and its implementation in developing countries can be found in the Governance and Social Development Resource Centre's topic guide on poverty reduction strategy papers
+PRSPs at the IMF
+PRSPs at the World Bank
+Third World Network Paper on PRSPs

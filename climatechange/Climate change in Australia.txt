@@ -1,0 +1,237 @@
+Climate change has been a major issue in Australia since the beginning of the 21st century. In 2013, the CSIRO released a report stating that Australia is becoming hotter, and that it will experience more extreme heat and longer fire seasons because of climate change. In 2014, the Bureau of Meteorology released a report on the state of Australia's climate that highlighted several key points, including the dramatic increase in Australia's temperatures (particularly night-time temperatures) and the increasing frequency of bush fires, droughts and floods, which have all been linked to climate change.
+Since the beginning of the 20th century Australia has experienced an increase of nearly 1 °C in average annual temperatures, with warming occurring at twice the rate over the past 50 years than in the previous 50 years. Recent climate events such as extremely high temperatures and widespread drought have focused government and public attention on the impacts of climate change in Australia. Despite a slight increase in overall rainfall in Australia, rainfall patterns are expected to be problematic, as rain has become heavier and infrequent, with little or no uptrend in rainfall in the Western Plateau and the Central Lowlands of Australia. Water sources in the southeastern areas of Australia have depleted due to increasing population in urban areas (rising demand) coupled with climate change factors such as persistent prolonged drought (diminishing supply). At the same time, Australia continues to have the highest per capita greenhouse gas emissions. Temperatures in Australia have also risen dramatically since 1910 and nights have become warmer.
+A carbon tax was introduced in 2011 by the Gillard government in an effort to reduce the impact of climate change and despite some criticism, it has successfully reduced Australia's carbon dioxide emissions, with coal generation down 11% since 2008-09. The Australian Government under Prime Minister Tony Abbott has been criticised for being "in complete denial about climate change". Furthermore, the Abbott government repealed the statistically effectual carbon tax on 17 July 2014 in a heavily criticised move.
+The federal government and all state governments (New South Wales, Victoria, Queensland, South Australia, Western Australia, Tasmania, Northern Territory and the Australian Capital Territory) have explicitly recognised that climate change is being caused by greenhouse gas emissions, in conformity with the scientific opinion on climate change. Sectors of the population are actively campaigning against new coal mines and coal-fired power stations because of their concern about the effects of global warming on Australia. There is expected to be a net benefit to Australia of stabilising greenhouse gases in the atmosphere at 450ppm CO2 eq.
+The per-capita carbon footprint in Australia was rated 12th in the world by PNAS in 2011, considerably large given the small population of the country.
+
+
+== Pre-instrumental climate change ==
+Paleoclimatic records indicate that during glacial maxima Australia was extremely arid, with plant pollen fossils showing deserts extending as far as northern Tasmania and a vast area of less than 2 percent vegetation cover over all of South Australia and adjacent regions of other states. Forest cover was largely limited to sheltered areas of the east coast and the extreme southwest of Western Australia.
+During these glacial maxima the climate was also much colder and windier than today. Minimum temperatures in winter in the centre of the continent were as much as 9 °C (16 °F) lower than they are today. Hydrological evidence for dryness during glacial maxima can also be seen at major lakes in Victoria's Western District, which dried up between around 20,000 and 15,000 years ago and re-filled from around 12,000 years ago.
+As one moves into the Holocene, evidence for climate change declines. During the early Holocene, there is evidence from Lake Frome in South Australia and Lake Woods near Tennant Creek that the climate between 8,000 and 9,500 years ago and again from 7,000 to 4,200 years ago was considerably wetter than over the period of instrumental recording since about 1885. The research that gave these records also suggested that the rainfall flooding Frome was certainly summer-dominant rainfall because of pollen counts from grass species. Other sources suggest that the Southern Oscillation may have been weaker during the early Holocene and rainfall over northern Australia less variable as well as higher. The onset of modern conditions with periodic wet season failure is dated at around 4,000 years before the present.
+In southern Victoria, there is evidence for generally wet conditions except for a much drier spell between about 3,000 and 2,100 years before the present, when it is believed Lake Corangamite fell to levels well below those observed between European settlement and the 1990s. After this dry period, Western District lakes returned to their previous levels fairly quickly and by 1800 they were at their highest levels in the forty thousand years of record available.
+Elsewhere, data for most of the Holocene are deficient, largely because methods used elsewhere to determine past climates (like tree-ring data) cannot be used in Australia owing to the character of its soils and climate. Recently, however, coral cores have been used to examine rainfall over those areas of Queensland draining to the Great Barrier Reef. The results do not provide conclusive evidence of man-made climate change, but do suggest the following:
+There has been a marked increase in the frequency of very wet years in Queensland since the end of the Little Ice Age, a theory supported by there being no evidence for any large Lake Eyre filling during the LIA.
+The dry era of the 1920s and 1930s may well have been the driest period in Australia over the past four centuries.
+A similar study, not yet published, is planned for coral reefs in Western Australia.
+There exist records of floods in a number of rivers, such as the Hawkesbury, from the time of first settlement. These suggest that, for the period beginning with the first European settlement, the first thirty-five years or so were wet and were followed by a much drier period up to the mid-1860s, when usable instrumental records start.
+
+
+== Instrumental climate records ==
+
+
+=== Development of an instrumental network ===
+Although rain gauges were installed privately by some of the earliest settlers, the first instrumental climate records in Australia were not compiled until 1840 at Port Macquarie. Rain gauges were gradually installed at other major centres across the continent, with the present gauges in Melbourne and Sydney dating from 1858 and 1859 respectively.
+In eastern Australia, where the continent's first large-scale agriculture began, a large number of rain gauges were installed during the 1860s and by 1875 a comprehensive network had been developed in the "settled" areas of that state. With the spread of the pastoral industry to the north of the continent during this period, rain gauges were established extensively in newly settled areas, reaching Darwin by 1869, Alice Springs by 1874, and the Kimberley, Channel Country and Gulf Savannah by 1880.
+By 1885, most of Australia had a network of rainfall reporting stations adequate to give a good picture of climatic variability over the continent. The exceptions were remote areas of western Tasmania, the extreme southwest of Western Australia, Cape York Peninsula, the northern Kimberley and the deserts of northwestern South Australia and southeastern Western Australia. In these areas good-quality climatic data were not available for quite some time after that.
+Temperature measurements, although made at major population centres from days of the earliest rain gauges, were generally not established when rain gauges spread to more remote locations during the 1870s and 1880s. Although they gradually caught up in number with rain gauges, many places which have had rainfall data for over 125 years have only a few decades of temperature records.
+
+
+=== Climate history based on instrumental records ===
+
+Australia's instrumental record from 1885 to the present shows the following broad picture:
+Conditions from 1885 to 1898 were generally fairly wet, though less so than in the period since 1968. The only noticeably dry years in this era were 1888 and 1897. Although some coral core data suggest that 1887 and 1890 were, with 1974, the wettest years across the continent since settlement, rainfall data for Alice Springs, then the only major station covering the interior of the Northern Territory and Western Australia, strongly suggest that 1887 and 1890 were overall not as wet as 1974 or even 2000. In New South Wales and Queensland, however, the years 1886-1887 and 1889-1894 were indeed exceptionally wet. The heavy rainfall over this period has been linked with a major expansion of the sheep population and February 1893 saw the disastrous 1893 Brisbane flood.
+A drying of the climate took place from 1899 to 1921, though with some interruptions from wet El Niño years, especially between 1915 and early 1918 and in 1920-1921, when the wheat belt of the southern interior was drenched by its heaviest winter rains on record. Two major El Niño events in 1902 and 1905 produced the two driest years across the whole continent, whilst 1919 was similarly dry in the eastern States apart from the Gippsland.
+The period from 1922 to 1938 was exceptionally dry, with only 1930 having Australia-wide rainfall above the long-term mean and the Australia-wide average rainfall for these seventeen years being 15 to 20 percent below that for other periods since 1885. This dry period is attributed in some sources to a weakening of the Southern Oscillation and in others to reduced sea surface temperatures. Temperatures in these three periods were generally cooler than they are currently, with 1925 having the coolest minima of any year since 1910. However, the dry years of the 1920s and 1930s were also often quite warm, with 1928 and 1938 having particularly high maxima.
+The period from 1939 to 1967 began with an increase in rainfall: 1939, 1941 and 1942 were the first close-together group of relatively wet years since 1921. From 1943 to 1946, generally dry conditions returned, and the two decades from 1947 saw fluctuating rainfall. 1950, 1955 and 1956 were exceptionally wet except 1950 and 1956 over arid and wheatbelt regions of Western Australia. 1950 saw extraordinary rains in central New South Wales and most of Queensland: Dubbo's 1950 rainfall of 1,329 mm (52 inches) can be estimated to have a return period of between 350 and 400 years, whilst Lake Eyre filled for the first time in thirty years. In contrast, 1951, 1961 and 1965 were very dry, with complete monsoon failure in 1951/1952 and extreme drought in the interior during 1961 and 1965. Temperatures over this period initially fell to their lowest levels of the 20th century, with 1949 and 1956 being particularly cool, but then began a rising trend that has continued with few interruptions to the present.
+Since 1968, Australia's rainfall has been 15 percent higher than between 1885 and 1967. The wettest periods have been from 1973 to 1975 and 1998 to 2001, which comprise seven of the thirteen wettest years over the continent since 1885. Overnight minimum temperatures, especially in winter, have been markedly higher than before the 1960s, with 1973, 1980, 1988, 1991, 1998 and 2005 outstanding in this respect. There has been a marked and beneficial decrease in the frequency of frost across Australia.
+According to the Bureau of Meteorology, Australia’s annual mean temperature for 2009 was 0.90 °C above the 1961-90 average, making it the nation’s second warmest year since high-quality records began in 1910.
+Summer 2013-14 was warmer than average for the entirety of Australia. Both Victoria and South Australia saw record breaking temperatures. Adelaide recorded a total of 13 days reaching 40 °C or more, 11 of which reached 42 °C or more, as well as its fifth hottest day on record—45.1 °C on January 14. The amount of days over 40 °C beat the previous record of summer 1897-1898, when 11 days above 40 °C were recorded. Melbourne recorded six days over 40 °C, while nighttime temperatures were much warmer than usual, with some nights failing to drop below 30 °C.
+Overall, the summer of 2013-2014 was the 3rd hottest on record for Victoria, 5th warmest on record for New South Wales, and 6th warmest on record for South Australia.
+
+
+=== Local variations ===
+Within Australia, patterns of precipitation show regional variation. Because of the general spatial coherence of rainfall over most of Australia, these variations have tended to affect small areas, but because these are generally the most populated parts of the continent, they are still of considerable importance.
+In the South-West Land Division, rainfall during the May to August rainy season has declined by 20 percent since 1968, after being at its highest from 1915 to 1947. Floods that were once common have virtually disappeared. Aided by increased winter temperatures and evaporation, runoff has declined over the past forty years by as much as sixty percent.
+In southern Victoria, rainfall since 1997 has declined by as much as 30 percent, with Melbourne having not once exceeded its 1885 to 1996 average since 1997.In contrast, the 1950s in southern Victoria were consistently wet, with Western District lakes returning during the decade to levels seen before the 1850s and Corangamite almost overflowing, as it is believed to have done during the Little Ice Age.
+
+The eastern part of Tasmania has also seen a major decline in rainfall since the middle 1970s. In Hobart, the annual rainfall has declined by about one-sixth since that time, and not one of the nineteen wettest years since 1882 has occurred since 1976.
+In Gippsland, the coastal areas of New South Wales, and southern Queensland, the driest period since 1885 was not from 1922 to 1938, but approximately from 1901 to 1910, when the average annual rainfall at Sydney was 20 percent below its long-term mean. There was a slight increase in rainfall from 1916 to 1934 and then a decline to 1901-1910 levels from 1936 to 1948, before a return to the pre-1900 "flood-dominated" climate regime occurred in 1949.
+In northwestern Australia, rainfall was moderate from 1885 to about 1925, then declined from the late 1920s to the late 1960s (with very dry conditions during the 1950s), followed by rapid increases since then. In Darwin, six of the seven wettest wet seasons have occurred since 1995, and the major droughts that once affected the region frequently have virtually disappeared since 1971.
+
+
+== Effects of climate change on Australia ==
+
+According to the CSIRO and Garnaut Climate Change Review, climate change is expected to have numerous adverse effects on many species, regions, activities and much infrastructure and areas of the economy and public health in Australia. The Stern Report and Garnaut Review on balance expect these to outweigh the costs of mitigation. 
+Sustained climate change could have drastic effects on the ecosystems of Australia. For example, rising ocean temperatures and continual erosion of the coasts from higher water levels will cause further bleaching of the Great Barrier Reef. Beyond that, Australia’s climate will become even harsher, with more powerful tropical cyclones and longer droughts.
+The impacts of climate change will vary significantly across Australia. The Australian Government appointed Climate Commission have prepared summary reports on the likely impacts of climate change for regions across Australia, including: Queensland, NSW, Victoria and Tasmania.
+
+
+=== Climate Commission reports ===
+
+According to the climate commission report in 2013 the extreme heatwaves, flooding and bush fires striking Australia have been intensified by climate change and will get worse in future in terms of their impacts on people, property, communities and the environment. The summer of 2012/2013 included the hottest summer, hottest month and hottest day on record. The cost of the 2009 bushfires in Victoria was estimated at A$4.4bn (£3bn) and the Queensland floods of 2010/2011 cost over A$5bn. 
+
+
+=== Sea level rise ===
+The Australian Government released a detailed report on the impacts of climate change on coastal areas of Australia, finding that up to 247,600 houses are at risk from flooding from a sea-level rise of 1.1 metres. There were 39,000 buildings located within 110 metres of 'soft' erodible shorelines, at risk from accelerated erosion due to sea -level rise.
+
+
+=== Economy ===
+In 2008 the Treasurer and the Minister for Climate Change and Water released a report that concluded the economy will grow with an emissions trading scheme in place.
+A report released in October 2009 by the Standing Committee on Climate Change, Water, Environment and the Arts, studying the effects of a 1m sea level rise, quite possible within the next 30–60 years, concluded that around 700,000 properties around Australia, including 80,000 buildings, would be inundated, the collective value of these properties is estimated at $150billion.
+
+
+=== Water ===
+
+In June 2008 it became known that an expert panel had warned of long term, maybe irreversible, severe ecological damage for the whole Murray-Darling basin if it did not receive sufficient water by October of that year. Water restrictions were in place in many regions and cities of Australia in response to chronic shortages resulting from the 2008 drought. In 2004 paleontologist Tim Flannery predicted that unless it made drastic changes the city of Perth, Western Australia, could become the world’s first ghost metropolis - an abandoned city with no more water to sustain its population. However, with increased rainfall in recent years, the water situation has improved.
+
+
+== Mitigation ==
+
+One of Australia's first national attempt to reduce emissions was the voluntary-based initiative called the Greenhouse Challenge Program which began in 1995. A collection of measures which focused on reducing the environmental impacts of the energy sector were released by Prime Minister John Howard on 20 November 1997 in a policy statement called Safeguarding Our Future: Australia's Response to Climate Change. One measure was the establishment of the Australian Greenhouse Office, which was set up as the world's first dedicated greenhouse office in April 1998.
+After contributing to the development of, then signing but not ratifying the Kyoto Protocol, action to address climate change was coordinated through the Australian Greenhouse Office. The Australian Greenhouse Office released the National Greenhouse Strategy in 1998. The report recognised climate change was of global significance and that Australia had an international obligation to address the problem. In 2000 the Senate Environment, Communications, Information Technology and the Arts References Committee conducted an inquiry that produced The Heat is On: Australia's Greenhouse Future.
+
+
+=== Emissions trading ===
+Prime Ministerial Task Group on Emissions Trading
+
+
+== Action on climate change ==
+Climate change featured strongly in the November 2007 Australian federal election in which John Howard was replaced by Kevin Rudd as Prime Minister. The first official act of the new Australian Government was to ratify the Kyoto Protocol.
+
+
+=== Government action ===
+
+
+==== National ====
+In 1998 the Australian Government, under Prime Minister John Howard, established the Australian Greenhouse Office, which was then the world's first government agency dedicated to cutting greenhouse gas emissions. Currently, the new Department of Climate Change under Minister Penny Wong is coordinating and leading climate policy in the Australian Government and aimed to have a national emissions trading scheme operating by 2010. However, on 27 April 2010, the Prime Minister Kevin Rudd announced that the Government has decided to delay the implementation of the Carbon Pollution Reduction Scheme (CPRS) until the end of the first commitment period of the Kyoto Protocol (ending in 2012). The Government cited the lack of bipartisan support for the CPRS and slow international progress on climate action as the reasons for the decision.
+The delay of the implementation of the CPRS was strongly criticised by the Federal Opposition and by community and grassroots action groups such as GetUp.
+The new government has committed to reducing Australia's greenhouse gas emissions by 60% by 2050, based on year 2000 levels but is awaiting a report from Professor Ross Garnaut, the Garnaut Climate Change Review, in mid-2008 before setting interim emission reduction targets for 2020. 
+Climate change is on the agenda for most environmental and social justice non-government organisations (NGOs) in Australia. There has also been significant action at a State Government level, although the Federal government was slow to act under the former prime minister, John Howard.
+To reduce Australia's carbon emissions, the government of Julia Gillard introduced a carbon tax on 1 July 2012. It requires large businesses, defined as those emitting over 25,000 tons of carbon dioxide equivalent annually, to purchase emissions permits.
+
+
+==== State ====
+
+
+===== Victoria =====
+
+The state of Victoria, in particular, has been proactive in pursuing reductions in GHG through a range of initiatives. Other states have also taken a more proactive stance than the federal government. One such initiative undertaken by the Victorian Government is the Greenhouse Challenge for Energy Policy package, which aims to reduce Victorian emissions through a mandated renewable energy target. Initially, it aimed to have a 10 per cent share of Victoria’s energy consumption being produced by renewable technologies by 2010, with 1000 MWh being produced by wind energy by 2006; this target was not met. The government recently legislated to ensure that by 2016 electricity retailers in Victoria purchase 10 per cent of their energy from renewables. The State Government also made an election promise, at the 2006 election, to increase this to 20 per cent by 2020. By providing a market incentive for the development of renewables, the government helps foster the development of the renewable energy sector.
+
+
+===== South Australia =====
+Former Premier Mike Rann (2002-2011) was Australia's first Climate Change Minister and passed legislation committing South Australia to renewable energy and emissions reduction targets. Announced in March 2006, this was the first legislation passed anywhere in Australia committed to cutting emissions. By the end of 2011, 26% of South Australia's electricity generation derived from wind power, edging out coal-fired power for the first time. Although only 7.2% of Australia's population live in South Australia, in 2011, it had 54% of Australia's installed wind capacity. Following the introduction of solar feed-in tariff legislation South Australia also had the highest per-capita take up of household rooftop photo-voltaic installations in Australia. In an educative program, the Rann government invested in installing rooftop solar arrays on the major public buildings including the Parliament, Museum, Adelaide Airport, Adelaide Showgrounds pavilion and public schools. About 31% of South Australia's total power is derived from renewables. In the five years to the end of 2011, South Australia experienced a 15% drop in emissions, despite strong employment and economic growth during this period.
+
+
+===== Western Australia =====
+On 6 May 2007, the Premier of Western Australia, Alan Carpenter announced the formation of a new Climate Change Office responsible to a Minister, with a plan that included:
+a target to reduce emissions by at least 60% below 2000 levels by 2050
+a $36.5 million Low Emission Energy Development Fund
+a target to increase renewable energy generation on the South West Interconnected System to 15% by 2020 and 20% by 2025
+a clean energy target of 50% by 2010 and 60% by 2020
+State Government purchase of 20% renewable energy by 2010
+a mandatory energy efficiency program that will require large and medium energy users to invest in cost effective energy efficiency measures
+tripling the successful solar schools program so that over 350 schools will be using renewable energy by 2010
+a new $1.5 million Household Sustainability Audit and Education program that will provide practical information to households about how they can reduce greenhouse gas emissions
+investing 8.625 million to help businesses and communities adapt to the impacts of climate change
+the development of new climate change legislation
+a commitment to establishment of a national emissions trading scheme
+This plan has been criticised by Greens MP Paul Llewellyn who stated that short-term programmatic targets rather than aspirational targets to greenhouse gas emissions were needed, and that renewable energy growth in the state was still being driven entirely by federal government policy and incentives, not by measures being made by the state government.
+
+
+=== Youth Climate Movement ===
+
+
+==== Australian Student Environment Network ====
+Australian Student Environment Network (ASEN) is a non-profit, grassroots network of student activists from universities, TAFEs and secondary schools across Australia. The network aims to create a generation of change-agents actively working to achieve environmental and social justice within the Australian and world context. The network has a strong focus on equipping young people with organising and facilitation skills and provides first-hand campaigning experience in environmental advocacy and grassroots organising. Annually, the ASEN summer training camp brings together students for one week of facilitated skill sharing, workshopping, campaign planning and strategising.
+ASEN has multiple campaign foci including climate change, coal mining, green jobs, campus sustainability (energy/emissions & recycled paper), nuclear power, Gold and Uranium mining and the genocide of Indigenous peoples. In addition, the network builds and lives-out alternative ideas and lifestyles through community projects such as Co-operatives (food, housing and transport), on-campus permaculture gardens and by investing in community supported agriculture.
+
+
+=== Campaigns and events ===
+
+
+==== Youth ====
+Adopt a Politician
+The AYCC supports numerous projects by harnessing the knowledge, skills and experience of its coalition member groups. In August 2007, the AYCC launched their federal election campaign "Adopt a Politician" providing young voters and non-voters a platform on which to engage with their local community on the issue and pressure their federal candidates to save their future by committing to better policies.
+Switched On
+In October 2007, the AYCC and ASEN organised the largest gathering of young climate activists from around the country at the conference "Switched On" in the Blue Mountains west of Sydney. The conferenced aimed to facilitate critical thinking on climate change and its solutions, share knowledge and skills for organising around climate change and provide support and networking opportunities for the growing youth climate movement in Australia.
+Kyoto
+In November 2007, youth delegates from the AYCC attended the Kyoto negotiations in Bali where they collaborated with other national youth networks and young climate activists from around the world.
+Community Awareness
+SYCAN-the Sydney Youth Climate Action Network was founded at OzGreen's Youth Leading Australia Congress in 2009. SYCAN is working in local communities to reduce emissions through education and practical solutions. SYCAN is a non-profit, non-partisan group of youth volunteers. SYCAN as of January 2011 currently has two branches (Northern Beaches and Inner-West areas).
+
+
+==== Non-youth ====
+
+Walk Against Warming: annual community event supported by several NGOs and Australian Conservation Councils. Drew 40,000 in Sydney in November 2006 and 2007, 2008, December 2009 and August 2010. 40,000 attended the 2009 Melbourne walk.
+Sustainability Convergence - a joint project based in Melbourne, Australia that involves a range of individuals and community groups from cross movements and sectors aiming to harness the momentum for action on climate change. The Sustainable Living Foundation provides the basic platform of the event and works with a range of groups to co-host the activities.
+The Rainforest Information Centre plans a road show of Eastern states in the first half of 2007. The workshops will comprise a brief summary of the problem and forty-minute presentation on despair and empowerment before encouraging participants to consider how to get active at a neighbourhood or community level. The intention is to establish new climate action groups and, where they exist already, to provide support, direction and connections.
+The Gaia Foundation in Western Australia has been running a series of "Climate Change: Be the Change" workshops around Perth, aimed at getting individuals to undertake personal projects to limit their greenhouse gas emissions.
+GetUp! Organised online action around nine key campaigns, including climate action. Promoting five policy asks.
+Say Yes Australia campaign including Say Yes demonstrations of 5 June 2011, in which 45,000 people demonstrated in every major city nationwide in support of a price on carbon pollution.
+
+
+=== Community organising ===
+In the Hunter Valley, alliances are being developed between unionists, environmentalists and other stakeholders. The Anvil Hill Alliance includes community and environment groups in NSW opposed to the expansion of coal mines in his high conservation value region. Their ‘statement’ has been endorsed by 28 groups.
+
+
+=== Community engagement ===
+Initiatives
+WWF has recruited companies to participate in Australia's first Earth Hour on 31 March 2007. Participating companies turned off their lights for one hour from 7.30pm. Cities across Europe turned off lights on public buildings including the Eiffel Tower and Colosseum during January 2007 to mark the release of an Intergovernmental Panel on Climate Change report. Householders were also encouraged to switch off electrical appliances.
+Another WWF initiative called Climate Witness recruits individuals who can share their stories of climate change impacts and their efforts to adapt to changes.
+With support from the Uniting Church and Catholic Earthcare, ACF and the National Council of Churches Australia have produced a brochure, Changing Climate, Changing Creation, which is being distributed to churches across the country. The brochure encourages Australian Christians to: write to or visit their federal MP and ask what they are doing to address the threat of climate change; find out more about reducing energy and water usage and waste at home; and take action on climate change within churches and small groups.
+Ipswich Green was formed by an automotive dealer to provide like minded businesses a way of engaging the community regarding carbon emissions.
+Literature Janette Hartz-Karp writes that "to deal with the complexity of climate change and oil dependency, we need a radical rethink of how to engage citizens in meaningful, influential dialogue" Deliberative democracy presents a wide range of strategies to involve communities in these important decisions.
+
+
+=== Legal action ===
+Groups including Rising Tide and Queensland Conservation have initiated legal challenges to coal mines under the Commonwealth EPBC legislation. In late 2006, Queensland Conservation lodged an objection to the greenhouse gas emissions from a large coal mine expansion proposed by Xstrata Coal Queensland Pty Ltd. QC's action aimed to have the true costs of the greenhouse gas emissions from coal mining recognised. The Newlands Coal Mine Expansion will produce 28.5 million tonnes of coal over its fifteen years of operation. The mining, transport and use of this coal will emit 84 million tonnes of C02 into the atmosphere. Queensland Conservation aims to have reasonable and practical measures imposed on new mines to avoid, reduce or offset the emissions from the mining, transport and use of their coal. The Land and Resources Tribunal ruled against the case.
+Peter Gray’s win in the NSW Planning and Environment Court pushing the state government to consider climate change impacts in its assessment of new developments – in particular in relation to its failure to do so with Centennial Coal’s proposed Anvil Hill mine.
+
+
+=== Coalitions and alliances ===
+The Climate Action Network of Australia (part of Climate Action Network) coordinate communication and collaboration between 38 Australian NGOs campaigning around climate change.
+ClimateMovement.org.au is an initiative of the Nature Conservation Council. The web site includes is a hub for Climate Action Groups around Australia to connect with each other, access resources, share success stories and collaborate. It is structured around a collective blog for Climate Action Groups as well as a directory and mapping of all the community climate groups in Australia, a community events calendar and a resources section. The project encourages people to start and register new climate action groups.
+Friends of the Earth’s Climate Justice campaign and work with Pacific Island and faith-based communities.
+The Six Degrees campaign is building collaborations with coal affected communities across Queensland, particularly in agricultural areas that are threatened by new coal mines and other extractive activities. The collective has also organised a number of community-led direct actions to highlight Queensland's dangerous dependence on the coal industry, including the disruption of the Tarong Coal-fired power station which supplies electricity to the Brisbane metropolis
+
+
+=== Protests ===
+Rising Tide, a Newcastle-based crew, have organised actions to build pressure for a shift from coal dependence. In February 2007, more than 100 small and medium craft, including swimmers and people on surfboards, gathered in the harbour as well as on its shores as part of the peaceful demonstration. No-one was arrested even though the group attempted to surround a large freight ship as it entered the port.
+In 2005, Greenpeace activists chained themselves to a loader in a Gippsland power station's coal pit.
+Young people from the Australian Student Environment Network (ASEN) shut down two coal-fired power stations in October 2007.
+
+
+=== Policy advocacy ===
+WWF Australia's 'Clean Energy Future for Australia' outlines a range of policy recommendations for meeting electricity needs sustainably.
+TEAR Australia has joined with other aid and development organisations on the Climate Change and Development NGO Roundtable.
+
+
+== Responsibility ==
+According to the polluter pays principle, the polluter has ecological and financial responsibility for the climate change consequences. The climate change is caused cumulatively and today's emissions will have effect for decades forward.
+Cumulative CO2 emissions, 1850–2007, per current inhabitant (tonnes CO2) : 1) Luxembourg 1,429 2) UK 1,127 3) US 1,126 4) Belgium 1,026 5) Czech Republic 1,006 6) Germany 987 7) Estonia 877 8) Canada 779 9) Kazakhstan 682 10) Russia 666 11) Denmark 653 12) Bahrain 631 13) Kuwait 629 15) Australia 622 tonnes CO2 16) Poland 594 17) Qatar 584 18) Trinidad & Tobago 582 19) SSlovakia 579 and 20) Netherlands 576
+In footprint per person in the top were by PNAS 2011: 1. Singapore 2. Luxembourg 3. Belgium 4. the US 5. Canada 6. Ireland 7. Estonia 8. Malta 9. Finland 10. Norway 11. Switzerland 12. Australia 13. Hong Kong 14. Netherlands and 15. Taiwan.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==
+Burton, Paul 2014, Responding to Climate Change, CSIRO Publishing, Melbourne, ISBN 9780643108615.
+Goldie, Jenny & Betts, Katharine 2014, Sustainable Futures, CSIRO Publishing, Melbourne, ISBN 9781486301898.
+Spratt, David; Sutton, Philip (2008). "Climate Code Red: The Case for Emergency Action". Australia: Scribe Publications. 
+Diesendorf, Mark (2007). Greenhouse Solutions with Sustainable Energy. Australia: UNSW Press. ISBN 978-0-86840-973-3. 
+Preston, B.L.; Jones, R.N. (February 2006). "Climate Change Impacts on Australia and the Benefits of Early Action to Reduce Global Greenhouse Gas Emissions". the Australian Business Roundtable on Climate Change, Australia: CSIRO. 
+Australian Academy of Science (August 2010). The Science of Climate Change: Questions and Answers (PDF). Canberra: Australian Academy of Science. ISBN 0-85847-286-4. 
+Soils and agriculture
+Clarke, A. L. (1986). "Cultivation". Australian Soils: the Human Impact. Brisbane: University of Queensland Press. ISBN 978-0-7022-1968-9. 
+Conacher, Arthur; Conacher, Jeannette (1995). Rural Land Degradation in Australia. New York: Oxford University Press. ISBN 978-0-19-553436-8. 
+McLaughlin, M. J.; Fillery, I. R. (1992). "Operation of the phospherous, sulfur and nitrogen cycles". Australia's Renewable Resources: Sustainability and Global Change (Bureau of Rural Resources, Proceedings no. 14). Canberra: Australian Government Publishing Service. ISBN 978-0-644-14820-7. 
+McTainsh, Grant H.; Boughton, Walter C. (1993). Land Degradation Processes in Australia. Melbourne: Longman Cheshire. ISBN 978-0-582-87008-6. 
+Roberts, Brian R. (1995). The Quest for Sustainable Agriculture and Land Use. Sydney: UNSW Press. ISBN 978-0-86840-374-8. 
+Woods, L. E. (1983). Land degradation in Australia. Canberra: Australian Government Publishing Service. ISBN 978-0-644-02615-4. 
+
+
+== External links ==
+Department of Climate Change and Energy Efficiency - Australian Government
+Climate change - CSIRO
+Climate change in Australia report from the CSIRO and the Bureau of Meteorology
+Climate Change Australia - discussion and analysis of issues surrounding climate change
+Climate Action Network Australia - the Australian branch of a worldwide network of NGO's
+Range Extension Database and Mapping Project, Australia - ecological monitoring project in the marine environment
+News
+Lean, Geoffrey; Marks, Kathy (1 February 2009). "Parched: Australia faces collapse as climate change kicks in". London: The Independent. Retrieved 4 February 2009. 
+"Climate change threatening the Southern Ocean".

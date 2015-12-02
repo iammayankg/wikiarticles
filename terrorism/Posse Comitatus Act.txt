@@ -1,0 +1,92 @@
+The Posse Comitatus Act is a United States federal law (18 U.S.C. § 1385, original at 20 Stat. 152) signed on June 18, 1878 by President Rutherford B. Hayes. The purpose of the act – in concert with the Insurrection Act of 1807 – is to limit the powers of the federal government in using federal military personnel to enforce domestic policies within the United States. It was passed as an amendment to an army appropriation bill following the end of Reconstruction, and was subsequently updated in 1956 and 1981.
+The Act only specifically applies to the United States Army and, as amended in 1956, the United States Air Force. While the Act does not explicitly mention the United States Navy and the United States Marine Corps, due to them being naval services, the Department of the Navy has prescribed regulations that are generally construed to give the Act force with respect to those services as well. The Act does not apply to the Army and Air National Guard under state authority from acting in a law enforcement capacity within its home state or in an adjacent state if invited by that state's governor. The United States Coast Guard, which operates under the Department of Homeland Security, is not covered by the Posse Comitatus Act either, primarily because although the Coast Guard is an armed service, it also has both a maritime law enforcement mission and a federal regulatory agency mission.
+
+
+== History ==
+The Act, 15 of the appropriations bill for the Army for 1879, found at 20 Stat. 152, was a response to, and subsequent prohibition of, the military occupation of the former Confederate States by the United States Army during the ten years of Reconstruction (1867–1877) following the American Civil War (1861–1865). The president withdrew federal troops from the Southern States as a result of a compromise in one of the most disputed national elections in American history, the 1876 U.S. presidential election. Samuel J. Tilden of New York, the Democratic candidate, defeated Republican candidate Rutherford B. Hayes of Ohio in the popular vote. Tilden garnered 184 electoral votes to Hayes' 165; 20 disputed electoral votes remained uncounted. After a bitter fight, Congress struck a deal resolving the dispute and awarded the presidency to Hayes.
+In return for Southern acquiescence regarding Hayes, Republicans agreed to support the withdrawal of federal troops from the former Confederate states, formally ending Reconstruction. Known as the Compromise of 1877, South Carolina, Florida and Louisiana agreed to certify Rutherford B. Hayes as the President in exchange for the removal of Federal troops from the South.
+The U.S. Constitution places primary responsibility for the holding of elections in the hands of the individual states. The maintenance of peace, conduct of orderly elections, and prosecution of unlawful actions are all state responsibilities, pursuant of any state's role of exercising police power and maintaining law and order, whether part of a wider federation or a unitary state. During the local, state, and federal elections of 1874 and 1876 in the former Confederate states, all levels of government chose not to exercise their police powers to maintain law and order. Some historians have concluded most Reconstruction governments did not have the power to suppress the violence.
+The violence and fraud related to elections had been increasing since 1868, with disruption of Republican meetings, killing and intimidation of many blacks, and a suppression of the black vote by paramilitary groups such as the Red Shirts in Mississippi and the Carolinas, and the White League in Louisiana, in addition to armed white men of what were called rifle clubs. The scale of these is suggested by the fact that in North Carolina, 20,000 white men belonged to rifle clubs, and many others to the Red Shirts. These groups have been described as the "military arm of the Democratic Party" at that time in the South. White Democrats regained control of all Southern state legislatures by 1876. They also elected Democratic U.S. congressmen from the South; together, these politicians halted and reversed political reforms related to the inclusion of freedmen in the political system in the American South, and worked to restore white supremacy.
+When the U.S. Representatives and Senators from the former Confederate states reached Washington, they set as a priority legislation to prohibit any future President or Congress from directing, by military order or federal legislation, the imposition of federal troops in any U.S. state. By the 1878 election, Congress was dominated by the Democratic Party, and they passed the Posse Comitatus Act in 1878.
+In the mid-20th century, the administration of President Dwight D. Eisenhower used an exception to the Posse Comitatus Act, derived from the Enforcement Acts, to send federal troops into Little Rock, Arkansas, during the 1957 school desegregation crisis. The Arkansas governor had opposed desegregation after the U.S. Supreme Court ruled in 1954 in the Brown v. Board of Education that segregated public schools were unconstitutional. The Enforcement Acts, among other powers, allow the President to call up military forces when state authorities are either unable or unwilling to suppress violence that is in opposition to the constitutional rights of the people.
+The original Posse Comitatus Act referred essentially to the United States Army. The United States Air Force was added in 1956, and the United States Navy and the United States Marine Corps have been included by a regulation of the United States Department of Defense. This law is often relied upon to prevent the Department of Defense from interfering in domestic law enforcement. The United States Coast Guard is not included in the Act even though it is one of the five armed services because it is not a part of the Department of Defense. At the time the Act became law, the Coast Guard was part of the United States Department of the Treasury, and was thus exempt.
+
+
+== Legislation ==
+The original provision was enacted as Section 15 of chapter 263, of the Acts of the 2nd session of the 45th Congress.
+
+Sec. 15. From and after the passage of this act it shall not be lawful to employ any part of the Army of the United States, as a posse comitatus, or otherwise, for the purpose of executing the laws, except in such cases and under such circumstances as such employment of said force may be expressly authorized by the Constitution or by act of Congress ; and no money appropriated by this act shall be used to pay any of the expenses incurred in the employment of any troops in violation of this section and any person willfully violating the provisions of this section shall be deemed guilty of a misdemeanor and on conviction thereof shall be punished by fine not exceeding ten thousand dollars or imprisonment not exceeding two years or by both such fine and imprisonment
+
+The text of the relevant legislation is as follows:
+18 U.S.C. § 1385. Use of Army and Air Force as posse comitatus
+Whoever, except in cases and under circumstances expressly authorized by the Constitution or Act of Congress, willfully uses any part of the Army or the Air Force as a posse comitatus or otherwise to execute the laws shall be fined under this title or imprisoned not more than two years, or both.
+
+Also notable is the following provision within Title 10 of the United States Code (which concerns generally the organization and regulation of the armed forces and Department of Defense):
+10 U.S.C. § 375. Restriction on direct participation by military personnel
+The Secretary of Defense shall prescribe such regulations as may be necessary to ensure that any activity (including the provision of any equipment or facility or the assignment or detail of any personnel) under this chapter does not include or permit direct participation by a member of the Army, Navy, Air Force, or Marine Corps in a search, seizure, arrest, or other similar activity unless participation in such activity by such member is otherwise authorized by law.
+
+
+=== Recent legislative events ===
+In 2006, Congress modified the Insurrection Act as part of the 2007 Defense Authorization Bill (repealed as of 2008). On September 26, 2006, President George W. Bush urged Congress to consider revising federal laws so that U.S. armed forces could restore public order and enforce laws in the aftermath of a natural disaster, terrorist attack or incident, or other condition. These changes were included in the John Warner National Defense Authorization Act for Fiscal Year 2007 (H.R. 5122), which was signed into law on October 17, 2006.
+Section 1076 is titled "Use of the Armed Forces in major public emergencies." It provided that:
+
+The President may employ the armed forces... to... restore public order and enforce the laws of the United States when, as a result of a natural disaster, epidemic, or other serious public health emergency, terrorist attack or incident, or other condition... the President determines that... domestic violence has occurred to such an extent that the constituted authorities of the State or possession are incapable of maintaining public order... or [to] suppress, in a State, any insurrection, domestic violence, unlawful combination, or conspiracy if such... a condition... so hinders the execution of the laws... that any part or class of its people is deprived of a right, privilege, immunity, or protection named in the Constitution and secured by law... or opposes or obstructs the execution of the laws of the United States or impedes the course of justice under those laws.
+
+In 2008, these changes in the Insurrection Act of 1807 were repealed in their entirety, reverting to the previous wording of the Insurrection Act. It was originally written to limit Presidential power as much as possible in the event of insurrection, rebellion, or lawlessness.
+In 2011, President Barack Obama signed National Defense Authorization Act for Fiscal Year 2012 into law. Section 1021(b)(2) extended the definition of a "covered person", i.e., someone possibly subject to detention under this law, to include:
+
+A person who was a part of or substantially supported al-Qaeda, the Taliban, or associated forces that are engaged in hostilities against the United States or its coalition partners, including any person who has committed a belligerent act or has directly supported such hostilities in aid of such enemy forces.
+
+Section 1021(e) purports to limit the scope of said authority with the text, "Nothing in this section shall be construed to affect existing law or authorities relating to the detention of United States citizens, lawful resident aliens of the United States, or any other persons who are captured or arrested in the United States."
+
+
+== Exclusions and limitations ==
+There are a number of situations in which the Act does not apply. These include:
+Army and Air National Guard units and state defense forces while under the authority of the governor of a state;
+Federal military personnel used in accordance to the Insurrection Act, as was the case during the 1992 Los Angeles Riots.
+Under 18 U.S.C. § 831, the Attorney General may request that the Secretary of Defense provide emergency assistance if domestic law enforcement is inadequate to address certain types of threats involving the release of nuclear materials, such as potential use of a nuclear or radiological weapon. Such assistance may be by any personnel under the authority of the Department of Defense, provided such assistance does not adversely affect U.S. military preparedness. The only exemption is nuclear materials.
+Support roles under the Joint Special Operations Command
+
+
+=== Exclusion applicable to U.S. Coast Guard ===
+See the Law Enforcement Detachments and Missions of the United States Coast Guard for more information on U.S. Coast Guard law enforcement activities.
+Although it is an armed service, the U.S. Coast Guard, which operates under the Department of Homeland Security, is not restricted by the Posse Comitatus Act. The Coast Guard enforces federal laws within its jurisdiction, even when operating as a service within the U.S. Navy.
+In December 1981, additional laws were enacted clarifying permissible military assistance to domestic law enforcement agencies and the Coast Guard, especially in combating drug smuggling into the United States. Posse Comitatus clarifications emphasize supportive and technical assistance (e.g., use of facilities, vessels, and aircraft, as well as intelligence support, technological aid, and surveillance) while generally prohibiting direct participation of Department of Defense personnel in law enforcement (e.g., search, seizure, and arrests). For example, a U.S. Navy vessel may be used to track, follow, and stop a vessel suspected of drug smuggling, but Coast Guard Law Enforcement Detachments (LEDETs) embarked aboard the Navy vessel would perform the actual boarding and, if needed, arrest the suspect vessel's crew.
+
+
+=== Advisory and support roles ===
+Federal military personnel have a long history of domestic roles, including the occupation of secessionist Southern states during Reconstruction. The Posse Comitatus Act prohibits the use of federal military personnel to "execute the laws"; however, there is disagreement over whether this language may apply to troops used in an advisory, support, disaster response, or other homeland defense role, as opposed to domestic law enforcement.
+On March 10, 2009, members of the U.S. Army Military Police Corps from Fort Rucker were deployed to Samson, Alabama, in response to a murder spree. Samson officials confirmed that the soldiers assisted in traffic control and securing the crime scene. The governor of Alabama did not request military assistance nor did President Obama authorize their deployment. Subsequent investigation found that the Posse Comitatus Act was violated and several military members received "administrative actions".
+
+
+== See also ==
+Martial law
+List of military actions by or within the United States
+United States Northern Command
+Military Cooperation with Civilian Law Enforcement Agencies Act
+Operation Garden Plot
+National Security and Homeland Security Presidential Directive
+Militarization of police
+
+
+== References ==
+
+
+== Further reading ==
+Hendell, Garri B. "Domestic Use of the Armed Forces to Maintain Law and Order: posse comitatus Pitfalls at the Inauguration of the 44th President", Publius (2011) 41(2): 336-348 doi:10.1093/publius/pjq014
+Lindorff, David. "Could It Happen Here?". Mother Jones magazine, April 1988.
+The Posse Comitatus Act of 1878: A Documentary History. Buffalo, N.Y. : W.S. Hein, 2003. ISBN 978-0-8377-3900-7
+
+
+== External links ==
+18 U.S.C. § 1385 Use of Army and Air Force as Posse Comitatus
+The Posse Comitatus Act: A Principle in Need of Renewal, Washington University Law Quarterly Vol 75 No. 2
+The Posse Comitatus Act and Related Matters: The Use of the Military to Execute Civilian Law Congressional Research Service
+Should the Posse Comitatus Act be Changed to Effectively Support Local Law Enforcement? U.S. Army War College
+Mold, Mildew, and the Military Role in Disaster Response, JURIST
+John Warner National Defense Authorization Act for Fiscal Year 2007
+Text of H.R. 5122
+[1]
+[2]
+[3] Bill Text 112th Congress (2011-2012) S.1867.ES
+[4] Federalist Paper #29 Concerning the Militia, Alexander Hamilton, pub. 10-January-1788

@@ -1,0 +1,110 @@
+A generic drug (generic drugs, short: generics) is a drug defined as "a drug product that is comparable to a brand/reference listed drug product in dosage form, strength, quality and performance characteristics, and intended use." It has also been defined as a term referring to any drug marketed under its chemical name without advertising or to the chemical makeup of a drug rather than to the advertised brand name under which the drug is sold.
+Although they may not be associated with a particular company, generic drugs are subject to the regulations of the governments of countries where they are dispensed. Generic drugs are labeled with the name of the manufacturer and the adopted name (nonproprietary name) of the drug.
+A generic drug must contain the same active ingredients as the original formulation. According to the U.S. Food and Drug Administration (FDA), generic drugs are identical or within an acceptable bioequivalent range to the brand-name counterpart with respect to pharmacokinetic and pharmacodynamic properties. By extension, therefore, generics are considered (by the FDA) identical in dose, strength, route of administration, safety, efficacy, and intended use. The FDA's use of the word "identical" is very much a legal interpretation, and is not literal. In most cases, generic products are available once the patent protections afforded to the original developer have expired.
+When generic products become available, the market competition often leads to substantially lower prices for both the original brand name product and the generic forms. The time it takes a generic drug to appear on the market varies. In most countries of the world, patents give 20 years of protection. However, many countries/regions, e.g. the European Union and the USA may grant up to 5 years of additional protection for drugs ("patent term restoration") if manufactures meet specific goals such as conducting clinical studies for pediatric patients. Manufacturers, wholesalers, insurers, and drugstores can each increase prices at various stages of production and distribution.
+According to the GPhA/IMS September 2011 annual savings analysis, generic drug usage in the United States "generated $158 billion in health care savings in 2010 alone, a remarkable rate of $3 billion every week."
+Prescriptions may be issued for drugs specifying only the chemical name, rather than a manufacturer's name; such a prescription can be filled with a drug of any brand meeting the specification. For example, a prescription for lansoprazole can be filled with generic lansoprazole, Prevacid, Helicid, Zoton, Inhibitol, or Monolitum.
+Biopharmaceuticals such as monoclonal antibodies are different from small molecule drugs because of their biological nature. Generic versions of these drugs, known as biosimilars, are typically regulated under an extended set of rules.
+
+
+== Nomenclature ==
+
+Generic drug names are constructed using standardized affixes that separate the drugs between and within classes and suggest the action of the drug.
+
+
+== Economics ==
+Generic drugs are usually sold for significantly lower prices than their branded equivalents. One reason for the relatively low price of generic medicines is that competition increases among producers when drugs no longer are protected by patents. Companies incur fewer costs in creating generic drugs (only the cost to manufacture, rather than the entire cost of development and testing) and are therefore able to maintain profitability at a lower price. The prices are low enough for users in many less-prosperous countries to afford them. For example, Thailand has imported millions of doses of a generic version of the blood-thinning drug Plavix (used to help prevent heart attacks), at a cost of 3 US cents per dose, from India, the leading manufacturer of generic drugs.
+In the UK, generic drug pricing is controlled only by the reimbursement price. Beneath this, the price paid by pharmacists and doctors is determined mainly by the number of license holders, the sales value of the originator brand and the ease of manufacture. A typical price decay graph will show a 'scalloped' curve, which usually starts out on the day of generic launch at the brand price, and then falls as competition intensifies. After some years, the graph typically flattens out at approximately 20% of the originator brand price. In about 20% of cases, the price 'bounces', which means some license holders withdraw from the market when the selling price dips below their cost of goods. The price then rises for a while until they re-enter the market with new stock.
+Generic manufacturers do not incur the cost of drug discovery. Sometimes, reverse-engineering is used to develop bioequivalent versions to existing drugs. Generic manufacturers also do not bear the burden of proving the safety and efficacy of the drugs through clinical trials, since these trials have already been conducted by the brand name company. (See the Approval and regulation section, below, for more information about the approval process.) The average cost to brand-name drug companies of discovering, testing, and obtaining regulatory approval for a new innovative drug (with a new chemical entity) has been estimated to have been as much as $800 million in 2003 and up to $2.6 billion in 2014.
+Generic drug companies may also receive the benefit of the previous marketing efforts of the brand-name drug company, including media advertising, presentations by drug representatives, and distribution of free samples. Many drugs introduced by generic manufacturers have already been on the market for a decade or more, and may already be well known to patients and providers, although often under their branded name.
+For as long as a drug patent lasts, a brand name company enjoys a period of market exclusivity or monopoly, in which the company is able to set the price of the drug at a level which maximizes profitability. The profit often greatly exceeds the development and production costs of the drug. (This is partially offset by research and development of other drugs which do not make a profit.) The advantage of generic drugs to consumers comes in the introduction of competition, which prevents any single company from dictating the overall market price of the drug. Competition is also seen between generic and name-brand drugs with similar therapeutic uses when physicians or health plans adopt policies of preferentially prescribing generic drugs as in step therapy. With multiple firms producing the generic version of a drug, the profit-maximizing price generally falls to the ongoing cost of producing the drug, which is usually much lower than the monopoly price.
+
+
+== Regulation ==
+Most nations require generic drug manufacturers to prove their formulation exhibits bioequivalence to the innovator product.
+Bioequivalence, however, does not mean generic drugs must be exactly the same (“pharmaceutical equivalent”) as their innovator product counterparts, as chemical differences may exist (different salt or ester – a “pharmaceutical alternative”).. Since the US Hatch-Waxman Act of 1984, most small molecule drugs are accepted as bioequivalent if their pharmacokinetic parameters of AUC (Area Under Concentration) and Cmax (Maximum concentration) are within the range of a 90% Confidence Interval of 80.00%-125.00%; most approved generics are well within this limit. For more complex products, such as inhalers, patch delivery systems, liposomal preparation, or biosimilar products, testing to show pharmacodynamic or clinical equivalence is a more complex challenge.
+In Japan, Prime Minister Shinzo Abe is pushing for a bigger market share of generic drugs to solve the problem of Health care system in Japan. However, the market penetration of generic medicines are more apparent in countries with less advanced healthcare systems such as the case of emerging markets like the Philippines.
+
+
+=== In the United States ===
+The United States, the growth of prescribed medication has increased by 47% in 1999, 61% in 2006 and 69% by the end of 2008.
+
+
+==== Patent issues ====
+
+
+===== Eligibility =====
+When a pharmaceutical company first markets a drug, it is usually under a patent that, until it expires, allows only the pharmaceutical company that developed the drug (or its licensees) to sell it. Generic drugs can be produced without patent infringement for drugs where: 1) the patent has expired, 2) the generic company certifies the brand company's patents are either invalid, unenforceable or will not be infringed, 3) for drugs which have never held patents, or 4) in countries where the drug does not have current patent protection. Patent lifetime differs from country to country; typically an expired patent cannot be renewed. In the U.S., patent extensions may be granted if changes are made; some pharmaceutical companies have sought extensions on things as minor as changes to the shape and color of the pill; generic makers are excluded while the adjudication of the extension is considered. A new version of the drug with significant changes to the compound could be patented, but this requires new clinical trials. In addition, a patent on a changed compound does not prevent sales of the generic versions of the original drug unless regulators take the original drug off the market, as happened in the case of terfenadine.
+Patent protection allows the company to recoup the cost of developing that particular drug. After the patent on a drug expires, any pharmaceutical company can manufacture and sell it; only manufacturing cost will be incurred, which is a small fraction of the cost of original testing, development and marketing of the drug.
+In the U.S., the Patient Protection and Affordable Care Act, which President Obama signed on March 23, 2010, authorized the Food and Drug Administration to approve generic versions of biologic drugs and grant biologics manufacturers 12 years of exclusive use before generics can be developed. This biosimilar products are usually protected by surrounding patents which may also delay the time for their production.
+When several top selling drugs go off-patent within a short period of time an interesting phenomenon called patent cliff arises opening opportunities for generic drug manufacturers.
+
+
+===== Approval process =====
+Enacted in 1984, the U.S. Drug Price Competition and Patent Term Restoration Act, informally known as the Hatch-Waxman Act, standardized U.S. procedures for recognition of generic drugs. An applicant files an Abbreviated New Drug Application (ANDA) with the Food and Drug Administration (FDA), and seeks to demonstrate therapeutic equivalence to a specified, previously approved “reference listed drug”. When an ANDA is approved, the FDA adds the drug to its Approved Drug Products with Therapeutic Equivalence Evaluations list, also known as the Orange Book, and annotates the list to show equivalence between the reference listed drug and the approved generic. The FDA also recognizes drugs using the same ingredients with different bioavailability, and divides them into therapeutic equivalence groups. For example, as of 2006, diltiazem hydrochloride had four equivalence groups, all using the same active ingredient, but considered equivalent only within a group.
+On October 4, 2007, FDA launched the Generic Initiative for Value and Efficiency, or GIVE. GIVE will use existing resources to help FDA modernize and streamline the generic drug approval process. It also aims to increase the number and variety of generic drug products available. Having more generic-drug options means more cost-savings to consumers, as generic drugs cost about 30 percent to 80 percent less than brand name drugs.
+In the United States, generic drug substances are named through review and recommendation of the United States Adopted Names (USAN) Council.
+
+
+===== Exclusivity =====
+The U.S. FDA offers a 180-day exclusivity period to generic drug manufacturers in specific cases. During this period, only one (or sometimes a few) generic manufacturers can produce the generic version of a drug. This exclusivity period is only used when a generic manufacturer argues that a patent is invalid or is not violated in the generic production of a drug, and the period acts as a reward for the generic manufacturer who is willing to risk liability in court and the cost of patent court litigation. There is often contention around these 180-day exclusivity periods because a generic producer does not have to produce the drug during this period and can file an application first to prevent other generic producers from selling the drug.
+Recently, the purpose of the exclusivity "bonus" provided for by the Hatch-Waxman amendments was turned on its head when the original patent holder, Cephalon, instituted patent infringement suits against all companies holding generic exclusivity rights to manufacture modafinil, the generic name for Cephalon's still-profitable stimulant drug, Provigil. "Settlement" of this suit with Cephalon was hardly a risky endeavor for the generic manufacturers, as it was Cephalon which agreed to pay Provigil's alleged infringers in excess of a billion dollars – if they agreed not to market generics for Provigil during their period of exclusivity. In effect, Cephalon was able to extend its exclusive right to manufacture Provigil even though Cephalon's patent for it had already run out.
+Large pharmaceutical companies often spend millions of dollars protecting their patents from generic competition. Apart from litigation, companies use other methods, such as reformulation or licensing a subsidiary (or another company), to sell generics under the original patent. Generics sold under license from the patent holder are known as authorized generics; they are not affected by the 180-day exclusivity period, as they fall under the patent holder's original drug application.
+A prime example of how this works is simvastatin (Zocor), a popular drug created and manufactured by US-based Merck & Co., which lost its US patent protection on June 23, 2006. India-based Ranbaxy Laboratories (at the 80 mg strength) and Israel-based Teva Pharmaceutical Industries (at all other strengths) received 180-day exclusivity periods for simvastatin; due to Zocor's popularity, both companies began marketing their products immediately after the patent expired. However, Dr. Reddy's Laboratories also markets an authorized generic version of simvastatin under license from Zocor's manufacturer, Merck & Co.; some packages of Dr. Reddy's simvastatin even show Merck as the actual manufacturer and have Merck's logo on the bottom.
+
+
+===== Prolongation =====
+Brand-name drug companies have used a number of strategies to extend the period of market exclusivity on their drugs, and prevent generic competition. This may involve aggressive litigation to preserve or extend patent protection on their medicines, a process referred to by critics as “evergreening”. Patents are typically issued on novel pharmacological compounds quite early in the drug development process, at which time the ‘clock’ to patent expiration begins ticking. Later in the process, drug companies may seek new patents on the production of specific forms of these compounds, such as single enantiomers of drugs which can exist in both “left-handed” and “right-handed” forms, different inactive components in a drug salt, or a specific hydrate form of the drug salt. If granted, these patents ‘reset the clock’ on patent expiration. These sorts of patents may later be targeted for invalidation (“paragraph IV certification”) by generic drug manufacturers.
+
+
+==== Quality standards ====
+In the U.S., the FDA approves generic drugs using a regulatory process, known as Abbreviated New Drug Application, that is distinct from the process used for approval of innovator drugs. The FDA requires the bioequivalence of the generic product to be between 80% and 125% of that of the innovator product.
+This value range is part of a statistical calculation, and does not mean the FDA allows generic drugs to differ from the brand name counterpart by up to 25 percent. FDA recently evaluated 2,070 human studies conducted between 1996 and 2007, which compared the absorption of brand name and generic drugs into a person’s body; they were submitted to the FDA to support approval of generics. The average difference in absorption into the body between the generic and the brand name was 3.5 percent, comparable to differences between two different batches of a brand name drug.
+A physician survey in the US found only 17% of prescribing physicians correctly identified the USFDA's standards for bioequivalency of generic drugs. A latest development to address this issue enables interested doctors and consumers to check generic drug interactions and outcomes detail to the specific drug and drug company.
+The generic equivalent of warfarin has only been available under the brand name Coumadin in North America until recently. Warfarin (either under the trade name or the generic equivalent) has a narrow therapeutic window and requires frequent blood tests to make sure patients do not have a subtherapeutic or a toxic level. A study performed in the Canadian province of Ontario showed that replacing Coumadin with generic warfarin was safe. In spite of the study, many physicians are not comfortable with their patients taking the branded generic equivalents. In some countries (for example, Australia) where a drug is prescribed under more than one brand name, doctors may choose not to allow the pharmacist to substitute a brand different from prescribed unless the consumer requests a generic brand.
+Generic versions of biologic drugs, or biosimilars, require additional tests to bioequivalency involving clinical trials for immunogenicity. These products cannot be entirely identical due to the batch to batch variability and their intrinsic biological nature and are governed by extra sets of rules by the FDA in the US and the EMA in Europe.
+
+
+===== Recalls =====
+In 2007, North Carolina Public Radio's The People's Pharmacy "began collecting and reporting consumer complaints about generic Wellbutrin" yielding unexpected effects. Subsequently, Impax Laboratories's 300 mg extended-release bupropion hydrochloride tablets, marketed by Teva Pharmaceutical Industries, were formally withdrawn from the U.S. market after being determined not bioequivalent by the FDA in 2012.
+
+
+==== Litigation ====
+Two women, each claiming to have suffered severe medical complications from a generic drug, lost their Supreme Court appeal on June 23, 2011. In a 5-4 ruling, the justices found that generic drug companies do not share the same level of responsibility as makers of brand-name equivalents and do not have to update their warning labels when significant new risks emerge.
+
+
+=== India and China ===
+
+The government began encouraging the growth of drug manufacturing by Indian companies in the early 1960s, and with the Patents Act in 1970. This patent act removed composition patents from foods and drugs, and though it kept process patents, these were shortened to a period of five to seven years.
+The lack of patent protection created a niche in both the Indian and world markets that Indian companies filled by reverse-engineering new processes for manufacturing low-cost drugs.
+
+Generic drug manufacture is a large part of the pharmaceutical industry in China as well. Western observers have said China lacks administrative protection for patents. However, entry to the WTO has brought a stronger patent system.
+
+
+== See also ==
+Anti-Counterfeiting Trade Agreement#Criminalising generic medicine (ACTA)
+Bayh–Dole Act
+Biosimilars
+Chemical patents
+Evergreening
+Generic brand
+International Nonproprietary Name
+Inverse benefit law
+Prescription costs
+Research exemption
+SOPA#Protection against counterfeit drugs
+Trans-Pacific Partnership Intellectual Property Provisions
+Transatlantic Trade and Investment Partnership
+
+
+== References ==
+
+
+== External links ==
+United States Adopted Names Program, generic drug naming process, lists of adopted names
+USFDA, Office of Generic Drugs
+UK Department of Health, generic drugs
+The Medical Letter on Drugs and Therapeutics
+Collection of national and international Guidelines
+GPhA Generic Pharmaceutical Association
+Canada Generic Drugs: Government of Canada and Health Canada

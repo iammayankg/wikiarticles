@@ -1,0 +1,135 @@
+The Protect America Act of 2007 (PAA), (Pub.L. 110–55, 121 Stat. 552, enacted by S. 1927), is a controversial amendment to the Foreign Intelligence Surveillance Act (FISA) that was signed into law by U.S. President George W. Bush on August 5, 2007. It removed the warrant requirement for government surveillance of foreign intelligence targets "reasonably believed" to be outside of the United States. The FISA Amendments Act of 2008 reauthorized many provisions of the Protect America Act in Title VII of FISA.
+
+
+== Background ==
+
+In December 2005, the New York Times published an article that described a surveillance program of warrantless domestic wiretapping ordered by the Bush administration and carried out by the National Security Agency in cooperation with major telecommunications companies since 2002 (a subsequent Bloomberg article suggested that this may have already begun by June 2000). Many critics have asserted that the Administration's warrant-free surveillance program is a violation of the Fourth Amendment to the United States Constitution against warrantless search, and, a criminal violation of FISA.
+The Bush administration maintained that the warrant requirements of FISA were implicitly superseded by the subsequent passage of the Authorization for Use of Military Force Against Terrorists, and that the President's inherent authority under Article II of the Constitution to conduct foreign surveillance trumped the FISA statute. However, the Supreme Court decision in Hamdan v. Rumsfeld placed the legitimacy of this argument into question.
+On July 28, 2007, President Bush announced that his Administration had submitted a bill to Congress to amend FISA. He suggested that the current law was "badly out of date" – despite amendments passed in October 2001 – and did not apply to disposable cell phones and Internet-based communications. The bill he submitted to Congress would address these new technologies, Bush said, as well as restore FISA's "original focus" on protecting the privacy of people within the United States, "so we don't have to obtain court orders to effectively collect foreign intelligence about foreign targets located in foreign locations." He asked that Congress pass the legislation before its August 2007 recess, stating that "Every day that Congress puts off these reforms increases the danger to our nation. Our intelligence community warns that under the current statute, we are missing a significant amount of foreign intelligence that we should be collecting to protect our country".
+On August 3, 2007, the Senate passed the bill (S. 1927) in a vote of 60 to 28(110th Congress 1st Session Vote 309). The House followed by passing the bill, 227-183(House Roll Call 836) on August 3, 2007.
+The bill altered the original 1978 law in many ways, including:
+
+
+=== Warrant and notification requirements ===
+The bill amended FISA to substitute the requirement of a warrant to conduct surveillance with a system of NSA (National Security Agency) internal controls.
+The bill required notification to the FISA Court of warrantless surveillance within 72 hours of any authorization. The bill also required that "a sealed copy of the certification" be sent which would "remain sealed unless the certification is needed to determine the legality of the acquisition."
+
+
+=== Domestic wiretapping ===
+The bill allowed the monitoring of all electronic communications of "Americans communicating with foreigners who are the targets of a U.S. terrorism investigation" without a court's order or oversight, so long as it is not targeted at one particular person "reasonably believed to be" inside the country.
+
+
+=== Foreign wiretapping ===
+The Act removed the requirement for a FISA warrant for any communication which was foreign-related, even if the communication involved a U.S. location on the receiving or sending end of communication; all foreign-foreign communications were removed from warrant requirements, as well.
+Experts claimed that this deceptively opened the door to domestic spying, given that many domestic U.S. communications passed via non-US locations, by virtue of old telephony network configurations.
+
+
+=== Data monitoring ===
+In the bill, the monitoring of data related to Americans communicating with persons (U.S citizens and non-citizens) outside the United States who are the targets of a U.S. government intelligence information gathering efforts was addressed. The Protect America Act differed from the FISA in that no discussion of actions or character judgment of the target was required for application of the statute (i.e. to receive a FISA surveillance warrant, a FISC foreign agent definition was required). This data could be monitored only if intelligence officials acted in the context of intelligence information gathering.
+
+
+=== Foreign agent declaration not required ===
+No mention of foreign agent status is made in the Protect America Act of 2007. Under prior FISA rules, persons targeted for surveillance must have been declared as foreign agents before a FISA warrant would be accorded by the FISC court.
+
+
+=== 'Quasi-anti-terrorism law' for all-forms of intelligence collection ===
+Vastly marketed by U.S. Federal and Military agencies as a law to prevent terror attacks, the Protect America Act was actually a law focused on the 'acquisition' of desired intelligence information, of unspecified nature. The sole requirement is geolocation outside the United States at time of Directive invocation; pursuant to Authorization or Order invocation, surveillance Directives can be undertaken towards persons targeted for intelligence information gathering. Implementation of Directives can take place inside the United States or outside the United States.
+No criminal or terrorism investigation of the person need be in play at time of the Directive. All that need be required is that the target be related to an official desire for intelligence information gathering for actions on part of persons involved in surveillance to be granted full immunity from U.S. criminal or civil procedures, under Section 105B(l) of the Act.
+
+
+=== Authorization power ===
+Under the bill, the director of national intelligence and the attorney general could authorize the surveillance of all communications involving persons outside the United States (U.S. citizens and non-U.S. citizens). The Foreign Intelligence Surveillance Court, normally the venue for intelligence-related warrants, was limited in power by the Protect America Act to an accept or reject power for government guidelines related to persons (U.S. and non-U.S. citizens) targeted for intelligence information gathering.
+
+
+==== 1. Purpose of Directive ====
+The most significant of five points, comprising guidelines for Authorizing Certain Acquisitions Concerning Persons Outside the United States was that:
+
+A significant purpose of the acquisition is to obtain foreign intelligence information.
+
+
+==== 2. Minimization procedures ====
+One of the five points referred to minimization procedures (how information was collected)
+
+the minimization procedures to be used with respect to such acquisition activity meet the definition of minimization procedures under section 101(h).
+
+
+==== 3. Requirement to assist ====
+Any person or company could be enjoined and requested, on a compulsory basis, to assist with the intelligence information gathering.
+
+The acquisition involves obtaining the foreign intelligence information from or with the assistance of a communications service provider, custodian, or other person (including any officer, employee, agent, or other specified person of such service provider, custodian, or other person) who has access to communications, either as they are transmitted or while they are stored, or equipment that is being or may be used to transmit or store such communications;
+
+
+==== 4. Removal of FISA Strictures from warrant authorization; warrants not required ====
+But the most striking aspect of the Protect America Act was the notation that any information gathering did not comprise electronic surveillance. This wording had the effect of removing FISA-related strictures from Protect America Act 2007-related Directives, serving to remove a number of protections for persons targeted, and requirements for persons working for U.S. intelligence agencies.
+
+The acquisition does not constitute electronic surveillance
+
+The removal of the term electronic surveillance from any Protect America Act Directive implied that the FISC court approval was no longer required, as FISA warrants were no longer required. In the place of a warrant was a certification, made by U.S. intelligence officers, which was copied to the Court. In effect, the FISC became less of a court than a registry of pre-approved certifications.
+
+Certifications (in place of FISA warrants) were able to be levied ex post facto, in writing to the Court no more than 72 hours after it was made. The Attorney General was to transmit as soon as possible to the Court a sealed copy of the certification that would remain sealed unless the certification was needed to determine the legality of the acquisition.
+
+
+==== 5. Geolocation procedures ====
+Assuring that the person targeted for intelligence information gathering was outside U.S. there are reasonable procedures in place for determining that the acquisition of foreign intelligence information under this section concerns persons reasonably believed to be located outside the United States, and such procedures will be subject to review of the Court pursuant to section 105C of this Act;
+
+
+=== Reporting requirements ===
+The Attorney General would report to Congress semi-annually with:
+Reporting incidents of corporation non-cooperation. A description of any incidents of non-compliance with a directive issued.
+Reporting incidents of non-cooperative persons. Incidents of noncompliance by a specified person to whom the Attorney General and Director of National Intelligence issued a directive.
+The number of certifications and directives. Issued in the preceding six months.
+Reporting procedural failures. Incidents of non-compliance with the guidelines or procedures established for determining that the acquisition concerns persons outside the United States by any entity of the Intelligence Community.
+
+
+== Legislative history ==
+Senator Mitch McConnell introduced the act on August 1, 2007, during the 110th United States Congress. On August 3, it was passed in the Senate with an amendment, 60–28 (record vote number 309). On August 4, it passed the House of Representatives 227-183 (roll number 836). On August 5, it was signed by President Bush, becoming Public Law No. 110-055. On February 17, 2008, it expired due to sunset provision.
+
+
+== Sunset ==
+The Act provided for six months of time for new Directives to be issued;
+
+Sunset – Except as provided in subsection (d), sections 2, 3, 4, and 5 of this Act, and the amendments made by this Act, shall cease to have effect 180 days after the date of the enactment of this Act.
+
+
+== FISA Amendments of 2008 ==
+Whereas it is generally understood that the FISA Amendments of 2008 repealed the Protect America Act, this is not the case for existing directives and authorizations.
+(1) IN GENERAL – Except as provided in section 404, effective December 31, 2012, title VII of the Foreign Intelligence Surveillance Act of 1978, as amended by section 101(a), is repealed.
+
+
+=== Continuance of Protect America Act 2007 Rules for Existing Orders ===
+Section 404 (Transition Procedures) allows for continuance of Protect America Act Sections 105A, 105B and 105C for all existing orders. So for authorizations for intelligence information and directives issued under such authorizations, Protect America Act application continues to apply.
+Section 404(a)2(A) subject to paragraph (3), section 105A of such Act, as added by section 2 of the Protect America Act of 2007 (Public Law 110-55; 121 Stat. 552), shall continue to apply to any acquisition conducted pursuant to an order, authorization, or directive referred to in paragraph (1); and
+Section 404(a)2(B) sections 105B and 105C of the Foreign Intelligence Surveillance Act of 1978, as added by sections 2 and 3, respectively, of the Protect America Act of 2007, shall continue to apply with respect to an order, authorization, or directive referred to in paragraph (1) until the later of--
+(i) the expiration of such order, authorization, or directive; or
+(ii) the date on which final judgment is entered for any petition or other litigation relating to such order, authorization, or directive.
+
+Section 404 (Continuance Procedures) allows for continued authorizations and directives to be renewed under same circumstances indefinitely; It also allowed for continuance of Immunities for persons and corporations (including but not limited to telecoms) under FISA 2008 Amendments.
+Section 404(a)7(B) CONTINUATION OF EXISTING ORDERS - If the Attorney General and the Director of National Intelligence seek to replace an authorization made pursuant to section 105B of the Foreign Intelligence Surveillance Act of 1978, as added by section 2 of the Protect America Act of 2007 (Public Law 110-55; 121 Stat. 522), by filing a certification in accordance with subparagraph (A), that authorization, and any directives issued thereunder and any order related thereto, shall remain in effect, notwithstanding the expiration provided for in subsection (a) of such section 105B, until the Foreign Intelligence Surveillance Court (as such term is defined in section 701(b)(2) of the Foreign Intelligence Surveillance Act of 1978 (as so added)) issues an order with respect to that certification under section 702(i)(3) of such Act (as so added) at which time the provisions of that section and of section 702(i)(4) of such Act (as so added) shall apply.
+
+
+== Controversy ==
+The Protect America Act generated a great deal of controversy. Constitutional lawyers and civil liberties experts expressed concerns that the Act authorized massive, wide-ranging information gathering with no oversight. Whereas much focus was placed on communications, the Act allowed for information gathering of all shapes and forms. The ACLU called it the "Police America Act" – "authorized a massive surveillance dragnet", calling the blank-check oversight provisions "meaningless," calling them a "phony court review of secret procedures."
+
+
+== FISC ruling, January 2009 ==
+In January 2009, a United States Foreign Intelligence Surveillance Court of Review ruling was made in favor of the warrantless wiretapping role of the Protect America Act 2007, in a heavily redacted opinion released on January 15, 2009, which was only the second such public ruling since the enactment of the FISA Act.
+
+
+== See also ==
+USA PATRIOT Act
+Communications Assistance for Law Enforcement Act (CALEA)
+Total information awareness
+FISA Amendments Act of 2008
+
+
+== References ==
+
+
+== External links ==
+Department of Justice's Support for the Protect America Act
+The PROTECT AMERICA ACT: Preserving Life and Liberty by the Department of Justice
+Text of the PROTECT AMERICA ACT, (PDF), Department of Justice
+GovTrack U.S. – S. 1927
+U.S. congressional action on domestic wiretapping at SourceWatch
+Plural Politics Protect American Act Plainspeak Legal Primer
+Protect America Act of 2007 at Discourse DB

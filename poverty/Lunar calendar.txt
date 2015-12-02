@@ -1,0 +1,52 @@
+A lunar calendar is a calendar that is based on cycles of the lunar phases. This can be contrasted with the Gregorian calendar, which is a solar calendar based on the revolution of the Earth around the sun. Because there are slightly more than twelve lunations (synodic months) in a solar year, the period of 12 lunar months (354.37 days) is sometimes referred to as a lunar year.
+A common purely lunar calendar is the Islamic (or Hijri Qamari) calendar. A feature of the Islamic calendar is that a year is always 12 months, so the months are not linked with the seasons and drift each solar year by 11 to 12 days. It comes back to the position it had in relation to the solar year approximately every 33 Islamic years. It is used mainly for religious purposes, but in Saudi Arabia it is the official calendar. Other lunar calendars often include extra months added occasionally to synchronize it with the solar calendar.
+The oldest known lunar calendar was found in Scotland, Warren Field; it dates back to around 8000 BC. Alexander Marshack, in a controversial reading, believed that marks on a bone baton (c. 25,000 BC) represented a lunar calendar. Similarly, Michael Rappenglueck believes that marks on a 17,000-year-old cave painting in Lascaux represent a lunar calendar.
+
+
+== Lunisolar calendarsEdit ==
+
+Most calendars referred to as "lunar" calendars are in fact lunisolar calendars. That is, months reflect the lunar cycle, but then intercalary months (e.g. "second Adar" in the Hebrew calendar) are added to bring the calendar year into synchronisation with the solar year. Some examples are the Chinese and Hindu calendars. Some other calendar systems used in antiquity were also lunisolar.
+All these calendars have a variable number of months in a year. The reason for this is that a solar year is not equal in length to an exact number of lunations, so without the addition of intercalary months the seasons would drift each year. To synchronise the year, a thirteen-month year is needed every two or three years.
+Some lunar calendars are calibrated by annual natural events which are affected by lunar cycles as well as the solar cycle. An example of this is the lunar calendar of the Banks Islands, which includes three months in which the edible palolo worm mass on the beaches. These events occur at the last quarter of the lunar month, as the reproductive cycle of the palolos is synchronised with the moon.
+Even though the Gregorian calendar is in common and legal use, lunar and lunisolar calendars serve to determine traditional holidays in many parts of the world, including India, Pakistan, China, Korea, Japan, Vietnam and Nepal. Such holidays include Ramadan, Diwali, Chinese New Year, Tết (Vietnamese New Year), Mid-Autumn Festival/Chuseok and Nepal Sambat and Mongolian New Year as called Tsagaan sar.
+
+
+== Start of the lunar monthEdit ==
+Lunar and lunisolar calendars differ as to which day is the first day of the month. In some lunisolar calendars, such as the Chinese calendar, the first day of a month is the day when an astronomical new moon occurs in a particular time zone. In others, such as some Hindu calendars, each month begins on the day after the full moon or the new moon. Others were based in the past on the first sighting of a lunar crescent, such as the Hebrew calendar.
+
+
+== Length of the lunar monthEdit ==
+The length of each lunar cycle varies slightly from the average value. In addition, observations are subject to uncertainty and weather conditions. Thus to avoid uncertainty about the calendar, there have been attempts to create fixed arithmetical rules to determine the start of each calendar month.
+The average length of the synodic month is 29.530589 days. Thus it is convenient if months are in general alternately 29 and 30 days (sometimes termed respectively hollow and full). The distribution of hollow and full months can be determined using continued fractions, and examining successive approximations for the length of the month in terms of fractions of a day. In the list below, after the number of days listed in the numerator, an integer number of months as listed in the denominator have been completed:
+29 / 1 ( 1 day after about 2 months)
+30 / 1 ( 1 day after about 2 months)
+59 / 2 ( 1 day after about 2.6 years)
+443 / 15 ( 1 day after about 30 years)
+502 / 17 ( 1 day after about 70 years)
+945 / 32 ( 1 day after about 122 years; expressible exactly in binary: 11101.10001₂)
+1447 / 49 ( 1 day after about 3 millennia)
+25101 / 850 ( dependent on change of synodic month value)
+These fractions can be used to construct a lunar calendar, or in combination with a solar calendar to produce a lunisolar calendar. A 49-month cycle was proposed as the basis of an alternative Easter computation by Isaac Newton around 1700. The tabular Islamic calendar's 360-month cycle is equivalent to 24×15 months minus a correction of one day.
+
+
+== See alsoEdit ==
+
+Lunar phase
+Chinese calendar
+Korean calendar
+Hindu calendar
+Mayan Calendar
+Islamic calendar
+Iranian calendars
+Celtic calendar
+Epact
+Hebrew calendar
+Paschal Full Moon
+Babylonian calendar
+
+
+== ReferencesEdit ==
+
+
+== External linksEdit ==
+Convert today's date to lunar calendar date

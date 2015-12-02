@@ -1,0 +1,61 @@
+A tally (or tally stick) was an ancient memory aid device used to record and document numbers, quantities, or even messages. Tally sticks first appear as animal bones carved with notches, in the Upper Paleolithic; a notable example is the Ishango Bone. Historical reference is made by Pliny the Elder (AD 23–79) about the best wood to use for tallies, and by Marco Polo (1254–1324) who mentions the use of the tally in China. Tallies have been used for numerous purposes such as messaging and scheduling, and especially in financial and legal transactions, to the point of being currency.
+
+
+== Kinds of tallies ==
+
+Principally there are two different kinds of tally sticks, the single and the split tally. A common form of the same kind of primitive counting device is seen in various kinds of prayer beads.
+
+
+=== Paleolithic tally sticks ===
+A number of anthropological artifacts have been conjectured to be tally sticks:
+the Ishango bone is a bone tool, dated to the Upper Paleolithic era, about 18,000 to 20,000 BC. It is a dark brown length of bone, the fibula of a baboon. It has a series of tally marks carved in three columns running the length of the tool. It was found in 1960 in Belgian Congo.
+The Lebombo Bone is a baboon's fibula with 29 distinct notches, discovered within the Border Cave in the Lebombo Mountains of Swaziland.
+The so-called Wolf bone is a prehistoric artifact discovered in 1937 in Czechoslovakia during excavations at Vestonice, Moravia, led by Karl Absolon. Dated to the Aurignacian, approximately 30,000 years ago, the bone is marked with 55 marks which some believe to be tally marks. The head of an ivory Venus figurine was excavated close to the bone.
+
+
+=== Single tally ===
+The single tally stick was an elongated piece of bone, ivory, wood, or stone which is marked with a system of notches (see: Tally marks). The single tally stick serves predominantly mnemonic purposes. Related to the single tally concept are messenger sticks (e.g., Inuit tribes), the knotted cords, khipus or quipus, as used by the Inca. Herodotus (c. 485–425 BC) reported the use of a knotted cord by Darius I of Persia (c. 521–486 BC).
+
+
+=== Split tally ===
+The split tally was a technique which became common in medieval Europe, which was constantly short of money (coins) and predominantly illiterate, in order to record bilateral exchange and debts. A stick (squared hazelwood sticks were most common) was marked with a system of notches and then split lengthwise. This way the two halves both record the same notches and each party to the transaction received one half of the marked stick as proof. Later this technique was refined in various ways and became virtually tamper proof. One of the refinements was to make the two halves of the stick of different lengths. The longer part was called stock and was given to the party which had advanced money (or other items) to the receiver. The shorter portion of the stick was called foil and was given to the party which had received the funds or goods. Using this technique each of the parties had an identifiable record of the transaction. The natural irregularities in the surfaces of the tallies where they were split would mean that only the original two halves would fit back together perfectly, and so would verify that they were matching halves of the same transaction. If one party tried to unilaterally change the value of his half of the tally stick by adding more notches, those notches would not be on the other tally stick and would be revealed as an attempted forgery. The split tally was accepted as legal proof in medieval courts and the Napoleonic Code (1804) still makes reference to the tally stick in Article 1333. Along the Danube and in Switzerland the tally was still used in the 20th century in rural economies.
+
+
+==== Split tally in England ====
+
+The most prominent and best recorded use of the split tally stick (or "nick-stick") being used as a form of currency was when King Henry I initiated the tally stick system in or around 1100 in medieval England. He would only accept the tally stick for taxes, and it was a tool of the Exchequer for the collection of taxes by local sheriffs (tax farmers "farming the shire") for seven centuries. The split tally of the Exchequer was in continuous use until 1826. In 1834, the tallies themselves were ordered to be burned in a stove in the Houses of Parliament, but the fire went out of control setting the building afire.
+The system of tally marks of the Exchequer is described in The Dialogue Concerning the Exchequer (see external links below) as follows:
+
+The manner of cutting is as follows. At the top of the tally a cut is made, the thickness of the palm of the hand, to represent a thousand pounds; then a hundred pounds by a cut the breadth of a thumb; twenty pounds, the breadth of the little finger; a single pound, the width of a swollen barleycorn; a shilling rather narrower; then a penny is marked by a single cut without removing any wood.
+
+The cuts were made the full width of the stick so that, after splitting, the portion kept by the issuer (the foil) exactly matched the piece (the stock) given as a receipt. Each stick had to have the details of the transaction written on it, in ink, to make it a valid record.
+Royal tallies (debt of the Crown) also played an infamous role in the formation of the Bank of England at the end of the 17th century when these royal tallies, trading at a hefty discount of up to 60 percent, were engrafted into the Bank's capital stock.
+Tally sticks feature in the design of the entrance gates to The National Archives at Kew.
+
+
+== See also ==
+Bamboo and wooden slips
+Measuring rod
+Prehistoric numerals
+
+
+== Notes ==
+
+
+== References ==
+Maddox, Thomas, ed. (1711). The History and Antiquities of the Exchequer of the Kings of England, in two periods: To wit, from the Norman Conquest, to the End of the Reign of K. John; and from the End of the Reign of K. John, to the End of the Reign of K. Edward II: Taken from Records. London. 
+Baxter, T. W. (1989). "Early Accounting, The Tally and the Checkerboard". The Accounting Historians Journal 16: 43–83. 
+Jenkinson, (Sir) Hilary (1924). "Medieval Tallies, Public and Private". Archaeologia, or Miscellaneous Tracts relating to Antiquity 74: 280–351, 8 Plates. 
+
+
+== Further reading ==
+Jenkinson, (Sir) Hilary (1914). "An original Exchequer Account of 1304 with private Tallies attached". Proceedings of the Society of Antiquaries of London. 2nd ser. 26: 36–40. 
+Jenkinson, (Sir) Hilary (1911). "Exchequer Tallies". Archaeologia 62: 367–80. doi:10.1017/s0261340900008213. 
+Jenkinson, (Sir) Hilary. "A note supplementary". Proceedings of the Society of Antiquaries of London. 2nd ser. 25: 29–39. 
+
+
+== External links ==
+Photo of Medieval Exchequer Tallies
+Inca khipus
+Khipus as ledgers
+The Dialogue Concerning the Exchequer

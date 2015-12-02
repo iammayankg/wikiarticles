@@ -1,0 +1,19 @@
+The Terrorist Identities Datamart Environment (TIDE) is the U.S. Government's central database on known or suspected international terrorists, and contains highly classified information provided by members of the Intelligence Community such as CIA, DIA, FBI, NSA, and many others.
+There are over one million names in TIDE. In 2008, more than 27,000 names were removed from the list when it was determined they no longer met the criteria for inclusion. According to the FBI, international terrorists include those persons who carry out terrorist activities under foreign direction. For this purpose, they may include U.S. persons (U.S. citizens and legal permanent residents). The Terrorist Identities Group (TIG), located in NCTC's Information Sharing & Knowledge Development Directorate (ISKD), is responsible for building and maintaining TIDE.
+From the classified TIDE database, an unclassified, but sensitive, extract is provided to the FBI's Terrorist Screening Center, which compiles the Terrorist Screening Database (TSDB).
+This database, in turn, is used to compile various watch lists such as the TSA's No Fly List, State Department's Consular Lookout and Support System, Homeland Security's Interagency Border Inspection System, and FBI's NCIC (National Crime Information Center) for state and local law enforcement.
+
+
+== See alsoEdit ==
+Computer Assisted Passenger Prescreening System
+Datamart
+Open Source Information System
+No Fly List
+Selectee list
+
+
+== ReferencesEdit ==
+
+
+== External linksEdit ==
+Terror Database Has Quadrupled In Four Years - washingtonpost.com (March 25, 2007)

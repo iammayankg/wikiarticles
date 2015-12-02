@@ -1,0 +1,188 @@
+A law enforcement agency (LEA), in North American English, is a government agency responsible for the enforcement of the laws.
+Outside North America, such organizations are usually called police services. In North America, some of these services are called police, others are known as sheriff's office/department, while investigative police services in the United States are often called bureaus, for example the Federal Bureau of Investigation.
+
+
+== Jurisdiction ==
+
+LEAs which have their ability to apply their powers restricted in some way are said to operate within a jurisdiction.
+
+LEAs will have some form of geographic restriction on their ability to apply their powers. The LEA might be able to apply its powers within a country, for example the United States of America's Bureau of Alcohol, Tobacco, Firearms and Explosives, within a division of a country, for example the Australian state Queensland Police, or across a collection of countries, for example international organizations such as Interpol, or the European Union's Europol.
+LEAs which operate across a collection of countries tend to assist in law enforcement activities, rather than directly enforcing laws, by facilitating the sharing of information necessary for law enforcement between LEAs within those countries, for example Europol has no executive powers.
+Sometimes a LEA’s jurisdiction is determined by the complexity or seriousness of the non compliance with a law. Some countries determine the jurisdiction in these circumstances by means of policy and resource allocation between agencies, for example in Australia, the Australian Federal Police take on complex serious matters referred to it by an agency and the agency will undertake its own investigations of less serious or complex matters by consensus, while other countries have laws which decide the jurisdiction, for example in the United States of America some matters are required by law to be referred to other agencies if they are of a certain level of seriousness or complexity, for example cross state boundary kidnapping in the United States is escalated to the Federal Bureau of Investigation. Differentiation of jurisdiction based on the seriousness and complexity of the non compliance either by law or by policy and consensus can coexist in countries.
+A LEA which has a wide range of powers but whose ability is restricted geographically, typically to an area which is only part of a country, is typically referred to as local police or territorial police. Other LEAs have a jurisdiction defined by the type of laws they enforce or assist in enforcing. For example, Interpol does not work with political, military, religious, or racial matters.
+A LEA’s jurisdiction usually also includes the governing bodies they support, and the LEA itself.
+
+
+=== Organization and structure ===
+Jurisdictionally, there can be an important difference between international LEAs and multinational LEAs, even though both are often referred to as "international", even in official documents. An international law enforcement agency has jurisdiction and or operates in multiple countries and across State borders, for example Interpol.
+A multinational law enforcement agency will typically operate in only one country, or one division of a country, but is made up of personnel from several countries, for example the European Union Police Mission in Bosnia and Herzegovina. international LEAs are typically also multinational, for example Interpol, but multinational LEAs are not typically international.
+Within a country, the jurisdiction of law enforcement agencies can be organized and structured in a number of ways to provide law enforcement throughout the country. A law enforcement agency’s jurisdiction can be for the whole country or for a division or sub-division within the country.
+
+
+==== Within divisions of a country ====
+
+LEA jurisdiction for a division within a country can typically be at more than one level, for example at the division level, that is state, province, or territory level, and for example at the sub division level, that is county, shire, or municipality or metropolitan area level. In Australia for example, each state has its own LEAs. In the United States for example, typically each state and county or city has its own LEAs.
+As a result, because both Australia and the United States are federations and have federal LEAs, Australia has two levels of law enforcement and the United States has multiple levels of law enforcement, Federal, Tribal, State, County, City, Town, Village, special Jurisdiction and others.
+
+
+==== Division into operations areas ====
+Often a LEA’s jurisdiction will be geographically divided into operations areas for administrative and logistical efficiency reasons. An operations area is often called a command or an office.
+While the operations area of a LEA is sometimes referred to as a jurisdiction, any LEA operations area usually still has legal jurisdiction in all geographic areas the LEA operates, but by policy and consensus the operations area does not normally operate in other geographical operations areas of the LEA. For example, the United Kingdom’s Metropolitan Police is divided into 32 Borough Operational Command Units, based on the London boroughs, and the New York City Police Department is divided into 76 precincts.
+
+Sometimes the one legal jurisdiction is covered by more than one LEA, again for administrative and logistical efficiency reasons, and-or arising from policy and-or historical reasons. For example, the area of jurisdiction of English and Welsh law is covered by a number of LEAs called constabularies, each of which has legal jurisdiction over the whole area covered by English and Welsh law, but they do not normally operate out of their areas without formal liaison between them.
+The primary difference between separate agencies and operational areas within the one legal jurisdiction is the degree of flexibility to move resources between versus within agencies. When multiple LEAs cover the one legal jurisdicition, each agency still typically organises itself into operations areas.
+In the United States within a state's legal jurisdiction, county and city police agencies do not have full legal jurisdictional flexibility throughout the state, and this has led in part to mergers of adjacent police agencies.
+
+
+==== Federal and national ====
+When a LEA’s jurisdiction is for the whole country, it is usually one of two broad types, either federal or national.
+
+
+===== Federal responsibilities =====
+When the country has a federal constitution a whole of country LEA is referred to as a federal law enforcement agency.
+The responsibilities of a federal LEA vary from country to country. Federal LEA responsibilities are typically countering fraud against the federation, immigration and border control regarding people and goods, investigating currency counterfeiting, policing of airports and protection of designated national infrastructure, national security, and the protection of the country’s head of state and of other designated very important persons, for example the Protective Service of the Australian Federal Police, or the Protective Mission of the United States Secret Service; and the U.S. State Department's Diplomatic Security Service (DSS).
+A federal police agency is a federal LEA which also has the typical police responsibilities of social order and public safety as well as federal law enforcement responsibilities. However, a federal police agency will not usually exercise its powers at a divisional level. Such exercising of powers is typically via specific arrangements between the federal and divisional governing bodies.
+Examples of federal law enforcement agencies are the Australian Federal Police (Australia), Central Bureau of Investigation (India), Federal Bureau of Investigation, Federal Protective Service, United States Park Police (United States), Royal Canadian Mounted Police (Canada), and the State Security Service (Nigeria).
+A federated approach to the organisation of a country does not necessarily indicate the nature of the organisation of law enforcement agencies within the country. Some countries, for example, Austria (Federal Police (Austria)), and Belgium (Law enforcement in Belgium), have a relatively unified approach to law enforcement, but still have operationally separate units for federal law enforcement and divisional policing. The United States has a highly fractured approach to law enforcement agencies generally, and this is reflected in the country's federal law enforcement agencies (Federal law enforcement in the United States).
+
+
+===== Relationship between federal and federated divisions =====
+In a federation, there will typically be separate LEAs with jurisdictions for each division within the federation. A federal LEA will have primary responsibility for laws which affect the federation as whole, and which have been enacted by the governing body of the federation.
+Members of a federal LEA may be given jurisdiction within a division of a federation for laws enacted by the governing bodies of the divisions either by the relevant division within the federation, or by the federation's governing body. For example, the Australian Federal Police is a federal agency and has the legal power to enforce the laws enacted by any Australian state, but will generally only enforce state law if there is a federal aspect to investigate.
+Typically federal LEAs have relatively narrow police responsibilities, the individual divisions within the federation usually establish their own police agencies to enforce laws within the division. However, in some countries federal agencies have jurisdiction in divisions of the federation.
+This typically happens when the division does not have its own independent status and is dependent on the federation. For example, the Australian Federal Police is the police agency with jurisdiction in Australia’s dependent territories, Jervis Bay Territory, Cocos Islands, Antarctic Territory, and Christmas Island Similarly, the Royal Canadian Mounted Police (RCMP) is a federal agency and is the police agency for Canada’s three territories, Northwest Territories, Nunavut, and Yukon.
+Note that this is a direct jurisdictional responsibility and is different from the situation when a governing body makes arrangements with another governing body's LEA to provide law enforcement for its subjects. This latter type of arrangement is described under Establishment and constitution of law enforcement agencies.
+Some federations escalate non compliance with laws with divisional or federal laws which involve multiple divisions within the federation to a federal LEA. The United States for example escalates kidnapping to the Federal Bureau of Investigation.
+In Australia, states liaise directly with each other when non compliance with laws crosses state boundaries. Some countries provide law enforcement on land and in buildings owned or controlled by the federation by using a federal LEA, for example the United States’s Department of Homeland Security is responsible for some aspects of federal property law enforcement.
+Other countries, for example Australia, provide law enforcement for federal property via federal LEAs and the LEAs for the division of the federation in which the property is located.
+Typically LEAs working in different jurisdictions which overlap in the type of law non compliance actively establish mechanisms for cooperation and even establish joint operations and joints task forces. Often, members of a LEA working outside of their normal jurisdiction on joint operations or task force are sworn in as special members of the host jurisdiction.
+
+
+===== National responsibilities =====
+A national law enforcement agency is a LEA in a country which does not have divisions capable of making their own laws. A national LEA will have the combined responsibilities that federal LEAs and divisional LEAs would have in a federated country.
+National LEAs are usually divided into operations areas.
+A national police agency is a national LEA which also has the typical police responsibilities of social order and public safety as well as national law enforcement responsibilities. Examples of countries with national police agencies are Canada, New Zealand, Italy, France, Japan, Philippines and Nicaragua.
+To help avoid confusion over jurisdictional responsibility, some federal LEAs explicitly advise that they are not a national law enforcement agency, for example the United States Federal Bureau of Investigation does this.
+
+
+== Types ==
+LEAs can be responsible for the enforcement of laws affecting the behaviour of people or the general community, for example the New York City Police Department, or the behaviour of commercial organisations and corporations, for example the Australian Securities and Investments Commission, of for the benefit of the country as a whole, for example the United Kingdom’s Her Majesty's Revenue and Customs.
+
+
+=== Religious law enforcement ===
+A LEA can be responsible for enforcing secular law and-or religious law, for example Sharia or Halakha. The significant majority of LEAs around the world are secular, their governing bodies separating religious matters from the governance of their subjects. Religious law enforcement agencies, for example Saudi Arabia’s Mutaween, exist where full separation of government and religious doctrine has not occurred, and are generally referred to as police agencies, typically religious police, because their primary responsibility is for social order within their jurisdiction and the relevant social order being highly codified as laws.
+
+
+=== Internal affairs ===
+Often, a LEA will have a specific internal unit to ensure that the LEA is complying with relevant laws, for example the United States’ Federal Bureau of Investigation's Office of Professional Responsibility. In some countries and-or divisions within countries, specialised and-or separate LEAs are established to ensure that other LEAs comply with laws, for example the Australian state New South Wales Independent Commission Against Corruption. LEA internal self compliance units and external LEA compliance agencies coexist in many countries. Names given to LEA internal self compliance units are typically, Internal Affairs, Internal Investigations, Professional Standards.
+
+
+=== Police agencies ===
+Many law enforcement agencies are police agencies that have a broad range powers and responsibilities. A police agency, however, also often has a range of responsibilities not specifically related to law enforcement. These responsibilities relate to social order and public safety. While this understanding of policing, being more encompassing than just law enforcement has grown with and is commonly understood by society, it is recognised formally by scholars and academics. A police agency’s jurisdiction for social order and public safety will normally be the same as its jurisdiction for law enforcement.
+
+
+=== Military law enforcement ===
+Military organisations often have law enforcement units. These units within the military organisation are generally referred to as federal law enforcement. This may refer to:
+ a section of the military solely responsible for policing the armed forces (referred to as provosts)
+ a MOS in the Armed Forces with training exceeding 48 hours with any weapon system. For Example: 11B/31B ex.
+ a separate section of the armed forces responsible for policing in the armed forces and in the ministry of defence such as the Żandarmeria Wojskowa
+a section of the military solely responsible for policing the civilian population (such as the Romanian Gendarmerie)
+the preventative police (with military status) of a Brazilian state (Polícia Militar)
+
+The exact usage and meaning of the terms Military, military police, provost, and gendarmie varies from country to country.
+Non-military law enforcement agencies are sometimes referred to as civilian police, but usually only in contexts where they need to be distinguished from military police. However, they may still possess a military structure and protocol.
+In most countries, the term law enforcement agency when used formally includes agencies other than only police agencies. The term law enforcement agency is often used in the United States of America to refer to police agencies, however, it also includes agencies with peace officer status or agencies which prosecute criminal acts. A county prosecutor or district attorney is considered to be the chief law enforcement officer of a county.
+
+
+=== Other responsibilities ===
+Other responsibilities of LEAs are typically related to assisting subjects to avoid non compliance with a law, assisting subjects to remain safe and secure, assisting subjects after a safety impacting event. For example:
+policingsocial order
+public incident mediation
+pre-empting anti social behaviour
+dangerous event public logistics
+
+public safety
+general search and rescue
+crowd control
+
+regulation
+services and facilities
+disaster victim identification
+education and awareness campaigns
+victim prevention and avoidance
+law compliance
+public safety
+
+Many LEAs have administrative and service responsibilities, often as their major responsibility, as well as their law enforcement responsibilities. This is typical of agencies such as customs or taxation agencies, which provide services and facilities to allow subjects to comply with relevant laws as their primary responsibilities.
+
+
+==== Private law enforcement ====
+Private Police are law enforcement bodies that are owned and/or controlled by non-governmental entities. Private police are often utilized in places where public law enforcement is seen as being under-provided. For example, the San Francisco Patrol Special Police, which still exist today. It is argued that Private Law Enforcement may serve as a superior alternative to a government monopoly law enforcement. 
+
+
+==== Regulation ====
+
+Many LEAs are also involved in the monitoring and-or application of regulations and codes of practice. See for example Australian Commercial Television Code of Practice, Building code, Code enforcement. Monitoring of the application of regulations and codes of practice is not normally considered law enforcement. However, the consistent non-compliance by a subject with regulations or codes of practice may result in the revocation of a licence for the subject to operate, and operating without a licence is typically illegal. Also, the failure to apply codes of practice can impact other subjects’ safety and life, which can also be illegal.
+
+
+== Establishment and constitution ==
+Typically a LEA is established and constituted by the governing body it is supporting, and the personnel making up the LEA are from the governing body’s subjects, for example the Australian Federal Police is established and constituted by virtue of the Australian Federal Police Act 1979.
+By Definition, federal LEAs can only be established by the governing body of the relevant federation, divisional and sub divisional LEAs can only be established by their relevant governing bodies, and national LEAs can only be established by the national governing body of a country.
+For reasons of either logistical efficiency or policy, some divisions with a country will not establish their own LEAs but will instead make arrangements with another LEA, typically from the same country, to provide law enforcement within the division. For example, the Royal Canadian Mounted Police (RCMP) is a federal agency and is contracted by most of Canada's provinces and many municipalities to police those divisions, even though law enforcement in Canada is constitutionally a divisional responsibility. This arrangement has been achieved by formal agreement between those divisions and the RCMP and reduces the number of agencies policing the same geographical area. Similarly, the Australian Federal Police (AFP) is a federal agency and is the contracted police agency for the Australian Capital Territory. and Norfolk Island.
+In circumstances where a country or division within a country is not able to establish stable or effective LEAs, typically police agencies, the country might invite other countries to provide personnel, experience, and organisational structure to constitute a LEA, for example the Regional Assistance Mission to the Solomon Islands which has a Participating Police Force working in conjunction with the Solomon Islands Police Force, or where the United Nations is already providing an administrative support capability within the country, the United Nations may directly establish and constitute a LEA on behalf of the country, for example for Timor-Leste from 1999 to 2002.
+
+
+== Powers and law exemptions ==
+
+To enable a LEA to prevent, detect, and investigate non compliance with laws, the LEA is endowed with powers by its governing body which are not available to non LEA subjects of a governing body. Typically, a LEA is empowered to varying degrees to:
+collect information about subjects in the LEA's jurisdiction
+intrusively search for information and evidence related to the non compliance with a law
+seize evidence of non compliance with a law
+seize property and assets from subjects
+direct subjects to provide information related to the non compliance with a law
+arrest and detain subjects, depriving them of their liberty, but not incarcerate subjects, for alleged non compliance with a law
+lawfully deceive subjects
+These powers are not available to subjects other than LEAs within the LEA's jurisdiction and are typically subject to judicial and civil overview.
+Usually, these powers are only allowed when it can be shown that a subject is probably already not complying with a law. For example, to undertake an intrusive search, typically a LEA must make an argument and convince a judicial officer of the need to undertake the intrusive search on the basis that it will help detect and-or prove non compliance with a law by a specified subject. The judicial officer, if they agree, will then issue a legal instrument, typically called a Search warrant, to the LEA, which must be presented to the relevant subject if possible.
+
+
+=== Lawful deception and law exemption ===
+Subjects who do not comply with laws will usually seek to avoid detection by a LEA. When required, in order for the LEA to detect and investigate subjects not complying with laws, the LEA must be able to undertake its activities secretly from the non complying subject. This, however, may require the LEA to explicitly not comply with a law other subjects must comply with. To allow the LEA to operate and comply with the law, it is given lawful exemption to undertake secret activities. Secret activities by a LEA are often referred to as covert operations.
+To deceive a subject and carryout its activities, a LEA may be lawfully allowed to secretly:
+Create and operate false identities and personalities and organisations, often referred to as under cover operations or assumed identities, for example Australia’s Australian Federal Police by virtue of Part 1AC of the Crimes Act 1914
+Allow and assist the illicit movement of licit and illicit substances and wares, sometimes partially substituted with benign materials, often referred to as controlled operations, for example Australia’s LEAs by virtue of Part 1AB of the Crimes Act 1914
+Listen to and copy communications between subjects, often referred to as telecommunications interception or wire tapping when the communication medium is electronic in nature, for example the United States's Federal Bureau of Investigation by virtue of United States Code 18 Title 18 Part I Chapter 119 Section 2516, or Australia’s LEAs by virtue of Telecommunications (Interception and Access) Act 1979
+Intrusively observe, listen to, and track subjects, often referred to as technical operations, for example Australia’s LEAs by virtue of the Surveillance Devices Act 2004
+to typically collect information about and evidence of non compliance with a law and identify other non complying subjects.
+Lawful deception and utilisation of law exemption by a LEA is typically subject to very strong judicial and-or open civil overview. For example, the Australian Federal Police's controlled operations are subject to open civil review by its governing body, the Parliament of Australia.
+
+
+=== Other exemptions from laws ===
+Law enforcement agencies have other exemptions from laws to allow them to operate in a practical way. For example, many jurisdictions have laws which forbid animals from entering certain areas for health and safety reasons. LEAs are typically exempted from these laws to allow dogs to be used for search and rescue, drug search, explosives search, chase and arrest, etc. This type of exemption is not unique to LEAs. Sight assist dogs are also typically exempted from access restrictions. Members of LEAs may be permitted to openly display firearms in places where this is typically prohibited to civilians, violate various traffic laws when responding to crimes, or detain persons against their will to investigate suspected crimes.
+Interpol is an international organisation and is essentially stateless but must operate from some physical location. Interpol is protected from certain laws of the country where it is physically located.
+
+
+== Law enforcement agencies and society ==
+
+Because the enforcement of laws has, by definition, a major impact on the society the laws apply to, the agencies which enforce the laws have a specific relevance to the societies in which they operate.
+Some LEAs have been immortalised in history, literature, and popular media, for example the United Kingdom's Scotland Yard and the United States' Federal Bureau of Investigation.
+A small number of LEAs, particularly secret police forces which are unnacountable or have unrestricted powers, are not generally respected by their governing bodies’ subjects, due to the negative impact they have on the subjects.
+Many fictional LEAs have been created in popular media and literature. See for example List of fictional secret police and intelligence organizations and List of fictional police forces.
+
+
+== See also ==
+Code enforcement
+Law enforcement organisation
+List of law enforcement agencies grouped by sub category
+List of protective service agencies
+List of secret police organizations
+List of specialist law enforcement agencies
+
+Outline of law enforcement
+Specialist law enforcement agency
+
+
+== References ==
+
+
+== External links ==

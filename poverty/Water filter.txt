@@ -1,0 +1,70 @@
+A water filter removes impurities from water by means of a fine physical barrier, a chemical process or a biological process. Filters cleanse water to different extents for purposes like irrigation, drinking water, aquariums, ponds and swimming pools.
+
+
+== Methods of filtrationEdit ==
+
+Filters use sieving, adsorption, ion exchanges, biological metabolite transfer, and other processes. Unlike a sieve or screen, a filter can remove particles much smaller than the holes through which the water passes.
+
+
+== TypesEdit ==
+
+
+=== Water treatment plant filtersEdit ===
+
+Types of water filters media filters, screen filters, disk filters, slow sand filter beds, rapid sand filters, cloth filters, and biological filters such as algae scrubbers.
+
+
+=== Point-of-use filtersEdit ===
+
+Point-of-use filters for home use include granular-activated carbon filters (GAC) used for carbon filtering, metallic alloy filters, microporous ceramic filters, carbon block resin (CBR), microfiltration and ultrafiltration membranes. Some filters use more than one filtration method. An example of this is a multi-barrier system. Jug filters can be used for small quantities of drinking water. Some kettles have built-in filters, primarily to reduce limescale buildup.
+Point-of-use microfiltration devices can be directly installed at water outlets (faucets, showers) in order to protect users against Legionella spp., Pseudomonas spp., Nontuberculous mycobacteria, Escherichia coli and other potentially harmful water pathogens by providing a barrier to them and/or minimizing patient exposure.
+
+
+=== Portable water filtersEdit ===
+
+Water filters are used by hikers, aid organizations during humanitarian emergencies, and the military. These filters are usually small, portable and lightweight (1-2 pounds/0.5-1.0 kg or less), and usually filter water by working a mechanical hand pump, although some use a siphon drip system to force water through while others are built into water bottles. Dirty water is pumped via a screen-filtered flexible silicon tube through a specialized filter, ending up in a container. These filters work to remove bacteria, protozoa and microbial cysts that can cause disease. Filters may have fine meshes that must be replaced or cleaned, and ceramic water filters must have their outside abraded when they have become clogged with impurities.
+These water filters should not be confused with devices or tablets that disinfect water which remove or kill viruses such as hepatitis A and rotavirus.
+
+
+== CertificationEdit ==
+Three organizations are accredited by the American National Standards Institute, and each one of them certified products using American National Standard Institute/National Science Foundation standards. Each American National Standards Institute/National Science Foundation standard requires verification of contaminant reduction performance claims, an evaluation of the unit, including its materials and structural integrity, and a review of the product labels and sales literature. Each certifies that home water treatment units meet or exceed National Standard Institute/National Science Foundation and Environmental Protection Agency drinking water standards. American National Standard Institute/National Science Foundation standards are issued in two different sets, one for health concerns (such as removal of specific contaminants (Standard 53, Health Effects) and one for aesthetic concerns (Aesthetic Effects, such as improving taste or appearance of water). Certification from these organizations will specify one or both of these specific standards.
+
+
+=== NSF InternationalEdit ===
+NSF International as it is now known started out as the National Sanitation Foundation in 1944 at the University of Michigan School of Public Health.  The NSF's water treatment Device Certification Program requires extensive product testing and unannounced audits of production facilities. One goal of this not for profit organization is to provide assurance to consumers that the water treatment devices they are purchasing meet the design, material,and performance requirements of national standards.
+
+
+=== Underwriters LaboratoriesEdit ===
+Underwriters Laboratories, Inc., is an independent, accredited testing and certification organization that certifies home water treatment units which meet or exceed EPA and American National Standard Institute/National Science Foundation drinking water standards of contaminant reduction, aesthetic concerns, structural integrity, and materials safety.
+
+
+=== Water Quality AssociationEdit ===
+The Water Quality Association is a trade organization that tests water treatment equipment, and awards its Gold Seal to systems that meet or exceed ANSI/NSF standards for contaminant reduction performance, structural integrity, and materials safety.
+Filters that use reverse osmosis, those labeled as “absolute one micron filters,” or those labeled as certified by an American National Standards Institute (ANSI)- accredited organization to American National Standard Institute/National Science Foundation Standard 53 for “Cyst Removal” provide the greatest assurance of removing Cryptosporidium. As with all filters, follow the manufacturer’s instructions for filter use and replacement.
+
+
+== Water polishingEdit ==
+The term water polishing can refer to any process that removes small (usually microscopic) particulate material, or removes very low concentrations of dissolved material from water. The process and its meaning vary from setting to setting: a manufacturer of aquarium filters may claim that its filters perform water polishing by capturing "micro particles" within nylon or polyester pads just as a chemical engineer can use the term to refer to the removal of magnetic resins from a solution by passing the solution over a bed of magnetic particulate. In this sense, water polishing is simply another term for whole house water filtration systems. Polishing is also done on a large scale in water reclamation plants.
+
+
+== HistoryEdit ==
+During the 19th and 20th centuries, water filters for domestic water production were generally divided into slow sand filters and rapid sand filters (also called mechanical filters and American filters). While there were many small-scale water filtration systems prior to 1800, Paisley, Scotland is generally acknowledged as the first city to receive filtered water for an entire town. The Paisley filter began operation in 1804 and was an early type of slow sand filter. Throughout the 1800s, hundreds of slow sand filters were constructed in the UK and on the European continent. An intermittent slow sand filter was constructed and operated at Lawrence, Massachusetts in 1893 due to continuing typhoid fever epidemics caused by sewage contamination of the water supply. The first continuously operating slow sand filter was designed by Allen Hazen for the city of Albany, New York in 1897. The most comprehensive history of water filtration was published by Moses N. Baker in 1948 and reprinted in 1981.
+In the 1800s, mechanical filtration was an industrial process that depended on the addition of aluminum sulfate prior to the filtration process. The filtration rate for mechanical filtration was typically more than 60 times faster than slow sand filters, thus requiring significantly less land area. The first modern mechanical filtration plant in the U.S. was built at Little Falls, New Jersey for the East Jersey Water Company. George W. Fuller designed and supervised the construction of the plant which went into operation in 1902. In 1924, John R. Baylis developed a fixed grid backwash assist system which consisted of pipes with nozzles that injected jets of water into the filter material during expansion.
+
+
+== See alsoEdit ==
+Backwashing (water treatment)
+Carbon filtering
+Distillation
+Reverse osmosis
+Reverse osmosis plant
+Sand separator
+Settling basin
+Swimming pool sanitation
+
+
+== ReferencesEdit ==
+
+
+== External linksEdit ==
+ Media related to Water filters at Wikimedia Commons

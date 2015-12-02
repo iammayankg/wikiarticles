@@ -1,0 +1,143 @@
+Superior orders, often known as the Nuremberg defence, lawful orders or by the German phrase Befehl ist Befehl ("only following orders", literally "an order is an order"), is a plea in a court of law that a person, whether a member of the armed forces or a civilian, not be held guilty for actions which were ordered by a superior officer or a public official.
+The superior orders plea is often regarded as the complement to command responsibility.
+One of the most noted uses of this plea, or "defense", was by the accused in the 1945–46 Nuremberg Trials, such that it is also called the "Nuremberg defense". The Nuremberg Trials were a series of military tribunals, held by the main victorious Allied forces after World War II, most notable for the prosecution of prominent members of the political, military, and economic leadership of the defeated Nazi Germany. It was during these trials, under the London Charter of the International Military Tribunal which set them up, that the defense of superior orders was no longer considered enough to escape punishment; but merely enough to lessen punishment.
+Historically, the plea of superior orders has been used both before and after the Nuremberg Trials, with a notable lack of consistency in various rulings.
+Apart from the specific plea of superior orders, discussions about how the general concept of superior orders ought to be used, or ought not to be used, have taken place in various arguments, rulings and statutes that have not necessarily been part of “after the fact” war crimes trials, strictly speaking. Nevertheless, these discussions and related events help us understand the evolution of the specific plea of superior orders and the history of its usage.
+
+
+== History before 1900Edit ==
+
+
+=== The trial of Peter von HagenbachEdit ===
+
+In 1474, in the trial of Peter von Hagenbach by an ad hoc tribunal of the Holy Roman Empire, the first known “international” recognition of commanders’ obligations to act lawfully occurred. Hagenbach offered the defense that he was just following orders, but this defense was rejected and he was convicted of war crimes and beheaded.
+Specifically, Hagenbach was put on trial for atrocities committed under his command but not by him directly, during the occupation of Breisach. This was the earliest modern European example of the doctrine of command responsibility. Since he was convicted for crimes "he as a knight was deemed to have a duty to prevent", Hagenbach defended himself by arguing that he was only following orders from the Duke of Burgundy, Charles the Bold, to whom the Holy Roman Empire had given Breisach. This defense was rejected.
+
+
+== History from 1900 to 1947Edit ==
+
+
+=== German military trials after World War IEdit ===
+On June 4, 1921, the legal doctrine of superior orders was used during the German Military Trials that took place after World War I: One of the most famous of these trials was the matter of Lieutenant Karl Neumann, who was a U-boat captain responsible for the sinking of the hospital ship the Dover Castle. Even though he frankly admitted to having sunk the ship, he stated that he had done so on the basis of orders supplied to him by the German Admiralty; and that being so, he could not be held liable for his actions. The Leipzig Supreme Court (then Germany's supreme court) acquitted him, accepting the defense of superior orders as a grounds to escape criminal liability. Further, that very court had this to say in the matter of superior orders:
+
+"... that all civilized nations recognize the principle that a subordinate is covered by the orders of his superiors."
+
+Many accused of war crimes were acquitted on a similar defense, creating immense dissatisfaction amongst the Allies. This has been thought to be one of the main causes for the specific removal of this defense in the August 8, 1945 London Charter of the International Military Tribunal. This removal has been attributed to the actions of Robert H. Jackson, a Justice of the United States Supreme Court, who was appointed Chief Prosecutor at the Nuremberg Trials.
+
+
+=== The Dostler caseEdit ===
+
+On October 8, 1945, Anton Dostler was the first German general to be tried for war crimes by a U.S. military tribunal at the Royal Palace in Caserta. He was accused of ordering the execution of 15 captured U.S. soldiers of Operation Ginny II in Italy in March 1944. He admitted to ordering the execution but said that he could not be held responsible because he was just following orders from his superiors. The execution of 15 U.S. prisoners of war in Italy ordered by Dostler was an implementation of Hitler's Commando Order of 1942 which required the immediate execution of all Allied commandos, whether in proper uniforms or not, without trial if apprehended by German forces. The tribunal rejected the defense of Superior Orders and found Dostler guilty of war crimes. He was sentenced to death and executed by a firing squad on December 1, 1945, in Aversa.
+The Dostler case became a precedent for the principle, used in the Nuremberg Trials of German generals, officials, and Nazi leaders beginning in November 1945, that using Superior orders as a defense does not relieve officers from responsibility of carrying out illegal orders and their liability to be punished in court. This principle was codified in Principle IV of the Nuremberg Principles, and similar principles were found in sections of the Universal Declaration of Human Rights.
+
+
+=== Nuremberg Trials after World War IIEdit ===
+
+In 1945 and 1946, during the Nuremberg Trials the issue of superior orders again arose. Before the end of World War II, the Allies suspected such a defense might be employed, and issued the London Charter of the International Military Tribunal (IMT), which specifically stated that following an unlawful order is not a valid defense against charges of war crimes.
+Thus, under Nuremberg Principle IV, "defense of superior orders" is not a defense for war crimes, although it might influence a sentencing authority to lessen the penalty. Nuremberg Principle IV states:
+
+"The fact that a person acted pursuant to order of his Government or of a superior does not relieve him from responsibility under international law, provided a moral choice was in fact possible to him."
+
+During the Nuremberg Trials, Wilhelm Keitel, Alfred Jodl and other defendants unsuccessfully used the defense.
+(Before the trials, there was little consensus amongst the Allies as to what was to be done with the Nazi war prisoners. Winston Churchill was inclined to have the leaders 'executed as outlaws'. The Soviets desired trials, but wished there to be a presumption of guilt, as opposed to the procedural presumption of innocence that accompanies most western criminal trials.)
+
+
+==== The "Nuremberg Defense"Edit ====
+These trials gained so much attention that the "superior orders defense" has subsequently become interchangeable with the label "Nuremberg defense". This is a legal defense that essentially states that the defendant was "only following orders" ("Befehl ist Befehl", literally "an order is an order") and is therefore not responsible for his or her crimes.
+However, U.S. General Telford Taylor, who had served as Chief Counsel for the United States during the Nuremberg trials, employed the term "Nuremberg defense" in a different sense. He applied it not to the defense offered by the Nuremberg defendants, but to a justification put forward by those who refused to take part in military action (specifically America's involvement in the Vietnam War) that they believed to be criminal. Used in this way, "Nuremberg defense" refers not to the position that "an order is an order", but rather to the opposing (and rebutting) the view that only lawful orders are binding. (This latter use of the term has apparently fallen into disuse, perhaps in part as a result of the United States' subsequent abolition of the draft.)
+
+
+== History from 1947 to 2000Edit ==
+The defense of superior orders again arose in the 1961 trial of Nazi war criminal Adolf Eichmann in Israel, as well as the trial of Alfredo Astiz of Argentina, the latter responsible for a large number of disappearances and kidnappings that took place during that country's Dirty War.
+
+
+=== Israeli law since 1956Edit ===
+In 1957, the Israeli legal system established the concept of a 'blatantly illegal order' to explain when a military order (or in general, a security-related order) should be followed, and when an order must not be followed. The concept is explained in 1957 by the infamous Kafr Qasim massacre ruling.
+The Kafr Qasim trial considered for the first time the issue of when Israeli security personnel are required to disobey illegal orders. The judges decided that soldiers do not have the obligation to examine each and every order in detail as to its legality, nor were they entitled to disobey orders merely on a subjective feeling that they might be illegal. On the other hand, some orders were manifestly illegal, and these must be disobeyed. Judge Benjamin Halevy's words, still much-quoted today, were that "The distinguishing mark of a manifestly illegal order is that above such an order should fly, like a black flag, a warning saying: 'Prohibited!'." (Lippman, Bilsky).
+Captain (res.) Itai Haviv, a signatory of the 'courage to refuse' letter of 2002 tells of his unhappiness about his service for the Israeli Defense Forces (IDF) and says "For 35 years a black flag was proudly hanging over our heads, but we have refused to see it". A translation note explains the "Black Flag" principle but adds "In the 45 years that passed since [the ruling], not even a single soldier was protected by a military court for refusing to obey a command because it was a 'black flag' command."
+The notion of 'blatantly illegal orders' is taught as part of mandatory studies in the Israeli high-school system, as well as in basic training in the mandatory IDF service.
+
+
+=== 1968 My Lai MassacreEdit ===
+Following the My Lai Massacre in 1968, the defense was employed during the court martial of William Calley. Some have argued that the outcome of the My Lai Massacre courts martial was a reversal of the laws of war that were set forth in the Nuremberg and Tokyo War Crimes Tribunals. Secretary of the Army Howard Callaway was quoted in the New York Times as stating that Calley's sentence was reduced because Calley believed that what he did was a part of his orders.
+In United States v. Keenan, the accused was found guilty of murder after he obeyed an order to shoot and kill an elderly Vietnamese citizen. The Court of Military Appeals held that "the justification for acts done pursuant to orders does not exist if the order was of such a nature that a man of ordinary sense and understanding would know it to be illegal". The soldier who gave the order, Corporal Luczko, was acquitted by reason of insanity.
+
+
+=== 1996, Erich PriebkeEdit ===
+In 1996, the superior orders defense was successfully used by Erich Priebke, although the verdict was appealed and he was later convicted. It was used with varying degrees of success by those involved in the Hostages Trial.
+
+
+=== The 1998 Rome Statute of the International Criminal CourtEdit ===
+The provision containing the superior orders defense can be found as a defense to international crimes in the Rome Statute of the International Criminal Court. (The Rome Statute was agreed upon in 1998 as the foundational document of the International Criminal Court, established to try those individuals accused of serious international crimes.) Article 33, titled "Superior orders and prescription of law", states:
+
+1. The fact that a crime within the jurisdiction of the Court has been committed by a person pursuant to an order of a Government or of a superior, whether military or civilian, shall not relieve that person of criminal responsibility unless:
+(a) The person was under a legal obligation to obey orders of the Government or the superior in question;
+(b) The person did not know that the order was unlawful; and
+(c) The order was not manifestly unlawful.
+
+2. For the purposes of this article, orders to commit genocide or crimes against humanity are manifestly unlawful.
+
+There are two interpretations of this Article:
+This formulation, especially (1)(a), whilst effectively prohibiting the use of the Nuremberg defense in relation to charges of genocide and crimes against humanity, does however, appear to allow the Nuremberg defense to be used as a protection against charges of war crimes, provided the relevant criteria are met.
+Nevertheless, this interpretation of ICC Article 33 is open to debate: For example, Article 33 (1)(c) protects the defendant only if "the order was not manifestly unlawful". The "order" could be considered "unlawful" if we consider Nuremberg Principle IV to be the applicable "law" in this case. If so, then the defendant is not protected. Discussion as to whether or not Nuremberg Prinicple IV is the applicable law in this case is found in a discussion of the Nuremberg Principles' power or lack of power.
+
+
+== History 2000 to presentEdit ==
+
+
+=== Legal proceedings of Jeremy Hinzman in CanadaEdit ===
+
+Nuremberg Principle IV, and its reference to an individual’s responsibility, was at issue in Canada in the case of Hinzman v. Canada. Jeremy Hinzman was a U.S. Army deserter who claimed refugee status in Canada as a conscientious objector, one of many Iraq War resisters. Hinzman's lawyer, (at that time Jeffry House), had previously raised the issue of the legality of the Iraq War as having a bearing on their case. The Federal Court ruling was released on March 31, 2006, and denied the refugee status claim. In the decision, Justice Anne L. Mactavish addressed the issue of personal responsibility:
+
+An individual must be involved at the policy-making level to be culpable for a crime against peace ... the ordinary foot soldier is not expected to make his or her own personal assessment as to the legality of a conflict. Similarly, such an individual cannot be held criminally responsible for fighting in support of an illegal war, assuming that his or her personal war-time conduct is otherwise proper.
+
+On Nov 15, 2007, a quorum of the Supreme Court of Canada made of Justices Michel Bastarache, Rosalie Abella, and Louise Charron refused an application to have the Court hear the case on appeal, without giving reasons. 
+"... in written arguments to the Supreme Court of Canada, Mr. House pointed out that although our courts have so far refused to grant refugee status to American soldiers who are deserting military duty out of moral objection to the war in Iraq, in 1995 the Federal Court of Appeal granted refugee status to a deserter from Saddam Hussein's armed incursion into Kuwait, on the basis that he should not be compelled to take part in an illegal war.
+"The courts are taking one stance for Saddam Hussein's soldiers and another one entirely for American soldiers", Mr. House said.
+
+
+=== Legal proceedings of Ehren Watada in the United StatesEdit ===
+In June 2006, during the Iraq War, Ehren Watada refused to go to Iraq on account of his belief that the Iraq war was a crime against peace (waging a war of aggression for territorial aggrandizement), which he believed could make him liable for prosecution under the command responsibility doctrine. In this case, the judge ruled that soldiers, in general, are not responsible for determining whether the order to go to war itself is a lawful order - but are only responsible for those orders resulting in a specific application of military force, such as an order to shoot civilians, or to treat POWs inconsistently with the Geneva Conventions. This is consistent with the Nuremberg Defense, as only the civilian and military principals of the Axis were charged with crimes against peace, while subordinate military officials were not so charged. It is often the case in modern warfare that while subordinate military officials are not held liable for their actions, neither are their superiors, as was the case with Calley's immediate superior Captain Ernest Medina.
+Based on this principle international law developed the concept of individual criminal liability for war crimes which resulted in the current doctrine of command responsibility.
+
+
+== Arguments for and againstEdit ==
+
+
+=== Historical overview summary tableEdit ===
+(For overview purposes, the below table attempts to capsulize much of the history in the above article. It is based on references above. To navigate to those supporting references and further information for each case, click on "see details" for each case.)
+Note: Yellow rows indicate the use of the precise plea of Superior Orders in a war crimes trial - as opposed to events regarding the general concept of Superior Orders.
+
+
+=== ArgumentsEdit ===
+
+The superior orders defense is still used with the following rationale in the following scenario: An "order" may come from one's superior at the level of national law. But according to Nuremberg Principle IV, such an order is sometimes "unlawful" according to international law. Such an "unlawful order" presents a legal dilemma from which there is no legal escape: On one hand, a person who refuses such an unlawful order faces the possibility of legal punishment at the national level for refusing orders. On the other hand, a person who accepts such an unlawful order faces the possibility of legal punishment at the international level (e.g. Nuremberg Trials) for committing unlawful acts.
+Nuremberg Principle II responds to that dilemma by stating: "The fact that internal law does not impose a penalty for an act which constitutes a crime under international law does not relieve the person who committed the act from responsibility under international law."
+The above scenario might present a legal dilemma, but Nuremberg Principle IV speaks of "a moral choice" as being just as important as "legal" decisions: It states: "The fact that a person acted pursuant to order of his Government or of a superior does not relieve him from responsibility under international law, provided a moral choice was in fact possible to him".
+In "moral choices" or ethical dilemmas an ethical decision is often made by appealing to a "higher ethic" such as ethics in religion or secular ethics. One such "higher ethic", which is found in many religions and also in secular ethics, is the "ethic of reciprocity", or the Golden Rule. It states that one has a right to just treatment, and therefore has a reciprocal responsibility to ensure justice for others. "Higher ethics", such as those, could be used by an individual to solve the legal dilemma presented by the superior orders defense.
+Another argument against the use of the superior orders defense is that it does not follow the traditional legal definitions and categories established under criminal law. Under criminal law, a principal is any actor who is primarily responsible for a criminal offense. Such an actor is distinguished from others who may also be subject to criminal liability as accomplices, accessories or conspirators. (See also the various degrees of liability: absolute liability, strict liability, and mens rea.)
+Nuremberg Principle IV, the international law which counters the superior orders defense, is legally supported by the jurisprudence found in certain articles in the Universal Declaration of Human Rights which deal indirectly with conscientious objection. It is also supported by the principles found in paragraph 171 of the Handbook on Procedures and Criteria for Determining Refugee Status which was issued by the Office of the United Nations High Commissioner for Refugees (UNHCR). Those principles deal with the conditions under which conscientious objectors can apply for refugee status in another country if they face persecution in their own country for refusing to participate in an illegal war.
+
+
+== See alsoEdit ==
+Above my paygrade
+Anton Dostler
+Command responsibility
+International legal theory
+Laws of war
+Milgram experiment – psychology experiments which measured the willingness of study participants to obey an authority figure who instructed them to perform acts that conflicted with their conscience.
+Nuremberg Principle IV
+Nuremberg Principles
+Peter von Hagenbach
+Radbruch formula
+Respondeat superior
+Rule of Law in Armed Conflicts Project
+Sources of international law
+Vicarious liability
+
+
+== ReferencesEdit ==
+
+
+== External linksEdit ==
+usmilitary.about.com: To Obey or Not to Obey

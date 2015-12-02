@@ -1,0 +1,285 @@
+According to the U.S. Government Counterinsurgency Guide (2009) counter-insurgency or counterinsurgency (COIN) "may be defined as ‘comprehensive civilian and military efforts taken to simultaneously defeat and contain insurgency and address its root causes’". "Insurgency is the organized use of subversion and violence to seize, nullify or challenge political control of a region. As such, it is primarily a political struggle, in which both sides use armed force to create space for their political, economic and influence activities to be effective."
+Counter-insurgency campaigns of duly-elected or politically recognized governments take place during war, occupation by a foreign military or police force, and when internal conflicts that involve subversion and armed rebellion occur. The best counterinsurgency campaigns "integrate and synchronize political, security, economic, and informational components that reinforce governmental legitimacy and effectiveness while reducing insurgent influence over the population. COIN strategies should be designed to simultaneously protect the population from insurgent violence; strengthen the legitimacy and capacity of government institutions to govern responsibly and marginalize insurgents politically, socially, and economically." (U.S. Government Counterinsurgency Guide, 2009)
+
+
+== Models ==
+
+Counter-insurgency is normally conducted as a combination of conventional military operations and other means, such as propaganda, psy-ops, and assassinations. Counter-insurgency operations include many different facets: military, paramilitary, political, economic, psychological, and civic actions taken to defeat insurgency.
+To understand counter-insurgency, one must understand insurgency to comprehend the dynamics of revolutionary warfare. Insurgents capitalize on societal problems, often called gaps; counter-insurgency addresses closing the gaps. When the gaps are wide, they create a sea of discontent, creating the environment in which the insurgent can operate.
+In The Insurgent Archipelago John Mackinlay puts forward the concept of an evolution of insurgency from the Maoist paradigm of the golden age of insurgency to the global insurgency of the start of the 21st-century. He defines this distinction as 'Maoist' and 'post-Maoist' insurgency.
+
+
+== Legal and ethical challenges ==
+William B. Caldwell wrote:
+
+The law of armed conflict requires that, to use force, "combatants" must distinguish individuals presenting a threat from innocent civilians. This basic principle is accepted by all disciplined militaries. In the counterinsurgency, disciplined application of force is even more critical because our enemies camouflage themselves in the civilian population. Our success in Iraq depends on our ability to treat the civilian population with humanity and dignity, even as we remain ready to immediately defend ourselves or Iraqi civilians when a threat is detected.
+
+
+== Counter-insurgency theorists ==
+
+
+=== Santa Cruz de Marcenado ===
+The third Marques of Santa Cruz de Marcenado (1684–1732) is probably the earliest author who dealt systematically in his writings with counter-insurgency. In his Reflexiones Militares, published between 1726 and 1730, he discussed how to spot early signs of an incipient insurgency, prevent insurgencies, and counter them, if they could not be warded off. Strikingly, Santa Cruz recognized that insurgencies are usually due to real grievances: "A state rarely rises up without the fault of its governors." Consequently, he advocated clemency towards the population and good governance, to seek the people's "heart and love".
+
+
+=== B. H. Liddell Hart ===
+The majority of counter-insurgency efforts by major powers in the last century have been spectacularly unsuccessful. This may be attributed to a number of causes. First, as B. H. Liddell Hart pointed out in the Insurgency addendum to the second version of his book Strategy: The Indirect Approach, a popular insurgency has an inherent advantage over any occupying force. He showed as a prime example the French occupation of Spain during the Napoleonic wars. Whenever Spanish forces managed to constitute themselves into a regular fighting force, the superior French forces beat them every time.
+However, once dispersed and decentralized, the irregular nature of the rebel campaigns proved a decisive counter to French superiority on the battlefield. Napoleon's army had no means of effectively combatting the rebels, and in the end their strength and morale were so sapped that when Wellington was finally able to challenge French forces in the field, the French had almost no choice but to abandon the situation.
+Counter-insurgency efforts may be successful, especially when the insurgents are unpopular. The Philippine–American War, the Shining Path in Peru, and the Malayan Emergency in Malaya have been the sites of failed insurgencies.
+Hart also points to the experiences of T. E. Lawrence and the Arab Revolt during World War I as another example of the power of the rebel/insurgent. Though the Ottomans often had advantages in manpower of more than 100 to 1, the Arabs' ability to materialize out of the desert, strike, and disappear again often left the Turks reeling and paralyzed, creating an opportunity for regular British forces to sweep in and finish the Turkish forces off.
+In both the preceding cases, the insurgents and rebel fighters were working in conjunction with or in a manner complementary to regular forces. Such was also the case with the French Resistance during World War II and the National Liberation Front during the Vietnam War. The strategy in these cases is for the irregular combatant to weaken and destabilize the enemy to such a degree that victory is easy or assured for the regular forces. However, in many modern rebellions, one does not see rebel fighters working in conjunction with regular forces. Rather, they are home-grown militias or imported fighters who have no unified goals or objectives save to expel the occupier.
+According to Liddell Hart, there are few effective counter-measures to this strategy. So long as the insurgency maintains popular support, it will retain all of its strategic advantages of mobility, invisibility, and legitimacy in its own eyes and the eyes of the people. So long as this is the situation, an insurgency essentially cannot be defeated by regular forces.
+Another option in combating an insurgency would be to make the presence of troops so pervasive that there is simply no place left for insurgents to hide, as demonstrated in Franco's conquest of Republican Spain during the Spanish Civil War or the Union occupation of Confederate States with Federal troops following the American Civil War. In each of these cases, enormous amounts of manpower were needed for an extended period to quell resistance over almost every square kilometre of territory. In an age of ever shrinking and increasingly computerized armed forces, this option too is precluded from a modern commander's options.
+Essentially, then, only one viable option remains. The key to a successful counter-insurgency is the winning-over of the occupied territory's population. If that can be achieved, then the rebellion will be deprived of its supplies, shelter, and, more importantly, its moral legitimacy. Unless the hearts and minds of the public can be separated from the insurgency, the occupation is doomed to fail. In a modern representative democracy, in the face of perceived incessant losses, no conflict will be tolerated by an electorate without significant show of tangible gains.
+Vietnam War
+Although the United States and its ARVN allies won several major battles with North Vietnamese forces and their allies suffering staggering losses, the cost of victory was so high in the opinion of the US public (58,193 U.S. deaths) that it came to see any further possible gains as not worth the troop losses.
+As long as popular support is on their side, an insurgency can hold out indefinitely, consolidating its control and replenishing its ranks, until their opponents simply leave.
+Current situations
+In these cases, such as the Israeli occupation of Lebanon, which ended in 2000, and the recent Iraqi insurgency, the goal of the insurgent is not to defeat the occupying military force; that is almost always an impossible task given the disparity in resources. Rather, they seek through a constant campaign of sneak attacks to inflict continuous casualties upon their superior enemy forces and thereby over time demoralize the occupying forces and erode political support for the occupation in the homeland of the occupying forces. It is a simple strategy of repeated pin-pricks and bleedings that, though small in proportion to the total force strength, sap the will of the occupier to continue the fight.
+
+
+=== David Galula ===
+David Galula gained his practical experience in counter-insurgency as a French officer in the Algerian War. His theory of counterinsurgency is not primarily military, but a combination of military, political and social actions under the strong control of a single authority.
+Galula proposes four "laws" for counterinsurgency:
+The aim of the war is to gain the support of the population rather than control of territory.
+Most of the population will be neutral in the conflict; support of the masses can be obtained with the help of an active friendly minority.
+Support of the population may be lost. The population must be efficiently protected to allow it to cooperate without fear of retribution by the opposite party.
+Order enforcement should be done progressively by removing or driving away armed opponents, then gaining support of the population, and eventually strengthening positions by building infrastructure and setting long-term relationships with the population. This must be done area by area, using a pacified territory as a basis of operation to conquer a neighbouring area.
+Galula contends that:
+
+A victory [in a counterinsurgency] is not the destruction in a given area of the insurgent's forces and his political organization. ... A victory is that plus the permanent isolation of the insurgent from the population, isolation not enforced upon the population, but maintained by and with the population. ... In conventional warfare, strength is assessed according to military or other tangible criteria, such as the number of divisions, the position they hold, the industrial resources, etc. In revolutionary warfare, strength must be assessed by the extent of support from the population as measured in terms of political organization at the grass roots. The counterinsurgent reaches a position of strength when his power is embedded in a political organization issuing from, and firmly supported by, the population.
+
+With his four principles in mind, Galula goes on to describe a general military and political strategy to put them into operation in an area that is under full insurgent control:
+
+In a Selected Area
+1. Concentrate enough armed forces to destroy or to expel the main body of armed insurgents.
+2. Detach for the area sufficient troops to oppose an insurgent's comeback in strength, install these troops in the hamlets, villages, and towns where the population lives.
+3. Establish contact with the population, control its movements in order to cut off its links with the guerrillas.
+4. Destroy the local insurgent political organization.
+5. Set up, by means of elections, new provisional local authorities.
+6. Test those authorities by assigning them various concrete tasks. Replace the softs and the incompetents, give full support to the active leaders. Organize self-defense units.
+7. Group and educate the leaders in a national political movement.
+8. Win over or suppress the last insurgent remnants.
+
+According to Galula, some of these steps can be skipped in areas that are only partially under insurgent control, and most of them are unnecessary in areas already controlled by the government. Thus the essence of counterinsurgency warfare is summed up by Galula as "Build (or rebuild) a political machine from the population upward."
+
+
+=== Robert Thompson ===
+Robert Grainger Ker Thompson wrote Defeating Communist Insurgency in 1966, arguing that a successful counter-insurgency effort must be proactive in seizing the initiative from insurgents. Thompson outlines five basic principles for a successful counter-insurgency:
+The government must have a clear political aim: to establish and maintain a free, independent and united country which is politically and economically stable and viable;
+The government must function in accordance with the law;
+The government must have an overall plan;
+The government must give priority to defeating political subversion, not the guerrillas;
+In the guerrilla phase of an insurgency, a government must secure its base areas first.
+
+
+=== David Kilcullen ===
+
+In "The Three Pillars of Counterinsurgency", Dr. David Kilcullen, the Chief Strategist of the Office of the Coordinator for Counterterrorism of the U.S. State Department in 2006, described a framework for interagency cooperation in counterinsurgency operations. His pillars – Security, Political and Economic – support the overarching goal of Control, but are based on Information:
+
+This is because perception is crucial in developing control and influence over population groups. Substantive security, political and economic measures are critical but to be effective they must rest upon, and integrate with a broader information strategy. Every action in counterinsurgency sends a message; the purpose of the information campaign is to consolidate and unify this message. ... Importantly, the information campaign has to be conducted at a global, regional and local level — because modern insurgents draw upon global networks of sympathy, support, funding and recruitment.
+
+Kilcullen considers the three pillars to be of equal importance, because
+
+unless they are developed in parallel, the campaign becomes unbalanced: too much economic assistance with inadequate security, for example, simply creates an array of soft targets for the insurgents. Similarly, too much security assistance without political consensus or governance simply creates more capable armed groups. In developing each pillar, we measure progress by gauging effectiveness (capability and capacity) and legitimacy (the degree to which the population accepts that government actions are in its interest).
+
+The overall goal, according to this model, "is not to reduce violence to zero or to kill every insurgent, but rather to return the overall system to normality — noting that 'normality' in one society may look different from normality in another. In each case, we seek not only to establish control, but also to consolidate that control and then transfer it to permanent, effective and legitimate institutions."
+
+
+=== Martin van Creveld ===
+Military historian Martin van Creveld, noting that almost all attempts to deal with insurgency have ended in failure, advises:
+
+The first, and absolutely indispensable, thing to do is throw overboard 99 percent of the literature on counterinsurgency, counterguerrilla, counterterrorism, and the like. Since most of it was written by the losing side, it is of little value.
+
+In examining why so many counterinsurgencies by powerful militaries fail against weaker enemies, Van Creveld identifies a key dynamic that he illustrates by the metaphor of killing a child. Regardless of whether the child started the fight or how well armed the child is, an adult in a fight with a child will feel that he is acting unjustly if he harms the child and foolish if the child harms him; he will therefore wonder if the fight is necessary.
+Van Creveld argues that "by definition, a strong counterinsurgent who uses his strength to kill the members of a small, weak organization of insurgents - let alone the civilian population by which it is surrounded, and which may lend it support - will commit crimes in an unjust cause," while "a child who is in a serious fight with an adult is justified in using every and any means available - not because he or she is right, but because he or she has no choice." Every act of insurgency becomes, from the perspective of the counterinsurgent, a reason to end the conflict, while also being a reason for the insurgents to continue until victory. Trường Chinh, second in command to Ho Chi Minh of Vietnam, wrote in his Primer for Revolt:
+
+The guiding principle of the strategy for our whole resistance must be to prolong the war. To protract the war is the key to victory. Why must the war be protracted? ... If we throw the whole of our forces into a few battles to try to decide the outcome, we shall certainly be defeated and the enemy will win. On the other hand, if while fighting we maintain our forces, expand them, train our army and people, learn military tactics ... and at the same time wear down the enemy forces, we shall weary and discourage them in such a way that, strong as they are, they will become weak and will meet defeat instead of victory.
+
+Van Creveld thus identifies "time" as the key factor in counterinsurgency. In an attempt to find lessons from the few cases of successful counterinsurgency, of which he lists two clear cases: the British efforts during The Troubles of Northern Ireland and the 1982 Hama massacre carried out by the Syrian government to suppress the Muslim Brotherhood, he asserts that the "core of the difficulty is neither military nor political, but moral" and outlines two distinct methods.
+The first method relies on superb intelligence, provided by those who know the natural and artificial environment of the conflict as well as the insurgents. Once such superior intelligence is gained, the counterinsurgents must be trained to a point of high professionalism and discipline such that they will exercise discrimination and restraint. Through such discrimination and restraint, the counterinsurgents do not alienate members of the populace besides those already fighting them, while delaying the time when the counterinsurgents become disgusted by their own actions and demoralized.
+General Patrick Walters, British commander of troops in northern Ireland, explicitly stated that his objective was not to kill as many terrorists as possible, but to ensure that as few people on both sides were killed. In the vast majority of counterinsurgencies, the "forces of order" kill far more people than they lose. In contrast and using very rough figures, of the approximately 3000 British killed during The Troubles, 1700 were civilians and 1000 were British soldiers and members of security forces, translating into a three-to-one kill ratio in favor of the terrorists.
+If the prerequisites for the first method - excellent intelligence, superbly trained and disciplined soldiers and police, and an iron will to avoid being provoked into lashing out - are lacking, van Creveld posits that counterinsurgents who still want to win must use the second method exemplified by the Hama massacre. In 1982 the regime of Syrian president Hafez al-Assad was on the point of being overwhelmed by the countrywide insurgency of the Muslim Brotherhood. al-Assad sent a division under his brother Rifaat to the city of Hama, known to be the center of the resistance.
+Following a counterattack by the Brotherhood, Rifaat used his heavy artillery to demolish the city, killing between ten and 25 thousand people, including many women and children. Asked by reporters what had happened, Hafez al-Assad exaggerated the damage and deaths, promoted the commanders who carried out the attacks, and razed Hama's well-known great mosque, replacing it with a parking lot. With the Muslim Brotherhood scattered, the population was so cowed that it would be years before opposition groups dared to disobey the regime again and, van Creveld argues, the massacre most likely saved the regime and prevented a bloody civil war.
+Van Creveld condenses al-Assad's strategy into five rules, while noting that they could easily have been written by Niccolò Machiavelli:
+There are situations in which cruelty is necessary, and refusing to apply necessary cruelty is a betrayal of the people who put you into power. When pressed to cruelty, never threaten your opponent but disguise your intention and feign weakness until you strike.
+Once you decide to strike, it is better to kill too many than not enough. If another strike is needed, it reduces the impact of the first strike. Repeated strikes will also endanger the morale of the counterinsurgent troops; soldiers forced to commit repeated atrocities will likely begin to resort to alcohol or drugs to force themselves to carry out orders and will inevitably lose their military edge, eventually turning into a danger to their commanders.
+Act as soon as possible. More lives will be saved by decisive action early, than by prolonging the insurgency. The longer you wait, the more inured the population will be to bloodshed, and the more barbaric your action will have to be to make an impression.
+Strike openly. Do not apologize, make excuses about "collateral damage", express regret, or promise investigations. Afterwards, make sure that as many people as possible know of your strike; media is useful for this purpose, but be careful not to let them interview survivors and arouse sympathy.
+Do not command the strike yourself, in case it doesn't work for some reason and you need to disown your commander and try another strategy. If it does work, present your commander to the world, explain what you have done and make certain that everyone understands that you are ready to strike again.
+
+
+=== Lorenzo Zambernardi ===
+In "Counterinsurgency’s Impossible Trilemma", Dr. Lorenzo Zambernardi, an Italian academic now working in the United States, clarifies the tradeoffs involved in counterinsurgency operations. He argues that counterinsurgency involves three main goals, but in real practice a counterinsurgent needs to choose two goals out of three. Relying on economic theory, this is what Zambernardi labels the "impossible trilemma" of counterinsurgency. Specifically, the impossible trilemma suggests that it is impossible to simultaneously achieve: 1) force protection, 2) distinction between enemy combatants and noncombatants, and 3) the physical elimination of insurgents.
+According to Zambernardi, in pursuing any two of these three goals, a state must forgo some portion of the third objective. In particular, a state can protect its armed forces while destroying insurgents, but only by indiscriminately killing civilians as the Ottomans, Italians, and Nazis did in the Balkans, Libya, and Eastern Europe. It can choose to protect civilians along with its own armed forces instead, avoiding so-called collateral damage, but only by abandoning the objective of destroying the insurgents. Finally, a state can discriminate between combatants and noncombatants while killing insurgents, but only by increasing the risks for its own troops, as the United States and ISAF did in Afghanistan under the leadership of Gen. Stanley McChrystal. So a country must choose two out of three goals and develop a strategy that can successfully accomplish them, while sacrificing the third objective.
+Zambernardi’s theory posits that to protect populations, which is necessary to defeat insurgencies, and to physically destroy an insurgency, the counterinsurgent’s military forces must be sacrificed, risking the loss of domestic political support.
+
+
+== Tactics ==
+
+
+=== Population control ===
+
+With regard to tactics, the terms "drain the water" or "drain the swamp" involves the forced relocation of the population ("water") to expose the rebels or insurgents ("fish"). In other words, relocation deprives the aforementioned of the support, cover, and resources of the local population.
+A somewhat similar strategy was used extensively by US forces in South Vietnam until 1969, initially by forcing the rural population into fenced camps, referred to as Strategic Hamlets, and later by declaring the previous areas as free-fire zones to remove the rest from their villages and farms. Widespread use was made of Agent Orange (which was first used on a large scale by the British during the Malayan Emergency), sprayed from airplanes, to destroy crops that might have provided resources for Viet Cong and North Vietnamese troops and their human support base. These measures proved ineffective, since Phạm Ngọc Thảo, who oversaw the program, was a communist agent and sabotaged the implementation of the hamlets. This allowed Viet Cong activists and sympathizers to infiltrate the new communities. In any event, the Vietnam War was only partly a counter-insurgency campaign, as it also involved conventional combat between US/ARVN forces, Vietcong Main Force Battalions, and the North Vietnamese Army (NVA).
+According to a report of the Naval Postgraduate School:
+
+Among the most effective means are such population-control measures as vehicle and personnel checkpoints and national identity cards. In Malaya, the requirement to carry an ID card with a photo and thumbprint forced the communists to abandon their original three-phase political-military strategy and caused divisive infighting among their leaders over how to respond to this effective population-control measure.
+
+
+=== Oil spot ===
+The oil spot approach is the concentration of counter-insurgent forces into an expanding, secured zone. The origins of the expression is to be found in its initial use by Marshal Hubert Lyautey, the main theoretician of French colonial warfare and counter-insurgency strategy. The oil spot approach was later one of the justifications given in the Pentagon Papers for the Strategic Hamlet Program.
+
+
+=== Cordon and search ===
+Cordon and search is a military tactic, one of the basic counter-insurgency operations in which an area is cordoned off and premises are searched for weapons or insurgents. Other related operations are "Cordon and knock" and "Cordon and kick". "Cordon and search" is part of new doctrine called Stability and Support Operations or SASO. It is a technique used where there is no hard intelligence of weapons in the house and therefore is less intense than a normal house search. It is used in urban neighborhoods. The purpose of the mission is to search a house with as little inconvenience to the resident family as possible.
+
+
+=== Air operations ===
+
+Air power can play an important role in counter-insurgency, capable of carrying out a wide range of operations:
+Transportation in support of combatants and civilians alike, including casualty evacuations;
+Intelligence gathering, surveillance, and reconnaissance;
+Psychological operations, through leaflet drops, loudspeakers, and radio broadcasts;
+Air-to-ground attack against 'soft' targets.
+
+
+=== Public diplomacy ===
+In General David Petraeus’ Counterinsurgency Field Manual, one of the many tactics described to help win in counterinsurgency warfare involves the use of public diplomacy through military means. Counterinsurgency is effective when it is integrated "into a comprehensive strategy employing all instruments of national power," including public diplomacy. The goal of COIN operations is to render the insurgents as ineffective and non-influential, by having strong and secure relations with the population of the host nation.
+An understanding of the host nation and the environment that the COIN operations will take place in is essential. Public diplomacy in COIN warfare is only effective when there is a clear understanding of the culture and population at hand. One of the largest factors needed for defeating an insurgency involves understanding the populace, how they interact with the insurgents, how they interact with non-government organizations in the area, and how they view the counterinsurgency operations themselves.
+Ethics is a common public diplomacy aspect that is emphasized in COIN warfare. Insurgents win their war by attacking internal will and the international opposition. In order to combat these tactics the counterinsurgency operations need to treat their prisoners and detainees humanely and according to American values and principles. By doing this, COIN operations show the host nation’s population that they can be trusted and that they are concerned about the well being of the population in order to be successful in warfare.
+
+"Political, social, and economic programs are usually more valuable than conventional military operations in address the root causes of the conflict and undermining the insurgency." These programs are essential in order to gain the support of the population. These programs are designed to make the local population feel secure, safe, and more aligned with the counterinsurgency efforts; this enables the citizens of the host nation to trust the goals and purposes of the counterinsurgency efforts, as opposed to the insurgents’. A counterinsurgency is a battle of ideas and the implementation and integration of these programs is important for success. Social, political and economic programs should be coordinated and administered by the host nation’s leaders, as well. Successful COIN warfare allows the population to see that the counterinsurgency efforts are including the host nation in their re-building programs. The war is fought among the people and for the people between the insurgents and the counterinsurgents.
+A counterinsurgency is won by utilizing strategic communications and information operations successfully. A counterinsurgency is a competition of ideas, ideologies, and socio-political movements. In order to combat insurgent ideologies one must understand the values and characteristics of the ideology or religion. Additionally, counterinsurgency efforts need to understand the culture of which the insurgency resides, in order to strategically launch information and communication operations against the insurgent ideology or religion. Counterinsurgency information operatives need to also identify key audiences, communicators, and public leaders to know who to influence and reach out to with their information.
+
+
+==== Information operations ====
+Public diplomacy in information operations can only be achieved by a complete understanding of the culture it is operating in. Counterinsurgency operations must be able to perceive the world from the locals’ perspective. To develop a comprehensive cultural picture counterinsurgency efforts should invest in employing "media consultants, finance and business experts, psychologists, organizational network analysts, and scholars from a wide range of disciplines." Most importantly, counterinsurgency efforts need to be able to understand why the local population is drawn into the insurgent ideology; like what aspects are appealing and how insurgents use information to draw their followers into the ideology. Counterinsurgency communication efforts need a baseline understanding of values, attitudes, and perceptions of the people in the area of operations to conduct successful public diplomacy to defeat the enemy.
+Developing information and communication strategies involve providing a legitimate alternate ideology, improving security and economic opportunity, and strengthening family ties outside of the insurgency. In order to conduct public diplomacy through these means, counterinsurgency communication needs to match its deeds with its words. Information provided through public diplomacy during a counterinsurgency cannot lie, the information and communication to the people always has to be truthful and trustworthy in order to be effective at countering the insurgents. Public diplomacy in counterinsurgency to influence the public thoughts and ideas is a long time engagement and should not be done through negative campaigning about the enemy.
+Conducting public diplomacy through relaying information and communicating with the public in a counterinsurgency is most successful when a conversation can happen between the counterinsurgency team and the local population of the area of operation. Building rapport with the public involves "listening, paying attention, and being responsive and proactive" which is sufficient for the local population to understand and trust the counterinsurgency efforts and vice versa. This relationship is stringent upon the counterinsurgents keeping their promises, providing security to the locals, and communicating their message directly and quickly in times of need.
+Understanding and influencing the cognitive dimension of the local population is essential to winning counterinsurgency warfare. The people’s perception of legitimacy about the host nation and the foreign country’s counterinsurgency efforts is where success is determined. "The free flow of information present in all theaters via television, telephone, and Internet, can present conflicting messages and quickly defeat the intended effects." Coordination between the counterinsurgency operations, the host nation, and the local media in information presented to the public is essential to showing and influencing how the local population perceives the counterinsurgency efforts and the host nation.
+Public opinion, the media, and rumors influence how the people view counterinsurgency, the government hosting their efforts, and the host nation legitimacy. The use of public diplomacy to strategically relay the correct messages and information to the public is essential to success in a counterinsurgency operation. For example, close relationships with media members in the area is essential to ensure that the locals understand the counterinsurgency objectives and feel secure with the host nation government and the counterinsurgency efforts. If the local media is not in sync with the counterinsurgency operatives then they could spread incomplete or false information about the counterinsurgency campaign to the public.
+"Given Al Qaeda’s global reach, the United States must develop a more integrated strategic communication strategy for counter-insurgency with its allies to diminish violent rhetoric, improve its image abroad, and detect, deter, and defeat this social movement at its many levels." Information operations and communicative abilities are one of the largest and most influence aspects of public diplomacy within a counterinsurgency.
+
+
+== Specific doctrines ==
+
+
+=== British Empire ===
+
+
+==== Malaya ====
+British forces were able to employ the relocation method with considerable success during the "Malayan Emergency". The Briggs Plan, implemented fully in 1950, relocated Chinese Malayans into protected "New Villages", designated by British forces. By the end of 1951, some 400,000 ethnic Chinese had moved into the fortifications. Of this population, the British forces were able to form a "Home Guard", armed for resistance against the Malayan Communist Party, an implementation mirrored by the Strategic Hamlet Program later used by US forces in South Vietnam. Despite British claims of a victory in the Malayan Emergency, military historian Martin van Creveld has pointedly noted that the end result of the counterinsurgency, namely the withdrawal of British forces and establishment of an independent state, are identical to that of Aden, Kenya and Cyprus, which are not considered victories.
+
+
+=== Dutch Empire ===
+The Dutch formulated a new strategy of counter-insurgency warfare, during the Aceh War by deploying light-armed Marechaussee units and using scorched earth tactics.
+In 1898 Van Heutsz was proclaimed governor of Aceh, and with his lieutenant, later Dutch Prime Minister Hendrikus Colijn, would finally conquer most of Aceh. They followed Hurgronje's suggestions, finding cooperative uleebelang or secular chiefs that would support them in the countryside and isolating the resistance from their rural support base.
+During the South Sulawesi Campaign Captain Raymond Westerling of the KST, Special Forces of the Royal Netherlands East Indies Army used the Westerling Method. Westerling ordered the registration of all Javanese arriving in Makassar due to the large numbers of Javanese participating in the Sulawesi resistance. He also used scouts to infiltrate local villages and to identify members of the resistance.
+Based on their information and that of the Dutch military intelligence service, the DST surrounded one of more suspected villages during night, after which they drove the population to a central location. At daybreak, the operation began, often led by Westerling. Men would be separated from women and children. From the gathered information Westerling exposed certain people as terrorists and murderers. They were shot without any further investigation. Afterwards Westerling forced local communities to refrain from supporting guerillas by swearing on the Quran and established local self-defence units with some members recruited from former guerrillas deemed as "redeemable".
+Westerling directed eleven operations throughout the campaign. He succeeded in eliminating the insurgency and undermining local support for the Republicans. His actions restored Dutch rule in southern Sulawesi. However, the Netherlands East Indies government and the Dutch army command soon realised that Westerling's notoriety led to growing public criticism. In April 1947 the Dutch government instituted an official inquiry of his controversial methods. Raymond Westerling was put on the sidelines. He was relieved of his duties in November 1948.
+
+
+=== France ===
+France had major counterinsurgency wars in its colonies in Indochina and Algeria. McClintock cited the basic points of French doctrine as:
+Quadrillage (an administrative grid of population and territory)
+Ratissage (cordoning and "raking")
+Regroupement (relocating and closely controlling a suspect population)
+‘Tache d'huile' – The 'oil spot' strategy
+Recruitment of local leaders and forces
+Paramilitary organization and militias
+Much of the thinking was informed by the work of earlier leading French theoreticians of colonial warfare and counter-insurgency, Marshals Bugeaud, Gallieni and Lyautey.
+While McClintock cites the 1894 Algerian governor, Jules Cambon, as saying "By destroying the administration and local government we were also suppressing our means of action. ...The result is that we are today confronted by a sort of human dust on which we have no influence and in which movements take place which are unknown to us." Cambon's philosophy, however, did not seem to survive into the Algerian War of Independence, (1954–1962).
+
+
+==== Indochina ====
+Post-WWII doctrine, as in Indochina, took a more drastic view of "Guerre Révolutionnaire", which presented an ideological and global war, with a commitment to total war. Countermeasures, in principle, needed to be both political and military; "No measure was too drastic to meet the new threat of revolution." French forces taking control from the Japanese did not seem to negotiate seriously with nationalist elements in what was to become Vietnam, and reaped the consequences of overconfidence at Dien Bien Phu.
+It occurred to various commanders that soldiers trained to operate as guerrillas would have a strong sense of how to fight guerrillas. Before the partition of French Indochina, French Groupement de Commandos Mixtes Aéroportés (GCMA), led by Roger Trinquier, took on this role, drawing on French experience with the Jedburgh teams. GCMA, operating in Tonkin and Laos under French intelligence, was complemented by Commandos Nord Viêt-Nam in the North. In these missions, the SOF teams lived and fought with the locals. One Laotian, who became an officer, was Vang Pao, who was to become a general in Hmong and Laotian operations in Southeast Asia while the US forces increased their role.
+
+
+==== Algeria ====
+
+The French counterinsurgency in colonial Algeria was a savage one. The 1957 Battle of Algiers resulted in 24,000 detentions, with most tortured and an estimated 3,000 killed. It may have broken the National Liberation Front infrastructure in Algiers, but it also killed off French legitimacy as far as "hearts and minds" went.
+Counter-insurgency requires an extremely capable intelligence infrastructure endowed with human sources and deep cultural knowledge. This contributes to the difficulty that foreign, as opposed to indigenous, powers have in counter-insurgent operations. One of France's most influential theorists was Roger Trinquier. The Modern Warfare counterinsurgency strategy described by Trinquier, who had led anti-communist guerrillas in Indochina, was a strong influence on French efforts in Algeria.
+Trinquier suggested three principles:
+separate the guerrilla from the population that supports him;
+occupy the zones that the guerrillas previously operated from, making the area dangerous for the insurgents and turning the people against the guerrilla movement; and
+coordinate actions over a wide area and for a long enough time that the guerrilla is denied access to the population centres that could support him.
+Trinquier's view was that torture had to be extremely focused and limited, but many French officers considered its use corrosive to its own side. There were strong protests among French leaders: the Army’s most decorated officer, General Jacques Pâris de Bollardière, confronted General Jacques Massu, the commander of French forces in the Battle of Algiers, over orders institutionalizing torture, as "an unleashing of deplorable instincts which no longer knew any limits." He issued an open letter condemning the danger to the army of the loss of its moral values "under the fallacious pretext of immediate expediency", and was imprisoned for sixty days.
+As some of the French Army protested, other parts increased the intensity of their approach, which led to an attempted military coup against the French Fourth Republic itself. Massu and General Raoul Salan led a 1958 coup in Algiers, demanding a new Republic under Charles de Gaulle. When de Gaulle's policies toward Algeria, such as a 1961 referendum on Algerian self-determination, did not meet the expectations of the colonial officers, Salan formed the underground Organisation de l'armée secrète (OAS), a right-wing terrorist group, whose actions included a 1962 assassination attempt against de Gaulle himself.
+
+
+==== West Africa ====
+France has had taken Barnett's Leviathan role in Chad and Ivory Coast, the latter on two occasions, most significantly in 2002-2003. The situation with France and Ivory Coast is not a classic FID situation, as France attacked Ivorian forces that had provoked UN peacekeepers.
+
+
+=== India ===
+There have been many insurgencies in India from its creation in 1947. The Kashmir insurgency, which started by 1989, was brought under control by Indian government and violence has been reduced. The Army's elite Rashtriya Rifles (RR) played a major role in putting down the insurgency. The RR was well supported by Central Reserve Police Force (CRPF), Border Security Force (BSF), Indo-Tibetan Border Police (ITBP) and state government police.
+The Counter Insurgency and Jungle Warfare School (CIJWS) is located in the northeastern town of Vairengte in the Indian state of Mizoram. Personnel from countries such as the United States, the United Kingdom, France, Russia, Kazakhstan, Tajikistan and Vietnam have attended this school. High quality graduate level training by a joint staff of highly trained special operators at Camp Taji Phoenix Academy and the Counterinsurgency Centre For Excellence is provided in India as well as many Indian Officers.
+
+
+=== Portugal ===
+
+Portugal's experience in counterinsurgency resulted from the "pacification" campaigns conducted in the Portuguese African and Asian colonies in the end of the 19th century and the beginning of the 20th century.
+In the 1960s and early 1970s, Portugal conducted large scale counterinsurgency operations in Angola, Portuguese Guinea and Mozambique against independentist guerrillas supported by the Eastern Bloc and China, as well by some Western countries. Although these campaigns are collectively known as the "Portuguese Colonial War", there were in fact three different ones: the Angolan Independence War, the Guinea-Bissau War of Independence and the Mozambican War of Independence. The situation was unique in that small armed forces – those of Portugal – were able to conduct three counterinsurgency wars at the same time, in three different theatres of operations separated by thousands of kilometers. For these operations, Portugal developed its own counterinsurgency doctrine.
+
+
+=== United States ===
+
+The United States has conducted counterinsurgency campaigns during the Philippine–American War, the Vietnam War, the post-2001 War in Afghanistan, and the Iraq War. The wars in Iraq and Afghanistan have resulted in increased interest in counterinsurgency within the American military, exemplified by the 2006 publication of a new joint Army Field Manual 3-24/Marine Corps Warfighting Publication No. 3-33.5, Counterinsurgency, which replaced the documents separately published by the Army and Marine Corps 20–25 years prior. Views of the doctrine contained in the manual has been mixed. The 2014 version of FM 3-24/MCWP 3-33.5 acquired a new title, Insurgencies and Countering Insurgencies, it consists of three main parts,
+
+Part one provides strategic and operational context, part two provides the doctrine for understanding insurgencies, and part three provides doctrine for defeating an insurgency. In short, FM 3-24/MCWP 3-33.5 is organized to provide the context of a problem, the problem, and possible solutions.
+
+
+== See also ==
+
+
+== References ==
+Notes
+
+Bibliography
+Arreguin-Toft, Ivan. How the Weak Win Wars: A Theory of Asymmetric Conflict. (New York: Cambridge University Press, 2005), ISBN 0-521-54869-1.
+Arreguin-Toft, Ivan. "Tunnel at the End of the Light: A Critique of U.S. Counter-terrorist Grand Strategy," Cambridge Review of International Affairs, Vol. 15, No. 3 (2002), pp. 549–563.
+Arreguin-Toft, Ivan. "How to Lose a War on Terror: A Comparative Analysis of a Counterinsurgency Success and Failure", in Jan Ångström and Isabelle Duyvesteyn, Eds., Understanding Victory and Defeat in Contemporary War. (London: Frank Cass, 2007).
+Burgoyne, Michael L. and Albert J. Marckwardt (2009). The Defense of Jisr al-Doreaa With E. D. Swinton's "The Defence of Duffer's Drift". University of Chicago Press. ISBN 978-0-226-08093-2. 
+Callwell, C. E., Small Wars: Their Principles & Practice. (Lincoln, Nebraska: Bison Books, 1996), ISBN 0-8032-6366-X.
+Cassidy, Robert M. Counterinsurgency and the Global War on Terror: Military Culture and Irregular War. (Stanford: Stanford University Press, 2008).
+Catignani, Sergio. Israeli Counter-Insurgency and the two Intifadas: Dilemmas of a Conventional Army. (London: Routledge, 2008), ISBN 978-0-415-43388-4.
+Corum, James. Bad Strategies: How Major Powers Fail in Counterinsurgency. (Minneapolis, MN: Zenith, 2008), ISBN 0-7603-3080-8.
+Corum, James. Fighting the War on Terror: A Counterinsurgency Strategy. (Minneapolis, MN: Zenith, 2007), ISBN 0-7603-2868-4.
+Galula, David. Counterinsurgency Warfare: Theory and Practice. (Wesport, Connecticut: Praeger, 1964), ISBN 0-275-99269-1.
+Joes, James Anthony. Resisting Rebellion: The History and Politics of Counterinsurgency. (Lexington, KY: University Press of Kentucky, 2004), ISBN 0-8131-9170-X.
+Karnow, Stanley (1997). Vietnam: A history. New York: Penguin Books. ISBN 978-0-670-84218-6. 
+Kilcullen, David. The Accidental Guerrilla: Fighting Small Wars in the Midst of a Big One. (London: Hurst, 2009).
+Kilcullen, David. Counterinsurgency. (London: Hurst, 2010).
+Kitson, Frank, Low Intensity Operations: Subversion, Insurgency and Peacekeeping. (1971)
+Larson, Luke. Senator's Son: An Iraq War Novel. (Phoenix: Key Edition, 2010), ISBN 0-615-35379-7.
+Mackinlay, John. The Insurgent Archipelago. (London: Hurst, 2009).
+Mao Zedong. Aspects of China's Anti-Japanese Struggle (1948).
+Merom, Gil. How Democracies Lose Small Wars: State, Society, and the Failures of France in Algeria, Israel in Lebanon, and the United States in Vietnam. (New York: Cambridge University Press, 2003), ISBN 0-521-00877-8.
+Thompson, Robert. Defeating Communist Insurgency: Experiences from Malaya and Vietnam. (Chatto & Windus, 1966).
+Tomes, Robert, "Relearning Counterinsurgency Warfare," Parameters Spring 2004 http://strategicstudiesinstitute.army.mil/pubs/parameters/Articles/04spring/tomes.pdf
+Van Creveld, Martin, The Changing Face of War: Combat from the Marne to Iraq, 2008, New York: Ballantine, ISBN 978-0-89141-902-0
+Zambernardi, Lorenzo. "Counterinsurgency's Impossible Trilemma", The Washington Quarterly, Vol. 33, No. 3 (2010), pp. 21–34.
+
+
+== External links ==
+"Insurgency: The Transformation of Peasant Rebellion" by Raj Desai and Harry Eckstein
+Small Wars Journal: Insurgency/Counterinsurgency Research page
+CNAS, Abu Muquwama 'The Counterinsurgency Reading List'
+The U.S. Army Stability Operations Field Manual
+Terrorism prevention in Russia: one year after Beslan
+"Military Operations in Low Intensity Conflict" U.S. Depts. of the Army and Air Force
+"Inside Counterinsurgency" by Stan Goff, ex - U.S. Special Forces
+"Instruments of Statecraft – U.S. Guerrilla Warfare, Counterinsurgency, and Counterterrorism, 1940–1990" by Michael McClintock
+"Counter-Revolutionary Violence – Bloodbaths in Fact & Propaganda" by Noam Chomsky and Edward Herman
+"The Warsaw Ghetto Is No More" by SS Brigade Commander Jürgen Stroop
+"Insurgency and Counterinsurgency in the 21st Century" by Steven Metz and Raymond Millen
+Wired News article on game theory in war on terror
+Military forces in counterterrorism and counterinsurgency operations at JihadMonitor.org
+"Counter Insurgency Jungle Warfare School India"
+"Bibliography: Theories of Limited War and Counterinsurgency" by Edwin Moise (Vietnam-era)
+"Bibliography: Doctrine on Insurgency and Counterinsurgency" Edwin Moise (recent)
+"Military Briefing Book" news regarding counter-insurgency
+Max Boot - Invisible Armies, YouTube video, length 56:30, Published on Mar 25, 2013
+U.S. Army/Marine corps counter insurgency field manual, pdf document

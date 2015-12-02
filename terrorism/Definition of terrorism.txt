@@ -1,0 +1,366 @@
+There is neither an academic nor an accurate legal consensus regarding the definition of terrorism. Various legal systems and government agencies use different definitions. Moreover, governments have been reluctant to formulate an agreed upon, legally binding definition. These difficulties arise from the fact that the term is politically and emotionally charged.
+Angus Martyn in a briefing paper for the Australian Parliament has stated that "The international community has never succeeded in developing an accepted comprehensive definition of terrorism. During the 1970s and 1980s, the United Nations attempts to define the term foundered mainly due to differences of opinion between various members about the use of violence in the context of conflicts over national liberation and self-determination." These divergences have made it impossible to conclude a Comprehensive Convention on International Terrorism that incorporates a single, all-encompassing, legally binding, criminal law definition of terrorism.
+In the meantime, the international community adopted a series of sectoral conventions that define and criminalize various types of terrorist activities. In addition, since 1994, the United Nations General Assembly has condemned terrorist acts using the following political description of terrorism: "Criminal acts intended or calculated to provoke a state of terror in the general public, a group of persons or particular persons for political purposes are in any circumstance unjustifiable, whatever the considerations of a political, philosophical, ideological, racial, ethnic, religious or any other nature that may be invoked to justify them."
+A 2003 study by Jeffrey Record for the US Army quoted a source (Schmid and Jongman 1988) that counted 109 definitions of terrorism that covered a total of 22 different definitional elements. Record continued "Terrorism expert Walter Laqueur also has counted over 100 definitions and concludes that the 'only general characteristic generally agreed upon is that terrorism involves violence and the threat of violence.' Yet terrorism is hardly the only enterprise involving violence and the threat of violence. So does war, coercive diplomacy, and bar room brawls".
+As Bruce Hoffman has noted: "terrorism is a pejorative term. It is a word with intrinsically negative connotations that is generally applied to one's enemies and opponents, or to those with whom one disagrees and would otherwise prefer to ignore. (...) Hence the decision to call someone or label some organization 'terrorist' becomes almost unavoidably subjective, depending largely on whether one sympathizes with or opposes the person/group/cause concerned. If one identifies with the victim of the violence, for example, then the act is terrorism. If, however, one identifies with the perpetrator, the violent act is regarded in a more sympathetic, if not positive (or, at the worst, an ambivalent) light; and it is not terrorism." For this and for political reasons, many news sources (such as Reuters) avoid using this term, opting instead for less accusatory words like "bombers", "militants", etc.
+In many countries, acts of terrorism are legally distinguished from criminal acts committed for other purposes.
+
+
+== Etymology ==
+
+The term "terrorism" comes from French terrorisme, from Latin: 'terror', "great fear", "dread", related to the Latin verb terrere, "to frighten". The terror cimbricus was a panic and state of emergency in Rome in response to the approach of warriors of the Cimbri tribe in 105 BCE. The French National Convention declared in September 1793 that "terror is the order of the day". The period 1793–94 is referred to as La Terreur (Reign of Terror). Maximilien Robespierre, a leader in the French revolution proclaimed in 1794 that "Terror is nothing other than justice, prompt, severe, inflexible."
+The Committee of Public Safety agents that enforced the policies of "The Terror" were referred to as "Terrorists". The word "terrorism" was first recorded in English-language dictionaries in 1798 as meaning "systematic use of terror as a policy".
+Although the Reign of Terror was imposed by the French government, in modern times "terrorism" usually refers to the killing of people by non-governmental political activists for political reasons, often as a public statement. This meaning originated with Russian radicals in the 1870s. Sergey Nechayev, who founded the People's Reprisal (Народная расправа) in 1869, described himself as a "terrorist". German radicalist writer Johann Most helped popularize the modern sense of the word by dispensing "advice for terrorists" in the 1880s.
+According to Myra Williamson: "The meaning of “terrorism” has undergone a transformation. During the reign of terror a regime or system of terrorism was used as an instrument of governance, wielded by a recently established revolutionary state against the enemies of the people. Now the term “terrorism” is commonly used to describe terrorist acts committed by non-state or subnational entities against a state."
+
+
+== In international law ==
+
+
+=== The need to define terrorism in international criminal law ===
+Ben Saul has noted that a "A combination of pragmatic and principled arguments supports the case for defining terrorism in international law", including the need to condemn violations to human rights, to protect the state and deliberative politics, to differentiate public and private violence, and to ensure international peace and security.
+Carlos Diaz-Paniagua, who coordinated the negotiations of the proposed United Nations Comprehensive Convention on International Terrorism, noted, on his part, the need to provide a precise definition of terrorist activities in international law: "Criminal law has three purposes: to declare that a conduct is forbidden, to prevent it, and to express society's condemnation for the wrongful acts. The symbolic, normative role of criminalization is of particular importance in the case of terrorism. The criminalization of terrorist acts expresses society's repugnance at them, invokes social censure and shame, and stigmatizes those who commit them. Moreover, by creating and reaffirming values, criminalization may serve, in the long run, as a deterrent to terrorism, as those values are internalized." Thus, international criminal law treaties that seek to prevent, condemn and punish terrorist activities, require precise definitions:
+
+"The definition of the offence in criminal law treaty plays several roles. First and foremost, it has the symbolic, normative role of expressing society's condemnation of the forbidden acts. Second, it facilitates agreement. Since states tend to be reluctant to undertake stringent obligations in matters related to the exercise of their domestic jurisdiction, a precise definition of the crime, which restricts the scope of those obligations, makes agreement less costly. Third, it provides an inter-subjective basis for the homogeneous application of the treaty's obligations on judicial and police cooperation. This function is of particular importance in extradition treaties because, to grant an extradition, most legal systems require that the crime be punishable both in the requesting state and the requested state. Fourth, it helps states to enact domestic legislation to criminalize and punish the wrongful acts defined in the treaty in conformity with their human rights’ obligations. The principle of nullum crimen sine lege requires, in particular, that states define precisely which acts are prohibited before anyone can be prosecuted or punished for committing those same acts."
+
+Saul noted in this sense that, missing a generally agreed, all-encompasing, definition of the term:
+
+"‘Terrorism’ currently lacks the precision, objectivity and certainty demanded by legal discourse. Criminal law strives to avoid emotive terms to prevent prejudice to an accused, and shuns ambiguous or subjective terms as incompatible with the principle of non-retroactivity. If the law is to admit the term, advance definition is essential on grounds of fairness, and it is not sufficient to leave definition to the unilateral interpretations of States. Legal definition could plausibly retrieve terrorism from the ideological quagmire, by severing an agreed legal meaning from the remainder of the elastic, political concept. Ultimately it must do so without criminalizing legitimate violent resistance to oppressive regimes – and becoming complicit in that oppression."
+
+
+==== Obstacles to a comprehensive definition ====
+Diaz-Paniagua has noted that, in order to "create an effective legal regime against terrorism, it would be necessary to formulate a comprehensive definition of that crime that, on the one hand, provides the strongest moral condemnation to terrorist activities while, on the other hand, has enough precision to permit the prosecution of criminal activities without condemning acts that should be deemed to be legitimate. Nonetheless, due to major divergences at the international level on the question of the legitimacy of the use of violence for political purposes, either by states or by self-determination and revolutionary groups, this has not yet been possible." In this sense, M. Cherif Bassiouni notes:
+
+"to define "terrorism" in a way that is both all-inclusive and unambiguous is very difficult, if not impossible. One of the principal difficulties lies in the fundamental values at stake in the acceptance or rejection of terror-inspiring violence as means of accomplishing a given goal. The obvious and well known range of views on these issues are what makes an internationally accepted specific definition of what is loosely called "terrorism," a largely impossible undertaking. That is why the search for and internationally agreed upon definition may well be a futile and unnecessary effort." 
+
+Sami Zeidan, a Lebanese diplomat and scholar, explained the political reasons underlying the current difficulties to define terrorism as follows:
+
+"There is no general consensus on the definition of terrorism. The difficulty of defining terrorism lies in the risk it entails of taking positions. The political value of the term currently prevails over its legal one. Left to its political meaning, terrorism easily falls prey to change that suits the interests of particular states at particular times. The Taliban and Osama bin Laden were once called freedom fighters (mujahideen) and backed by the CIA when they were resisting the Soviet occupation of Afghanistan. Now they are on top of the international terrorist lists. Today, the United Nations views Palestinians as freedom fighters, struggling against the unlawful occupation of their land by Israel, and engaged in a long-established legitimate resistance, yet Israel regards them as terrorists. Israel also brands the Hizbullah of Lebanon as a terrorist group, whereas most of the international community regards it as a legitimate resistance group, fighting Israel's occupation of Southern Lebanon. In fact, the successful ousting of Israeli forces from most of the South by the Hizbollah in 2000 made Lebanon the only Arab country to actually defeat the Israeli army. The repercussion of the current preponderance of the political over the legal value of terrorism is costly, leaving the war against terrorism selective, incomplete and ineffective." 
+
+In the same vein, Jason Burke, a British reporter who writes about radical Islamist activity, said:
+
+There are multiple ways of defining terrorism, and all are subjective. Most define terrorism as "the use or threat of serious violence" to advance some kind of "cause". Some state clearly the kinds of group ("sub-national", "non-state") or cause (political, ideological, religious) to which they refer. Others merely rely on the instinct of most people when confronted with innocent civilians being killed or maimed by men armed with explosives, firearms or other weapons. None is satisfactory, and grave problems with the use of the term persist. Terrorism is after all, a tactic. The term "war on terrorism" is thus effectively nonsensical. As there is no space here to explore this involved and difficult debate, my preference is, on the whole, for the less loaded term "Militancy". This is not an attempt to condone such actions, merely to analyse them in a clearer way.
+
+The political and emotional connotation of the term "terrorism" make difficult its use in legal discourse. In this sense, Saul notes that:
+
+"Despite the shifting and contested meaning of "terrorism" over time, the peculiar semantic power of the term, beyond its literal signification, is its capacity to stigmatize, delegitimize, denigrate, and dehumanize those at whom it is directed, including political opponents. The term is ideologically and politically loaded; pejorative; implies moral, social, and value judgment; and is "slippery and much-abused." In the absence of a definition of terrorism, the struggle over the representation of a violent act is a struggle over its legitimacy. The more confused a concept, the more it lends itself to opportunistic appropriation."
+
+Historically, the dispute on the meaning of terrorism arose since the laws of war were first codified in 1899. The Martens Clause was introduced as a compromise wording for the dispute between the Great Powers who considered francs-tireurs to be unlawful combatants subject to execution on capture, and smaller states who maintained that they should be considered lawful combatants.
+More recently the 1977 Protocol Additional to the Geneva Conventions of 12 August 1949, and relating to the Protection of Victims of International Armed Conflicts, which applies in situations Article 1. Paragraph 4 "... in which peoples are fighting against colonial domination and alien occupation and against racist regimes...", contains many ambiguities that cloud the issue of who is or is not a legitimate combatant. These difficulties have led Pamala Griset to conclude that: "the meaning of terrorism is embeded in a person's or nation's philosophy. Thus, the determination of the 'right' definition of terrorism is subjective." 
+
+
+==== The sectoral approach ====
+In order to elaborate an effective legal regime to prevent and punish international terrorism, rather than only working on a single, all-encompassing, comprehensive definition of terrorism, the international community has also adopted a "'sectoral' approach aimed at identifying offences seen as belonging to the activities of terrorists and working out treaties in order to deal with specific categories thereof". The treaties that follow this approach focus on the wrongful nature of terrorist activities rather than on their intent:
+
+On the whole, therefore, the 'sectoral' conventions confirm the assumption that some offences can be considered in themselves as offences of international concern, irrespective of any 'terrorist' intent or purpose. Indeed, the principal merit of the 'sectoral approach' is that it avoids the need to define 'terrorism' of 'terrorist acts' (...) So long as the 'sectoral' approach is followed, there is no need to define terrorism; a definition would only be necessary if the punishment of the relevant offences were made conditional on the existence of a specific 'terrorist' intent; but this would be counter-productive, inasmuch as it would result in unduly restricting their suppression.
+
+Following this approach, the international community has adopted the following sectoral counter-terrorism conventions, open to the ratification of all states:
+The 1963 Convention on Offences and Certain Other Acts Committed On Board Aircraft
+The 1970 Convention for the Suppression of Unlawful Seizure of Aircraft
+The 1971 Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation
+The 1979 Convention on the Physical Protection of Nuclear Material
+The 1988 Protocol for the Suppression of Unlawful Acts of Violence at Airports Serving International Civil Aviation
+The 1988 Convention for the Suppression of Unlawful Acts against the Safety of Maritime Navigation
+The 1988 Protocol for the Suppression of Unlawful Acts against the Safety of Fixed Platforms Located on the Continental Shelf
+The 1991 Convention on the Marking of Plastic Explosives for the Purpose of Identification
+The 1997 International Convention for the Suppression of Terrorist Bombings.
+The 1999 International Convention for the Suppression of the Financing of Terrorism
+The 2005 International Convention for the Suppression of Acts of Nuclear Terrorism
+Analyzing these treaties, Andrew Byrnes observed that:
+
+These conventions – all of which are described by the United Nations as part of its panoply of anti-terrorist measures – share three principal characteristics:
+(a) they all adopted an "operational definition" of a specific type of terrorist act that was defined without reference to the underlying political or ideological purpose or motivation of the perpetrator of the act - this reflected a consensus that there were some acts that were such a serious threat to the interests of all that they could not be justified by reference to such motives;
+(b) they all focused on actions by non-state actors (individuals and organisations) and the State was seen as an active ally in the struggle against terrorism - the question of the State itself as terrorist actor was left largely to one side; and
+(c) they all adopted a criminal law enforcement model to address the problem, under which States would cooperate in the apprehension and prosecution of those alleged to have committed these crimes.
+
+Byrnes notes that "this act-specific approach to addressing problems of terrorism in binding international treaties has continued up until relatively recently. Although political denunciation of terrorism in all its forms had continued apace, there had been no successful attempt to define 'terrorism' as such in a broad sense that was satisfactory for legal purposes. There was also some scepticism as to the necessity, desirability and feasibility of producing an agreed and workable general definition." Nonetheless, since 2000, the United Nations General Assembly has been working on a proposed Comprehensive Convention on International Terrorism.
+
+
+=== Comprehensive conventions ===
+The international community has worked on two comprehensive counter-terrorism treaties, the League of Nations' 1937 Convention for the Prevention and Punishment of Terrorism, which never entered into force, and the United Nations' proposed Comprehensive Convention on International Terrorism, which hasn't been finalized yet.
+
+
+==== League of Nations ====
+In the late 1930s, the International community made a first attempt at defining terrorism. Article 1.1 of the League of Nations' 1937 Convention for the prevention and punishment of Terrorism, which never entered into force, defined "acts of terrorism" as "criminal acts directed against a State and intended or calculated to create a state of terror in the minds of particular persons or a group of persons or the general public". Article 2 included as terrorist acts, if they were directed against another state and if they constituted acts of terrorism within the meaning of the definition contained in article 1, the following:
+
+"1. Any willful act causing death or grievous bodily harm or loss of liberty to:
+a) Heads of State, persons exercising the prerogatives of the head of the State, their hereditary or designated successors;
+b) The wives or husbands or the above-mentioned persons;
+c) Persons charged with public functions or holding public positions when the act is directed against them in their public capacity.
+2. Willful destruction of, or damage to, public property or property devoted to a public purpose belonging to or subject to the authority of another High Contracting Party.
+3. Any willful act calculated to endanger the lives of members of the public.
+4. Any attempt to commit an offence falling within the foregoing provisions of the present article.
+5. The manufacture, obtaining, possession, or supplying of arms, ammunition, explosives or harmful substances with the view to the commission in any country whatsoever of an offence falling within the present article."
+
+
+==== Proposed Comprehensive Convention on International Terrorism ====
+Since 2000, the United Nations General Assembly has been negotiating a Comprehensive Convention on International Terrorism. The definition of the crime of terrorism, which has been on the negotiating table since 2002 reads as follows:
+
+"1. Any person commits an offence within the meaning of this Convention if that person, by any means, unlawfully and intentionally, causes:
+(a) Death or serious bodily injury to any person; or
+(b) Serious damage to public or private property, including a place of public use, a State or government facility, a public transportation system, an infrastructure facility or the environment; or
+(c) Damage to property, places, facilities, or systems referred to in paragraph 1 (b) of this article, resulting or likely to result in major economic loss, when the purpose of the conduct, by its nature or context, is to intimidate a population, or to compel a Government or an international organization to do or abstain from doing any act."
+
+That definition is not controversial in itself; the deadlock in the negotiations arises instead from the opposing views on whether such a definition would be applicable to the armed forces of a state and to Self-determination movements. Thalif Deen described the situation as follows: "The key sticking points in the draft treaty revolve around several controversial yet basic issues, including the definition of ´terrorism´. For example, what distinguishes a "terrorist organisation" from a 'liberation movement'? And do you exclude activities of national armed forces, even if they are perceived to commit acts of terrorism? If not, how much of this constitutes 'state terrorism'?" The coordinator of the negotiations, supported by most western delegations, proposed the following exceptions to address those issues:
+
+"1. Nothing in this Convention shall affect other rights, obligations and responsibilities of States, peoples and individuals under international law, in particular the purposes and principles of the Charter of the United Nations, and international humanitarian law.
+2. The activities of armed forces during an armed conflict, as those terms are understood under international humanitarian law, which are governed by that law, are not governed by this Convention.
+3. The activities undertaken by the military forces of a State in the exercise of their official duties, inasmuch as they are governed by other rules of international law, are not governed by this Convention.
+4. Nothing in this article condones or makes lawful otherwise unlawful acts, nor precludes prosecution under other laws."
+
+The state members of the Organisation of the Islamic Conference proposed instead the following exceptions:
+
+"2. The activities of the parties during an armed conflict, including in situations of foreign occupation, as those terms are understood under international humanitarian law, which are governed by that law, are not governed by this Convention.
+3. The activities undertaken by the military forces of a State in the exercise of their official duties, inasmuch as they are in conformity with international law, are not governed by this Convention."
+
+
+=== Sectoral Conventions ===
+The various sectoral counter-terrorism conventions define and criminalized particular categories of terrorist activities.
+
+
+==== Terrorist Bombings Convention ====
+Article 2.1 of the 1997 International Convention for the Suppression of Terrorist Bombings defines the offence of terrorist bombing as follows:
+
+"Any person commits an offence within the meaning of this Convention if that person unlawfully and intentionally delivers, places, discharges or detonates an explosive or other lethal device in, into or against a place of public use, a State or government facility, a public transportation system or an infrastructure facility:
+a) With the intent to cause death or serious bodily injury; or
+b)With the intent to cause extensive destruction of such a place, facility or system, where such a destruction results in or is likely to result in major economic loss.
+
+Article 19 expressly excluded from the scope of the convention certain activities of state armed forces and of self-determination movements as follows:
+
+"1. Nothing in this Convention shall affect other rights, obligations and responsibilities of States, and individuals under international law, in particular the purposes and principles of the Charter of the United Nations, and international humanitarian law.
+2. The activities of armed forces during an armed conflict, as those terms are understood under international humanitarian law, which are governed by that law, are not governed by this Convention, and the activities undertaken by the military forces of a State in the exercise of their official duties, inasmuch as they are governed by other rules of international law, are not governed by this Convention.
+
+
+==== Terrorist Financing Convention ====
+Article 2.1 of the 1999 sectoral United Nations International Convention for the Suppression of the Financing of Terrorism (Terrorist Financing Convention) defines the crime of terrorist financing as the offence committed by "any person" who "by any means, directly or indirectly, unlawfully and wilfully, provides or collects funds with the intention that they should be used or in the knowledge that they are to be used, in full or in part, in order to carry out" an act "intended to cause death or serious bodily injury to a civilian, or to any other person not taking an active part in the hostilities in a situation of armed conflict, when the purpose of such act, by its nature or context, is to intimidate a population, or to compel a government or an international organization to do or to abstain from doing any act."
+
+
+==== Nuclear Terrorism Convention ====
+The 2005 United Nations International Convention for the Suppression of Acts of Nuclear Terrorism defines the crime of nuclear terrorism as follows:
+
+Article 2
+1. Any person commits an offence within the meaning of this Convention if that person unlawfully and intentionally: (a) Possesses radioactive material or makes or possesses a device:
+(i) With the intent to cause death or serious bodily injury; or
+(ii) With the intent to cause substantial damage to property or to the environment;
+(b) Uses in any way radioactive material or a device, or uses or damages a nuclear facility in a manner which releases or risks the release of radioactive material:
+(i) With the intent to cause death or serious bodily injury; or
+(ii) With the intent to cause substantial damage to property or to the environment; or
+(iii) With the intent to compel a natural or legal person, an international organization or a State to do or refrain from doing an act.
+
+Article 4 of the convention expressly excluded from the application of the convention the use of nuclear weapons during armed conflicts without, though, recognizing the legality of the use of those weapons:
+
+1. Nothing in this Convention shall affect other rights, obligations and responsibilities of States and individuals under international law, in particular the purposes and principles of the Charter of the United Nations and international humanitarian law.
+2. The activities of armed forces during an armed conflict, as those terms are understood under international humanitarian law, which are governed by that law are not governed by this Convention, and the activities undertaken by military forces of a State in the exercise of their official duties, inasmuch as they are governed by other rules of international law, are not governed by this Convention.
+3. The provisions of paragraph 2 of the present article shall not be interpreted as condoning or making lawful otherwise unlawful acts, or precluding prosecution under other laws.
+4. This Convention does not address, nor can it be interpreted as addressing, in any way, the issue of the legality of the use or threat of use of nuclear weapons by States.
+
+
+=== Definitions of terrorism in other UN decisions ===
+In parallel with the criminal law codification efforts, some United Nations organs have put forward some broad political definitions of terrorism.
+
+
+==== UN General Assembly Resolutions ====
+A 1996 non-binding United Nations Declaration to Supplement the 1994 Declaration on Measures to Eliminate International Terrorism, annexed to the UN General Assembly Resolution 51/210, described terrorist activities in the following terms:
+
+"Criminal acts intended or calculated to provoke a state of terror in the general public, a group of persons or particular persons for political purposes are in any circumstance unjustifiable, whatever the considerations of a political, philosophical, ideological, racial, ethnic, religious or any other nature that may be invoked to justify them"
+
+Antonio Cassese has argued that the language of this and other similar UN declarations "sets out an acceptable definition of terrorism."
+
+
+==== UN Security Council ====
+In 2004, United Nations Security Council Resolution 1566 condemned terrorist acts as:
+
+"criminal acts, including against civilians, committed with the intent to cause death or serious bodily injury, or taking of hostages, with the purpose to provoke a state of terror in the general public or in a group of persons or particular persons, intimidate a population or compel a government or an international organization to do or to abstain from doing any act, which constitute offences within the scope of and as defined in the international conventions and protocols relating to terrorism, are under no circumstances justifiable by considerations of a political, philosophical, ideological, racial, ethnic, religious or other similar nature,"
+
+
+==== The High-Level Panel on Threats, Challenges and Change and the Secretary General ====
+Also in 2004, a High-Level Panel on Threats, Challenges and Change composed of independent experts and convened by the Secretary-General of the United Nations called states to set aside their differences and to adopt, in the text of a proposed Comprehensive Convention on International Terrorism, the following political "description of terrorism":
+
+"any action, in addition to actions already specified by the existing conventions on aspects of terrorism, the Geneva Conventions and Security Council resolution 1566 (2004), that is intended to cause death or serious bodily harm to civilians or non-combatants, when the purpose of such an act, by its nature or context, is to intimidate a population, or to compel a Government or an international organization to do or to abstain from doing any act."
+
+The following year, the then Secretary-General of the United Nations Kofi Annan endorsed the High Level Panel's definition of terrorism and asked states to set aside their differences and to adopt that definition within the proposed comprehensive terrorism convention before the end of that year. He said:
+
+"It is time to set aside debates on so-called "State terrorism". The use of force by states is already thoroughly regulated under international law. And the right to resist occupation must be understood in its true meaning. It cannot include the right to deliberately kill or maim civilians. I endorse fully the High-level Panel's call for a definition of terrorism, which would make it clear that, in addition to actions already proscribed by existing conventions, any action constitutes terrorism if it is intended to cause death or serious bodily harm to civilians or non-combatants with the purpose of intimidating a population or compelling a Government or an international organization to do or abstain from doing any act. I believe this proposal has clear moral force, and I strongly urge world leaders to unite behind it and to conclude a comprehensive convention on terrorism before the end of the sixtieth session of the General Assembly."
+
+The suggestion of incorporating such a political definition of terrorism into the comprehensive convention was rejected. United Nations' member states noted that a political definition such as the one proposed by the High-Level Panel on Threats, Challenges and Change, and endorsed by the Secteray General, lacked the necessary requirements to be incorporated in a criminal law instrument. Carlos Diaz-Paniagua, who coordinated the negotiations of the proposed Comprehensive Convention on International Terrorism, stated that a comprehensive definition of terrorism to be included in a criminal law treaty must have "legal precision, certainty, and fair-labeling of the criminal conduct - all of which emanate from the basic human rights obligation to observe due process."
+
+
+=== European Union ===
+The European Union defines terrorism for legal/official purposes in Art. 1 of the Framework Decision on Combating Terrorism (2002). This provides that terrorist offences are certain criminal offences set out in a list consisting largely of serious offences against persons and property that;
+
+...given their nature or context, may seriously damage a country or an international organisation where committed with the aim of: seriously intimidating a population; or unduly compelling a Government or international organisation to perform or abstain from performing any act; or seriously destabilising or destroying the fundamental political, constitutional, economic or social structures of a country or an international organisation.
+
+
+== In national law ==
+
+
+=== Argentina ===
+Argentinean National Reorganization Process dictatorship which lasted from 1976 to 1983, defined as "terrorist" as "not only who sets bombs and carry guns, but also those who spread ideas opposite to Christian and western civilization".
+
+
+=== India ===
+The Supreme Court of India adopted Alex P. Schmid's definition of terrorism in a 2003 ruling (Madan Singh vs. State of Bihar), "defin[ing] acts of terrorism veritably as 'peacetime equivalents of war crimes.'" The now lapsed Terrorist and Disruptive Activities (Prevention) Act specified the following definition of terrorism:
+
+"Whoever with intent to overawe the Government as by law established or to strike terror in the people or any section of the people or to alienate any section of the people or to adversely affect the harmony amongst different sections of the people does any act or thing by using bombs, dynamite or other explosive substances or inflammable substances or lethal weapons or poisons or noxious gases or other chemicals or by any other substances (whether biological or otherwise) of a hazardous nature in such a manner as to cause, or as is likely to cause, death of, or injuries to, any person or persons or loss of, or damage to, or destruction of, property or disruption of any supplies or services essential to the life of the community, or detains any person and threatens to kill or injure such person in order to compel the Government or any other person to do or abstain from doing any act, commits a terrorist act."
+
+
+=== Pakistan ===
+Pakistan Anti-Terrorism (Amendment) Ordinance, 1999 states:
+A person is said to commit a terrorist act if he,
+(a) in order to, or if the effect of his actions will be to, strike terror or create a sense of fear and insecurity in the people, or any section of the people, does any act or thing by using bombs, dynamite or other explosive or inflammable substances, or such fire-arms or other lethal weapons as may be notified, or poisons or noxious gases or chemicals, in such a manner as to cause, or be likely to cause, the death of, or injury to, any person or persons, or damage to, or destruction of, property on a large scale, or a widespread disruption of supplies of services essential to the life of the community, or threatens with the use of force public servants in order to prevent them from discharging their lawful duties; or
+(b) commits a scheduled offence, the effect of which will be, or be likely to be, to strike terror, or create a sense of fear and insecurity in the people, or any section of the people, or to adversely affect harmony among different sections of the people; or
+(c) commits an act of gang rape, child molestation, or robbery coupled with rape as specified in the Schedule to this Act; or
+(d) commits an act of civil commotion as specified in section &A." 
+
+
+=== Syria ===
+In relation to the United States attack on Abu Kamal the Syrian Foreign Minister Walid Muallem defined terrorism as "Killing civilians in international law means a terrorist aggression."
+
+
+=== United Kingdom ===
+The United Kingdom's Terrorism Act 2000 defined terrorism as follows:
+
+(1) In this Act "terrorism" means the use or threat of action where:
+(a) the action falls within subsection (2),
+(b) the use or threat is designed to influence the government or to intimidate the public or a section of the public and
+(c) the use or threat is made for the purpose of advancing a political, religious or ideological cause.
+(2) Action falls within this subsection if it:
+(a) involves serious violence against a person,
+(b) involves serious damage to property,
+(c) endangers a person's life, other than that of the person committing the action,
+(d) creates a serious risk to the health or safety of the public or a section of the public or
+(e) is designed seriously to interfere with or seriously to disrupt an electronic system.
+
+The Terrorism Act 2000 defines terrorism so as to include not only violent offences against persons and physical damage to property, but also acts "designed seriously to interfere with or to seriously disrupt an electronic system" if those acts are (a) designed to influence the government or to intimidate the public or a section of the public, and (b)be done for the purpose of advancing a political, religious or ideological cause.
+Section 34 of the Terrorism Act 2006 amended sections 1(1)(b) and 113(1)(c) of Terrorism Act 2000 to include "international governmental organisations" in addition to "government".
+Successive Independent Reviewers of Terrorism Legislation (most recently in a report of July 2014) have commented on the UK's definition of terrorism.
+
+
+=== United States ===
+
+
+==== U.S. Code (U.S.C.) ====
+Title 22, Chapter 38 of the United States Code (regarding the Department of State) contains a definition of terrorism in its requirement that annual country reports on terrorism be submitted by the Secretary of State to Congress every year. It reads:
+
+"[T]he term 'terrorism' means premeditated, politically motivated violence perpetrated against noncombatant targets by subnational groups or clandestine agents".
+
+Title 18 of the United States Code (regarding criminal acts and criminal procedure) defines international terrorism as:
+
+(1) [T]he term 'international terrorism' means activities that —
+(A) involve violent acts or acts dangerous to human life that are a violation of the criminal laws of the United States or of any State, or that would be a criminal violation if committed within the jurisdiction of the United States or of any State;
+(B) appear to be intended —
+(i) to intimidate or coerce a civilian population;
+(ii) to influence the policy of a government by intimidation or coercion; or
+(iii) to affect the conduct of a government by mass destruction, assassination, or kidnapping; and
+
+(C) occur primarily outside the territorial jurisdiction of the United States, or transcend national boundaries in terms of the means by which they are accomplished, the persons they appear intended to intimidate or coerce, or the locale in which their perpetrators operate or seek asylum".
+
+Commenting on the genesis of this provision, Edward Peck, former U.S. Chief of Mission in Iraq (under Jimmy Carter) and former ambassador to Mauritania said:
+
+In 1985, when I was the Deputy Director of the Reagan White House Task Force on Terrorism, [my working group was asked] to come up with a definition of terrorism that could be used throughout the government. We produced about six, and each and every case, they were rejected, because careful reading would indicate that our own country had been involved in some of those activities. […] After the task force concluded its work, Congress [passed] U.S. Code Title 18, Section 2331 ... the US definition of terrorism. […] one of the terms, "international terrorism," means "activities that," I quote, "appear to be intended to affect the conduct of a government by mass destruction, assassination or kidnapping." […] Yes, well, certainly, you can think of a number of countries that have been involved in such activities. Ours is one of them. […] And so, the terrorist, of course, is in the eye of the beholder.
+
+
+==== U.S. Code of Federal Regulations ====
+The U.S. Code of Federal Regulations defines terrorism as "the unlawful use of force and violence against persons or property to intimidate or coerce a government, the civilian population, or any segment thereof, in furtherance of political or social objectives" (28 C.F.R. Section 0.85).
+
+
+==== U.S. Department of Defense ====
+The U.S. Department of Defense recently changed its definition of terrorism. Per Joint Pub 3-07.2, Antiterrorism, (24 November 2010), the Department of Defense defines it as "the unlawful use of violence or threat of violence to instill fear and coerce governments or societies. Terrorism is often motivated by religious, political, or other ideological beliefs and committed in the pursuit of goals that are usually political."
+The new definition distinguishes between motivations for terrorism (religion, ideology, etc.) and goals of terrorism ("usually political"). This is in contrast to the previous definition which stated that the goals could be religious in nature.
+
+
+==== U.S. Federal Emergency Management Agency ====
+The U.S. Federal Emergency Management Agency (FEMA) contains a definition of terrorism, which reads:
+
+Terrorism is the use of force or violence against persons or property in violation of the criminal laws of the United States for purposes of intimidation, coercion, or ransom. Terrorists often use threats to:
+Create fear among the public.
+Try to convince citizens that their government is powerless to prevent terrorism.
+Get immediate publicity for their causes.
+
+The new definition does not require that the act needs to be politically motivated. The FEMA also said that terrorism "include threats of terrorism; assassinations; kidnappings; hijackings; bomb scares and bombings; cyber attacks (computer-based); and the use of chemical, biological, nuclear and radiological weapons" and also states that "[h]igh-risk targets for acts of terrorism include military and civilian government facilities, international airports, large cities, and high-profile landmarks. Terrorists might also target large public gatherings, water and food supplies, utilities, and corporate centers. Further, terrorists are capable of spreading fear by sending explosives or chemical and biological agents through the mail."
+
+
+==== U.S. National Counterterrorism Center ====
+The U.S. National Counterterrorism Center (NCTC) define terrorism the same as United States Code 22 USC § 2656f(d)(2). The Center also defines a terrorist act as a "premeditated; perpetrated by a sub-national or clandestine agent; politically motivated, potentially including religious, philosophical, or culturally symbolic motivations; violent; and perpetrated against a non-combatant target."
+
+
+==== U.S. national security strategy ====
+In September 2002, the U.S. national security strategy defined terrorism as "premeditated, politically motivated violence against innocents." This definition did not exclude actions by the United States government and it was qualified some months later with "premeditated, politically motivated violence against noncombatant targets by subnational groups or clandestine agents".
+
+
+==== USA PATRIOT Act of 2001 ====
+The USA PATRIOT Act of 2001 defines domestic terrorism as "activities that (A) involve acts dangerous to human life that are a violation of the criminal laws of the U.S. or of any state; (B) appear to be intended (i) to intimidate or coerce a civilian population; (ii) to influence the policy of a government by intimidation or coercion; or (iii) to affect the conduct of a government by mass destruction, assassination, or kidnapping; and (C) occur primarily within the territorial jurisdiction of the U.S."
+
+
+==== Terrorism Risk Insurance Act ====
+Section 102(1)(a) of the Terrorism Risk Insurance Act contains a definition of terrorism in order for insurance companies to provide coverage to all prospective policy holders at time of purchase and to all current policyholders at renewal and requires that the federal government pay 90 percent of covered terrorism losses exceeding the statutorily established deductible paid by the insurance company providing the coverage. It reads:
+
+(1) ACT OF TERRORISM-
+
+(A) CERTIFICATION- The term 'act of terrorism' means any act that is certified by the Secretary [of Treasury], in concurrence with the Secretary of State, and the Attorney General of the United States--
+(i) to be an act of terrorism;
+(ii) to be a violent act or an act that is dangerous to--
+(I) human life;
+(II) property; or
+(III) infrastructure;
+
+(iii) to have resulted in damage within the United States, or outside of the United States in the case of--
+(I) an air carrier or vessel described in paragraph
+(5)(B); or
+(II) the premises of a United States mission; and
+
+(iv) to have been committed by an individual or individuals as part of an effort to coerce the civilian population of the United States or to influence the policy or affect the conduct of the United States Government by coercion.
+
+
+== In general insurance policies ==
+Some insurance companies exclude terrorism from general property insurance (e.g. home insurance). An insurance company may include a specific definition of terrorism as part of its policy, for the purpose of excluding at least some loss or damage caused by terrorism. For example, RAC Insurance in Australia defines terrorism thus:
+
+"Terrorism means an act including but not limited to the use of force or violence and/or threat, of any person or group of persons done for or in connection with political, religious, ideological or similar purposes including the intention to influence any government and/or to put the public, or any section of the public in fear."
+
+
+== Scholars and recognized experts on terrorism ==
+Numerous scholars have proposed working definitions of terrorism. Bruce Hoffman, a well-known scholar, has thus noted that:
+
+It is not only individual agencies within the same governmental apparatus that cannot agree on a single definition of terrorism. Experts and other long-established scholars in the field are equally incapable of reaching a consensus. In the first edition of his magisterial survey, "Political terrorism: A Research Guide," Alex Schmid devoted more than a hundred pages to examining more than a hundred different definition of terrorism in a effort to discover a broadly acceptable, reasonably comprehensive explication of the word. Four years and a second edition later, Schimd was no closer to the goal of his quest, conceding in the first sentence of the revised volume that the "search for an adequate definition is still on" Walter Laqueur despaired of defining terrorism in both editions of his monumental work on the subject, maintaining that it is neither possible to do so nor worthwhile to make the attempt. "Ten years of debates on typologies and definitions," he responded to a survey on definitions to conducted by Schmid, "have not enhanced our knowledge of the subject to a significant degree." Laqueur's contention is supported by the twenty-two different word categories occurring in the 109 different definition that Schmid identified in survey. At the end of this exhaustive exercise, Schmid asks "whether the above list contains all the elements necessary for a good definition. The answer," he suggests" is probably ‘no’." If it is impossible to define terrorism, as Laqueur argues, and fruitless to attempt to cobble together a truly comprehensive definition, as Schmid admits, are we to conclude that terrorism is impervious to precise, much less accurate definition? Not entirely. If we cannot define terrorism, then we can at least usefully distinguish it from other types of violence and identify the characteristics that make terrorism the distinct phenomenon of political violence that it is."
+
+In this sense, after surveying the various academic definitions of terrorism, Vallis concluded that:
+
+"Most of the formal definitions of terrorism have some common characteristics: a fundamental motive to make political/societal changes; the use of violence or illegal force; attacks on civilian targets by "nonstate"/"Subnational actors"; and the goal of affecting society. This finding is reflected in Blee's listing of three components of terrorism:
+Acts or threats of violence;
+The communication of fear to an audience beyond the immediate victim, and;
+Political, economic, or religious aims by the perpetrator(s)." 
+
+Academics and practitioners may also be categorized by the definitions of terrorism that they use. Max Abrahms has introduced the distinction between what he calls "terrorist lumpers" and "terrorist splitters." Lumpers define terrorism broadly, brooking no distinction between this tactic and guerrilla warfare or civil war. Terrorist splitters, by contrast, define terrorism narrowly, as the select use of violence against civilians for putative political gain. As Abrahms notes, these two definitions yield different policy implications:
+
+"Lumpers invariably believe that terrorism is a winning tactic for coercing major government concessions. As evidence, they point to substate campaigns directed against military personnel that have indeed pressured concessions. Salient examples include the Soviet withdrawal from Afghanistan in 1989, the U.S. withdrawal from Lebanon in 1984, and the French withdrawal from Algeria in 1962. Significantly, terrorist splitters do not regard these substate campaigns as evidence of terrorism's political effectiveness. Rather, they contend that disaggregating substate campaigns directed against civilian targets versus military ones is critical for appreciating terrorism's abysmal political record." 
+
+
+== See also ==
+-ism
+
+
+== Notes ==
+
+
+== References ==
+Bockstette, Carsten (December 2008). Jihadist Terrorist Use of Strategic Communication Management Techniques, George C. Marshall Center for European Security Studies no 20, p. 1-28 ISSN 1863-6039
+Burgess, Mark. A Brief History of Terrorism, Center for Defense Information.
+Byrnes, Andrew (2002). Apocalyptic Visions and the Law: The Legacy of September 11 A professorial address by Andrew Byrnes at the ANU Law School for the Faculty's 'Inaugural and Valedictory Lecture Series', May 30, 2002.
+Diaz-Paniagua, Carlos Fernando (2008), Negotiating terrorism: The negotiation dynamics of four UN counter-terrorism treaties, 1997-2005, Ph.D. dissertation, City University of New York, July 2008, AAT 3296923
+Cassese, A. (2002), International Law, Oxford University Press, 2002, ISBN 0-19-925939-9
+Crenshaw, Martha, Terrorism in Context
+Gardam, Judith Gail (1993). Non-combatant Immunity as a Norm of International Humanitarian,Martinus Nijhoff ISBN 0-7923-2245-2.
+Griset, Pamala L. & Mahan, Sue (2003). Terrorism in perspective, SAGE, 2003, ISBN 0-7619-2404-3, ISBN 978-0-7619-2404-3
+Harper, Douglas. "Terrorism", Dictionary.com Online Etymology Dictionary. (accessed: August 10, 2007).
+Hoffman, Bruce (1998). "Inside Terrorism" Columbia University Press 1998 ISBN 0-231-11468-0.
+Hoffman, Bruce (2006),Inside terrorism, Edition 2, Columbia University Press, 2006. ISBN 0-231-12699-9, ISBN 978-0-231-12699-1.
+Khan, Ali (Washburn University - School of Law. 1987). A Theory of International Terrorism, Connecticut Law Review, Vol. 19, p. 945, 1987
+Novotny, Daniel D. (2007). "What is Terrorism?" in: Linden, Edward V., ed. Focus on Terrorism 8, ch. 2, pp. 23–32. (ISBN 1-60021-315-4).
+Primoratz, Igor (2007/2011). "Terrorism" The Stanford Encyclopedia of Philosophy (Summer 2013 Edition), Edward N. Zalta (ed.), URL = <http://plato.stanford.edu/archives/sum2013/entries/terrorism/>.
+Record, Jeffrey (December 2003). Bounding the Global War on Terrorism, December 1, 2003 ISBN 1-58487-146-6.
+Smelser, Neil J.; et al. (2002). Terrorism: perspectives from the behavioral and social sciences, National Academies Press, 2002, ISBN 0-309-08612-4, ISBN 978-0-309-08612-7
+Ticehurst, Rupert. The Martens Clause and the Laws of Armed Conflict 30 April 1997, International Review of the Red Cross no 317, p. 125-134 ISSN 1560-7755
+
+
+== External links ==
+Introductory note by A. Rohan Perera and procedural history note on the Declaration on Measures to Eliminate International Terrorism and the 1996 Supplementary Declaration thereto in the Historic Archives of the United Nations Audiovisual Library of International Law

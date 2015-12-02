@@ -1,0 +1,202 @@
+Counter-IED efforts are done primarily by military and law enforcement (led by intelligence efforts) with the assistance of the diplomatic and financial communities. It involves a comprehensive approach of countering the threat networks that employ Improvised Explosive Devices (IEDs), defeating the devices themselves, and training others. Counter-IED, or C-IED, is usually part of a broader counter-terrorism, counter-insurgency, or law enforcement effort. Because IEDs are a subset of a number of forms of asymmetric physical attack used by insurgents and terrorists, C-IED activities are principally against adversaries and not only against IEDs. C-IED treats the IED as a systemic problem and aims to defeat the IED System.
+This IED System requires multiple actions and resources in order to stage an IED Event. The IED System may be either hierarchical or non-hierarchical but it will contain nodes such as personnel, resources and other actions that are linked. The importance of these nodes and the linkages between them will vary and identifying the critical vulnerabilities within the IED System is an important C-IED activity.
+Some IED Systems may be part of large, international terrorist organisations and some may be state sponsored. Some may work completely independently, while others may extend from theater down to village level. This span of possibilities increases the complexity of military and law enforcement operations and requires a comprehensive approach to C-IED potentially involving close cooperation and coordination between the diplomatic, military, economic, and informational levers of power.
+The complexity of the IED System is increased since mobile phones and the internet provide a low-cost and easily accessible medium for information sharing and the swift promulgation of tactical ideas and practises, thereby facilitating the efficient operation of these diverse systems. IED network members also have the ability to operate part-time and can blend back into the civilian population when their actions are completed. Such systems can be extremely resilient, invariably hard to target and are, therefore, survivable. Also, adversary targets can range from the specific such as host nation security force bases and recruiting events to the indiscriminate such as concentrations of people in public places. However, IEDs are not only found within the land environment - other targets may include maritime choke points and ships alongside, as well as aircraft in flight or on the ground.
+The C-IED approach used by NATO involves 3 mutually supporting and complementary pillars of activity which are: attack the networks, defeat the device, and prepare the force. These are all underpinned by understanding and intelligence. (Counter-IED efforts can also be broken up into 6 key operational activities: predict, prevent, detect, neutralise, mitigate, and exploit.)
+
+
+== Countering Threat Networks (CTN) ==
+A growing danger to the international community consists of highly complex adversary networks with international span that employ criminal financing as well as terror attacks and other destructive capabilities. Effectively countering these dynamic and violent illicit networks requires the creation of an international and multifunctional framework to share information on these networks as well as collaborative multinational countermeasures. Attack the networks (AtN) is the principal pillar requiring this joint, interagency and multinational approach. Attack the network operations are defined as actions, kinetic or non-kinetic, used to disrupt, destroy, or reduce an enemy’s capacity to mount terror operations, specifically groups that use IEDs. It consists of largely offensive and proactive activities, driven by intelligence that may go beyond the theater of operations, designed to disrupt the networks of the adversary’s IED System.
+Counter-network operations usually focus on leadership targeting of an organization, which follows the logic that by catching the right hornet, the whole colony dies. What is often overlooked in this approach, however, is that if just a worker bee is killed, the nest is aggravated and a much bigger problem is created. While this concept provides a convenient metaphor to discuss possible targeting methodology, it seldom resembles the facts, because human networks are not directly analogous to a hornet’s nest. In other words, not every situation can be resolved by a single kill or capture of the “queen”. Activity is focused on the critical vulnerabilities of the IED System, for example, by denying the supply of components, finance, leaders, specialists and recruits and adversary exploitation and isolating the adversary from the local population. AtN/CTN seeks to 1) shape and influence IED networks, 2) disrupt their operations, and 3) undermine their financiers and supply chains.
+Exploitation is a vital component of the attack the networks activity. Information gained provides a picture of adversary capabilities and intentions, perpetrator relationships and the technical construction of the device. This enables the prediction of forthcoming IED activity, informs the targeting process, and enables follow up activities to further disrupt the IED System. Intelligence gained from exploitation also feeds into the other C-IED pillars.
+
+
+=== Operating Framework for Executing the Intelligence Cycle ===
+To execute the intelligence cycle, a model is required that it is able to treat the enemy or adversary as a system. Operational experience has shown that by using a model based on the generic core functions (find, fix, strike and exploit) will ensure key areas and points in the adversary system can be identified, enabling power or influence to be applied. Immediate effects can be organised to affect other parts of the system. For example, covertly observing an IED placement without attacking the placement team could lead to a subsequent operation to identify further elements of the IED System, for example a bomb maker or a cache. By the same process, observing the bomb maker may lead to identifying a supply chain for IED components used for a large number of teams, adding a much higher value to the outcome. The model used to describe this approach is called find, fix, finish, exploit and analyze or F3EA:
+Find. A systematic approach and long-term investment is required to allow understanding of a system to be built up. Enemy dispositions and hostile groups must be found and assessed before action can be taken against them. In combat, physical locations are most important, and must be analyzed alongside what the enemy is doing and why. In stability operations and counter-insurgency, find will involve examining the human terrain to find networks and systematically uncovering them. Network members will seek anonymity within the population. They will use it as cover, with or without, the population’s consent.
+Fix. Once the target within the system has been found, it needs to be fixed in time and space. This generates a pattern of life analysis from which deductions and a plan can be formed. The target can be fixed either by physical force, or less intrusively by the use of collection assets such as intelligence, surveillance and reconnaissance elements. This expands the understanding of the target to provide the commander with more options for the finish phase. Patience can lead to even greater operational gains.
+Finish. In some instances, the commander may want to strike the target to remove it from the system. Alternatively other methods may be more useful, for example to recruit or buy an element of the enemy’s network. The aim of finish is to secure the intelligence required to continue the cycle. Detention plays an important part in this phase. Although detention is not without risks, and the taking of captured persons or prisoners of war absorbs combat power. However, it does separate the adversary from the population and protects it and the force. Detention also provides a fertile source of intelligence.
+Exploit. Exploit and analyze are the most important phases of the F3EA cycle, as they generate a more detailed understanding of the system or network in order to cue the most appropriate form of action. Exploit feeds the analysis process and exploitation activity may be co-ordinated by an exploitation planning board or other structure to ensure that opportunities are maximised. Agility and speed are essential, as are information management and information exchange which are underpinned by database continuity. Exploit includes, for example, tactical interrogation or examination of documents and materiel, or the technical exploitation of recovered improvised explosive device parts.
+
+
+=== Activity Modelling and Identifying Critical Vulnerabilities ===
+Nodel activity modelling within an IED System is a useful means of understanding relationships and the networks within. Counter-IED efforts involve conducting specialized analysis to identify vulnerabilities, interdependencies, and cascading effects of the IED System Nodal Activity Model. These vulnerability assessments are the foundation of a risk-based implementation of protective programs designed to prevent, deter, and mitigate the risk of an IED attack.
+
+
+==== Human Network Analysis and Targeting (HNAT) ====
+
+HNAT is used to interdict, neutralize, and isolate threat networks. It primarily consists of advanced intelligence analytic procedures and techniques, such as Social Network Analysis (SNA), Link, Pattern, and Associative Analysis. It is enabled by tools such as network analysis software, target development, and nomination processes.
+Further network analysis can be conducted using other models that look at the relationships between and within links and nodes. One of these is component analysis with 2 subsets: individual component analysis looking at the detail of each component part, and nodal component analysis looking at the relationship between nodes. Nodal component analysis has 2 further subsets functional analysis and nodal activity analysis. The former identifies and links the nodes in terms of their function, the latter then seeks to identify activities which take place within the functional node.
+
+
+==== Center of Gravity Analysis ====
+Center of gravity analysis provides a model for systemically identifying critical vulnerabilities. There are four steps in analyzing the center of gravity of an IED system:
+Determine the critical capability, the absolutely essential function the system performs. The system might have several capabilities, but not all are critical in every situation.
+Identify the critical capability's source of power.
+Identify the critical requirements.
+Identify the critical requirements or components that are vulnerable to attack or disruption. These become targets to attack or are requirements for the IED system to protect.
+
+
+=== Counter-threat Finance ===
+Financial efforts involve seizure of assets and anti-money laundering efforts, for example. The means and methods used to underwrite the costs associated with the IED System may come from charitable organizations, donations, fundraising, illicit activities like extortion, and money laundering, or may be concealed within the payment of religious tithes or local taxes or foreign government support. Money transfer may be occurring through recognised international channels or an alternative system like hawala brokers. Irregular activity can be inexpensive relative to the costs of countering it. Work must be done comprehensively to identify the physical and virtual networks for raising, moving and hiding money, identify the physical links and break them, and attack the links between illicit activity that generates revenue and adversaries that use it.
+Counter-threat finance is usually part of a broader effort to administer sanctions regimes, combat terrorist finance, combat the use of conflict diamonds and conflict minerals to finance rebellions against legitimate governments, or disrupt and dismantle the financial networks of the Somali pirate enterprise.
+
+
+=== Politics and Diplomacy ===
+Diplomatic efforts involve convincing cooperating nations to restrict the sales of precursors, for example. IED networks are ideally attacked through regional and local politics and diplomacy. The subject of IEDs can deliberately be considered as an issue of negotiations within local government as well as other regional and local agendas. Political agreement may be reached that IEDs are often indiscriminate and have a great impact on the local population. In some cases local actions against adversaries and reporting of IED related information could be linked to rewards such as development programmes.
+In military efforts, the political and diplomatic channels lead the military approach and all elements of the C-IED approach. Political and diplomatic tools for attack the networks will be based upon the political importance of ensuring there is a common sense of purpose and agreement as to the desired outcomes between all those cooperating in resolution of the situation. The political tasks should link with wider political strategies for example creating comprehensive programmes to tackle the root causes of the problem that has led to adversaries’ use of IEDs. All political activity will need to be coordinated internationally and throughout the government and non-government agencies which will require a political and diplomatic lead and policy to support it.
+Key areas to address include: the need for a common narrative; rules for military operations within: and, if necessary, outside of the JOA, other political tasks will lead the reform of the host nation security and justice sectors including: military forces, intelligence services, militia and police, the security sector includes judicial and penal systems, oversight bodies, the Executive, parliamentary committees, government ministries, legislative frameworks, customary or traditional authorities, financial and regulatory bodies. The political lead will determine at the outset levels of military support for the host nation and at a subsequent time agreements involving the reintegration of adversaries. All of the above will contribute to attack the networks within the C-IED approach.
+
+
+=== Legal ===
+Within the C-IED approach use of the legal process can disrupt international support, seize funds, bring prosecutions, change laws within the host nation (for example to make the sale, purchase, ownership or transportation of IED components illegal) or to proscribe membership of a specific group. Legal protocols also underscore the need for the collection and proper handling of evidence to ensure that individuals can be successfully dealt with by appropriate courts.
+
+
+=== Economic Activity ===
+Overseas investment, international flows of capital and trade, and development assistance provide scope for the exercise of economic influence. Economic power can provide a range of incentives, boycotts, tariffs, pricing structures and sanctions to influence decisions and affect behaviour. Their impact is complicated by the combination of public and private influences, the operation of market forces and the complex relationships between global and national rates of growth and economic activity.
+
+
+=== Defeating the Device ===
+Defeat the device is a mainly military response made up of proactive and reactive activities as a result of the existence of suspect or emplaced devices. The purpose of these activities is to deliver freedom to operate and achieve the wider aims of the operation. Measures taken here to mitigate, detect and neutralise IEDs have an immediate effect and directly save lives. Defeat the device protects the population and delivers physical security to military forces by means of tactical and technical measures as well as information activities. Intelligence from exploitation delivers new understanding and permits the development of new tactical and technical solutions to detect and neutralise devices and to mitigate their effects.
+
+
+=== Mitigation for C-IED ===
+Mitigation is defined within C-IED as technical, tactical and information actions undertaken to minimise the effects of an IED Event. Mitigation activity will reduce the effect of potentially being compromised as well as reducing the actual IED events if compromised. Mitigation activity will form part of FP measures and as such will use a framework of measures, both proactive and reactive that are supported by iterative risk management. Risk analysis based upon understanding of the threats is required to form management measures for mitigation. Calculating this involves complex variables including the environment, the adversary, the population, the characteristics of the threat posed (including IEDs) and military forces. This complexity makes it impossible to model with any certainty and in turn this places heavy demands on the commander’s skill and judgement for decision-making.
+
+
+=== Counter-RCIED Efforts ===
+
+Electronic Warfare (EW) support is an asset used in an environment where RCIEDs are a threat. The division of EW known as electronic support measures can search for, identify and intercept, electromagnetic emissions and sometimes locate their sources for the purpose of immediate threat elimination. It provides a source of information required for immediate decisions involving Electronic Counter Measures (ECM), and other tactical actions. The division of EW known as ECM can take action to prevent or reduce an enemy’s effective use of the electromagnetic spectrum through the use of electromagnetic energy. Electronic warfare includes three major subdivisions: Electronic Attack (EA), Electronic Protection (EP), and Electronic Support (ES).
+
+
+=== Electronic Attack ===
+Electronic Attack (EA) involves the use of EM energy, directed energy, or antiradiation weapons to attack personnel, facilities, or equipment with the intent of degrading, neutralizing, or destroying enemy combat capability.
+
+
+=== Electronic Protection ===
+
+Electronic Protection (EP) involves actions taken to protect personnel, facilities, and equipment from any effects of friendly or enemy use of the electromagnetic spectrum that degrade, neutralize, or destroy friendly combat capability.
+
+
+=== Electronic Support ===
+Electronic Support (ES) is the subdivision of EW involving actions tasked by, or under direct control of, an operational commander to search for, intercept, identify, and locate or localize sources of intentional and unintentional radiated EM energy for the purpose of immediate threat recognition, targeting, planning, and conduct of future operations. These measures begin with systems designed and operators trained to make Electronic Intercepts (ELINT) and then classification and analysis broadly known as Signals intelligence (SIGINT) from such detections to return information and perhaps actionable intelligence (e.g. a ship's identification from unique characteristics of a specific radar) to the commander.
+
+
+=== Counter-IED Equipment ===
+
+Equipment used in Counter-IED efforts consists of robots, soldier worn protection, specialized counter-IED vehicles, electronic and other countermeasures, detection systems, and unmanned systems intended for counter-IED.
+
+
+=== Explosive Ordnance Disposal ===
+
+EOD elements are always in high demand and there is nearly always a shortage of trained personnel. Additionally there is a high level of risk to these personnel. Within EOD, IEDD is the location, identification, rendering safe and final disposal of IEDs. IEDD is a specialist skill requiring specific training and equipment preferably including the use of remote control vehicles. EOD tasks related to C-IED are focused upon the activities of detection, mitigation, IEDD and also exploitation. EOD tasks aim to respond to, identify, render safe and dispose of explosive ordnance, including Chemical, Biological, Radiological and Nuclear (CBRN) devices, that threaten/impede manoeuvre. This also includes destroying captured enemy explosive ordnance and assisting in the disposal of unserviceable national and foreign explosive ordnance. UXO, rendering safe of IEDs.
+
+
+=== Route Clearance and Route Check ===
+Route search and route check are categories of search and describe the process of identifying vulnerable points or vulnerable areas and using 3 categories of search in increasing levels of threat or required assuredness: Route checks are conducted by patrol-search trained troops: intermediate route search using trained search teams; and advanced route search where there is a high threat requiring the intimate support of other C-IED enablers. Route clearance teams are often organized as a Route Clearance Package (RCP) within an all-arms grouping and are normally engineer-based. They can be equipped with a mix of general and specialist vehicles, equipment and personnel integrated to conduct route clearance. Their purpose is to eliminate concealment for IEDs, munitions and caches as well as providing systematic detection and deterrence sweeps along cleared routes. A RCP can be used in both general support (e.g. to maintain main supply routes) and in close support (e.g. to provide support to manoeuvre units on tactical road moves). RCPs can consist of Mechanized and Combat Heavy Engineers and EOD teams. Another method for organising an RCP is to form 5 elements within the team responsible for command and control, detection, security, improvement, and EOD.
+
+
+=== Military Search ===
+Military search is the management and application of systematic procedures and appropriate equipment to locate specified targets in support of military operations. Specified targets may include people, information and material resources employed by an adversary. The techniques of military search can be applied to all manner of search tasks to include combinations of personnel, buildings, venues, areas, routes, vehicles, vessels and aircraft.
+
+
+=== Military Working Dogs ===
+
+Military working dogs (MWD) are C-IED enablers and are often integral to search activities. The MWD, with its enhanced sense of smell, is a superior sensor capable of detecting a wide range of munitions and homemade explosives (HME) used to construct IEDs.
+Tactical use of MWDs can deprive the enemy of explosive caches and components, and disrupt the enemy’s ability to attack mounted and dismounted patrols. Effective integration of MWD teams in small unit tactical operations can reduce casualties, increase freedom of movement for dismounted patrols, and instill unit confidence in countering the IED threat.
+The MWD team can be thought of as a reconnaissance sensor. Like many sensors, the team can passively collect information all the time and teams are useful in this role. But by planning when and where an MWD team will search, units give themselves the greatest advantage of MWD teams. Units assign specific searches to MWD teams and can develop these collection requirements(searches for MWD teams) at critical times and places in their operations by analyzing historic IED data and threat tactics, techniques, and procedures (TTPs). MWD use is one tool in the unit’s IED defeat tool box, but it is not the only tool.
+
+
+=== Weapons Intelligence ===
+
+
+== Preparing the Force ==
+Prepare the force activity is applicable to all military and law enforcement components and describes the necessary measures to ensure they are prepared for operations and enabled to deliver the C-IED approach and its component capabilities. In order to deliver C-IED capability, coherent and supporting Lines of Development (LoD) are required. Not least C-IED efforts must be appropriately organised, interoperable with other military allies and the host nation law enforcement, manned, equipped, sustained, educated in doctrine, and trained in tactics, techniques, and procedures (TTPs) to the level required for their operational role. This capability is developed from a mix of the military commander’s guidance, the outputs of the residual experience in the operational area, the lessons process, and technology and contributions from the other C-IED pillars. Commanders ideally ensure that intelligence on IEDs and related adversary TTPs are quickly disseminated and that friendly TTPs can be modified to be as up-to-date, appropriate and effective as possible.
+
+
+=== Counter-IED Training ===
+Education and Individual Training (E&IT) comprises the instructional activities that provide skills, knowledge and attitudes required in the performance of assigned duties, and upon which information can be correctly interpreted and sound judgement exercised. E&IT focuses on preparation for a task in order to meet operational requirements and specific needs. The emergence of the IED threat has been a significant change to the historic threat faced by military and law enforcement communities and continues to be the primary casualty-producing weapon and tactic against military forces. To address this significant concern, the Counter-IED community has responded and developed a number of training activities to better prepare themselves for operations in a high threat IED environment.
+Train the Force, one of three mutually supporting lines of operation, is a critical component of the JIEDDO mission to defeat the IED threat as a weapon of strategic influence. The Joint Center of Excellence is JIEDDO's lead organization for the train-the-force line of operation and is responsible for development of training capabilities that enable the services' and combatant commanders' mission of preparing U.S. forces to defeat this threat.
+Combat Hunter Training teaches how to track the emplacer by combined hunter and tracker skills and with determining group dynamics - as an example - using the "street smarts" developed by law enforcement who work in the cities.
+Inert IED Training Devices are typically designed and constructed by current and former Explosive Ordnance Disposal (EOD) and Public Safety Bomb Technicians who draw from their real-world experience with live IEDs and other explosive threats to ensure that the training devices are accurate, current and realistic.
+
+
+=== Counter-IED Conferences and Workshops ===
+
+Various Counter-IED training workshops are provided by the private sector for government agencies and international corporations to help manage and reduce their risks from acts of terrorism, protect their assets, and adapt to ever-changing operational needs. These workshops include training courses on applications, security protocols, and various types of screening equipment.
+NATO holds an annual Counter-IED conference in cooperation with the C-IED Centre of Excellence.
+IB Consultancy organizes a worldwide series of events around C-IED and CBRNe: the NCT (non conventional threat). The Asian edition NCT eXplosive Asia will be held in 2014 for its 3rd edition in Siemens Reap, Cambodia.
+
+
+== Understanding and Intelligence ==
+
+
+=== Sources of Intelligence for C-IED ===
+Intelligence sources include national military and police agencies (including counterintelligence). The military intelligence component contributes to a C-IED approach in these ways:
+
+
+==== Intelligence, Surveillance and Reconnaissance ====
+
+Intelligence, Surveillance and Reconnaissance (ISR) is the coordinated and integrated acquisition, processing and provision of timely, accurate, relevant, coherent and assured information and intelligence to support commander’s conduct of activities. Land, sea, air and space platforms have critical ISR roles in supporting operations in general. For C-IED air and space platforms can provide valuable input for each of the intelligence disciplines. Land platforms contribute too, through observation posts, reconnaissance and patrolling activity, surveillance of targets as well as static cameras and sensors for monitoring locations, facilities, networks, individuals, routes etc. By massing ISR assets, allowing a period of immersion, developing layering and cross cueing of sensors, an improved clarity and depth of knowledge can be established.
+
+
+==== Human Intelligence ====
+
+Human Intelligence (HUMINT) is a category of intelligence derived from information collected and provided by human sources. Information from the local population and host nation security forces can prove especially valuable not least to establish unusual activity or information about adversaries in a society that may otherwise appear opaque. The view from those that understand the culture and the country best is invaluable in developing understanding. HUMINT is therefore vital to successful CIED.
+
+
+==== Imagery Intelligence ====
+
+Imagery Intelligence (IMINT) is intelligence derived from imagery acquired by sensors which can be ground-based, seaborne or carried by air or space platforms. For C-IED, imagery allows the physical capture of information for analysis and can be used, for example to: track human movement around suspicious areas; identify locations of interest; demonstrate change in an area or disturbance of terrain; demonstrate physical relationships or networks. IMINT can also provide the necessary proof required for analysis leading to effective targeting and successful prosecution.
+
+
+==== Signals Intelligence ====
+
+Signals Intelligence (SIGINT) is the generic term used to describe communications intelligence and electronic intelligence when there is no requirement to differentiate between these two types of intelligence, or to represent fusion of the two. For C-IED the analysis of intercepted communications enables hostile plans to be disrupted and to identify hostile personnel and their networks.
+
+
+==== Materiel and Personnel Exploitation ====
+Materiel and Personnel Exploitation (MPE) is the systematic collection and processing of information and dissemination of intelligence obtained as a result of tactical questioning, interrogation and the extraction of data from recovered materiel. It is a multi-source, responsive process that aims to maximize the intelligence value of captured personnel and recovered materiel. MPE activity may be supported by a dedicated intelligence exploitation facility which may include the ability to process captured persons. When MPE produces intelligence for C-IED it can directly feed into understanding of the IED System. The following disciplines/processes are the main components of MPE:
+Seized Media Analysis. Seized media analysis, referred to as Document and Media Exploitation (DOMEX) by the US, is the systematic exploitation of either hard copy documents (referred to as document exploitation) or electromagnetically stored data including that found on hard drives, data discs, personal communications systems (mobile phones and similar devices) as well as electromagnetic and digital exploitation. Whether seized for later exploitation or downloaded on site, items such as mobile phones, computer hard drives, USB sticks and digital cameras can provide a wealth of information that can link an IED to other threat activities.
+Tactical Questioning and Interrogation. Tactical questioning is the obtaining of information of a tactical nature from captured personnel, the value of which would deteriorate or be lost altogether if the questioning were delayed until a trained interrogator could be made available. Tactical questioning also facilitates the screening and selection of personnel for further exploitation by interrogation or debriefing. Interrogation is the systematic longer term questioning of a selected individual by a trained and qualified interrogator.
+Technical Intelligence. TECHINT is defined as intelligence concerning foreign technological developments, and the performance and operational capabilities of foreign materiel, which have or may eventually have a practical application for military purposes. TECHINT is wider than C-IED and encompasses small arms and other counter-threat efforts in any particular theater. Within the context of CIED, TECHINT comprises the examination and analysis process that aims to inform about the technical characteristics of a device, its functionality, components and mode of employment. This focussed activity is supported by NATO C-IED Exploitation System. TECHINT can also support source analysis activity by identifying patterns in either device usage or construction. Results will be promulgated by way of reports and advice. Reporting may be given an urgent and very high priority where there is an immediate FP impact. Some exploitation of IEDs and recovered materiel may fall into critical protected areas that may link to specific strategic efforts of OGDs.
+Forensic and Biometric Intelligence. Forensic and Biometric Intelligence (FABINT) is intelligence derived from the application of multi-disciplinary scientific or technical processes and can often, although not exclusively, be collected to an evidential standard. Biometric intelligence is a subset of this, and refers to forensic intelligence related to a specific individual. Examples include fingerprints, Deoxyribonucleic Acid (DNA) and tool marks on IED components. Outputs will include the extraction of latent prints and DNA from materiel, and the matching of these to database entries. FABINT is an important tool to C-IED as it allows understanding to be built about the parties in the IED System and will allow for criminal prosecutions as part of the long term solution.
+
+
+==== Multiple Source Fusion ====
+Multiple source fusion is the synthesis of information and intelligence from a limited number of sources, normally controlled by the same agency. Intelligence staff should fuse the output of multiple sources from the various natures of intelligence. Multiple source fusion activity should be collocated with collection assets. Fusion cells will produce IED trend reporting and intelligence reports to feed current operations or prosecuting follow-on activities as well as intelligence summaries to support future activities for example involving DNA or finger print matches.
+
+
+==== Single Source Processing ====
+Single source processing is the identification of patterns and intelligence start points within the single source collection environment, and the translation of that single source information into a format useful to the non-specialist. The single source processing capability should be able to re-task collection activity according to priorities; it should also be collocated with collection assets.
+
+
+=== Laboratory Services ===
+The Terrorist Explosive Device Analytical Center (TEDAC) was formally established in 2004 to serve as the single interagency organization to receive, fully analyze, and exploit all terrorist IEDs of interest to the United States. TEDAC coordinates the efforts of the entire government, from law enforcement to intelligence to military, to gather and share intelligence about these devices—helping to disarm and disrupt IEDs, link them to their makers, and prevent future attacks. TEDAC consists of a director (FBI), a deputy director (BATF), a Department of Defense executive manager (JIEDDO), and five units relating to forensics, technical exploitation, intelligence, and investigations. TEDAC includes representatives from the Department of Justice; the Department of Defense; international partner agencies; and members of the intelligence community.
+
+
+=== Intelligence Management Systems ===
+TRIPwire is a secure online portal sponsored by the Department of Homeland Security's Office for Bombing Prevention (DHS/OBP). TRIPwire is designed to bring technical and operational information on terrorist tactics, techniques, and procedures (TTPs) to the desktop of officers in the bombing prevention community. It also facilitates information sharing and networking by offering collaboration tools such as community forums and secure e-mail. TRIPwire allows law enforcement to access and share information and experiences about the IED threat.
+The Dfuze Intelligence Management System allows secure storage and maintenance of all data related to IED, EOD, criminal gang, terrorist and firearm incidents and operations. The system provides a centralized view of all significant data on record with built-in analytical tools and secure data sharing for data entry, data linking, data searching and data retrieval.
+
+
+== See also ==
+Social network analysis
+Route Clearance
+Combined Joint Task Force Paladin
+
+
+== References ==
+
+
+== External links ==
+SRC, Inc. Counter-IED Systems: developer of the CREW Duke system
+Humanistic Robotics Inc: Countermine and IED equipment
+Counter Improvised Explosive Device Task Force (C-IED TF) acts as the strategic focal point for C-IED issues within the Canadian Forces (CF)
+TEDAC Marks 10-Year Anniversary - A Potent Weapon in the War on Terror FBI
+Threat Finance: A Critical Enabler for Illicit Networks by Danielle Camner Lindholm and Celina B. Realuyo
+Tripwire Operations Group
+C-IED.ORG Home Page
+Joint IED Defeat Organization: The Authority on IEDs
+TRIPwire The United States Department of Homeland Security's technical resource for incident prevention
+Counter-IED Report

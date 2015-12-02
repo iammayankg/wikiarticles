@@ -1,0 +1,69 @@
+Earth's energy budget accounts for how much energy comes into the Earth's climate system from the Sun, how much energy is lost to space and accounting for the remainder on Earth and its atmosphere. Quantifying changes in these amounts is required to accurately model climate.
+
+Received radiation is unevenly distributed over the planet, because the Sun heats equatorial regions more than polar regions. Energy is absorbed by the atmosphere and hydrosphere and, in a process informally described as Earth's heat engine, the solar heating is distributed through evaporation of surface water, convection, rainfall, winds and ocean circulation. When incoming solar energy is balanced by an equal flow of heat to space, Earth is in radiative equilibrium and global temperatures stabilize.
+Disturbances of Earth's radiative equilibrium, such as an increase of greenhouse gases, change global temperatures in response. However, Earth's energy balance and heat fluxes depend on many factors, such as atmospheric composition (mainly aerosols and greenhouse gases), the albedo (reflectivity) of surface properties, cloud cover and vegetation and land use patterns. Changes in surface temperature due to Earth's energy budget do not occur instantaneously, due to the inertia of the oceans and the cryosphere. The net heat flux is buffered primarily in the ocean's heat content, until a new equilibrium state is established between radiative forcings and climate response.
+
+
+== Energy budget ==
+The earth receives a certain amount of Insolation (short waves or ultraviolet radiation) and gives back heat into space by terrestrial radiation (infrared or long wave radiation). Through this give and take, or the heat budget, the earth maintains a constant temperature. The earth as a whole does not accumulate or lose heat. It maintains its temperature. This can happen only if the amount of heat received in the form of insolation equals the amount lost by the earth through terrestrial radiation. Consider that the insolation received at the top of the atmosphere is 100 per cent. While passing through the atmosphere some amount of energy is reflected, scattered and absorbed. Only the remaining part reaches the earth surface. Roughly 35 units are reflected back to space even before reaching the earth’s surface. Of these, 27 units are reflected back from the top of the clouds and 8 units from the snow and ice-covered areas of the earth. The reflected amount of radiation is called the albedo of the earth. The remaining 65 units are absorbed, 14 units within the atmosphere and 51 units by the earth’s surface. The earth radiates back 51 units in the form of terrestrial radiation. Of these, 17 units are radiated to space directly and the remaining 34 units are absorbed by the atmosphere (6 units absorbed directly by the atmosphere, 9 units through convection and turbulence and 19 units through latent heat of condensation). 48 units absorbed by the atmosphere (14 units from insolation +34 units from terrestrial radiation) are also radiated back into space. Thus, the total radiation returning from the earth and the atmosphere respectively is 17+48=65 units which balance the total of 65 units received from the sun. This is termed the heat budget or heat balance of the earth. This explains, why the earth neither warms up nor cools down despite the huge transfer of heat that takes place. Heat Budget
+
+
+=== Incoming radiant energy (shortwave) ===
+The total amount of energy received per second at the top of Earth's atmosphere (TOA) is measured in watts and is given by the solar constant times the cross-sectional area of the Earth. Because the surface of a sphere is four times the cross-sectional area of a sphere, the average TOA flux is one quarter of the solar constant and so is approximately 340 W/m². Since the absorption varies with location as well as with diurnal, seasonal and annual variations, numbers quoted are long-term averages, typically averaged from multiple satellite measurements.
+Of the ~340 W/m² of solar radiation received by the Earth, an average of ~77 W/m² is reflected back to space by clouds and the atmosphere and ~23 W/m² is reflected by the surface albedo, leaving ~240 W/m² of solar energy input to the Earth's energy budget. This gives the earth a mean net albedo of 0.29.
+
+
+=== Earth's internal heat and other small effects ===
+The geothermal heat flux from the Earth's interior is estimated to be 47 terawatts. This comes to 0.087 watt/square metre, which represents only 0.027% of Earth's total energy budget at the surface, which is dominated by 173,000 terawatts of incoming solar radiation.
+Other minor sources of energy are usually ignored in these calculations, including accretion of interplanetary dust and solar wind, light from distant stars and the thermal radiation of space. Earlier, Joseph Fourier had claimed that deep space radiation was significant in a paper often cited as the first on the greenhouse effect.
+
+
+=== Longwave radiation ===
+
+Longwave radiation is usually defined as outgoing infrared energy, leaving the planet. However, the atmosphere absorbs parts initially, or cloud cover can reflect radiation. Generally, heat energy is transported between the planet's surface layers (land and ocean) to the atmosphere, transported via evapotranspiration and latent heat fluxes or conduction/convection processes. Ultimately, energy is radiated in the form of longwave infrared radiation back into space.
+Recent satellite observations indicate additional precipitation, which is sustained by increased energy leaving the surface through evaporation (the latent heat flux), offsetting increases in longwave flux to the surface.
+
+
+=== Earth's energy imbalance ===
+If the incoming energy flux is not equal to the outgoing thermal radiation, the result is an energy imbalance, resulting in net heat added to or lost by the planet (if the incoming flux is larger or smaller than the outgoing). Earth's energy imbalance measurements provided by Argo floats detected accumulation of ocean heat content (OHC). The estimated imbalance was measured during a deep solar minimum of 2005-2010 at 0.58 ± 0.15 W/m². Later research estimated the surface energy imbalance to be 0.60 ± 0.17 W/m².
+
+
+== Measurement ==
+Several satellites indirectly measure the energy absorbed and radiated by Earth and by inference the energy imbalance. The NASA Earth Radiation Budget Experiment (ERBE) project involves three such satellites: the Earth Radiation Budget Satellite (ERBS), launched October 1984; NOAA-9, launched December 1984; and NOAA-10, launched September 1986.
+Today NASA's satellite instruments, provided by CERES, part of the NASA's Earth Observing System (EOS), are designed to measure both solar-reflected and Earth-emitted radiation.
+
+
+== Natural greenhouse effect ==
+
+The major atmospheric gases (oxygen and nitrogen) are transparent to incoming sunlight and are also transparent to outgoing thermal infrared. However, water vapor, carbon dioxide, methane and other trace gases are opaque to many wavelengths of thermal infrared energy. The Earth's surface radiates the net equivalent of 17 percent of incoming solar energy as thermal infrared. However, the amount that directly escapes to space is only about 12 percent of incoming solar energy. The remaining fraction—a net 5-6 percent of incoming solar energy—is transferred to the atmosphere when greenhouse gas molecules absorb thermal infrared energy radiated by the surface.
+
+When greenhouse gas molecules absorb thermal infrared energy, their temperature rises. Like coals from a fire that are warm but not glowing, greenhouse gases then radiate an increased amount of thermal infrared energy in all directions. Heat radiated upward continues to encounter greenhouse gas molecules; those molecules absorb the heat, their temperature rises and the amount of heat they radiate increases. At an altitude of roughly 5–6 kilometres, the concentration of greenhouse gases in the overlying atmosphere is so small that heat can reach space.
+Because greenhouse gas molecules radiate infrared energy in all directions, some of it spreads downward and ultimately returns to Earth's surface, where it is absorbed. Surface temperature is thus higher than it would be if it were heated only by direct solar heating. This supplemental heating is the natural greenhouse effect.
+
+
+== Climate sensitivity ==
+
+A change in the incident or radiated portion of the energy budget is referred to as a radiative forcing.
+Climate sensitivity is the steady state change in the equilibrium temperature as a result of changes in the energy budget.
+
+
+=== Climate forcings and global warming ===
+
+Climate forcings are energy balance changes that affect that cause temperatures to rise or fall. Natural climate forcings include changes in the Sun's brightness, Milankovitch cycles (small variations in the shape of Earth's orbit and its axis of rotation that occur over thousands of years) and volcanic eruptions that inject light-reflecting particles as high as the stratosphere. Man-made forcings include particle pollution (aerosols) that absorb and reflect incoming sunlight; deforestation, which changes how the surface reflects and absorbs sunlight; and the rising concentration of atmospheric carbon dioxide and other greenhouse gases, which decrease heat radiated to space.
+A forcing can trigger feedbacks that intensify (positive feedback) or weaken (negative feedback) the original forcing. For example, loss of ice at the poles, which makes them less reflective, is an example of a positive feedback.
+The observed planetary energy imbalance during the recent solar minimum shows that solar forcing of climate, although significant, is overwhelmed by anthropogenic climate forcing.
+Eliminating the anthropogenic forcing would require that atmospheric CO2 content be reduced to about 350 ppm. The impact of anthropogenic aerosols has not been quantified, but individual aerosol types are thought to have substantial heating and cooling effects.
+
+
+== See also ==
+Planetary equilibrium temperature
+Clouds and the Earth's Radiant Energy System
+
+
+== References ==
+
+
+== External links ==
+NASA: The Atmosphere's Energy Budget
+Clouds and Earth's Radiant Energy System (CERES)
+NASA/GEWEX Surface Radiation Budget (SRB) Project

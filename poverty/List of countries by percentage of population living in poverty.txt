@@ -1,0 +1,30 @@
+These are the lists of countries of the world by percentage of population living in poverty.
+
+
+== Methodology ==
+"Poverty" defined as an economic condition of lacking both money and basic necessities needed to successfully live, such as food, water, education, healthcare, and shelter. There are many working definitions of "poverty," with considerable debate on how to best define the term .
+Lack of income security, economic stability and the predictability of one's continued means to meet basic needs all serve as absolute indicators of poverty. Poverty may therefore also be defined as the economic condition of lacking predictable and stable means of meeting basic life needs.
+The first table refers to the lists of countries by the percentage of their population with an income of less than 1.90, and less than 2, US dollars per day. The sourced data refers to the most recent year available during the period 1992-2011.
+The second table lists countries by the percentage of the population living below the national poverty line — the poverty line deemed appropriate for a country by its authorities. National estimates are based on population-weighted subgroup estimates from household surveys.
+Definitions of the poverty line do vary considerably among nations. For example, rich nations generally employ more generous standards of poverty than poor nations. Even among rich nations, the standards differ greatly. Thus, the numbers are not comparable among countries. Even when nations do use the same method, some issues may remain.
+Only countries for which sourced data is available are listed. Data of countries, including Libya, Saudi Arabia remains unavailable. It's usually accepted, that over one third (33.3%) of the population in these countries lives below the poverty line.
+
+
+== Countries ==
+
+
+== See also ==
+List of countries by Human Development Index
+List of countries by foreign aid received
+General:
+Economic inequality
+Income disparity
+International inequality
+
+
+== References ==
+
+
+== External links ==
+Global Distribution of Poverty Global poverty datasets and map collection
+http://www.nationmaster.com/country-info/stats/Economy/Population-below-poverty-line

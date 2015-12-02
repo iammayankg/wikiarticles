@@ -1,0 +1,135 @@
+The Terrorist Surveillance Program was an electronic surveillance program implemented by the National Security Agency (NSA) of the United States in the wake of the September 11, 2001, attacks. It was part of the President's Surveillance Program, which was in turn conducted under the overall umbrella of the War on Terrorism. The NSA, a signals intelligence agency, implemented the program to intercept al Qaeda communications overseas where at least one party is not a U.S. person. In 2005 The New York Times disclosed that technical glitches resulted in some of the intercepts including communications which were "purely domestic" in nature, igniting the NSA warrantless surveillance controversy. Later works, such as James Bamford's The Shadow Factory, describe how the nature of the domestic surveillance was much, much more widespread than initially disclosed. In a 2011 New Yorker article, former NSA employee Bill Binney said that his colleagues told him that the NSA had begun storing billing and phone records from "everyone in the country."
+The program was named the Terrorist Surveillance Program by the George W. Bush administration in response to the NSA warrantless surveillance controversy following disclosure of the program. It is claimed that this program operated without the judicial oversight mandated by Foreign Intelligence Surveillance Act (FISA), and legal challenges to the program are currently undergoing judicial review. Because the technical specifics of the program have not been disclosed, it is unclear if the program is subject to FISA. It is unknown if this is the original name of the program; the term was first used publicly by President Bush in a speech on January 23, 2006.
+On August 17, 2006, U.S. District Judge Anna Diggs Taylor ruled the program unconstitutional and illegal. On appeal, the decision was overturned on procedural grounds and the lawsuit was dismissed without addressing the merits of the claims, although one further challenge is still pending in the courts. On January 17, 2007, Attorney General Alberto Gonzales informed U.S. Senate leaders by letter  that the program would not be reauthorized by the president, but would be subjected to judicial oversight. "Any electronic surveillance that was occurring as part of the Terrorist Surveillance Program will now be conducted subject to the approval of the Foreign Intelligence Surveillance Court", according to his letter.
+On June 6, 2013, it was revealed that the Terrorist Surveillance Program was replaced by a new NSA program, referred to by its codeword, PRISM.
+Basaaly Saeed Moalin was charged in 2013 with giving material support to an al-Queda cell based in Somalia named al-Shabaab. The NSA discovered Moalin when his phone number was flagged with having contact with known terrorists overseas. They gave the information to the FBI who discovered that Moalin was providing money to fund extremist activities in Somalia. Khalid Ouazzani is another example. Ouazzani was charged with promising support to al-Queda and providing them with materials for their attacks against the United States. The NSA discovered Ouazzani by interrupting contact between Ouazzani, who was in the U.S., and an extremist in Yemen. Ouazzani was included in helping form a plot that was going to bomb then New York Stock Exchange. Another threat that the NSA helped prevent involved David Headley, a United States citizen living in Chicago. He was eventually convicted on charges of terrorism, in which he later admitted to being involved. Headley was involved in an attack in Mumbai that killed 160 people. The NSA became aware of him when they intercepted communications by him planning an attack on a Danish newspaper. 
+
+
+== DescriptionEdit ==
+While no specific information has been offered, the Bush Administration has indicated that the wiretapping program targets communications where at least one party is outside the United States, and where it asserts that there are reasonable grounds to believe that one or more parties involved in the communication have ties to al Qaeda. However, anonymous sources have come forward stating a small number of instances where purely domestic calls were intercepted. These sources said the NSA accidentally intercepted these calls, apparently caused by technical glitches in determining whether a communication was in fact "international", probably due to the use of international cell phones.
+The complete details of the program are not known, as the Bush Administration contended that security concerns did not allow it to release details, and limit judicial authorization and review. Implemented sometime after the September 11, 2001, attacks, the existence of the program was not made public until a 2005 New York Times article. Additional details came to light in a May 2006 USA Today article.
+President Bush stated that he had reviewed and reauthorized the program approximately every 45 days since it was implemented. The leadership of the intelligence committees of the House or Representatives and Senate were briefed a number of times since initiation of the program. They were not, however, allowed to make notes or confer with others to determine the legal ramifications, or even to mention the existence of the program to the full membership of the intelligence committees. Further, the administration even refused to identify to the public which members of the committees were briefed; it has, however, provided a complete list of these members to the Senate Intelligence Committee.
+
+
+=== Pen register tapEdit ===
+
+Prominent legal scholar and blogger Orin Kerr has argued that the program is probably not a wiretap or call database, but more likely to be a pen register (or tap-and-trace) tap. Unlike wiretaps, where the actual content of the call is monitored, or listened to, a pen register is a limited form of wiretap where only basic call data (metadata) such as originating and receiving telephone numbers, time of call and duration are logged. Because of the limited nature of the data, frequently characterized as "outside the envelope", pen register taps have much lower legal standards than conventional wiretaps, and are not subject to Fourth Amendment protection.
+The only physical evidence of the NSA program are documents accidentally leaked to lawyers for an al-Qaeda front group the Al-Haramain Foundation. These documents contain only logs of phone calls being placed, but not actual transcripts, suggesting the wiretapping program is merely a pen-register tap.
+
+
+=== Call databaseEdit ===
+
+On May 10, 2006, USA Today reported that the NSA has had a separate, previously undisclosed program in place since 9/11 to build a database of information about calls placed within the United States, including both phone numbers and the date and duration of the calls. According to the article, phone companies AT&T, Verizon, and Bell South disclosed the records to the NSA, while Qwest did not. The article quotes an unnamed source that "it's the largest database ever assembled in the world". Most reports indicate that this program is different from the Terrorist Surveillance Program. The administration has not confirmed the existence of this aspect of the program.
+
+
+=== Undersea cable tappingEdit ===
+Both the U.S. government and also spy organizations in the U.K. have tapped "the spine of the internet", a transatlantic Ethernet cable, using submarines to access it and put on equipment to commandeer as much information as they wish to apply special searches in order to narrow down potential terrorist activity. With current laws in the U.S. (as of 2013), a warrant is not necessary if the government's surveillance is 'reasonably believed' to be overseas.
+
+
+== News reportingEdit ==
+
+
+=== December 16, 2005Edit ===
+On December 16, 2005, The New York Times printed a story asserting that following 9/11, "President Bush secretly authorized the National Security Agency to eavesdrop on Americans and others inside the United States to search for evidence of terrorist activity without the court-approved warrants ordinarily required for domestic spying" as part of the War on Terror.
+
+Under a presidential order signed in 2002, the intelligence agency monitored the international telephone calls and international e-mail messages of hundreds, perhaps thousands, of people inside the United States without warrants over the past three years in an effort to track possible "dirty numbers" linked to Al Qaeda, the officials said. The agency, they said, still seeks warrants to monitor entirely domestic communications.
+
+According to the Times:
+
+The White House asked The New York Times not to publish this article, arguing that it could jeopardize continuing investigations and alert terrorists that they might be under scrutiny. After meeting with senior administration officials to hear their concerns, the newspaper delayed publication for a year to conduct additional reporting. Some information that administration officials argued could be useful to terrorists has been omitted.
+
+White House press secretary Scott McClellan refused to comment on the story on December 16, exclaiming "there's a reason why we don't get into discussing ongoing intelligence activities, because it could compromise our efforts to prevent attacks from happening."  The next morning, the president gave a live eight-minute television address instead of his normal weekly radio address, during which he addressed the wiretap story directly:
+
+I authorized the National Security Agency, consistent with U.S. law and the Constitution, to intercept the international communications of people with known links to al Qaeda and related terrorist organizations. Before we intercept these communications, the government must have information that establishes a clear link to these terrorist networks.
+
+In the address, President Bush implied he had approved the tracing of domestic calls originating or terminating overseas, stating the program would "make it more likely that killers like these 9/11 hijackers will be identified and located in time."
+He forcefully defended his actions as "crucial to our national security" and claimed that the American people expected him to "do everything in my power, under our laws and Constitution, to protect them and their civil liberties" as long as there was a "continuing threat" from al Qaeda. The president also had harsh words for those who broke the story, saying that they acted illegally. "The unauthorized disclosure of this effort damages our national security and puts our citizens at risk", he said.
+The FBI began an investigation into the leaks surrounding this program in 2005, with 25 agents and 5 prosecutors on the case.
+
+
+=== January 1, 2006Edit ===
+On January 1, 2006, The New York Times printed a story revealing that aspects of the program were suspended for weeks in 2004. The Times story said the U.S. Attorney General's office, then headed by John Ashcroft, balked in 2004 when asked to give approval of the program, and that then Deputy Attorney General James B. Comey "played a part in overseeing the reforms that were put in place in 2004." According to the Times, however, the oversight by the NSA shift supervisor continued to be unfettered by any pre-approval requirement. The story also pointed out that even some NSA employees thought that the warrantless surveillance program was illegal.
+The Times had withheld the article from publication for over a year. Both editor-in-chief Bill Keller and publisher Arthur Sulzberger Jr. were summoned by the president and White House officials to persuade the paper not to publish the story. The Times ran the story shortly before it would have been scooped by publication of its own reporter's book. The Times ombudsman speculates that the reason the backstory isn't being revealed is to protect sources. Russ Tice claims he was a source for the story.
+
+
+=== January 3, 2006Edit ===
+On January 3, the news program Democracy Now! ran a story that, according to NSA whistleblower Russell Tice, the number of Americans affected by the range of NSA surveillance programs could be in the millions if the full extent of secret NSA programs is considered. The story was picked up by ABC News on January 10:
+
+Tice says the technology exists to track and sort through every domestic and international phone call as they are switched through centers, such as one in New York, and to search for key words or phrases that a terrorist might use.
+"If you picked the word 'jihad' out of a conversation," Tice said, "the technology exists that you focus in on that conversation, and you pull it out of the system for processing."
+According to Tice, intelligence analysts use the information to develop graphs that resemble spiderwebs linking one suspect's phone number to hundreds or even thousands more.
+"That would mean for most Americans that if they conducted, or you know, placed an overseas communication, more than likely they were sucked into that vacuum," Tice said.
+
+
+=== January 17, 2006Edit ===
+On January 17, the New York Times reported that "more than a dozen current and former law-enforcement and counterterrorism officials", some of whom knew of the domestic spying program, "said the torrent of tips [from NSA wiretapping] led them to few potential terrorists inside the country they did not know of from other sources and diverted agents from counterterrorism work they viewed as more productive".
+
+
+=== February 5, 2006Edit ===
+On February 5, The Washington Post noted that "fewer than 10 U.S. citizens or residents a year, according to an authoritative account, have aroused enough suspicion during warrantless eavesdropping to justify interception of their (purely) domestic calls, as well. That step still requires a warrant from a federal judge, for which the government must supply evidence of probable cause." Also in the article: "The minimum legal definition of probable cause, said a government official who has studied the program closely, is that evidence used to support eavesdropping ought to turn out to be 'right for one out of every two guys at least.' Those who devised the surveillance plan, the official said, 'knew they could never meet that standard—that's why they didn't go through'" the Foreign Intelligence Surveillance Court.
+Also on February 5, USA Today ran a story reporting that according to seven telecommunications executives, the NSA had secured the cooperation of the main telecommunications companies in charge of international phone calls, including AT&T, MCI, and Sprint, in its efforts to eavesdrop without warrants on international calls.
+
+
+=== May 22, 2006Edit ===
+In its issue dated May 22, 2006, Newsweek put the controversy on the cover of its magazine and ran several stories inside summarizing what is known and speculations about it.
+On May 22, 2006, Wired Magazine released the text of AT&T documents, currently under court seal in the EFF case, that allegedly describe NSA wiretap arrangements.
+
+
+== Legality of the programEdit ==
+
+The NSA's electronic surveillance operations are governed primarily by four legal sources: the Fourth Amendment to the U.S. Constitution; the Foreign Intelligence Surveillance Act of 1978 (FISA); Executive Order 12333; and United States Signals Intelligence Directive 18. The primary legal challenge to the program currently in US courts is the suit brought by the Al-Haramain Foundation. All other challenges to the program have been dismissed by U.S. courts.
+Critics of the Bush administration have regularly compared the current NSA surveillance program to those of Richard Nixon during the Vietnam War (i.e., Project Shamrock, Project Minaret, Church committee). However, these programs occurred prior to the 1978 Foreign Intelligence Surveillance Act (FISA), which was passed into law in response to widespread concern over these abuses of domestic surveillance activities. According to opponents of this program that is exactly what the current program is doing and why FISA was enacted.
+The American Civil Liberties Union filed an ultimately unsuccessful lawsuit against the program in 2006 on behalf of journalists, scholars, and lawyers. In the initial trial, U.S. District Judge Anna Diggs Taylor on August 17, 2006, ruled the program was unconstitutional and imposed an injunction against it. The Justice Department filed an appeal within hours of the ruling and requested a stay of the injunction pending appeal. While opposing the stay, the ACLU agreed to delay implementation of the injunction until September 7 to allow time for the judge to hear the appeal. On appeal, the U.S. Court of Appeals for the Sixth Circuit dismissed the case without addressing the merits of the claims, holding 2–1 that the plaintiffs lacked standing to bring the suit.
+
+
+== ControversyEdit ==
+
+When classified details were leaked to the press at some point in 2005, critics began to question the legality of the program. The crux of the debate over legality is twofold, the main issues being
+Are the parameters of this program subject to FISA and
+If so, did the president have authority, inherent or otherwise, to bypass FISA.
+FISA explicitly covers "electronic surveillance for foreign intelligence information" performed within the United States, and there is no court decision supporting the theory that the president's constitutional authority allows him to override statutory law. This was emphasized by fourteen constitutional law scholars, including the dean of Yale Law School and the former deans of Stanford Law School and the University of Chicago Law School:
+"The argument that conduct undertaken by the commander in chief that has some relevance to 'engaging the enemy' is immune from congressional regulation finds no support in, and is directly contradicted by, both case law and historical precedent. Every time the Supreme Court has confronted a statute limiting the commander in chief's authority, it has upheld the statute. No precedent holds that the president, when acting as commander in chief, is free to disregard an Act of Congress, much less a criminal statute enacted by Congress, that was designed specifically to restrain the president as such." (Emphasis in original.)
+The American Bar Association, the Congressional Research Service, former congressional representative of New York Elizabeth Holtzman, former White House Counsel John Dean, and lawyer/author Jennifer van Bergen have also criticized the administration's justification for conducting electronic surveillance within the U.S. without first obtaining warrants as contrary to current U.S. law.       President Bush's former Assistant Deputy Attorney General for national security issues, David Kris, and five former FISC judges, one of whom resigned in protest, have also voiced their doubts as to the legality of a program bypassing FISA  Stanford's Chip Pitts has usefully distinguished between the core NSA eavesdropping program, the data mining program, and the use of National Security Letters to clarify that each continues to present serious legal problems despite the government's supposedly bringing them within the relevant laws.
+
+
+== See alsoEdit ==
+Hepting v. AT&T
+NSA warrantless surveillance controversy
+Surveillance
+Mass surveillance
+COINTELPRO
+Communications Assistance for Law Enforcement Act
+Family Jewels
+Stellar Wind (code name)
+ThinThread
+Trailblazer Project
+Utah Data Center
+Whistleblowers
+William Binney
+Thomas Andrews Drake
+Ed Loomis
+Diane Roark, House Permanent Select Committee on Intelligence staffer
+Edward Snowden
+Russ Tice
+Thomas Tamm
+J. Kirk Wiebe
+
+
+== ReferencesEdit ==
+
+
+== External linksEdit ==
+The Program, by Laura Poitras, New York Times, August 22, 2012.
+Giving In to the Surveillance State, by Shane Harris, New York Times, August 22, 2012.
+WhiteHouse.gov: "Setting the Record Straight"
+thewall.civiblog.org: "Yale Law Professor Harold Hongju Koh Statement 28 February 2006 to Senate Judiciary Committee re Wartime Executive Power and legal limits of NSA Surveillance Authority"
+thewall.civiblog.org: "Harvard Law Professor Laurence H. Tribe's 6 January 2006 Letter to Rep. Conyers re: legal limits of NSA Domestic Surveillance - House Judiciary Democratic Congressional Briefing - 20 January 2006"
+thewall.civiblog.org: "Congressional Research Service - Presidential Authority to Conduct Warrantless Electronic Surveillance to Gather Foreign Intelligence Information by Elizabeth B. Bazan and Jennifer K. Elsea, January 5, 2006" (HTML)
+thewall.civiblog.org: "Congressional Research Service - Statutory Procedures Under Which Congress Is To Be Informed of U.S. Intelligence Activities, Including Covert Actions by Alfred Cumming, January 18, 2006" (HTML)
+thewall.civiblog.org: "EFF Class Action Complaint (Initial Filing) against AT&T" (HTML)
+thewall.civiblog.org: "ACLU Complaint (Initial Filing) against the NSA Central Security Service and Lieutenant General Keith B. Alexander"
+thewall.civiblog.org: "Big Brother Is Watching You Part 2 - collection of mirrored USA Today Print coverage, May 11, 2006"
+thewall.civiblog.org: "NSA has massive database of Americans' phone calls - from collection of mirrored USA Today Print coverage, May 11, 2006"
+thewall.civiblog.org: "Questions and answers about the NSA phone record collection program - from collection of mirrored USA Today Print coverage, May 11, 2006"
+thewall.civiblog.org: "Fractured phone system consolidating once again - from collection of mirrored USA Today Print coverage, May 11, 2006"
+thewall.civiblog.org: "TIA Lives On - Shane Harris, National Journal - February 23, 2006 (mirrored with permission)"

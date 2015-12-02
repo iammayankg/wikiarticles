@@ -1,0 +1,114 @@
+The Combatant Status Review Tribunals (CSRT) were a set of tribunals for confirming whether detainees held by the United States at the Guantanamo Bay detention camp had been correctly designated as "enemy combatants". The CSRTs were established July 7, 2004 by order of U.S. Deputy Secretary of Defense Paul Wolfowitz after U.S. Supreme Court rulings in Hamdi v. Rumsfeld and Rasul v. Bush s:Combatant Status Review Tribunal (fact sheet of October 17, 2006) and were coordinated through the Office for the Administrative Review of the Detention of Enemy Combatants.
+These non-public hearings were conducted as "a formal review of all the information related to a detainee to determine whether each person meets the criteria to be designated as an enemy combatant." The first CSRT hearings began in July 2004. Redacted transcripts of hearings for "high value detainees" were posted to the Department of Defense (DoD) website. As of October 30, 2007, fourteen CSRT transcripts were available on the DoD website.
+
+
+== Existing U.S. and the Combat Status Review Tribunals ==
+The CSRTs are not bound by the rules of evidence that would apply in court, and the government’s evidence is presumed to be “genuine and accurate.” The government is required to present all of its relevant evidence, including evidence that tends to negate the detainee’s designation, to the tribunal. Unclassified summaries of relevant evidence may be provided to the detainee. The detainee’s personal representative may view classified information and comment on it to the tribunal to aid in its determination but does not act as an advocate for the detainee. If the tribunal determines that the preponderance of the evidence is insufficient to support a continued designation as “enemy combatant” and its recommendation is approved through the chain of command established for that purpose, the detainee will be informed of that decision upon finalization of transportation arrangements (or earlier, if the task force commander deems it appropriate). The rules do not give a timetable for informing detainees in the event that the tribunal has decided to retain their enemy combatant designations. Article 5 creates a particularized limited process, intended to sort individuals when any doubt exists as to their status. The sole question for determination is whether the captive meets the definition of POW in Article 4 of the Prisoner of War Convention.
+Secretary of the Navy Gordon R. England stated:
+
+Thus, the tribunals themselves are modeled after the procedures—AR 190-8 Tribunals—the military uses to make determinations in compliance with the Article 5 of the Third Geneva Convention (that states "Should any doubt arise as to whether persons, having committed a belligerent act and having fallen into the hands of the enemy, belong to any of the categories enumerated in Article 4, such persons shall enjoy the protection of the present Convention until such time as their status has been determined by a competent tribunal.") This is most likely because, in Hamdi v. Rumsfeld, a plurality of the Supreme Court suggested the Department of Defense empanel tribunals similar to the AR 190 to make factual status determinations. The mandate of the CSRTs and the AR 190-8 Tribunals differed in that AR 190-8 Tribunals were authorized to determine that captives were civilians, who should be released, and "lawful combatants", who the Geneva Conventions protect from prosecution.
+
+
+=== Conduct of Combatant Status Review Tribunals ===
+
+The exact location of the current CSRT hearings is unknown, but prior CSRT hearings were held in trailers in Guantanamo Bay, Cuba. Images of the trailers, with the white, plastic chairs the detainees sat in shackled to the floor and the large, black leather chair behind a microphone where the President sat can be found on the DoD website.
+A dramatization of the conduct of CSRTs, based on CSRT transcripts, is presented in the film The Response.
+
+
+=== Presiding officers ===
+The identity of the presiding officers at CSRTs hearings is classified. In the CSRT transcripts released on the DoD website, that information has been removed from the transcripts. The ranks of those present, however, and their service branch remain in the documents. For example, at Guleed Hassan Ahmed's CSRT in April 2007, the CSRT President was a Lieutenant Colonel from the U.S. Air Force. Other services present include the U.S. Marine Corps and the U.S. Army; the only other rank mentioned in the transcript was Gunnery Sergeant. In other CSRTs, the ranks, services, and persons present varied. At certain CSRTs, a non-military language analyst was present.
+
+
+=== Role of the CSRT Recorder ===
+The CSRT Recorder had several tasks. First, he or she was charged with keeping a record of the CSRT process by recording the CSRT process. Second, the Recorder swore in all the CSRT participants by administering an oath. Third, the Recorder was also charged with presenting classified and unclassified material during the CSRTs. Fourth, the Recorder was often asked to explain or clarrify facts or information during the CSRT. In Guleed Hassan Ahmed's CSRT transcript one finds the following exchange:
+
+PRESIDENT:[The]Tribunal has completed its review of the unclassified evidence provided. We do have one question for the Recorder. Is Somalia, Ethiopia, and/or Kenya a coalition partner?
+RECORDER: Somalia is not; Ethiopia is; and Kenya is, a coalition partner of the United States.
+
+
+=== Role of the Detainee at CSRTs ===
+Detainees had the option of attending their CSRTs, but attendance was not mandated. Some detainees protested the CSRTs by not attending, opting instead to send personal, written statements to be read before the CSRT in their absence. The reading of a detainee's written statement was the task of The Personal Representative, and this occurred, in one case, with Guleed Hassan Ahmed who did not attend his CSRT and instead sent a statement. When detainees did attend, if required, a translator was typically present to assist the detainee and tribunal members. They are given a copy of the unclassified summary of information, and aided by a "Personal Representative".
+
+
+=== Presence of Observers at CSRTs ===
+The question of the presence of outside, neutral observers at the CSRTs is debated. 
+
+
+=== Murat Kurnaz, an example ===
+Murat Kurnaz is a young Turkish citizen who was born in, and had grown up, in Germany. When captured, he was close to being granted German citizenship, which children of guest workers are required to apply for in a separate process when they come of age. While on a trip to Pakistan in the fall of 2001, he was taken off a tourist bus and detained, then transferred to United States custody. When his case was reviewed by a CSRT in the fall of 2004, the tribunal's determined there was enough evidence that Kurnaz had ties to terrorism to classify and hold him as an enemy combatant.
+Through a bureaucratic slip-up, Kurnaz's file was declassified. During the brief window when it was declassified in March 2005, the Washington Post reviewed all the evidence against him and published a summary.
+Joyce Hens Green, a US District Court judge for the District of Columbia, was assigned in 2004 to coordinate the nearly 60 habeas corpus cases filed following the US Supreme Court's decision in Rasul v. Bush (2004) that detainees had the right to due process and to habeas corpus challenges of their detention. Kurnaz' case was one which she reviewed, and she had the clearance to review both the classified and declassified materials.
+Green found that Kurnaz' file contained some 100 pages of documents and reports explaining that German and American investigators could find no evidence whatsoever that Kurnaz had any ties to terrorism. Shortly before his tribunal an unsigned memo had been added to his file concluding he was an al Qaeda member. Green's comment on the memo was that it:
+
+Green stated that Kurnaz' case was an "extreme example of illegal detention" at Guantanamo.
+Eugene R. Fidell, a Washington-based expert in military law, said:
+
+
+== Critics ==
+Principal arguments of why these tribunals are inadequate to warrant acceptance as "competent tribunal" are: 
+The CSRT conducted rudimentary proceedings
+The CSRT afforded detainees few basic protections
+Many detainees lacked counsel
+The CSRT also informed detainees only of general charges against them, while the details on which the CSRT premised enemy combatant status decisions were classified.
+Detainees had no right to present witnesses or to cross-examine government witnesses.
+Some specific cases that call attention to what critics assert is a flawed nature of the CSRT procedure: Mustafa Ait Idir, Moazzam Begg, Murat Kurnaz, Feroz Abbasi, and Martin Mubanga. 
+James Crisfield, the legal advisor to the Tribunals, offered his legal opinion, that CSRT "do not have the discretion to determine that a detainee should be classified as a prisoner of war -- only whether the detainee satisfies the definition of "enemy combatant"" Determining whether a captive should be classified as a prisoner of war is the purpose of a "competent tribunal". On June 29, 2006, the Supreme Court of the United States ruled that the Geneva Conventions should be applied, but only Article 3, which does not require a competent tribunal.
+
+
+== Results ==
+Specific Combatant Status Review Tribunal hearings have resulted in a variety of outcomes. Many detainees are still being detained, others have been released to return to their homeland, and still others have been classified and cleared for release but remain at Guantanamo Bay and in U.S. custody because their home countries cannot assure their safety.
+According to the prior Secretary of the Navy Gordon England, The basis of detaining captured enemy combatants is not to punish but, rather, to prevent them from continuing to fight against the United States and its coalition partners in the ongoing global war on terrorism. Detention of captured enemy combatants is both allowed and accepted under international law of armed conflict.
+
+
+== 2007 Combatant Status Review Tribunals for 14 "high-value detainees" ==
+In a surprise move President George W. Bush announced the transfer of 14 "high-value detainees" from clandestine CIA custody to military custody in Guantanamo in the fall of 2006. Prior to the transfer legal critics had repeatedly stated that the men in covert CIA custody could never be tried because they had been subjected to abusive interrogation techniques, which would invalidate any evidence that flowed from their interrogations. Nevertheless, Bush said the transfer would allow the men, most of whom were considered to be members of the inner circle of al Qaeda's senior leadership, to be tried at Guantanamo Bay using the CSRT procedures.
+
+
+== U.S. Judicial appeals ==
+The Bush Presidency asserted that the captives had no right to appeal and that they were outside the US judicial systems. Captives who had "next friends" willing to initiate the habeas corpus process filed appeals before US District Courts. Rasul v. Bush (2004) was the first appeal to make its way to the Supreme Court of the United States. The court ruled that detainees had the right to challenge the basis of their detention, and that the government needed to distinguish between POWs, civilians, and enemy combatants.
+To respond to the Court's ruling, the Bush administration established the Combatant Status Review Tribunals to review whether detainees were properly classified as enemy combatants and began reviews in 2004. It was not until they had determined if a detainee was an enemy combatant that they could proceed to trials by military commissions. In Hamdan v. Rumsfeld (2006), the Court ruled that the system of military commissions as established by DOD was illegal and needed to be replaced by a system authorized by Congress. Through the Detainee Treatment Act of 2005 and the Military Commissions Act of 2006, in accordance with Bush administration goals, the United States Congress moved to limit, and then curtail the detainees' ability to file habeas corpus appeals. The Supreme Court ruled on the outstanding habeas corpus appeals in Al Odah v. United States and Boumediene v. Bush (2008), discussed below.
+The Military Commission Act provides a process by which captives can appeal the decisions of the Combatant Status Review Tribunal and whether it properly followed OARDEC's rules in reaching its determination. If and when captives are able to file these appeals, they would be heard before the U.S. Court of Appeals for the D.C. Circuit. Emma Schwartz, in the US News and World Report, on August 30, 2007, reported that her sources told her: "...Up to one fourth of the department's own civil appellate staff has recently opted out of handling the government's cases against detainee appeals."
+Several amalgamated cases have been initiated in the DC Circuit Court. There is controversy over whether the Appeal Court will have access to all the evidence against the captives. As of May 2008, none of the cases has proceeded to the point when the judges would consider the merits of the case.
+
+
+== Supreme Court 2008 ruling ==
+On June 12, 2008 the Supreme Court ruled in the case Boumediene v. Bush, 5-4, that Guantanamo captives were entitled to access the US justice system.
+Justice Anthony Kennedy wrote in the majority opinion:
+
+The Court also ruled that the Combatant Status Review Tribunals were "inadequate". Ruth Bader Ginsburg, Stephen Breyer, David Souter and John Paul Stevens joined Kennedy in the majority. Chief Justice John Roberts, in the dissenting opinion, called the CSR Tribunals:
+
+Samuel Alito, Clarence Thomas and Antonin Scalia joined Roberts in the dissent. Vincent Warren, executive director of the Center for Constitutional Rights, the organization that initiated the case that the Supreme Court ruled on, said:
+
+
+== See also ==
+Administrative Review Board
+Guantanamo military commissions
+Fourth Geneva Convention
+Ex parte Quirin
+Extraordinary rendition by the United States
+Charles Swift
+Irregulars
+Mohammed el Gharani
+No longer enemy combatant
+Third Geneva Convention
+Unlawful combatant
+War on terror
+
+
+== Notes ==
+
+
+== External links ==
+Q&A: Guantanamo Hearings, BBC, August 6, 2004
+US Admits Translation Errors At Guantanamo Tribunals, Australian Broadcasting Corporation, August 27, 2004
+Top 10 Signs You Might Not Get a Fair Trial at Gitmo, NPR, September 14, 2004
+US court questions detainee handling, Australian Financial Review, September 9, 2005
+Guantánamo - an icon of lawlessness, Amnesty International
+Fabricated Justice: Guantanamo Four Years Later, Human Rights Watch, January 24, 2006
+List of detainees who went through complete CSRT process, April 19, 2006
+Benjamin Davis (July 13, 2007). "Keep Our Honor Clean". Toledo Free Press. 
+"REP. IKE SKELTON HOLDS A HEARING ON HABEAS CORPUS FOR DETAINEES.". United States Congress. 30 July 2007. Retrieved 2008-04-25. 
+The Response, official website.
+Human Rights First; Undue Process: An Examination of Detention and Trials of Bagram Detainees in Afghanistan in April 2009 (2009)
+Human Rights First; Arbitrary Justice: Trial of Guantánamo and Bagram Detainees in Afghanistan (2008)
+Pete Yost, Matt Kelley (2005-04-10). "Court papers reveal detainees' stories". Washington DC: St. Augustine Record. Archived from the original on 2013-06-19. Retrieved 2013-06-19.

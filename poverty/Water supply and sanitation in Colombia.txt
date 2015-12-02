@@ -1,0 +1,200 @@
+This article was last updated on substance in August 2012. However, sections of this article are older and may need to be updated. Feel free to update this article wherever needed.
+Water supply and sanitation in Colombia has been improved in many ways over the past decades. Between 1990 and 2010, access to improved sanitation increased from 67% to 82%, but access to improved water source's increased only slightly from 89% to 94%. In particular, coverage in rural areas lags behind. Furthermore, despite improvements, the quality of water and sanitation services remains inadequate. For example, only 73% of those receiving public services receive water of potable quality and in 2006 only 25% of the wastewater generated in the country underwent any kind of treatment.
+
+
+== Overview ==
+A comprehensive sector policy, introduced in 1994, aimed at increasing water and sanitation investments through targeted transfers to municipalities, improving service quality and efficiency by promoting private sector participation in the poorest parts of the country where utilities were not performing well, the establishment of autonomous regulatory agencies at the national level, increased cost recovery, and protecting the poorest through cross-subsidies in the form of area-based tariffs. This same policy has been pursued and refined by different consecutive governments.
+Responsibilities in the sector are divided as follows:
+The Vice-Ministry of Water and Sanitation, created in October 2006 within the Ministry of Environment, Housing and Territorial Development is in charge of setting sector policy.
+Regulation is the responsibility of two separate institutions at the national level, the Potable Water and Basic Sanitation Regulation Commission (CRA) and the Superintendency of Residential Public Services (SSPD), a multi-sector regulatory agency.
+Service provision is the responsibility of 1,500 water and sanitation service providers in urban areas and probably more than 12,000 communal organizations providing services in rural and peri-urban areas. While most urban service providers are public, in 2004 there were 125 private and 48 mixed public-private water companies in the country.
+Cost recovery in the sector has improved substantially. Between 1990 and 2001, the average tariff for water and sanitation in Colombia increased from US$0.32/m3 to US$0.81/m3, equivalent to an increase of 153%. As a result, 24% of investments were self-financed by utilities in 2004. Other features of the sector are the existence of some large, well-performing public companies; a strong and stable participation by the local private sector in service provision; and some well-performing community-based organizations in peri-urban areas.
+Recently, the government of Álvaro Uribe has initiated a number of complementary policies to accelerate increases in access to water and sanitation services, such as the strengthening of the roles of departments in the governance of the sector, a program for marginal urban neighborhoods and an increase in investments for wastewater treatment.
+
+
+== Access ==
+In 2010, 92% of the population had access to an improved source of water and 77% had access to adequate sanitation. The rural population, which accounts for about 25% of the national total, has the lowest coverage rates, with only 72% having access to safe water and 63% to adequate sanitation. Coverage is lowest on the Atlantic Coast (Caribbean Region), in the Orinoquia, and in Amazonia.
+
+
+== Service quality ==
+In addition to issues of service coverage, Colombia’s water and sanitation sector faces issues of service quality. However, service quality has improved considerably over the last fifteen years. The biggest cities tend to offer better service quality than smaller towns and rural areas.
+
+Continuity of supply. The average duration of daily water service has increased from 15.36 hours in 1993 to 19.82 hours in 2003 at the national level. In the four biggest cities of the country, service is continuous. Nevertheless, rationing of water and interrupted sanitation are ordinary incidents in small towns and rural areas.
+Drinking water quality. According to a survey of the Superintendencia de Servicios Públicos Domiciliarios (SSPD) or Superintendency for Residential Public Services in 2004, 72% of the users had water of potable quality. In some cases, the water supply system’s pressure is not adequate, increasing the risk of bacterial contamination.
+Sewerage. Sewage collection systems do not have sufficient hydraulic capacity to handle wastewater flows, especially in poor neighborhoods, which results in combined sewer overflows and sanitary sewer overflows.
+Wastewater treatment. In 2006, 25% of the wastewater generated in the country underwent some kind of treatment. The remaining 75% is discharged without any treatment, contaminating a significant part of the natural water resources.
+
+
+== History ==
+The water and sanitation sector in Colombia underwent one cycle of centralization and decentralization within the past several decades. Since the enactment of a comprehensive new sector policy in 1994, various governments have pursued the same set of basic policies, including targeted transfers to municipalities, private sector participation, regulation, cost recovery and a system of cross-subsidies.
+
+
+=== Centralization (1950s to late 1980s) ===
+In the first half of the 20th century, municipalities were responsible for the provision of basic water and sanitation services in Colombia. In 1950, similar to many other countries, a centralized system was adopted and the Instituto de Fomento Municipal (INSFOPAL) or Municipal Development Institute was created. Empresas Departamentales de Acueducto y Alcantarillado (ACUAS) or Departmental Water and Sewerage Companies were created, consisting of the departments, the municipalities and INSFOPAL, which took care of managing and maintaining the infrastructure of the member communities. In that way, investment at the national level was channelled into this important area of public health.
+In 1976, within the framework of a change in sector policies, the ACUAS were transformed into Empresas de Obras Sanitarias (EMPOS) or Sanitary Works Companies at the regional or municipal level, which were put in charge of financing, planning, developing and managing public services in most municipalities. However, some municipalities kept the responsibility for service provision at the local level and created municipal companies. The most notable case are the Empresas Públicas de Medellín (EPM), a municipally owned multi-sector utility created in 1955.
+At the national level, the water sector institutionally depended on the Ministry of Health.
+
+
+=== Decentralization (late 1980s to 1993) ===
+In the 1980s, the sector was in crisis, characterized by low investment, poor cost recovery and poor service quality in most of the country. As a result, the government decided to break up INSFOPAL at the end of the 1980s and to devolve the responsibility for service provision back to the municipalities after four decades, except for some cases like the Valle de Cauca department, where the regional companies continued providing the services. Furthermore, the institutional responsibility for the sector was transferred from the Ministry of Health to the Ministry of Economic Development. This change was not only an administrative change, but it introduced a different focus and perspective to the sector.
+
+
+=== New financing system and public-private partnerships (1994-2006) ===
+The two liberal governments of César Gaviria (1990-1994) and Ernesto Samper (1994-1998) pursued a policy of economic opening and business modernization. In the spirit of these policies, the government established a comprehensive new sector policy that aimed at increasing water and sanitation investments through targeted transfers to municipalities, improving service quality and efficiency by promoting private sector participation in the poorest parts of the country where public utilities were not performing well, the establishment of autonomous regulatory agencies at the national level, increased cost recovery, and protecting the poorest through cross-subsidies in the form of area-based tariffs. The basis of this sector policy was established by Law 142 of July 1994, at the end of president César Gaviria’s term of office. With some modifications to that law in 2001, the same policy continues to be pursued to today despite several changes of governments.
+In 1995, the first water and sanitation concession in Colombia was given to a mixed public-private company in the city of Cartagena, followed by a second concession in Barranquilla in 1996 and more concessions in the next years. In 2002, the government launched a program of business modernization to introduce private sector participation also in small and medium-sized municipalities, leading to significant improvements in quality and efficiency of service provision in some municipalities. Drinking water use has decreased by 25% between 1996 and 2001. Tariff increases and the inclusion of low income users who did not have access to piped water before influenced this trend.
+
+
+=== Creation of a Vice-Ministry for Water and Sanitation and Departmental Plans (since 2006) ===
+The government of Álvaro Uribe wants to rapidly increase coverage, overtaking the Millennium Development Goals for the sector and to improve service quality, especially in small towns and rural areas, which have the highest requirement of service improvement.
+At the end of 2006, a Vice-Ministry for Water and Sanitation was created. It has initiated four new programs:
+Departmental Water and Sanitation Plans
+Programa de Saneamiento para Asentamientos (SPA) or Sanitation Program for Settlements within the framework of an Integral Quarter Improvement Program
+Municipal Waste Water Sanitation Program (SAVER) to increase the rate of treated municipal water
+Handwashing Program
+Water Storage campaign
+The Departmental Water and Sanitation Plans program provides such services as planning and harmonizing resources and has regional systems of service provision at the level of each department of the country. The program was first implemented in four departments which have some of the most difficult conditions: Sucre, Córdoba, Magdalena and La Guajira. The program also aimed to overcome the sector’s fragmentation into many small utilities to benefit from economies of scale. In 2010 30 Departmental Plans were completed and published, covering almost all of the country's 32 departments.
+In about 2011, the responsibility for water supply and sanitation, and with it the Vice-Ministry, was transferred to the newly created Ministry of Housing, Cities and Territories. As of August 2012, the Vice-Ministry's website made no more reference to the Departmental Water and Sanitation Plans. The handwashing program, the SPA and SAVER were still in place. In addition, two new programs were started:
+A "water culture" (Cultura del Agua) program that combats apathy and lack of interest concerning water utilities, promotes water reuse and the protection of watersheds, and fights water losses, illegal connections and the non-payment of water bills.
+A "transparent water" program to ensure greater visibility and a wider implication of various stakeholders in water projects, especially during an early stage of implementation.
+
+
+== Responsibility for water supply and sanitation ==
+
+The current responsibilities and policies in the water and sanitation sector in Colombia are primarily defined in the 1991 constitution and in Law 142 of 1994 (Ley de Servicios Públicos Domiciliarios or Public Housing Services Law)
+
+
+=== Policy and regulation ===
+The Vice-Ministry of Water and Sanitation, created in October 2006 within the Ministry of Environment, Housing and Territorial Development is in charge of setting sector policy. This sector policy is defined in the framework of national policy established by the Departamento Nacional de Planificación (DNP) or National Planning Department.
+Responsibility for regulating water services is vested in two separate institutions at the national level. The Comisión de Regulación de Agua Potable y Saneamiento Básico (CRA) or Potable Water and Basic Sanitation Regulatory Commission defines criteria for efficient service provision and sets the rules for tariff revision, but is not in charge of controlling the application of these rules. The latter is the responsibility of the Superintendencia de Servicios Públicos Domiciliarios (SSPD) or Superintendency for Residential Public Services, a multi-sector regulatory agency.
+The Government aims at improving the performance of the water and sanitation sector through: (1) strengthening the regulatory framework; (2) implementing technical assistance programs; (3) providing financial support to promote modernization and efficient management as well as to subsidize the poor; and (4) rationalizing the institutional framework at the national level to improve coordination in the sector. The government also supports private sector participation in the sector.
+
+
+=== Service provision ===
+Colombian municipalities are responsible for “ensuring that their inhabitants are given domestic services of water supply and sanitation in an efficient way by public companies”. Therefore, public utilities are directly responsible for service provision, except for some special cases defined in the law, in which municipalities can offer the services directly. In rural areas and some marginal urban areas, communal water boards also offer water supply services.
+Over the last few years, the number of companies has increased and the direct service provision by municipalities has decreased. To simplify the process of changing suppliers' ownership structure, municipal utilities were transformed into public stock corporations, which allow private sector participation without a further change of the legal status. In 2006, 53% of all suppliers were public companies, the remainder being direct municipal suppliers (15%), private companies (12%), official companies, which are companies that are not specialized in water and sanitation (13%), mixed companies (6%) and authorized organizations (1%). Smaller utilities included, there are more than 1,500 water and sanitation service providers of in urban areas, and probably more than 12,000 communal organizations providing services in rural areas.
+The sector is characterized by a high degree of fragmentation which makes it difficult to realize economies of scale, according to a World Bank study. To solve this problem, the creation of regional companies has been suggested.
+
+
+==== Urban areas ====
+Most Colombian cities - including the three largest ones, Bogota, Medellin and Cali - are served by public utilities. However, the private sector also plays an important role, including 125 private and 48 mixed public-private water companies in 2004 out of 1,500 urban service providers.
+
+
+===== Public utilities =====
+
+Some of Colombia's larger cities are home to well-performing public utilities, some of them providing multiple services, others being specialized in water and sanitation only. The Empresas Públicas de Medellín or Public Companies of Medellín, is a municipally owned multi-sector utility in charge of water supply, sanitation, solid waste management, electricity generation and distribution as well as local telecommunications in Medellín and its surrounding areas.
+Another multi-sector utility is the Empresas Municipales de Cali (Emcali), which provides fixed line local telecoms, Internet, potable water, sewage and electricity services to some 600,000 clients. EMCALI has suffered financially due to onerous payment obligations resulting from a Power Purchase Agreement signed in 1997 with an Independent Power Producer, TermoEmcali.
+The capital of Colombia, Bogotá, is served by a water and sanitation utility, the Empresa de Acueducto y Alcantarillado de Bogotá (EAAB).
+
+
+===== Private sector participation =====
+
+Private sector participation in Colombia's water and sanitation sector has been much more stable than in some other Latin American countries. In 2004, there were 125 private and 48 mixed public-private water companies in Colombia, including large, medium and small companies. Private sector involvement in the Colombian water sector began in 1995 in Cartagena, with support from the World Bank. The most important examples are in Cartagena, Barranquilla, Santa Marta, Tunja, Montería, Palmira, Girardot, and Riohacha. Operators are to a large extent Colombian. Overall performance of utilities with private sector participation has improved, in some cases spectacularly, and some – such as Barranquilla – have had impressive successes in expanding coverage to the urban poor.
+According to a World Bank report, the key to success of private sector participation in the Colombian water sector has been the development of homegrown solutions, and, at times, skillfully adapting models used elsewhere to the particular circumstances and culture of Colombia.
+The World Bank's Private Participation in Infrastructure Database shows private investment commitments in water supply and sanitation of US$ 940 million from 1995 to 2006 through 51 transactions, including 27 classified as concessions, 22 as management and lease contracts, and 2 as greenfield projects.
+
+
+==== Small towns and peri-urban areas ====
+In some smaller towns and peri-urban areas, there are examples of successful provision of water supply and sanitation services by community organizations and regional companies, which in some cases set an example in terms of community empowerment, transparency and accountability.
+An example of a regional association is Acuavalle S.A. ESP, which provides drinking water and sanitation to 582,000 inhabitants in 33 municipalities of the Valle del Cauca department. It was founded as a non-profit public limited company in 1959. The shareholders of the company are the Valle del Cauca department, the ‘’Corporación Autónoma regional del valle del Cauce’’ and 33 municipalities, which are served by the utility.
+Another example, is the Junta Administradora del Acueducto La Sirena en el Valle del Cauca (Water Board La Sirena) in the southwestern outskirts of Cali, which manages 778 residential connections, offering continuous service to some 4,200 users. It operates a sewerage system and a wastewater treatment plant. Water consumption is metered. The average monthly tariff is US$3.5 for 28m3. There is no social stratification, but special tariffs are applied to those users who consume more than 28m3. The annual cash surplus is about US$10,000 which is reinvested in preventive maintenance and in some cases in construction works. In this way, in the last 3 years a water capture facility was constructed in Quebrada Epaminondas, another one at Melendez River was improved, and a water tank with a capacity of 220m3 was constructed.
+Another example is the Asociación Acueducto de Río Negro de Popayán, which was formed 10 years ago integrating 10 supply systems, supplying 7,000 residential connections. The association is preparing its own water treatment plant and preparing to install meters with the aid of the Colombian organization Asociados en Desarrollo Rural (ADR) or Associates in Rural Development and the United States Agency for International Development (USAID).
+
+
+==== Rural areas ====
+Coverage in rural areas is unusually low, given the level of economic development and sector development. Using a broad definition of access, based on the WHO definition of an improved water source, access in rural areas in Colombia was 71%, while it was 81% in Honduras - a considerably poorer country - and 89% in Ecuador, also a poorer country than Colombia.
+In addition to the armed conflict, there are other explanations for this situation: Municipalities tend to use their financial resources from the Sistema General de Participaciones or General Participation System (Law 715 of 2001) mainly in urban areas. Furthermore, there is no institution or program at the national level which offers technical assistance to the 12,000 rural community organizations. Law 142 of 1994 assigns that task to the departments, but these have not carried out the task in a satisfactory way so far.
+The 2002 Inventario Sanitario Rural (ISR) or Rural Sanitary Register confirms that situation. Only 21% of the rural community organizations were considered able to carry out maintenance and only 10% to commercially operate the service. Only 32% issued bills and only 10% used metering. In 2005, the government defined guidelines for basic water supply and sanitation policy in rural areas to increase coverage and improve quality in those areas.
+In addition a GIS study published in 2014  documented that for many rural areas the time needed to drive to water testing labs than is longer than the sample is viable.
+
+
+== Innovative approaches ==
+Since 1994 Colombia has pioneered many innovative approaches for basic service provision in general and for water supply and sanitation in particular.
+Some of them were introduced at the national level, while others were initiated in one city or region. Notable innovations at the national level are the introduction of two autonomous economic regulatory agencies (one, CRA, to develop and fine-tune regulatory tools in the water and sanitation sector, and another one, SSPD, to implement them in across all basic services) in 1994; the introduction of socio-economic strata as a basis for spatially differentiated tariffs, also in 1994; and the spatial aggregation of municipal service providers in small towns at the departmental level to benefit from economies of scale since 2006, with strong support from the national government.
+A notable innovation initiated by a city or a region is the creation of mixed public-private enterprises for urban water supply that has begun in 1995 in Cartagena, followed by Barranquilla and other Northern and Central cities and towns. Another innovation is an association of community-based organizations (CBOs) providing water supply in rural and peri-urban areas in the departments of El Valle, Cauca and Risaralda in Southwestern Colombia. It began in the late 1990s with the assistance of the Universidad del Valle in Cali in order to protect and recover source watersheds and to strengthen the CBOs' capacity to administrate, operate and maintain their water systems.
+In addition, Colombia boasts one of the oldest and largest multi-utilities in Latin America, Empresas Públicas de Medellín (EPM), created in 1955.
+
+
+== Efficiency ==
+The average level of non-revenue water (physical and economic losses) in Colombia in 2006 is estimated to be 49%. This level is higher than the Latin American average (approximately 40%) and the regulatory goal of 30%. In the past, the national average of non-revenue water was estimated 40% in 2001, which is almost the same as in 1990. In the largest cities of the country, levels of non-revenue water are below the national average (40% in Bogotá, 35% in Medellín and 39% in Cali).
+
+
+== Financial aspects ==
+
+
+=== Tariffs ===
+The Colombian tariff system is defined in the Ley de Servicios Públicos or Public Services Law from 1994. It is applied in public, mixed and private companies. The tariff system aims at reconciling the achievement of cost recovery with the protection of the poor. The basic tariff is calculated on the basis of economic costs according to a methodology defined at the national level by CRA (Law 287 of 2004). Therefore, in principle, tariffs in different municipalities do not differ due to local government’s decisions to raise tariffs or not, but only because of the different costs of the services. The base tariff of each service provider has to be adjusted by law for different geographic areas within the city, each assumed to correspond to one socio-economic class, according to adjustment factors that are specified by law. This system of area-based tariffs is supposed to provide cross-subsidies from more affluent to poorer users. Every municipality has defined geographic areas that each correspond to one of the six socio-economic classes. Class 1 represents the lowest income group while class 6 stands for the highest. As per 2007, the tariff adjustment factors were the following:
+There are many more citizens who live in areas corresponding to classes 1–3 than those who live in the areas corresponding to classes 5 and 6. For example, in Bogotá 73% of the population live in zones of classes 1–3, whereas only 10% live in zones classified as 5 and 6. Consequently, the tariff system permanently causes deficits which require subsidies paid by the national government.
+Between 1990 and 2001, the average tariff for water and sanitation in Colombia increased from US$0.32/m3 to US$0.81/m3, equivalent to an increase of 153%. In 2006, the average monthly bill for residential customers was about US$6.80 for water supply and US$4.60 for sanitation services.
+Free basic water. Inspired by the Human Right to Water, two important cities in Colombia make a basic amount of water (Minimo Vital de Agua Potable) available to their poorest residents free of charge. In 2009, Medellin made 2.5 cubic meters of water per month and per person - or 10 cubic meters for a family of four - available for free to all urban residents in class 1. The city wants to reach 45,000 households and has budgeted 25 billion Pesos (USD 14 million) to finance free basic water and associated awareness campaigns.  In February 2012 Bogota also introduced 6 cubic meters of free basic water per household for households in classes 1 and 2, covering more than 1.5 million households or 39% of all households. The annual cost is estimated at 60 billion Pesos (USD 33 million).
+
+
+=== Investment ===
+Between 1995 and 2003, US$3.4 billion (7,965 billion Colombian pesos) were invested in the sector, of which 16% were financed by the private sector. Since 1998, private financing increased from almost zero to become a significant share of the total investment. Furthermore, despite a drop in 2001, investment in the sector has increased since 1999.
+
+The SSPD forecasts a total investment of US$2.2 billion (4,922 billion Colombian pesos) in the water and sanitation sector from 2007 to 2017
+The Minister of Environment, Housing and Territorial Development announced in May 2008 that US$5.2 million (9.2 billion Colombian pesos) will be spent in order to facilitate the construction of facilities in areas without access to drinking water. The national government will control the destination of the resources and guarantees transparency in the whole spending process. According to the minister, Colombia should already have reached full drinking water coverage, given the past investments in the sector.
+
+
+=== Financing ===
+According to the ministry, the investments were mainly financed through three sources: self-financing, funding by the national government and charges for the extraction of petroleum and carbon.
+A World Bank study estimates an investment of US$411m in 2004, which was financed as follows:
+US$108m (26%) by companies through self-financing
+US$249m (61%) by state funding through SGP
+US$49m (12%) by Corporaciones Autónomas Regionales (CAR) or Regional Autonomous Corporations
+US$5m (1%) by other sources
+According to the report, the average annual transfers from the national government to the municipalities for water supply and sanitation (including solid waste) were about US$278m between 1998 and 2001. 86% of that funding was allocated through the SGP as defined in Law 715. A certain percentage of these resources was dedicated exclusively for water supply and sanitation. They mainly go to small municipalities that show low income levels. Nevertheless, many municipalities use funding through SGP dedicated for water supply and sanitation for other purposes.
+The CAR receive property tax, electric power utilities, environmental charges for extracting water and charges for discharging waste water.
+
+
+== External cooperation ==
+The main external cooperation partners for the Colombian water and sanitation sector are the World Bank, the Inter-American Development Bank (IDB) and the Andean Development Corporation (CAF).
+
+
+=== World Bank ===
+The World Bank supports the sector through dedicated water and sanitation projects, as well as through water and sanitation components in other, broader projects.
+Dedicated water and sanitation projects:
+Bogotá Urban Services Project
+Cartagena Water Supply, Sewerage and Environmental Management Project
+La Guajira Water and Sanitation Infrastructure and Service Management Project
+Water And Sanitation Sector Support Project First Phase APL
+Water Sector Reform Assistance Project
+Non-dedicated projects:
+Disaster Vulnerability Reduction First Phase APL
+Rio Frio Carbon Offset Project
+Amoya River Environmental Services
+Sustainable Development Investment Project
+
+
+=== Inter-American Development Bank (IDB) ===
+Potable Water and Sanitation Pereira
+
+
+=== Andean Development Corporation (CAF) ===
+CAF supports the sector through a USD 42.5 million loan to the Cesar Department in 2006 and a USD 58.1 million loan to the Empresas Aguas del Magdalena approved in 2007.
+For information on CAF projects in Colombia see: CAF Colombia
+
+
+== References ==
+
+
+== External links ==
+Documents
+World Bank (2004). "Recent Economic Developments in Infrastructure (REDI) in Colombia (Executive summary)". Retrieved 2008-03-02. 
+Policy and regulation
+Vice Ministry of Water and Sanitation
+Superintendency for Residential Public Services (SSPD)
+Water Regulatory Commission (CRA)
+National Planning Department (DNP)
+Service providers
+National Association of public utilities (ANDESCO)
+Bogotá Water Utility (EAAB)
+Medellín Multi-Utility (EPM)
+AAA, a private Colombian utility
+
+
+== See also ==
+Electricity sector in Colombia
+Water resources management in Colombia
+Water privatization in Colombia
+Integrated urban water management in Medellín, Colombia
+Irrigation in Colombia

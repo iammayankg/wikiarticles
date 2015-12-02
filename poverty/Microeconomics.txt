@@ -1,0 +1,124 @@
+Microeconomics (from Greek prefix mikro- meaning "small") is a branch of economics that studies the behavior of individuals and firms in making decisions regarding the allocation of limited resources. Typically, it applies to markets where goods or services are bought and sold. Microeconomics examines how these decisions and behaviors affect the supply and demand for goods and services, which determines prices, and how prices, in turn, determine the quantity supplied and quantity demanded of goods and services.
+This is in contrast to macroeconomics, which involves the "sum total of economic activity, dealing with the issues of growth, inflation, and unemployment." Microeconomics also deals with the effects of national economic policies (such as changing taxation levels) on the aforementioned aspects of the economy. Particularly in the wake of the Lucas critique, much of modern macroeconomic theory has been built upon 'microfoundations'—i.e. based upon basic assumptions about micro-level behavior.
+One of the goals of microeconomics is to analyze market mechanisms that establish relative prices amongst goods and services and allocation of limited resources amongst many alternative uses. Microeconomics also analyzes market failure, where markets fail to produce efficient results, and describes the theoretical conditions needed for perfect competition. Significant fields of study in microeconomics include general equilibrium, markets under asymmetric information, choice under uncertainty and economic applications of game theory. Also considered is the elasticity of products within the market system.
+
+
+== Assumptions and definitionsEdit ==
+Microeconomic theory typically begins with the study of a single rational and utility maximizing individual. To economists, rationality means an individual possesses stable preferences that are both complete and transitive. The technical assumption that preference relations are continuous is needed to ensure the existence of a utility function. Although microeconomic theory can continue without this assumption, it would make comparative statics impossible since there is no guarantee that the resulting utility function would be differentiable.
+Microeconomic theory progresses by defining a competitive budget set which is a subset of the consumption set. It is at this point that economists make the technical assumption that preferences are locally non-satiated. Without the assumption of LNS (local non-satiation) there is no guarantee that a rational individual would maximize utility. With the necessary tools and assumptions in place the utility maximization problem (UMP) is developed.
+The utility maximization problem is the heart of consumer theory. The utility maximization problem attempts to explain the action axiom by imposing rationality axioms on consumer preferences and then mathematically modeling and analyzing the consequences. The utility maximization problem serves not only as the mathematical foundation of consumer theory but as a metaphysical explanation of it as well. That is, the utility maximization problem is used by economists to not only explain what or how individuals make choices by why individuals make choices as well.
+The utility maximization problem is a constrained optimization problem in which an individual seeks to maximize utility subject to a budget constraint. Economists use the extreme value theorem to guarantee that a solution to the utility maximization problem exists. That is, since the budget constraint is both bounded and closed, a solution to the utility maximization problem exists. Economists call the solution to the utility maximization problem a Walrasian demand function or correspondence.
+The utility maximization problem has so far been developed by taking consumer tastes (i.e. consumer utility) as the primitive. However, an alternative way to develop microeconomic theory is by taking consumer choice as the primitive. This model of microeconomic theory is referred to as Revealed preference theory. To reconcile these two models, restrictions are placed on the Walrasian demand function. Specifically, the solution to a utility maximization problem must satisfy the Weak Axiom of Revealed Preferences (WARP). In order for a Walrasian demand function to satisfy WARP the Substitution (Slutsky) Matrix must be negative semi-definite. Put more simply, in order for a Walrasian demand function to be consistent with WARP its substitution effect must always be non-positive.
+
+The theory of supply and demand usually assumes that markets are perfectly competitive. This implies that there are many buyers and sellers in the market and none of them have the capacity to significantly influence prices of goods and services. In many real-life transactions, the assumption fails because some individual buyers or sellers have the ability to influence prices. Quite often, a sophisticated analysis is required to understand the demand-supply equation of a good model. However, the theory works well in situations meeting these assumptions.
+Mainstream economics does not assume a priori that markets are preferable to other forms of social organization. In fact, much analysis is devoted to cases where market failures lead to resource allocation that is suboptimal and creates deadweight loss. A classic example of suboptimal resource allocation is that of a public good. In such cases, economists may attempt to find policies that avoid waste, either directly by government control, indirectly by regulation that induces market participants to act in a manner consistent with optimal welfare, or by creating "missing markets" to enable efficient trading where none had previously existed.
+This is studied in the field of collective action and public choice theory. "Optimal welfare" usually takes on a Paretian norm, which is a mathematical application of the Kaldor–Hicks method. This can diverge from the Utilitarian goal of maximizing utility because it does not consider the distribution of goods between people. Market failure in positive economics (microeconomics) is limited in implications without mixing the belief of the economist and their theory.
+The demand for various commodities by individuals is generally thought of as the outcome of a utility-maximizing process, with each individual trying to maximize their own utility under a budget constraint and a given consumption set.
+
+
+== Microeconomic topicsEdit ==
+The study of microeconomics involves several "key" areas:
+
+
+=== Demand, supply, and equilibriumEdit ===
+
+Supply and demand is an economic model of price determination in a perfectly competitive market. It concludes that in a perfectly competitive market with no externalities, per unit taxes, or price controls, the unit price for a particular good is the price at which the quantity demanded by consumers equals the quantity supplied by producers. This price results in a stable economic equilibrium.
+
+
+=== Measurement of elasticitiesEdit ===
+
+Elasticity is the measurement of how responsive an economic variable is to a change in another variable. Elasticity can be quantified as the ratio of the percentage change in one variable to the percentage change in another variable, when the later variable has a causal influence on the former. It is a tool for measuring the responsiveness of a variable, or of the function that determines it, to changes in causative variables in unitless ways. Frequently used elasticities include price elasticity of demand, price elasticity of supply, income elasticity of demand, elasticity of substitution between factors of production and elasticity of intertemporal substitution.
+
+
+=== Consumer demand theoryEdit ===
+
+Consumer demand theory relates preferences for the consumption of both goods and services to the consumption expenditures; ultimately, this relationship between preferences and consumption expenditures is used to relate preferences to consumer demand curves. The link between personal preferences, consumption and the demand curve is one of the most closely studied relations in economics. It is a way of analyzing how consumers may achieve equilibrium between preferences and expenditures by maximizing utility subject to consumer budget constraints.
+
+
+=== Theory of productionEdit ===
+
+Production theory is the study of production, or the economic process of converting inputs into outputs. Production uses resources to create a good or service that is suitable for use, gift-giving in a gift economy, or exchange in a market economy. This can include manufacturing, storing, shipping, and packaging. Some economists define production broadly as all economic activity other than consumption. They see every commercial activity other than the final purchase as some form of production.
+
+
+=== Costs of productionEdit ===
+
+The cost-of-production theory of value states that the price of an object or condition is determined by the sum of the cost of the resources that went into making it. The cost can comprise any of the factors of production: labour, capital, land. Technology can be viewed either as a form of fixed capital (ex:plant) or circulating capital (ex:intermediate goods).
+
+
+=== Perfect competitionEdit ===
+
+Perfect competition describes markets such that no participants are large enough to have the market power to set the price of a homogeneous product. A good example would be that of digital marketplaces, such as eBay, on which many different sellers sell similar products to many different buyers.
+
+
+=== MonopolyEdit ===
+
+A monopoly (from Greek monos μόνος (alone or single) + polein πωλεῖν (to sell)) exists when a single company is the only supplier of a particular commodity.
+
+
+=== OligopolyEdit ===
+
+An oligopoly is a market form in which a market or industry is dominated by a small number of sellers (oligopolists). Oligopolies can create the incentive for firms to engage in collusion and form cartels that reduce competition leading to higher prices for consumers and less overall market output.
+
+
+=== Market structureEdit ===
+The market structure can have several types of interacting market systems. Different forms of markets is a feature of capitalism and advocates of socialism often criticize markets and aim to substitute markets with economic planning to varying degrees. Competition is the regulatory mechanism of the market system.
+Monopolistic competition, also called competitive market, where there is a large number of firms, each having a small proportion of the market share and slightly differentiated products.
+Oligopoly, in which a market is run by a small number of firms that together control the majority of the market share.
+Duopoly, a special case of an oligopoly with two firms.
+Monopsony, when there is only one buyer in a market.
+Oligopsony, a market where many sellers can be present but meet only a few buyers.
+Monopoly, where there is only one provider of a product or service.
+Natural monopoly, a monopoly in which economies of scale cause efficiency to increase continuously with the size of the firm. A firm is a natural monopoly if it is able to serve the entire market demand at a lower cost than any combination of two or more smaller, more specialized firms.
+Perfect competition, a theoretical market structure that features no barriers to entry, an unlimited number of producers and consumers, and a perfectly elastic demand curve.
+Examples of markets include but are not limited to: commodity markets, insurance markets, bond markets, energy markets, flea markets, debt markets, stock markets, online auctions, media exchange markets, real estate market.
+
+
+=== Game theoryEdit ===
+
+Game theory is a major method used in mathematical economics and business for modeling competing behaviors of interacting agents. Applications include a wide array of economic phenomena and approaches, such as auctions, bargaining, mergers & acquisitions pricing, fair division, duopolies, oligopolies, social network formation, agent-based computational economics, general equilibrium, mechanism design,and voting systems, and across such broad areas as experimental economics, behavioral economics, information economics, industrial organization, and political economy.
+
+
+=== Labour economicsEdit ===
+
+Labour economics seeks to understand the functioning and dynamics of the markets for wage labour. Labour markets function through the interaction of workers and employers. Labour economics looks at the suppliers of labour services (workers), the demands of labour services (employers), and attempts to understand the resulting pattern of wages, employment, and income. In economics, labour is a measure of the work done by human beings. It is conventionally contrasted with such other factors of production as land and capital. There are theories which have developed a concept called human capital (referring to the skills that workers possess, not necessarily their actual work), although there are also counter posing macro-economic system theories that think human capital is a contradiction in terms.
+
+
+=== Welfare economicsEdit ===
+
+Welfare economics is a branch of economics that uses microeconomic techniques to evaluate well-being from allocation of productive factors as to desirability and economic efficiency within an economy, often relative to competitive general equilibrium. It analyzes social welfare, however measured, in terms of economic activities of the individuals that compose the theoretical society considered. Accordingly, individuals, with associated economic activities, are the basic units for aggregating to social welfare, whether of a group, a community, or a society, and there is no "social welfare" apart from the "welfare" associated with its individual units.
+
+
+=== Economics of informationEdit ===
+
+Information economics or the economics of information is a branch of microeconomic theory that studies how information and information systems affect an economy and economic decisions. Information has special characteristics. It is easy to create but hard to trust. It is easy to spread but hard to control. It influences many decisions. These special characteristics (as compared with other types of goods) complicate many standard economic theories.
+
+
+== Opportunity costEdit ==
+
+Opportunity cost of an activity (or goods) is equal to the best next alternative uses/foregone. Although opportunity cost can be hard to quantify, the effect of opportunity cost is universal and very real on the individual level. In fact, this principle applies to all decisions, not just economic ones.
+Opportunity cost is one way to measure the cost of something. Rather than merely identifying and adding the costs of a project, one may also identify the next best alternative way to spend the same amount of money. The forgone profit of this next best alternative is the opportunity cost of the original choice. A common example is a farmer that chooses to farm their land rather than rent it to neighbors, wherein the opportunity cost is the forgone profit from renting. In this case, the farmer may expect to generate more profit alone. This kind of reasoning is a very important part of the calculation of discount rates in discounted cash flow investment valuation methodologies. Similarly, the opportunity cost of attending university is the lost wages a student could have earned in the workforce, rather than the cost of tuition, books, and other requisite items (whose sum makes up the total cost of attendance).
+Note that opportunity cost is not the sum of the available alternatives, but rather the benefit of the single, best alternative. Possible opportunity costs of a city's decision to build a hospital on its vacant land are the loss of the land for a sporting center, or the inability to use the land for a parking lot, or the money that could have been made from selling the land, or the loss of any of the various other possible uses — but not all of these in aggregate. The true opportunity cost would be the forgone profit of the most lucrative of those listed.
+One question that arises here is how to determine a money value for each alternative to facilitate comparison and assess opportunity cost, which may be more or less difficult depending on the things we are trying to compare. For example, many decisions involve environmental impacts whose monetary value is difficult to assess because of scientific uncertainty. Valuing a human life or the economic impact of an Arctic oil spill involves making subjective choices with ethical implications.
+It is imperative to understand that no decision on allocating time is free. No matter what one chooses to do, they are always giving something up in return. An example of opportunity cost is deciding between going to a concert and doing homework. If one decides to go the concert, then they are giving up valuable time to study, but if they choose to do homework then the cost is giving up the concert. Any decision in allocating capital is likewise: there is an opportunity cost of capital, or a hurdle rate, defined as the expected rate one could get by investing in similar projects on the open market. Opportunity cost is vital in understanding microeconomics and decisions that are made.
+
+
+== Applied microeconomicsEdit ==
+
+Applied microeconomics includes a range of specialized areas of study, many of which draw on methods from other fields. Industrial organization examines topics such as the entry and exit of firms, innovation, and the role of trademarks. Labor economics examines wages, employment, and labor market dynamics. Financial economics examines topics such as the structure of optimal portfolios, the rate of return to capital, econometric analysis of security returns, and corporate financial behavior. Public economics examines the design of government tax and expenditure policies and economic effects of these policies (e.g., social insurance programs). Political economy examines the role of political institutions in determining policy outcomes. Health economics examines the organization of health care systems, including the role of the health care workforce and health insurance programs. Urban economics, which examines the challenges faced by cities, such as sprawl, air and water pollution, traffic congestion, and poverty, draws on the fields of urban geography and sociology. Law and economics applies microeconomic principles to the selection and enforcement of competing legal regimes and their relative efficiencies. Economic history examines the evolution of the economy and economic institutions, using methods and techniques from the fields of economics, history, geography, sociology, psychology, and political science.
+
+
+== ReferencesEdit ==
+
+
+== Further readingEdit ==
+
+
+== External linksEdit ==
+Open Source Introduction to Microeconomics (see wiki article) by R. Preston McAfee – California Institute of Technology
+Amosweb.com homepage – online economics dictionary
+X-Lab: A Collaborative Micro-Economics and Social Sciences Research Laboratory
+Micro Economics – the role of microeconomics in supporting the social fabric of macro economies
+Simulations in Microeconomics
+An introductory microeconomics podcast
+http://media.lanecc.edu/users/martinezp/201/MicroHistory.html – a brief history of microeconomics
+Principles of Economics: Microeconomics lecture by Economist Tyler Cowen and Alex Tabarrok

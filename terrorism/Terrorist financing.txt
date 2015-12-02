@@ -1,0 +1,88 @@
+Terrorism financing came into limelight in the United States after the foreign terrorist attacks on the United States on September 11, 2001. In response to the attacks, the US Government passed the USA PATRIOT Act to, among other reasons, attempt thwarting the financing of terrorism (CFT) and anti-money laundering (AML) making sure these were given some sort of adequate focus by US financial institutions. The act also had extraterritorial impact and non-US banks having correspondent banking accounts or doing business with US banks had to upgrade their AML/CFT processes. The Patriot Act has generated a great deal of controversy in the United States since its enactment.
+Initially the focus of CFT efforts was on non-profit organizations, unregistered money services businessess (MSBs) (including so called underground banking or ‘Hawalas’) and the criminalisation of the act itself. The Financial Action Task Force on Money Laundering (FATF) made nine special recommendations for CFT (first eight then a year later added a ninth). These nine recommendations have become the global standard for CFT and their effectiveness is assessed almost always in conjunction with AML.
+The FATF Blacklist (the NCCT list) mechanism was used to coerce countries to bring about change.
+
+
+== Money launderingEdit ==
+
+Often linked in legislation and regulation, terrorism financing and money laundering are conceptual opposites. Money laundering is the process where cash raised from criminal activities is made to look legitimate for re-integration into the financial system, whereas terrorism financing cares little about the source of the funds, but it is what the funds are to be used for that defines its scope.
+An in-depth study of the symbiotic relationship between organised crime and terrorist organizations detected within the United States of America and other areas of the world referred to as crime-terror nexus points has been published in the forensic literature. The Perri, Lichtenwald and MacKenzie article emphasizes the importance of multi-agency working groups and the tools that can be used to identify, infiltrate, and dismantle organizations operating along the crime-terror nexus points.
+Terrorists use low value but high volume fraud activity to fund their operations. Paramilitary groups in Northern Ireland are using legitimate businesses such as hotels, pubs and taxi operators to launder money and fund political activities. Even beyond Ireland, terrorists are buying out/controlling front-end businesses especially cash-intensive businesses including in some cases money services businesses to move monies. Bulk cash smuggling and placement through cash-intensive businesses is one typology. They are now also moving monies through the new online payment systems. They also use trade linked schemes to launder monies. Nonetheless, the older systems have not given way. Terrorists also continue to move monies through MSBs/Hawalas, and through international ATM transactions. Charities also continue to be used in countries where controls are not so stringent.
+
+
+== Suspicious activityEdit ==
+Operation Green Quest, a US multi-agency task force established in October 2001 with the official purpose of countering terrorism financing considers the following patterns of activity as indicators of the collection and movement of funds that could be associated with terrorism financing:
+Account transactions that are inconsistent with past deposits or withdrawals such as cash, cheques, wire transfers, etc.
+Transactions involving a high volume of incoming or outgoing wire transfers, with no logical or apparent purpose that come from, go to, or transit through locations of concern, that is sanctioned countries, non-cooperative nations and sympathizer nations.
+Unexplainable clearing or negotiation of third party cheques and their deposits in foreign bank accounts.
+Structuring at multiple branches or the same branch with multiple activities.
+Corporate layering, transfers between bank accounts of related entities or charities for no apparent reasons.
+Wire transfers by charitable organisations to companies located in countries known to be bank or tax havens.
+Lack of apparent fund raising activity, for example a lack of small cheques or typical donations associated with charitable bank deposits.
+Using multiple accounts to collect funds that are then transferred to the same foreign beneficiaries
+Transactions with no logical economic purpose, that is, no link between the activity of the organization and other parties involved in the transaction.
+Overlapping corporate officers, bank signatories, or other identifiable similarities associated with addresses, references and financial activities.
+Cash debiting schemes in which deposits in the US correlate directly with ATM withdrawals in countries of concern. Reverse transactions of this nature are also suspicious.
+Issuing cheques, money orders or other financial instruments, often numbered sequentially, to the same person or business, or to a person or business whose name is spelled similarly.
+It would be difficult to determine by such activity alone whether the particular act was related to terrorism or to organized crime. For this reason, these activities must be examined in context with other factors in order to determine a terrorism financing connection. Simple transactions can be found to be suspect and money laundering derived from terrorism will typically involve instances in which simple operations had been performed (retail foreign exchange operations, international transfer of funds) revealing links with other countries including FATF blacklisted countries. Some of the customers may have police records, particularly for trafficking in narcotics and weapons and may be linked with foreign terrorist groups. The funds may have moved through a state sponsor of terrorism or a country where there is a terrorism problem. A link with a Politically Exposed Person (PEP) may ultimately link up to a terrorism financing transaction. A charity may be a link in the transaction. Accounts (especially student) that only receive periodic deposits withdrawn via ATM over two months and are dormant at other periods could indicate that they are becoming active to prepare for an attack.
+
+
+== Bank processesEdit ==
+In addition to normal AML controls, banks must focus on the CFT angle, using knowledge derived from the extensive databank of case studies now available. Banks must focus on not just name matching with sanctions databases but also with other know your customer (KYC) high-risk databases of good third party vendors. They must use technologies like link analysis to establish second and third level links that identify transactions as potentially suspicious from a CFT perspective. Focus on preventing identity theft is an integral part of any CFT program. Detection rules designed to capture the suspicious activity list given above, should be evaluated. Controls out of the transaction monitoring process, for example, account openings by groups of individuals, are also important to watch for. Any bank that is used for terrorism financing will suffer tremendous reputational damage and also a real business impact in terms of share price and expensive fines.
+
+
+== GermanyEdit ==
+In July 2010, Germany has outlawed the Internationale Humanitäre Hilfsorganisation (IHH), saying it has used donations to support projects in Gaza that are related to Hamas, which is considered by the European Union to be a terrorist organization, while presenting their activities to donors as humanitarian help. German Interior Minister Thomas de Maiziere said, "Donations to so-called social welfare groups belonging to Hamas, such as the millions given by IHH, actually support the terror organization Hamas as a whole." 
+
+
+== AustraliaEdit ==
+In 2009, an investigation caried out by officers of the Australian Transaction Reports and Analysis Centre (AUSTRAC) and other agencies, determined that funds were being sent from Australia, for use by the Somalia-based terrorist group, al-Shabaab. Money was remitted, with false names used to obscure the money trail. This investigation lead to the ultimate arrest of the suspects on charges of conspiring to commit a terrorist attack on an Australian army base.
+In 2014, Australian authorities feared that money being transferred from Australia to Somalia could be used for terrorist purposes. In 2015 Australian banks ceased providing money-transfer facilities to Somalia.
+
+
+== See alsoEdit ==
+
+Alms for Jihad
+Australian Transaction Reports and Analysis Centre
+Financial crime
+Funding Evil
+List of charities accused of ties to terrorism
+Money laundering
+Organized crime
+White-collar crime
+Stephen Flatow
+Terrorism in Australia
+
+
+== ReferencesEdit ==
+
+
+== Further readingEdit ==
+Adams, James. The Financing of Terror. Sevenoaks, Kent: New English Library, 1986.
+American Foreign Policy Council. Confronting Terrorism Financing. Lanham, MD: University Press of America, 2005.
+Biersteker, Thomas J., and Sue E. Eckert. Countering the Financing of Terrorism. London: Routledge, 2008.
+, Sean S., and David Gold. Terrornomics. Aldershot, England; Burlington, VT: Ashgate, 2007.
+Ehrenfeld, Rachel. Funding Evil: How Terrorism Is Financed—and How to Stop It. Chicago: Bonus Books, 2003.
+Freeman, Michael. Financing Terrorism Case Studies. Farnham: Ashgate, 2011.
+Giraldo, Jeanne K., and Harold A. Trinkunas. Terrorism Financing and State Responses: A Comparative Perspective. Stanford, Calif: Stanford University Press, 2007.
+Martin, Gus, and Harvey W. Kushner. The Sage Encyclopedia of Terrorism. Thousand Oaks, Calif: SAGE Publications, 2011.
+Pieth, Mark. Financing Terrorism. Dordrecht: Kluwer Academic Publishers, 2002.
+Schott, Paul Allan. Reference Guide to Anti-Money Laundering and Combating the Financing of Terrorism. Washington, D.C.: World Bank, 2006.
+Vittori, Jodi. Terrorist Financing and Resourcing. New York, NY: Palgrave Macmillan, 2011.
+
+
+== External linksEdit ==
+US Department of State International Narcotics Control Strategy Report (INCSR), annual report issued in March every year. Essential reading for all compliance officers for evaluating country money laundering risk
+US FinCEN (the US FIU) - Periodic SAR Reviews
+UK SOCA (merges NCIS (the UK FIU) - the UK Threat Assessment
+Compliance Web Search - A Google-powered vertical search engine designed to facilitate and accelerate the account vetting process for financial institutions
+Financial Market Integrity Unit, The World Bank
+International Centre for Political Violence and Terrorism Research - Strategic Counter Terrorism - Financial Response
+The funding of international islamic terrorism ~ Strategic analysis profiles ~ Guardia di Finanza General Headquarters - 2nd Department – Analysis Unit
+The Terror Finance Blog - Blog on all aspects of terrorism financing written by a group of independent analysts
+The Financial Action Task Force website
+
+
+=== KYCEdit ===
+World-Check.com - For negative news and sanctions screening.
+Google Advanced Search in Local Language - For negative news screening.

@@ -1,0 +1,44 @@
+The kilobyte is a multiple of the unit byte for digital information. The International System of Units (SI) defines the prefix kilo as 1000 (103); therefore one kilobyte is 1000 bytes. The unit symbol for the kilobyte is kB. In some fields of information technology kilobyte has traditionally also been used to denote 1024 (210) bytes, which arises from binary exponentiation common to digital circuitry. In this context the unit symbol K or KB has been common.
+
+
+== Definitions and usage ==
+
+
+=== 1000 bytes ===
+In the International System of Units (SI) the prefix kilo- means 1000 (103); therefore one kilobyte is 1000 bytes in this system. The unit symbol is kB.
+This is the definition recommended by the International Electrotechnical Commission (IEC). This definition, and related definitions of prefixes mega- = 1000000, giga- = 1000000000, etc., are used for data transfer rates in computer networks, internal bus, hard drive and flash media transfer speeds, and for the capacities of most storage media, particularly hard drives, flash-based storage, and DVDs. It is also consistent with the other uses of the SI prefixes in computing, such as CPU clock speeds or measures of performance.
+The Mac OS X 10.6 file manager is a notable example of this usage in software. Since Snow Leopard, file sizes are reported with decimal prefixes.
+
+
+=== 1024 bytes ===
+In some fields of information technology, the kilobyte instead refers to 1024 (210) bytes. This usage originated as compromise jargon for multiples that needed to be expressed in powers of 2, but lacked a convenient unit prefix. As 1024 (210) approximates 1000 (103), the corresponding SI prefixes were used for the multiples that represent powers of 1024.
+This definition, and related definitions of mega = 1048576 (=10242), etc., are almost invariably used for random-access memory capacities, such as main memory and CPU cache sizes, due to the binary addressing of memory. These "binary meanings" of kilobyte, megabyte, etc., are also used by Windows and Linux Kernel based operating systems (with the exception of Ubuntu based systems since Ubuntu 10.10, which use decimal sizes) when reporting disk capacities and file sizes.
+The binary representation of 1024 bytes typically uses the symbol KB (uppercase K). The B is often omitted in informal use. For example, a processor with 65,536 bytes of cache might be said to have "64K" of cache.
+
+
+==== kibibyte ====
+
+In December 1998, the IEC addressed such multiple usages and definitions by creating prefixes such as kibi, mebi, gibi, etc., to unambiguously denote powers of 1024. Thus the kibibyte, symbol KiB, represents 210 = 1024 bytes. These prefixes are now part of the International System of Quantities. The IEC further specified that the kilobyte should only be used to refer to 1000 bytes. However, the kilobyte is still commonly used to refer to 1024 bytes.
+
+
+== Examples ==
+The HP 21MX real-time computer (1974) denoted 196,608 (which is 192×1024) as 196K, while the HP 3000 business computer (1973) denoted 131,072 (which is 128×1024) as "128K".
+The Shugart SA-400 51⁄4-inch floppy disk (1976) held 109,375 bytes unformatted, and was advertised as 110 Kbyte, using the 1000 convention. Likewise, the 8-inch DEC RX01 floppy (1975) held 256,256 bytes formatted, and was advertised as 256k. On the other hand, the Tandon 51⁄4-inch DD floppy format (1978) held 368,640 (which is 360×1024) bytes, but was advertised as 360 KB, following the 1024 convention.
+On modern systems, all versions of Microsoft Windows including the newest (as of 2015) Windows 10 divide by 1024 and represent a 65,536-byte file as 64 KB. Conversely, Mac OS X Snow Leopard and newer represent this as 66 kB, rounding to the nearest 1000 bytes.
+
+
+== See also ==
+History of the floppy disk
+Binary prefix
+Timeline of binary prefixes
+Gigabyte § Consumer confusion
+JEDEC memory standards § Unit prefixes for semiconductor storage capacity
+Units of information § Size examples
+
+
+== Notes ==
+
+
+== References ==
+
+"Terms, Definitions, and Letter Symbols for Microcomputers, Microprocessors, and Memory Integrated Circuits" (PDF). JEDEC Solid State Technology Association. December 2002. Retrieved 22 September 2013.

@@ -1,0 +1,76 @@
+See Emissions Reduction Currency System for community based initiatives aimed at emission reduction
+In economics, a local currency, is a currency that can be spent a particular area at participating organisations. Usually it will act as a complementary currency, that is to be used in additional to a national currency, rather than replace it. The purpose is to encourage spending within the local community, especially with locally owned businesses. This may also help reduce environmental footprints.
+The currency may not be backed by a national government or be legal tender. As a tool of fiscal localism, local currency can raise awareness of the state of about the local economy. They are useful for people who are unfamiliar or uncomfortable with traditional bartering.
+They encompass a wide range of forms, both physically and financially, and often are associated with a particular economic discourse.
+
+
+== Terminology ==
+Local currencies are sometimes referred to as a community currency. They are often forms of alternative currency, complementary currency and/or auxiliary currency. There is debate as to the exact definitions. Some definitions:
+Complementary currency - is used as a complement to a national currency. It is an agreement to use a medium of exchange that is not usually legal tender.:2
+Alternative currency - often used, but in essence this term is deceptive in many cases, as many currencies are designed to be complementary, and not to substitute conventional currencies.
+Auxiliary currency - far less common, as synonym of community or local currency. (see for example Douthwaite & Wagman 1999)
+Community currency - complementary currencies that are used by groups with a common bond, like members of a locality, or association.
+Local currency - is a community currency used in a locality.
+Regional currency - a local currency where the locality is a larger region.
+Private currency - emphasizes that the currency is issued by individuals, businesses or NGOs as opposed to ordinary currency issued under the authority of the government.
+
+
+== Characteristics ==
+
+
+=== Theory ===
+Local currency is based on a local form of monetarism and mercantilism: it establishes an internal trade barrier, as the local currency cannot be used externally, and allows the area to have a different (presumably lower) interest rate than the national currency's — in the Wörgl experiment, a negative interest rate, known as demurrage. Advocacy and criticism of local currencies is based partly on general attitudes towards monetarism and mercantilism, and partly on opinions of the desirability of having internal variations in currency and trade.
+Advocates of local currency in effect argue that, in certain circumstances, an entire country is not an optimum currency area, and that various regions should have different currencies. Compare with the Eurozone in Europe.
+
+
+=== Benefits ===
+The Wörgl experiment dramatically illustrates some of the common characteristics and major benefits of local currencies.
+Local currencies with negative interest rate tend to circulate much more rapidly than national currencies. The same amount of currency in circulation is employed more times and results in far greater overall economic activity. It produces greater benefit per unit. The higher velocity of money is a result of the negative interest rate which encourages people to spend the money more quickly.
+Local currencies enable the community to more fully utilize its existing productive resources, especially unemployed labor, which has a catalytic effect on the rest of the local economy. They are based on the premise that the community is not fully utilizing its productive capacities, because of a lack of local purchasing power. The alternative currency is utilized to increase demand, resulting in a greater exploitation of productive resources. So long as the local economy is functioning at less than full capacity, the introduction of local currency need not be inflationary, even when it results in a significant increase in total money supply and total economic activity.
+Since local currencies are only accepted within the community, their usage encourages the purchase of locally produced and locally-available goods and services. Thus, for any level of economic activity, more of the benefit accrues to the local community and less drains out to other parts of the country or the world. For instance, construction work undertaken with local currencies employs local labor and utilizes as far as possible local materials. The enhanced local effect becomes an incentive for the local population to accept and utilize the scrips.
+Some forms of complementary currency can promote fuller utilization of resources over a much wider geographic area and help bridge the barriers imposed by distance. The Fureai kippu system in Japan issues credits in exchange for assistance to senior citizens. Family members living far from their parents can earn credits by offering assistance to the elderly in their local community. The credits can then be transferred to their parents and redeemed by them for local assistance. Airline frequent flyer miles are a form of complementary currency that promotes customer-loyalty in exchange for free travel. The airlines offer most of the coupons for seats on less heavily sold flights where some seats normally go empty, thus providing a benefit to customers at relatively low cost to the airline.
+While most of these currencies are restricted to a small geographic area or a country, through the Internet electronic forms of complementary currency can be used to stimulate transactions on a global basis. In China, Tencent's QQ coins are a virtual form of currency that has gained wide circulation. QQ coins can be bought for Renminbi and used to buy virtual products and services such as ringtones and on-line video game time. They can also be obtained through on-line exchange for goods and services at about twice the Renminbi price, by which additional 'money' is being directly created. Though virtual currencies are not 'local' in the tradition sense, they do cater to the specific needs of a particular community, a virtual community. Once in circulation, they add to the total effective purchasing power of the on-line population as in the case of local currencies. The Chinese government has begun to tax the coins as they are exchanged from virtual currency to actual hard currency.
+
+
+=== Difficulties and criticisms ===
+Local currencies and the Transition Towns movement in the UK have been criticized for failing to address the needs of the wider population, especially lower socio-economic groups. Such local currency initiatives have been more widely criticized as having limited success in stimulating spending in local economies, and as an unrealistic strategy to reduce carbon emissions.
+
+
+== Modern local currencies ==
+Today there are over 2,500 different local currency systems operating in countries throughout the world. Modern local currencies can be classified into the following distinct types:
+1. Transition currency based on the local currencies used by the Transition Towns movement in the UK. They include Brixton Pound and Bristol Pound in the UK, BerkShares in the USA, and Salt Spring Dollars in Canada.
+
+Transition currencies are payment voucher-based systems that are exchangeable with the national currency. Between 2002-2014 many experiments in local currency took this form. Such currencies aim to raise the resilience of local economies by encouraging re-localisation of buying and food production. The drive for this change has arisen from a range of community-based initiatives and social movements. The Transition Towns movement originating in the UK has utilised local currencies for re-localisation in the face of energy descent from peak oil and climate change. Other drives include movements against Clone town and Big-box trends.
+2. Rewards currency based on the frequent flyer model. Consumer spends cash with participating businesses who issue rewards points in a local currency. These rewards points can be used to offset cash prices in future purchases. An example is Oakland Grown in Oakland, CA.
+3. Mutual Credit currency based on the mutual credit system. This can be further sub-divided into two:
+a. Time-based currency also known as Time Banks that use time as a measure of value. An example is Dane County Time Bank.
+b. Trade exchanges and LETS (local exchange trading system) that use price as a measure of value. An example of local currency implemented as a trade exchange is Bay Bucks in the Bay Area of California, USA. LETS were originally started in Vancouver, Canada, there are presently more than 30 LETS systems operating in Canada and over 400 in the United Kingdom. Australia, France, New Zealand, and Switzerland have similar systems.
+
+
+== Legality ==
+The currency may not be backed by a national government (and not necessarily legal tender).
+
+
+=== United Kingdom ===
+Local currencies, like Scotland and Northern Ireland banknotes, are not legal tender, under the rules of the Bank Notes Act 1954.
+
+
+== List of local currencies ==
+
+
+=== Europe ===
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==
+People Powered Money: designing, developing and delivering community currencies (2015) Community Currencies in Action (PDF)
+An overview of parallel, local and community currency systems by DeMeulenaere, S (1998) Complementary Currency Resource Centre
+An economic analysis of contemporary local currencies in the United States by Krohn, G and Snyder, A (2008) International Journal of Community Currency Research, Vol. 12, pages 53–68
+
+
+== External links ==

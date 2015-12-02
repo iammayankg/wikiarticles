@@ -1,0 +1,82 @@
+In international law, a sovereign state is a nonphysical juridical entity that is represented by one centralized government that has sovereignty over a geographic area. International law defines sovereign states as having a permanent population, defined territory, one government, and the capacity to enter into relations with other sovereign states. It is also normally understood that a state is neither dependent on nor subject to any other power or state.
+The existence or disappearance of a state is a question of fact. While according to the declarative theory of statehood a sovereign state can exist without being recognised by other sovereign states, unrecognised states will often find it hard to exercise full treaty-making powers and engage in diplomatic relations with other sovereign states.
+
+
+== Emergence of states ==
+States came into existence as people "gradually transferred their allegiance from an individual sovereign (king, duke, prince) to an intangible but territorial political entity, of the state". States are but one of several political orders that emerged from feudal Europe (others being city states, leagues, and empires with universalist claims to authority.
+
+
+== Westphalian sovereignty ==
+
+Westphalian sovereignty is the concept of nation-state sovereignty based on territoriality and the absence of a role for external agents in domestic structures. It is an international system of states, multinational corporations, and organizations that began with the Peace of Westphalia in 1648.
+Sovereignty is a term that is frequently misused. Up until the 19th century, the radicalized concept of a "standard of civilization" was routinely deployed to determine that certain peoples in the world were "uncivilized", and lacking organized societies. That position was reflected and constituted in the notion that their "sovereignty" was either completely lacking, or at least of an inferior character when compared to that of "civilized" people." Lassa Oppenheim said "There exists perhaps no conception the meaning of which is more controversial than that of sovereignty. It is an indisputable fact that this conception, from the moment when it was introduced into political science until the present day, has never had a meaning which was universally agreed upon." In the opinion of H. V. Evatt of the High Court of Australia "sovereignty is neither a question of fact, nor a question of law, but a question that does not arise at all."
+Sovereignty has taken on a different meaning with the development of the principle of self-determination and the prohibition against the threat or use of force as jus cogens norms of modern international law. The United Nations Charter, the Draft Declaration on Rights and Duties of States, and the charters of regional international organizations express the view that all states are juridically equal and enjoy the same rights and duties based upon the mere fact of their existence as persons under international law. The right of nations to determine their own political status and exercise permanent sovereignty within the limits of their territorial jurisdictions is widely recognized.
+In political science, sovereignty is usually defined as the most essential attribute of the state in the form of its complete self-sufficiency in the frames of a certain territory, that is its supremacy in the domestic policy and independence in the foreign one.
+Named after the 1648 Treaty of Westphalia, the Westphalian System of state sovereignty, which according to Bryan Turner is "made a more or less clear separation between religion and state, and recognized the right of princes 'to confessionalize' the state, that is, to determine the religious affiliation of their kingdoms on the pragmatic principle of cuius regio eius religio."
+The Westphalian model of state sovereignty has increasingly come under fire from the "non-west" as a system imposed solely by Western Colonialism. What this model did was make religion a subordinate to politics, a problem that has caused some issues in the Islamic world. This system does not fit in the Islamic world because concepts such as "separation of church and state" and "individual conscience" are not recognized in the Islamic religion as social systems.
+In casual usage, the terms "country", "nation", and "state" are often used as if they were synonymous; but in stricter usage they can be distinguished:
+Country denotes a region of land defined by geographical features or political boundaries.
+Nation denotes a people who are believed to or deemed to share common customs, religion, language, origins, ancestry or history. However, the adjectives national and international are frequently used to refer to matters pertaining to what are strictly sovereign states, as in national capital, international law.
+State refers to the set of governing and supportive institutions that have sovereignty over a definite territory and population. Sovereign states are legal persons.
+
+
+== Recognition ==
+State recognition signifies the decision of a sovereign state to treat another entity as also being a sovereign state. Recognition can be either express or implied and is usually retroactive in its effects. It does not necessarily signify a desire to establish or maintain diplomatic relations.
+There is no definition that is binding on all the members of the community of nations on the criteria for statehood. In actual practice, the criteria are mainly political, not legal. L.C. Green cited the recognition of the unborn Polish and Czechoslovak states in World War I and explained that "since recognition of statehood is a matter of discretion, it is open to any existing State to accept as a state any entity it wishes, regardless of the existence of territory or of an established government."
+In international law, however, there are several theories of when a state should be recognised as sovereign.
+
+
+=== Constitutive theory ===
+The constitutive theory of statehood defines a state as a person of international law if, and only if, it is recognised as sovereign by other states. This theory of recognition was developed in the 19th century. Under it, a state was sovereign if another sovereign state recognised it as such. Because of this, new states could not immediately become part of the international community or be bound by international law, and recognised nations did not have to respect international law in their dealings with them. In 1815 at the Congress of Vienna the Final Act recognised only 39 sovereign states in the European diplomatic system, and as a result it was firmly established that in the future new states would have to be recognised by other states, and that meant in practice recognition by one or more of the great powers.
+One of the major criticisms of this law is the confusion caused when some states recognise a new entity, but other states do not. Hersch Lauterpacht, one of the theory's main proponents, suggested that it is a state's duty to grant recognition as a possible solution. However, a state may use any criteria when judging if they should give recognition and they have no obligation to use such criteria. Many states may only recognise another state if it is to their advantage.
+In 1912, L. F. L. Oppenheim had the following to say on constitutive theory:
+
+...International Law does not say that a State is not in existence as long as it isn't recognised, but it takes no notice of it before its recognition. Through recognition only and exclusively a State becomes an International Person and a subject of International Law.
+
+
+=== Declarative theory ===
+By contrast, the "declarative" theory defines a state as a person in international law if it meets the following criteria: 1) a defined territory; 2) a permanent population; 3) a government and 4) a capacity to enter into relations with other states. According to declarative theory, an entity's statehood is independent of its recognition by other states. The declarative model was most famously expressed in the 1933 Montevideo Convention.
+Article 3 of the Montevideo Convention declares that political statehood is independent of recognition by other states. And the state is not prohibited from defending itself. In contrast, recognition is considered a requirement for statehood by the constitutive theory of statehood.
+A similar opinion about "the conditions on which an entity constitutes a state" is expressed by the European Economic Community Opinions of the Badinter Arbitration Committee, which found that a state was defined by having a territory, a population, and a political authority.
+
+
+=== State practice ===
+State practice relating to the recognition of states typically falls somewhere between the declaratory and constitutive approaches. International law does not require a state to recognise other states.
+Recognition is often withheld when a new state is seen as illegitimate or has come about in breach of international law. Almost universal non-recognition by the international community of Rhodesia and Northern Cyprus are good examples of this. In the former case, recognition was widely withheld when the white minority seized power and attempted to form a state along the lines of Apartheid South Africa, a move that the United Nations Security Council described as the creation of an "illegal racist minority régime". In the latter case, recognition was widely withheld from a state created in Northern Cyprus on land illegally invaded by Turkey in 1974.
+
+
+=== De facto and de jure states ===
+Most sovereign states are states de jure and de facto (i.e., they exist both in law and in reality). However, a state may be recognised only as a de jure state, in that it is recognised as being the legitimate government of a territory over which it has no actual control. For example, during the Second World War, governments-in-exile of a number of continental European states continued to enjoy diplomatic relations with the Allies, notwithstanding that their countries were under Nazi occupation. The PLO and Palestinian Authority claim that the State of Palestine is a sovereign state, a claim which has been recognised by most states, though the territory it claims is under the de facto control of Israel. Other entities may have de facto control over a territory but lack international recognition; these may be considered by the international community to be only de facto states. They are considered de jure states only according to their own law and by states that recognise them. For example, Somaliland is commonly considered to be such a state. For a list of entities that wish to be universally recognised as sovereign states, but do not have complete worldwide diplomatic recognition, see the list of states with limited recognition.
+
+
+== Relationship between state and government ==
+Although the terms "state" and "government" are often used interchangeably, international law distinguishes between a non-physical state and its government; and in fact, the concept of "government-in-exile" is predicated upon that distinction. States are non-physical juridical entities, and not organisations of any kind. However, ordinarily, only the government of a state can obligate or bind the state, for example by treaty.
+
+
+== State extinction ==
+Generally speaking, states are durable entities, though it is possible for them to be become extinguished, either through voluntary means or outside forces, such as military conquest. Because states are nonphysical juridical entities, their extinction cannot be due to physical force alone. Instead, the physical actions of the military must be associated with the correct social or judiciary actions in order to abolish a state.
+
+
+== Ontological status of the state ==
+The ontological status of the state has been the subject of debate, specially, whether or not the state, being an object that no one can see, taste, touch, or otherwise detect, actually exists. It has been argued that one potential reason as to why the existence of states has been controversial is because states do not have a place in the traditional Platonist duality of the concrete and the abstract. Characteristically, concrete objects are those that have position in time and space, which states do not have (though their territories have spatial position, but states are distinct from their territories), and abstract objects have position in neither time nor space, which does not fit the supposed characteristics of states either, since states do have temporal position (they can be created at certain times and then become extinct at a future time). Also, abstract objects are characteristically completely non-causal, which is also not a characteristics of states, since states can act in the world and can cause certain events (though only by actions taken on their behalf through a representative). Therefore, it has been argued that states belong to a third category, the quasi-abstract, that has recently begun to garner philosophical attention, specially in the area of documentality, an ontological theory that seeks to understand the role of documents in understanding all of social reality. Quasi-abstract objects, such as states, can be brought into being through document acts, and can also be used to manipulate them, such as by binding them by treaty or surrendering them as the result of a war. Scholars in international relations can be broken up into two different practices, realists and pluralists, of what they believe the ontological state of the state is. Realists believe that the world is one of only states and interstate relations and the identity of the state is defined before any international relations with other states. On the other hand, pluralists believe that the state is not the only actor in international relations and interactions between states and the state is competing against many other actors.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==
+Chen, Ti-chiang. The International Law of Recognition, with Special Reference to Practice in Great Britain and the United States. London, 1951.
+Crawford, James. The Creation of States in International Law. Oxford University Press, 2005. ISBN 0-19-825402-4, pp. 15–24.
+Lauterpacht, Hersch (2012). Recognition in International Law. Cambridge University Press. 
+Raič, D. Statehood and the Law of Self-determination. Martinus Nijhoff Publishers, 2002. ISBN 978-90-411-1890-5. p 29 (with reference to Oppenheim in International Law Vol. 1 1905 p110)
+
+
+== External links ==
+Opinions of the Badinter Arbitration Committee at the European Journal of International Law
+A Brief Primer on International Law With cases and commentary. Nathaniel Burney, 2007.
+What constitutes the sovereign state? by Michael Ross Fowler and Julie Marie Bunck
+Links to the best political risk websites, ipoliticalrisk.com information on tracking, evaluating and managing sovereign risk for trade and permanent investment
+Legal opinion by the Negotiations Support Unit in the Palestinian Authority on transitional sovereignty

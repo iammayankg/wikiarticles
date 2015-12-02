@@ -1,0 +1,73 @@
+Explosive detection is a non-destructive inspection process to determine whether a container contains explosive material. Explosive detection is commonly used at airports, ports and for border control.
+
+
+== Detection toolsEdit ==
+
+
+=== Automated ColorimetricsEdit ===
+The use of Colorimetric test kits for explosive detection is one of the oldest, simplest, and most widely used methods for the detection of explosives. Colorimetric detection of explosives involves applying a chemical reagent to an unknown material or sample and observing a color reaction. Common color reactions are known and indicate to the user if there is an explosive material present and in many cases the group of explosive in which the material is derived from. The major groups of explosives are nitroaromatic explosives, nitrate ester and nitramine explosives, improvised explosives not containing nitro groups which includes inorganic nitrate based explosives, chlorate based explosives, and peroxide based explosives. Through automation, companies such as DetectaChem have been able to progress colorimetrics from a way to detect visible "bulk" amounts of explosives to being able to detect non-visible or "trace" amounts of an explosive material. Detectors such as the Seeker and SEEKERe have redefined the classical definition of colorimetrics which is that of a manual bulk test.
+
+
+=== DogsEdit ===
+Specially trained dogs can be used to detect explosives using their noses which are very sensitive to scents. While very effective, their usefulness becomes degraded as a dog becomes tired or bored.
+These dogs are trained by specially trained handlers to identify the scents of several common explosive materials and notify their handler when they detect one of these scents. The dogs indicate a 'hit' by taking an action they are trained to provide, generally a passive response.
+The explosive detection canine was originated at the Metropolitan Police Department in Washington, D.C. in 1970, by then trainer Charles R. Kirchner.
+The explosive detection canine was first used in Algeria in 1959 under the command of General Constantine. 
+
+
+=== Honey beesEdit ===
+
+This approach couples trained honey bees with advanced video computer software to monitor the bee for the strategic reaction. Trained bees serve for 2 days, after which they are returned to their hive. This proven system is not yet commercially available. Biotechnology firm Inscentinel claim that bees are more effective than sniffer dogs.
+
+
+=== Mechanical scent detectionEdit ===
+
+Several types of machines have been developed to detect trace signatures for various explosive materials. The most common technology for this application, as seen in US airports, is ion mobility spectrometry (IMS). This method is similar to mass spectrometry (MS), where molecules are ionized and then moved in an electric field in a vacuum, except that IMS operates at atmospheric pressure. The time that it takes for an ion, in IMS, to move a specified distance in an electric field is indicative of that ion's size to charge ratio: ions with a larger cross section will collide with more gas at atmospheric pressure and will therefore be slower.
+Gas chromatography (GC) is often coupled to the detection methods discussed above in order to separate molecules before detection. This not only improves the performance of the detector, but also adds another dimension of data, as the time it takes for a molecule to pass through the GC may be used as an indicator of its identity. Unfortunately, GC normally requires a bottled gas, which creates a consumable and ease of use issue for the system. GC columns operated in the field are prone to degradation from atmospheric gases and oxidation, as well as bleeding of the stationary phase. Columns must be very fast, as well, since many of the applications demand that the complete analysis be completed in less than a minute.
+
+
+=== SpectrometryEdit ===
+Technologies based on ion mobility spectrometer (IMS) include ion trap mobility spectrometry (ITMS), and differential mobility spectrometry (DMS). Amplifying fluorescent polymers (AFP) use a molecular recognition to "turn off" or quench the fluorescence of a polymer. Chemiluminescence was used frequently in the 1990s, but is less common than the ubiquitous IMS. Several attempts are being made to miniaturize, ruggedize and make MS affordable for field applications; such as an aerosol polymer that fluoresces blue under UV but is colorless when it reacts with nitrogen groups.
+One technique compares reflected ultraviolet, infrared and visible light measurements on multiple areas of the suspect material. This has an advantage over olfactory methods in that a sample does not need to be prepared. A patent exists for a portable explosive detector using this method.
+Mass spectrometry is seen as the most relevant new spectrometry technique. Several manufacturers have products that are under development, both in the US, Europe and Israel, including Laser-Detect in Israel, FLIR Systems and Syagen in the US and SEDET in Europe.
+
+
+=== X-ray machinesEdit ===
+Specially designed X-ray machines can detect explosives by looking at the density of the items being examined. They use Computed axial tomography based systems that are enhanced with dedicated software, containing an explosives threat library and false - color coding, to assist operators with their dedicated threat resolution protocols. X-ray detection is also used to detect related components such as detonators, but this can be foiled if such devices are hidden inside other electronic equipment.
+
+
+=== Neutron activationEdit ===
+Specially designed machines bombard the suspect explosives with neutrons, and read the gamma radiation decay signatures to determine the chemical composition of sample. Explosive materials all have similar ratios of carbon, hydrogen, nitrogen and oxygen, which the machine is able to detect.
+
+
+=== Silicon nanowires for trace detection of explosivesEdit ===
+Silicon nanowire configured as field effect transistors have been demonstrated to detect explosives including TNT,PETN and RDX in sensitives superior to these of canines., The detection in this method is performed by passing a liquid or vapor containing the target explosive over the surface of a chip containing tens to hundreds of silicon nanowire sensing elements. Molecules of the explosive material interact with the surface of the nanowires and as a result induce a measurable change in the electrical properties of the nanowire. The superior ability of modified silicon nanowires to detect trace amounts of explosive vapors has led to enhanced efforts to integrate them in commercial systems for security applications.
+
+
+== Detection aidsEdit ==
+A detection taggant can be added when explosives are made to make detection easier. The Montreal Convention 1991 is an international agreement requiring manufacturers of explosives to do this. An example is with Semtex, which now is made with DMDNB added as a detection taggant. DMDNB is a common taggant as dogs are sensitive to it. In the UK the relevant legislation is the Marking of Plastic Explosives for Detection Regulations 1996.
+
+
+== Bogus devicesEdit ==
+The US Department of Justice warned in a National Institute of Justice publication, "Guide for the Selection of Commercial Explosives Detection Systems for Law Enforcement Applications (NIJ Guide 100-99)," about the ongoing trend of "Bogus" explosives detection equipment being sold to unsuspecting consumers. The report mentions by name the Quadro Tracker, an apparent dowsing rod with a freely pivoting radio antenna rod with no functioning internal components. On August 8-9 2005 the Naval Explosive Ordance Disposal Technical Division via the United States Counter Terrorism Technology Task Force conducted testing on the SNIFFEX and concluded that "the SNIFFEX handheld detector does not work" 
+
+"...There is a rather large community of people around the world that believes in dowsing: the ancient practice of using forked sticks, swinging rods, and pendulums to look for underground water and other materials. These people believe that many types of materials can be located using a variety of dowsing methods. Dowsers claim that the dowsing device will respond to any buried anomalies, and years of practice are needed to use the device with discrimination (the ability to cause the device to respond to only those materials being sought). Modern dowsers have been developing various new methods to add discrimination to their devices. These new methods include molecular frequency discrimination (MFD) and harmonic induction discrimination (HID). MFD has taken the form of everything from placing a xerox copy of a Poloroid [sic] photograph of the desired material into the handle of the device, to using dowsing rods in conjunction with frequency generation electronics (function generators). None of these attempts to create devices that can detect specific materials such as explosives (or any materials for that matter) have been proven successful in controlled double-blind scientific tests. In fact, all testing of these inventions has shown these devices to perform no better than random chance...." 
+
+A number of fake dowsing rod-style detection devices have been widely used in Iraq and Thailand, notably the ADE 651 and GT200, where they have been reported to have failed to detect bombs that have killed hundreds of people and injured thousands more. Additional names of fake dowsing rod style detectors include ADE101, ADE650, ADE651, GT200, Alpha6, XK9, SNIFFEX, HEDD1, AL-6D, H3TEC, PK9.
+
+
+== See alsoEdit ==
+Bloodhound
+Counter-terrorism
+Scent hound
+Terrorism
+Gambian Pouched Rat
+Explosives trace detector
+
+
+== ReferencesEdit ==
+
+
+== BibliographyEdit ==
+SEDET
+Syagen Technology to develop next generation, explosive trace detection system for Homeland Security

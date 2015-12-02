@@ -1,0 +1,14 @@
+Transfer mispricing, also known as transfer pricing manipulation or fraudulent transfer pricing, refers to trade between related parties at prices meant to manipulate markets or to deceive tax authorities.
+For example, assume company A, a food grower in Africa, processes its produce through three subsidiaries: X (in Africa), Y (in a tax haven, usually offshore financial centers) and Z (in the United States). Now, Company X sells its product to Company Y at an artificially low price, resulting in a low profit and a low tax for Company X based in Africa. Company Y then sells the product to Company Z at an artificially high price, almost as high as the retail price at which Company Z would sell the final product in the U.S. Company Z, as a result, would report a low profit and, therefore, a low tax. About 60% of capital flight from Africa is from improper transfer pricing.
+Such capital flight from the developing world is estimated at ten times the size of aid it receives and twice the debt service it pays. The African Union reports estimates that about 30% of Sub-Saharan Africa's GDP has been moved to tax havens. One tax analyst believed that if the money were paid, most of the continent would be "developed" by now.
+Solutions include corporate “country-by-country reporting” where corporations disclose activities in each country and thereby prohibit the use of tax havens where real economic activity occurs. While appropriate transfer pricing of tangible goods can be established by comparison with prices charged for similar goods to unrelated parties, transfer pricing of intangible goods, products of intellectual efforts, rarely has comparable equivalents. Transfer prices then have to be established based on expectations of future income. Mispricing is rife. Khadija Sharife and John Grobler, writing for the World Policy Journal, exposed $3.5 billion minimum in transfer mispricing of African diamonds from Angola and DRC, through the use of intra-company valuation, shell companies and tax havens, notably Dubai and Switzerland.
+In Sweden (a high-tax country) it was popular in 2005-2010 to have "interest loops", where simple loans or investments were placed between a Swedish company and a tax haven company in both directions, and where the interest rate was mispriced to create a tax deduction in Sweden. This loophole was closed in 2013.
+
+
+== See also ==
+Tax havens
+Transfer pricing
+Base Erosion and Profit Shifting (BEPS)
+
+
+== References ==

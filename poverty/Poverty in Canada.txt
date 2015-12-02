@@ -1,0 +1,131 @@
+Poverty in Canada remains prevalent within some segments of society and according to a 2008 report by the Organisation for Economic Co-operation and Development, the rate of poverty in Canada, is among the highest of the OECD member nations, the world's wealthiest industrialized nations. There is no official government definition and therefore, measure, for poverty in Canada. However, Dennis Raphael, author of Poverty in Canada: Implications for Health and Quality of Life reported that the United Nations Development Program, the United Nations Children’s Fund (UNICEF), the Organisation for Economic Co-operation and Development and Canadian poverty researchers find that relative poverty is the "most useful measure for ascertaining poverty rates in wealthy developed nations such as Canada." In its report released the Conference Board 
+Currently, an income inequality measure known as low income cut-off published by Statistics Canada is frequently used as a poverty rate and is 10.8% as of 2005. The Central Intelligence Agency uses the LICO as the relative measure results in a higher poverty figure than an absolute one. The Fraser Institute, a conservative think-tank, alleges that the federal Canadian government exaggerates poverty rates, and publishes their own measure, known as the basic needs poverty measure. According to this measure, poverty has declined significantly over the past 60 years and is 4.9% as of 2004. Statistics Canada has refused to endorse any metric as a measure of poverty, including the low-income cut off it publishes, without a mandate to do so from the federal government.
+Some elements that work towards reducing poverty in Canada include Canada's strong economic growth, government transfers to persons of $164 billion per annum as of 2008, universal medical and public education systems, and minimum wage laws in each of the provinces and territories of Canada.
+In recent times, after a spike in poverty and low-income rates around the 1996 recession, relative poverty has continued to decline. Certain groups experience higher low-income rates. These include children, families with single-parent mothers, aboriginals, the mentally ill, the physically handicapped, recent immigrants, and students.
+
+
+== History of poverty in Canada ==
+
+Canada's history is marked by identified periods of growth and recession, and an evolving response of government intervention to assist low-income Canadians.
+Reflecting the practice in the British Isles, organized assistance to the poor was largely the realm of churches. In the early 20th century, the Catholic Encyclopedia reported that there were eighty-seven hospitals in Canada under the control and direction of various Catholic religious communities.
+After the Great Depression, Bennett and Mackenzie King spurred the first stages of Canada's welfare state, and the size and role of the government began to grow immensely over the next decades. Many social programs developed during this time designed to increase the Canadian citizen's quality of life.
+According to one estimate, 15% of Canadians lived in poverty by 1961, while at the end of the Sixties, Statistics Canada estimated that the number of Canadians living in poverty (using measurements drawn up by Jenny Podoluk) had fallen from about 25% of the population in 1961 to about 18% in 1969. A Senate inquiry in 1969, however, estimated that as many as 1 in 4 Canadians were living in poverty that year. From 1969 to 1982, the proportion of families with incomes below the poverty line fell from 20.8% to 13.9%. According to one definition, nearly two-fifths of Canadians lived in poverty in 1951, falling slightly to more than one-fifth in 1961 and to slightly less than one-fifth by 1968.
+In recent years, newly arrived immigrants have higher than average low-income rates, although each immigrant arrival cohort year experiences a declining low-income rate over time.
+
+
+== Definition of Poverty ==
+The most widely discussed conceptual issue related to poverty is the definition of poverty, specifically the difference between absolute and relative poverty. 
+
+
+== Measures of poverty in Canada ==
+
+Canada has no official poverty measure because Statistics Canada has stated that unless politicians express a social consensus on the definition of poverty, there will be no measure because they feel that it is not Statistics Canada's role to determine what constitutes a necessity. There is a debate on whether an absolute or relative measure is more useful. An absolute measure of poverty can provide insight on deprivation, or the inability to provide for basic needs, while a relative measure of poverty encompasses the issues of social exclusion and inequality.
+Some researchers and governments instead use multiple measures to measure the depth and extent of poverty in Canada.
+
+
+=== Absolute poverty measures ===
+
+
+==== Basic needs poverty measure ====
+
+The basic needs approach is one of the major approaches to the measurement of absolute poverty in developing countries. It attempts to define the absolute minimum resources necessary for long-term physical well-being, usually in terms of consumption goods. The poverty line is then defined as the amount of income required to satisfy those needs. The 'basic needs' approach was introduced by the International Labour Organization's World Employment Conference in 1976. "Perhaps the high point of the WEP was the World Employment Conference of 1976, which proposed the satisfaction of basic human needs as the overriding objective of national and international development policy. The basic needs approach to development was endorsed by governments and workers’ and employers’ organizations from all over the world. It influenced the programmes and policies of major multilateral and bilateral development agencies, and was the precursor to the human development approach."
+A traditional list of immediate "basic needs" is food (including water), shelter and clothing. Many modern lists emphasize the minimum level of consumption of 'basic needs' of not just food, water, and shelter, but also sanitation, education, and healthcare. Different agencies use different lists.
+Professor Chris Sarlo, an economist at Nipissing University in North Bay, Canada and a senior fellow of the Fraser Institute, uses Statistics Canada's socio-economic databases, particularly the Survey of Household Spending to determine the cost of a list of household necessities. This is calculated for various communities across Canada and adjusted for family size. Sarlo's basic needs measure is based on various data sources including Statistics Canada's databases (for example Survey of Household Spending) and CMHC housing information to determine the cost of a list of household necessities (food, shelter, clothing, health care, personal care, essential furnishings, transportation and communication, laundry, home insurance, and miscellaneous) for various communities across Canada and then, based on family size, determines how many households have insufficient income to afford those necessities. Before 2004, the determination of the poverty rate was based on pre-tax income inclusive of government social program income such as welfare, employment insurance, and old-age pensions. Taxes were not particularly relevant as households at or beneath the poverty rate would pay little or no income tax. More recently, the after-tax incomes have been used as the indicator of household well-being. Like most measures, it is based on reported income and is therefore subject to error related to unreported employment and the underground economy. With this information, he determines the proportion of Canadian households that have insufficient income to afford those necessities. Based on his basic needs poverty threshold, the poverty rate has declined from about 12% of Canadian households to about 5% since the 1970s. Based on Sarlo's basic needs, the poverty rate in Canada has fallen dramatically over the past 51 years. In 2004 it was 4.9%, representing 1.6 million Canadians.
+
+
+==== Market basket measure ====
+The Government of Canada's Department of Human Resources and Skills Development Canada constructed their own absolute measure through the creation the Market Basket Measure (MBM) in 2003. The MBM costs a broader range of essential goods and services than the Fraser Institute measure. MBM thresholds take into account community size, location and household and composition, estimating the disposable income required to meet basic needs. Forty eight Canadian communities have been included in the measure.
+The government of Newfoundland and Labrador are now developing a market basket measure which is more granular, costing out a set of basic goods in over 400 communities in the province.
+
+
+=== Relative poverty measures ===
+
+Relative poverty measures, the most prominent being income distribution measures, also known as income inequality metrics, reveal information about disparities of income within a population. So, for instance, if a society becomes richer, even those in the bottom income bands may see their incomes rise as well. A measure which accounts for this rise, increasing with the average income of the society, is known as a "relative measure of poverty." Relative poverty measures are considered by some to be the most useful for advanced industrial nations like Canada. According to a 2008 report by the Organisation for Economic Co-operation and Development (OECD), the rate of poverty in Canada, is among the highest of the OECD member nations, the world's wealthiest industrialized nations. There is no official government definition and therefore, measure, for poverty in Canada. However, Dennis Raphael, author of Poverty in Canada: Implications for Health and Quality of Life reported that the United Nations Development Program (UNDP), the United Nations Children’s Fund (UNICEF), the Organisation for Economic Co-operation and Development (OECD) and Canadian poverty researchers find that relative poverty is the "most useful measure for ascertaining poverty rates in wealthy developed nations such as Canada."
+In lieu of an official poverty measure, the LICO is regarded as a poverty measure by various groups. It has been referred to as "the most accepted measure" of poverty. Internationally, the Low Income Measure and the Gini coefficient are a prominent income distribution metrics.
+
+
+==== Low-income cut-off (LICO) ====
+
+Low-income cut-off (LICO) rates are often quoted by the media as a measure of poverty even though Statistics Canada has stated it is not a poverty measure. It is also used by statistics collators like the Central Intelligence Agency in lieu of an official measure, although the CIA also notes that it "results in higher figures than found in many comparable economies."
+The measure has been reported by Statistics Canada since the 1960s. They were reported only in their "pre-tax" form until 2000, at which point Statistics Canada started to publish both pre and after-tax LICO rates. After-tax LICO rates have been retroactively calculated back to 1986. The measure is intended to represent an income threshold below which a family will likely devote a larger share of its income on the necessities of food shelter and clothing than the average family. As of 2011, 8.8% of Canadians are in a family whose income is below the after-tax low-income cut-off.
+There are 7 family sizes and 5 community sizes, resulting in 35 total LICO groups, each one evaluated on a pre and after-tax basis (70 calculations in total). The LICO is currently set at 63% of the average family income within each group. This stems from the 1992 Family Expenditures Survey, which showed the average family spent 43% of its after-tax income on food, shelter and clothing, plus Statistics Canada added an additional 20% margin.
+Statistics Canada prefers using the after-tax LICO over the pre-tax LICO "to draw conclusions about [families] overall economic well-being"; however, the pre-tax measures are needed depending on the study being conducted because some sources of data, such as the census, contain only pre-tax income information. It can also be useful to know the pre-tax income profile of groups before the effects of progressive tax rates.
+
+
+==== Low Income Measure ====
+The Low Income Measure is a purer measure of relative income. It is defined as 50% of median income, adjusted for family size. In effect, this measure indicates the percentage or number of people in the bottom income quartile.
+It is considered an especially useful measure for international comparisons, and is popular with anti-poverty groups and some foreign governments (e.g., Ireland). It results in a higher measure of poverty compared to other measures. In 2011, it was estimated to be 12.6% on an after-tax basis.
+
+
+==== Gini coefficient ====
+
+The Gini coefficient is a measure of statistical dispersion most prominently used as a measure of inequality of income distribution or inequality of wealth distribution. It is defined as a ratio with values between 0 and 1: the numerator is the area between the Lorenz curve of the distribution and the uniform distribution line; the denominator is the area under the uniform distribution line. Thus, a low Gini coefficient indicates more equal income or wealth distribution, while a high Gini coefficient indicates more unequal distribution. 0 corresponds to perfect equality (everyone having exactly the same income) and 1 corresponds to perfect inequality (where one person has all the income, while everyone else has zero income). The Gini coefficient requires that no one have a negative net income or wealth.
+Serious consideration of the Gini coefficient for public policy implications is rare in Canada. Discussion of income inequality in the Canadian media generally implies that income inequality should be continually reduced as an objective, whereas international economists evaluating Gini coefficients generally focus on the idea of targeting an optimal range for the Gini coefficient. Some researchers have suggested the optimal Gini coefficient range is about .25-.40 (Wolfgang Kitterer, 2006, More Growth through Redistribution?). As of 2004, the Gini coefficient for Canada was estimated to be 0.315 on an after-tax basis.
+
+
+== Poverty Reduction ==
+Several Canadian provinces are introducing poverty reduction strategies, following the examples set by the European Union, Ireland and the United Kingdom. Newfoundland & Labrador, Nova Scotia, Quebec, Ontario and Manitoba are all developing provincial strategies. Quebec and Manitoba have enshrined their efforts in legislation. Newfoundland & Labrador has established a provincial ministry. Ontario has set a cabinet roundtable to address child poverty, as per the Liberals's campaign promise.
+Because of these moves, each province is exploring the development of a measurement tool to track any progress made on reducing poverty, such as the use of a Deprivation Index.
+As of 2015, there is no federal plan to reduce poverty.
+
+
+== Indigenous Children in Canada ==
+According to a left-wing think tank, the Canadian Centre for Policy Alternatives, "Based on data from the 2006 census, this study found that the average child poverty rate for all children in Canada is 17%, while the average child poverty rate for all Indigenous children is more than twice that figure, at 40%." "50% — of status First Nations children live below the poverty line. This number grows to 62% in Manitoba and 64% in Saskatchewan." The study referred to used the Low Income Measure as their definition for poverty, which always shows a high rate. Nonetheless, the much higher LIM statistics for indigenous families indicates a much higher level of poverty among that demographic.
+
+
+== Assistance for poor people in Canada ==
+
+
+=== Government transfers and intervention ===
+
+
+==== Reduced tax burden ====
+
+The Canadian income tax system is highly progressive. This can be seen by comparing the 2005 pre-tax low-income cut-off rate of 15.3% with the after-tax rate of only 10.8%. It is also evident in the Gini coefficient, which was estimated to be 0.428 on a pre-tax basis but only 0.315 on an after-tax basis. The Conference Board of Canada 2013 study noted the Canadian system provides relief to the poor which contributes to lowering poverty rates in Canada. Their 2013 report stated that without Canada's tax system and transfers, the poverty rate would have been 23 per cent not the current 12 per cent.
+
+
+==== Social programs ====
+
+The Conference Board of Canada 2013 study noted "that due to the tax system and transfers to the poor, income inequality is 27 per cent lower than it otherwise would be." Canada has a wide range of government transfers to persons, which totaled $176.6 billion in 2009. Some of the transfers designed to assist low-income people in Canada include Welfare and Old age security. There is also an extensive mandatory Employment Insurance program designed to assist workers who have become unemployed to lessen the chance of them falling into poverty.
+In addition to government transfers, there are number of other publicly funded services and social programs that benefit those with low-incomes like Medicare, Public education for grade school; subsidized post-secondary education, Subsidized housing, and Employment equity programs, which often target various groups of people who are deemed to be susceptible to having low-incomes.
+
+
+==== Working income tax benefit ====
+
+The WITB was introduced in 2007 to encourage low income people to enter the labour force, and to provide them with increased financial support. The WITB has been expanded considerably since its introduction. As of 2012, it is worth up to $970 for a single individual, $1762 for couples and single parent families. A person or couple must have at least $3,000 in employment income, and not be a student, to be eligible for WITB. Benefits increase, and then decrease, with income, and are completely clawed back at an income of $11,011 for singles, $15,205 for couples or single parents (in 2012).These credits are not taxed (see Income taxes in Canada#Income not taxed).
+
+
+==== Child credits ====
+
+Low-income Canadians are eligible for the Canada Child Tax Benefit (a federal benefit), and provincial child tax credits or benefits and Québec family allowances. For example, Ontario pays a benefit scheduled to grow to $180 per month by 2011 for a family earnings less than $20,000 with two children. These credits are not taxed (see Income taxes in Canada#Income not taxed).
+
+
+==== Minimum wage laws ====
+
+Under the Constitution of Canada, the responsibility for enacting and enforcing labour laws including minimum wages in Canada rests with the ten provinces, the three territories also having been granted this power by virtue of federal legislation. This means that each province and territory has its own minimum wage. The lowest general minimum wage currently in force is that of the Northwest Territories ($10.00/hour), the highest is that of Nunavut and Ontario ($11/hour). Some provinces allow lower wages to be paid to liquor servers and other tip earners, and/or to inexperienced employees
+Although listed here under assistance, some theories suggest that minimum wage laws are a net detriment to low-income people as a whole, because they reduce the attractiveness of hiring low-skilled staff (see Minimum wage#Debate over consequences).
+
+
+== Notes ==
+
+
+== See also ==
+Poverty by country
+Campaign 2000
+
+
+== References ==
+
+
+== Further reading ==
+Coon, Garson George (1998). Examining beliefs about the causes of unemployment and poverty: An analysis of the causal models from the research literature (D.S.W. thesis). Wilfrid Laurier University. 
+Jeffery, Heather Elizabeth (1999). The construction of homelessness as a social problem: Linking contributing factors, mediating factors and interventive strategies (M.S.W. thesis). Wilfrid Laurier University. 
+Morrison, Susan M. (1992). Mothers and Other Making Change: Empowerment through self-help and social action (M.A. thesis). Wilfrid Laurier University. 
+Roberts, Alison J. Rice (2001). A qualitative study of presently and formerly homeless female adolescents (Ontario) (M.A. thesis). Wilfrid Laurier University. 
+Raphael, Dennis (2011), Poverty in Canada: Implications for Health and Quality of Life, 2nd edition, Canadian Scholars' Press, ISBN 1551303949 
+Snyder, Linda L. (2000). Women's employment initiatives as a means of addressing poverty: A comparative study of Canadian and Chilean examples (D.S.W. thesis). Wilfrid Laurier University. 
+
+
+== External links ==
+Stats & Facts, Canadian Council on Social Development
+http://www.urbancentre.utoronto.ca/policyarchive/11policyarchivehousing.html#

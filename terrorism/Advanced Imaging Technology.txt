@@ -1,0 +1,233 @@
+A full-body scanner is a device that detects objects on a person's body for security screening purposes, without physically removing clothes or making physical contact. Depending on the specific technology, the operator may see an alternate-wavelength image of the person's naked body, or merely a cartoon-like representation of the person with an indicator showing where any suspicious items were detected. For privacy and security reasons, the display is generally not visible to other passengers, and in some cases is located in a separate room where the operator cannot see the face of the person being screened. Unlike metal detectors, full-body scanners can detect non-metal objects, which became an increasing concern after various airliner bombing attempts in the 2000s.
+Two distinct technologies are in general use:
+Millimeter wave scanners use non-ionizing electromagnetic radiation similar to that used by wireless data transmitters, in the extremely high frequency radio band (which is a lower frequency than visible light). Scanners can have active or passive sensors. Millimeter wave scanners with active sensors include the ProVision ATD and the Rohde & Schwarz QPS 100/200 which is used in many international airports. The health risks posed by these machines is still being studied, and the evidence is mixed. See article on Millimeter wave scanners. Passive sensors rely on ambient EM radiation and do not emit any but are not in general use at airports.
+Backscatter X-ray machines uses ionizing electromagnetic radiation, similar to a dental X-ray. Ionizing radiation is carcinogenic.
+Starting in 2007, full-body scanners started replacing metal detectors at airports and train stations in many countries. Two advantages of full-body scanners over a physical strip search are that it is quicker (takes only 15 seconds) and that people do not have to physically remove their clothes. In some cases, a clothes-on pat-down is offered as an alternative to a full-body scan. A pat-down is also often used as a follow-up when a suspicious object has been detected by a scan.
+Some passengers and issue advocates have objected to having pictures of their naked bodies displayed to screening agents or recorded by the government. Some critics have called the imaging virtual strip searches without probable cause, and some have claimed they are illegal and violate basic human rights. In 2007, a U.S. federal appeals court ruled in a lawsuit brought by the Electronic Privacy Information Center that even the naked-picture version of the technology was a reasonable and constitutional search.
+In the United States, pursuant to the FAA Modernization and Reform Act of 2012, all full-body scanners operated in airports by the Transportation Security Administration must use "Automated Target Recognition" software, which replaces the picture of a nude body with the cartoon-like representation. As a result of this rule, all backscatter X-ray machines formerly in use by the Transportation Security Administration were removed from airports, since the agency said the vendor (Rapiscan) did not meet their contractual deadline to implement the software.
+
+
+== History ==
+The first full body security scanner was developed by Dr. Steven W Smith, who developed the Secure 1000 whole body scanner in 1992. He subsequently sold the device and associated patents to Rapiscan Systems, who now manufacture and distribute the device.
+The first passive, non-radiating full body screening device was developed by Lockheed Martin through a sponsorship by the National Institute of Justice (NIJ)'s Office of Science and Technology and the United States Air Force Research Laboratory. Proof of concept was conducted in 1995 through the Defense Advanced Research Projects Agency (DARPA). Rights to this technology were subsequently acquired by Brijot Imaging Systems, who further matured a commercial-grade product line and now manufacture, market and support the passive millimeter wave devices.
+Safety aspects of the Secure 1000 have been investigated by the FDA and NCRP since the early 1990s.
+
+
+== Usage ==
+
+Schiphol in the Netherlands was the first airport in the world to implement this device on a large scale after a test with flight personnel the previous year. On May 15, 2007 two of 17 purchased security scans were installed. A longer list of airports with full-body scanners can be found on bigbrotherwatch.org.uk.
+Full-body scanners have been installed in at least one Florida courthouse and are starting to appear in courthouses around the US.
+At least one New Jersey PATH train station used full-body scanners in 2006. This was a two-week trial.
+As of September 3, 2014, the TSA (Transportation Security Administration) reported that there were almost 740 Millimeter Wave AIT scanners now in use at 160 United States airports 
+The US Government has also hinted at the possibility of deploying the full body scanners at train stations and subways.
+The Italian government had planned to install full-body scanners at all airport and train stations throughout the country, but announced in September 2010 plans to remove the scanners from airports, calling them "slow and ineffective."
+Because of the privacy issues, in some locations people are allowed to refuse this scan and opt for a traditional pat-down. In other locations, use of the full-body scanners is mandatory and refusing to submit to a scan at the airport will ban the person from taking the flight. A bill called the S.A.F.E.R. A.I.R. Act was introduced in the United States by Senators Bob Bennett (R-UT) and Amy Klobuchar (D-MN). If passed, it would have made full-body scanners mandatory in the U.S. by 2013. The bill was not enacted.
+It is claimed that the head is excluded from the Backscatter X-Ray AIT scan and the images are instantly erased, though in one case, images had been stored and 100 of them were later leaked online.
+The analyst is in a different room and is not supposed to be able to see the person being scanned by the Backscatter X-Ray AIT, but is in contact with other officials who can halt the scanned person if anything suspicious shows up on the scan.
+In the U.S., TSA currently uses Millimeter Wave AIT scanners exclusively, which show no identifying characteristics of the person being scanned. Instead, a generic outline of a person is used. Screening by AIT in the U.S. is optional for all passengers.
+The European Union currently allows member states to decide whether to implement full body scanners in their countries:
+
+It is for each member state to decide to authorise the use of scanners in national airports. That will not change ... But where this scanning technology is used it should be covered by EU-wide standards on detection capability as well as common safeguards to ensure compliance with EU health and fundamental rights provisions.
+
+Australia plans to pass a law in July 2012 to make scanning all passengers, including pregnant females, compulsory. So far, scanners are only installed in Melbourne and Sydney airport and only passengers exiting via international flights are affected. Passengers who refuse a scan may be banned from flying. The scanners proposed to be used in Australia have shown a high rate of error in testing. Public outrage over the nude images created by the body scanners being collected by policy has resulted in a lawsuit to stop body scanning.
+In Canada 24 airports currently have these scanners in use.
+Civil rights groups in Britain have raised issues relating to the body scanners being used to create child porn.
+
+
+== Controversies ==
+The implementation of widespread full-body scanners has raised a public controversy.
+
+
+=== Public opinion ===
+A Gallup poll given just after the 2009 Christmas Day bombing attempt suggested that 78% of American airline travelers approved of body scanners while 20% disapproved. 51% indicated that they would have some level of discomfort with full-body scans, while 48% said they would not be uncomfortable with the idea. The poll was given in the context of the 2009 Christmas Day bombing attempt, and some opponents of full body scanners say that the explosives used in that bombing attempt would not have been detected by full-body scanners.
+An ABC/Washington Post poll conducted by Langer Associates and released November 22, 2010 found that 64 percent of Americans favored the full-body x-ray scanners, but that 50 percent think the "enhanced" pat-downs go too far; 37 percent felt so strongly. In addition the poll states opposition is lowest amongst those who fly less than once a year.
+As of November 23, 2010 an online poll of 11,817 people on The Consumerist website, 59.41% said they would not fly as a result of the new scans. Additionally, as of November 23, 2010 a poll of MSNBC 8,500 online readers indicated 84.1% believe the new procedures would not increase travel safety. According to a CBS telephone poll of 1,137 people published in November 2010, 81% (+/- 5%) percent of those polled approved TSA's use of full-body scans.
+
+
+=== Privacy ===
+
+Opponents of full-body scanners argue that strip searches without probable cause violate basic human rights. Governments do not have the right to make strip searches routine and mandatory, regardless of whether the strip search is done by physically removing clothes or by using technological means to remove the clothes.
+Full-body scanning technology allows screeners to see the nude surface of the skin under clothing, prosthetics including breast prostheses and prosthetic testicles, which may require a potentially embarrassing, hands-on physical inspection once detected. The scanners also can detect other medical equipment normally hidden, such as colostomy bags and catheters. Other privacy concerns come from the transgender community, who may feel that the routine full-body scans are embarrassing and could potentially lead to harassment.
+Airport employees in Lagos have allegedly been discovered wandering away from a cubicle located in a hidden corner on the right side of the screening area to where the 3D full-body scanner monitors are located. At the Dallas Ft. Worth International Airport, TSA complaints have been reported to disproportionally stem from women who felt that they were singled out for repeated screening for the entertainment of male security officers.
+Travelers at U.S. airports have complained that when they opted not to be scanned, they were subjected to a new type of invasive pat-down that one traveler described as "probing and pushing ... in my genital area." Another traveler in the United States complained that the TSA employee "inserted four fingers of both hands inside my trousers and ran his fingers all the way around my waist, his fingers extending at least 2–3 inches below my waistline."
+Individuals still have the right to opt out of the scanner and choose a pat-down if the individual is uncomfortable going through the scanner. Individuals also have the right to be patted down in a private room and have it witnessed by a person of the individual's choice.
+In November, 2010, a female traveler who opted out of a full body scan at Fort Lauderdale International Airport claims that TSA agents handcuffed her to a chair and ripped up her plane ticket when she asked them questions about the new type of invasive pat down she was about to receive. In response, the TSA posted parts of the security camera footage on their blog, though there is no sound in the video and the passenger is not directly in the camera during most of the incident.
+
+Opponents in the US argue that full body scanners and the new TSA patdowns are unconstitutional. A comprehensive student note, and possibly one of the first on the topic, *"Full-Body Scanners: Full Protection from Terrorist Attacks or Full-On Violation of the Constitution?" came out in the Fall 2010 issue of the internationally distributed University of Denver Transportation Law Journal that argued that the full-body scanners are unconstitutional in the United States because they are (1) too invasive and (2) not effective enough because the process is too inefficient.
+On July 2, 2010, the Electronic Privacy Information Center (EPIC) filed a lawsuit to suspend the deployment of full-body scanners at airports in the United States:
+
+EPIC argued that the federal agency has violated the Administrative Procedures Act, the Privacy Act, the Religious Freedom Restoration Act, and the Fourth Amendment. EPIC cited the invasive nature of the devices, the TSA's disregard of public opinion, and the impact on religious freedom.
+
+EPIC claims that the full-body scanners violate the Fourth Amendment to the United States Constitution because they subject citizens to virtual strip searches without any evidence of wrongdoing.
+The American Civil Liberties Union has called the machines an invasion of privacy: "This doesn't only concern genitals but body size, body shape and other things like evidence of mastectomies, colostomy appliances or catheter tubes. These are very personal things that people have every right to keep private and personal, aside from the modesty consideration of not wanting to be naked."
+In Idaho a bill has been introduced to prevent the use of full-body scanners as a primary screening method, and to allow people to request alternative screening methods:
+
+Wholebody imaging technology may not be used as the sole or primary method of screening persons, nor may it be used to screen any person unless another method of screening, such as metal detection, demonstrates cause for preventing such person from boarding an aircraft or entering a public facility or government building.
+
+In the UK, the Equality and Human Rights Commission has argued that full-body scanners are a risk to human rights and may be breaking the law.
+The European Council requires that person analyzing the image shall be in a separate location and the image shall not be linked to the screened person.
+The National Human Rights Commission of Korea opposes the use of full-body scanners and has recommended that they are not deployed at airports.
+In the United States, the TSA requires that their full-body scanners "allow exporting of image data in real time", and cases of the government's storing of images have been confirmed.
+In August 2010, it was reported that United States Marshals Service saved thousands of images from a millimeter wave scanner. TSA – part of the Department of Homeland Security – reiterated that its own scanners do not save images and that the scanners do not have the capability to save images when they are installed in airports. However, these statements contradict the TSA's own Procurement Specs which specifically require that the machines have the ability to record and transmit images, even if those features might be initially turned off on delivery. Opponents have also expressed skepticism that if there were a successful terror attack that the machines would not have the capability to save images for later inspection to find out what went wrong with the scans. On November 16, 2010, 100 of the stored 35,000 body scan images were leaked online and posted by Gizmodo.
+
+
+=== Treatment of minorities ===
+Current backscatter and millimeter wave scanners installed by the TSA are unable to screen adequately for security threats inside turbans, hijab, burqas, casts, prosthetics and loose clothing. This technology limitation of current scanners often requires these persons to undergo additional screening by hand or other methods and can cause additional delay or feelings of harassment.
+According to a manufacturer of the machines, the next generation of backscatter scanners are able to screen these types of clothing. The next generation of scanners can equalize the screening process for all persons so that religious minorities can travel through the AIT process as easily as other passengers.
+
+
+=== Health ===
+
+
+==== Backscatter X-ray scanners ====
+
+Several radiation safety authorities including the National Council on Radiation Protection and Measurements, The Health Physics Society, and the American College of Radiology, have stated that they are "not aware of any evidence" that full-body scans are unsafe. However, other radiation authorities, including the International Atomic Energy Agency and Nuclear Energy Agency recommend against using ionizing radiation on certain populations like pregnant women and children, and opponents of the devices say that no long-term studies have been done on the health effects of either backscatter x-ray or millimeter wave scanners:
+
+I don't think the right questions have been asked. We don't have enough information to make a decision on whether there's going to be a biological effect or not.
+
+Richard Morin, a medical physicist at the Mayo Clinic has said that he is not concerned about health effects from backscatter x-ray scanners:
+
+"From a radiation standpoint there has been no evidence that there is really any untoward effect from the use of this device [backscatter scanner], so I would not be concerned about it from a radiation dose standpoint – the issues of personal privacy are a different thing," he said. The health effects of the more common millimeter wave scanner are largely unknown, and at least one expert believes a safety study is warranted. "I am very interested in performing a National Council on Radiation Protection and Measurements study on the use of millimeter-wave security screening systems," said Thomas S. Tenforde, council president. However, no long-term studies have been done on the health effects of millimeter wave scanners.
+
+Perhaps the most notable and debated professional opinion in regard to the safety of scanners is the so-called "Holdren Letter" from a number of world-renowned biochemists and biophysics researchers from the University of California to the Assistant to the US President for Science and Technology, Dr. John P. Holdren (Co-author of EcoSolutions). The opening paragraph of their letter of concern reads: "We, a number of University of California, San Francisco faculty, are writing—see attached memo—to call your attention to our concerns about the potential serious health risks of the recently adopted whole body back scatter X-ray airport security scanners. This is an urgent situation as these X-ray scanners are rapidly being implemented as a primary screening step for all air travel passengers. (UCSF April 6, 2010 John W. Sedat, Ph.D Professor Emeritus, Department of Biochemistry and Biophysics)
+Opponents of backscatter x-ray scanners, including the head of the center for radiological research at Columbia University, say that the radiation emitted by some full-body scanners is as much as 20 times stronger than officially reported and is not safe to use on large numbers of persons because of an increased risk of cancer to children and at-risk populations. Researchers at the University of California, San Francisco, (UCSF) have argued that the amount of radiation is higher than claimed by the TSA and body scanner manufacturers because the doses were calculated as if distributed throughout the whole body, but the radiation from backscatter x-ray scanners is focused on just the skin and surrounding tissues:
+
+The majority of [the scanners'] energy is delivered to the skin and the underlying tissue. Thus, while the dose would be safe if it were distributed throughout the volume of the entire body, the dose to the skin may be dangerously high.
+The X-ray dose from these devices has often been compared in the media to the cosmic ray exposure inherent to airplane travel or that of a chest X-ray. However, this comparison is very misleading: both the air travel cosmic ray exposure and chest X- rays have much higher X-ray energies and the health consequences are appropriately understood in terms of the whole body volume dose. In contrast, these new airport scanners are largely depositing their energy into the skin and immediately adjacent tissue, and since this is such a small fraction of body weight/vol, possibly by one to two orders of magnitude, the real dose to the skin is now high.
+In addition, it appears that real independent safety data do not exist. A search, ultimately finding top FDA radiation physics staff, suggests that the relevant radiation quantity, the Flux [photons per unit area and time (because this is a scanning device)] has not been characterized. Instead an indirect test (Air Kerma) was made that emphasized the whole body exposure value, and thus it appears that the danger is low when compared to cosmic rays during airplane travel and a chest X-ray dose.
+However other professors in the UCSF radiology department disagree, saying that the radiation dose is low.
+
+"The conclusions are wrong," Ronald Arenson, professor of radiology, tells SF Weekly of his own institution's letter. "People who are totally unrelated to radiation wrote it. ... It was senior faculty at UCSF. They're smart people and well-intended, but their conclusions, I think, were off-base. They don't understand how radiation translates to an actual dose in the human body."
+
+Dr. Steve Smith, inventor of the body scanner in 1991, and president of Tek84, one of the companies that produces the machines, has stated that the concerns of Dr. Brenner and UCSF Scientists regarding the skin dose of backscatter scanners is incorrect. He states the values used for X-ray penetration were incorrectly based on the description of the imaging depth which describes what the instrument sees and is a few mm into the skin and the dosage depth which is deeper. He describes experimental proof that the X-rays have the same properties as any other X-Rays and the penetration is correct to be averaged over the whole body. Dr. Smith has provided measured data from an operating body scanner to explain his position.
+In October 2010, The TSA responded to the concerns of UCSF researchers via the White House science advisor.
+Scanners also concentrate the dose in time, because they deliver a high dose-rate at the moment of exposure. High dose-rate exposure has been shown to cause greater damage than the same radiation dose delivered at lower rates. This raises further questions about comparisons to background radiation.
+The FDA report states:
+
+Since general-use x-ray systems emit ionizing radiation, the societal benefit of reliably detecting threats must be sufficient to outweigh the potential radiation risk, if any, to the individual screened. The dose from one screening with a general-use x-ray security screening system is so low that it presents an extremely small risk to any individual. To put the radiation dose received into perspective:
+Naturally occurring ionizing radiation is all around us. We are continuously exposed to this background radiation during ordinary living. In 42 minutes of ordinary living, a person receives more radiation from naturally occurring sources than from screening with any general-use x-ray security system.
+The national radiation safety standard (see below) sets a dose per screening limit for the general-use category. To meet the requirements of the general-use category a full-body x-ray security system must deliver less than the dose a person receives during 4 minutes of airline flight. TSA has set their dose limit to ensure a person receives less radiation from one scan with a TSA general-use x-ray security system than from 2 minutes of airline flight.
+A person would have to be screened more than a thousand times in one year in order to exceed the annual radiation dose limit for people screening that has been set by expert radiation safety organizations (see below).
+Millimeter wave security systems which comply with the limits set in the applicable national non-ionizing radiation safety standard (see below) cause no known adverse health effects.
+
+The U.S. TSA has also made public various independent safety assessments of the Secure 1000 Backscatter X-ray Scanner.
+Dr. David Brenner, head of Columbia University's center for radiological research, said although the danger posed to the individual passenger is "very low", he is urging researchers to carry out more tests on the device to look at the way it affects specific groups who could be more sensitive to radiation. He says children and passengers with gene mutations – around one in 20 of the population – are more at risk as they are less able to repair X-ray damage to their DNA.
+Dr. Andrew J. Einstein, director of cardiac CT research at Columbia University, has made the following statements in support of the safety of body scanners:
+
+"A passenger would need to be scanned using a backscatter scanner, from both the front and the back, about 200,000 times to receive the amount of radiation equal to one typical CT scan," said Dr. Andrew J. Einstein, director of cardiac CT research at Columbia University Medical Center in New York City.
+
+"Another way to look at this is that if you were scanned with a backscatter scanner every day of your life, you would still only receive a tenth of the dose of a typical CT scan," he said.
+By comparison, the amount of radiation from a backscatter scanner is equivalent to about 10 minutes of natural background radiation in the United States, Einstein said. "I believe that the general public has nothing to worry about in terms of the radiation from airline scanning," he added.
+For moms-to-be, no evidence supports an increased risk of miscarriage or fetal abnormalities from these scanners, Einstein added.
+
+"A pregnant woman will receive much more radiation from cosmic rays she is exposed to while flying than from passing through a scanner in the airport," he said.
+In May 2010 the National Council on Radiation Protection and Measurements issued a press release in response to the health risk claims from UCSF and Columbia University (claims of excessive skin dose and risks to large populations vs. individuals). The NCRP claims that cancer risks cited by opponents are completely inaccurate, stating that:
+
+the summation of trivial average risks over very large populations or time periods into a single value produces a distorted image of risk, completely out of perspective with risks accepted every day, both voluntarily and involuntarily.
+
+and that
+
+... general-use systems should adhere to an effective dose of 0.1 microsievert (μSv) (0.01 millirem) or less per scan, and can be used mostly without regard to the number of individuals scanned or the number of scans per individual in a year. An effective dose of 0.1 μSv (0.01 mrem) per scan would allow 2,500 scans of an individual annually [i.e., if each scan required 0.1 μSv (0.01 mrem)] without exceeding the administrative control of 0.25 mSv (25 mrem) to a member of the general public for a single source or set of sources under one control. Assuming 250 workdays per year, this would correspond to an average of 10 scans each day, a frequency that is unlikely to be encountered.
+
+However, the Inter-Agency Committee on Radiation Safety which includes the International Atomic Energy Agency, Nuclear Energy Agency and the World Health Organization, reported that, "Pregnant women and children should not be subject to scanning, even though the radiation dose from body scanners is 'extremely small'".
+Opponents have also argued that defects in the machines, damage from normal wear-and-tear, or software errors could focus an intense dose of radiation on just one spot of the body. The researchers write:
+
+Moreover, there are a number of 'red flags' related to the hardware itself. Because this device can scan a human in a few seconds, the X-ray beam is very intense. Any glitch in power at any point in the hardware (or more importantly in software) that stops the device could cause an intense radiation dose to a single spot on the skin. Who will oversee problems with overall dose after repair or software problems? The TSA is already complaining about resolution limitations; who will keep the manufacturers and/or TSA from just raising the dose, an easy way to improve signal-to-noise and get higher resolution? Lastly, given the recent incident (on December 25th), how do we know whether the manufacturer or TSA, seeking higher resolution, will scan the groin area more slowly leading to a much higher total dose?
+
+Proponents of backscatter X-ray scanners argue that the ANSI N43.17 standard addresses safety requirements and engineering design of the systems to prevent the occurrence of accidental high radiation due to defects and errors in hardware and software. Safety requirements include "fail-safe" controls, multiple overlapping interlocks and engineering design to ensure that failure of any systems result in safe or non-operation of the system to reduce the chance of accidental exposures. Furthermore, TSA requires that certification to the ANSI N43.17 standard is performed by a third party and not by the manufacturer themselves.
+There are cases where types of medical scanning machines, operated by trained medical personnel, have malfunctioned, causing serious injury to patients that were scanned. Opponents of full-body scanners cite these incidents as examples of how radiation-based scanning machines can overdose people with radiation despite all safety precautions.
+In March 2011, it was found that some of the full body scanners in the US were emitting 10 times the normal level of radiation:
+
+Contractors charged with routinely examining the scanners submitted reports containing discrepancies, including mathematical miscalculations showing that some of the devices emitted radiation levels 10 times higher than normal...
+"In our review of the surveys we found instances where a technician incorrectly did his math and came up with results that showed the radiation readings were off by a factor of 10," said Peter Kant, executive vice president of Rapiscan Systems.
+
+The x-rays from backscatter scanners "are a form of ionizing radiation, that is, radiation powerful enough to strip molecules in the body of their electrons, creating charged particles that cause cell damage and are thought to be the mechanism through which radiation causes cancer." Humans are exposed to background radiation every day, anywhere on earth, and proponents of backscatter X-ray scanners say that the devices expose subjects to levels of radiation equivalent to background radiation. Furthermore, when traveling on an airplane, passengers are exposed to much higher levels of radiation than on earth due to altitude. Proponents say that backscatter X-ray scan is equivalent to the radiation received during two minutes of flying. But background radiation compares to backscatter X-ray scanners as diffuse light compares to focused light, and the same amount of radiation experienced in four minutes of background exposure (the TSA limit) is delivered in 10 seconds with a body scan—a 2400% increase in energy concentration. As the U.S. Environmental Protection Agency explains the importance of focus and energy concentration in underscoring the difference between diffuse light (example: light bulb) and focused light (example: laser): "Laser light travels in a very narrow, highly focused beam which does not spread out as light from a bulb does. Because it is very concentrated ... laser light can be harmful."
+The UK Health Protection Agency has also issued a statement that the radiation dose from backscatter scanners is very low and "about the same as one hour of background radiation".
+The European Commission issued a report stating that backscatter x-ray scanners pose no known health risk, but suggested that backscatter x-ray scanners, which expose people to ionizing radiation, should not be used when millimeter-wave scanners that "have less effects on the human body" are available:
+
+Assuming all other conditions equal, there is no reason to adopt X‐ray backscatters, which expose the subject to an additional – although negligible – source of ionizing radiations. Other WBI [Whole Body Imaging] technologies should be preferred for standard use.
+
+However, the European Commission's report provides no data substantiating the claim that "all other conditions are equal". One area where backscatter X-ray scanners can provide better performance than millimeter wave scanners, for example, is in the inspection of the shoes, groin and armpit regions of the body.
+The European Commission also recommended that alternate screening methods should be "used on pregnant women, babies, children and people with disabilities".
+In the United States, Senator Susan Collins, Ranking Member of the Senate Homeland Security Committee sent a letter on August 6, 2010 to the Secretary of Homeland Security and Administrator of the TSA, requesting that the TSA "have the Department’s Chief Medical Officer, working with independent experts, conduct a review of the health effects of their use for travelers, TSA employees, and airport and airline personnel." The TSA has completed this review.
+The U.S. Government is also supplying at least two African countries with higher-radiation, through-body x-ray scanners to use at African airports which has caused some opponents of full-body scanners to question how far the U.S. Government intends to go with the technology.
+Unions for airline pilots working for American Airlines and US Airways have urged pilots to avoid the full body scanners.
+
+
+==== Millimeter wave scanners ====
+
+Currently adopted millimeter wave scanners operate in the millimeter or sub-terahertz band, using non-ionizing radiation, and have no proven adverse health effects, though no long term studies have been done. Thomas S. Tenforde, president of the National Council on Radiation Protection and Measurements, said in 2010 that millimeter wave scanners are probably within bounds [of standards for safe operation], but there should be an effort to verify that they are safe for frequent use. WHO (World Health Organization in 2011 categorized RF (radio frequency) radiation as a possible carcinogen.
+
+Alexandrov and co have created a model to investigate how THz fields interact with double-stranded DNA and what they've found is remarkable. They say that although the forces generated are tiny, resonant effects allow THz waves to unzip double-stranded DNA, creating bubbles in the double strand that could significantly interfere with processes such as gene expression and DNA replication.
+
+The work was not experimentally verified. With further simulations, the resonant effect was shown to be eliminated when using "reasonable physical assumptions".
+Passive millimeter wave scanners, like the SPO-7, which is not commonly found at airports, only detect naturally available radiation and do not emit any radiation for imaging.
+
+
+=== Child scanning ===
+There is controversy over full-body scanners in some countries because the machines create images of virtual strip searches on persons under the age of 18 which may violate child pornography laws. In the UK, the scanners may be breaking the Protection of Children Act of 1978 by creating images or pseudo-images of nude children.
+Parents have complained that their young children are being virtually strip searched, sometimes without their parents present.
+
+
+=== Ineffectiveness ===
+Opponents of full-body scanners claim that the technology is ineffective* for multiple reasons, including that the scanners can easily be bypassed:
+
+A study published in the November edition of the Journal of Transportation Security suggested terrorists might fool the Rapiscan machines and others like it employing the X-ray "backscatter" technique. A terrorist, the report found, could tape a thin film of explosives of about 15–20 centimeters in diameter to the stomach and walk through the machine undetected.
+
+In March 2012, scientist and blogger Jonathan Corbett demonstrated the ineffectiveness of the machines by publishing a viral video showing how he was able to get a metal box through backscatter x-ray and millimeter wave scanners in two US airports. In April 2012, Corbett released a second video interviewing a TSA screener, who described firearms and simulated explosives passing through the scanners during internal testing and training.
+In another test of the full-body scanners, the machines failed to detect bomb parts hidden around a person's body.
+In a different test in 2011, an undercover TSA agent was able to carry a handgun through full body scanners multiple times without the weapon being detected. However, fault was not that of the machine, but the TSA Agent who was in charge of viewing the scanned images was simply not paying attention.
+Terrorists have already evolved their tactics with the use of surgically implanted bombs or bombs hidden in body cavities.
+Rafi Sela, an Israeli airport security expert who helped design security at Ben Gurion International Airport, has said: "I don't know why everybody is running to buy these expensive and useless machines. I can overcome the body scanners with enough explosives to bring down a Boeing 747... That's why we haven't put them in our airport."
+Despite the scanners, the TSA has been unable to stop weapons like box cutters and pistols from being carried onto airplanes, raising questions about whether the agency needs more oversight in general.
+Two alternatives that have been argued for by experts, such as Prof Chris Mayhew from Birmingham University, are chemical-based scanners and bomb-sniffing dogs. Others have argued that passenger profiling, as done by Israeli airport security, should replace full body scanners and patdowns.
+The Australia government has been challenged over the effectiveness and cost of full body scanners by public media to which Australian Transport Minister Anthony Albanese has said he "makes no apologies" for mandating the installation of full body scanners at Australian airports.
+
+
+=== Full-body scanner lobbyists ===
+Former Homeland Security secretary Michael Chertoff has been criticized for heavily promoting full-body scanners while not always fully disclosing that he is a lobbyist for one of the companies that makes the machines. Other full-body scanner lobbyists with Government connections include:
+former TSA deputy administration Tom Blank
+former assistant administrator for policy at the TSA, Chad Wolf
+Kevin Patrick Kelly, "a former top staffer to Sen. Barbara Mikulski, D-Md., who sits on the Homeland Security Appropriations subcommittee"
+Former Senator Al D'Amato
+
+
+=== TSA's expansion of scanning program ===
+Forbes magazine reported, in March, 2011, that:
+
+Newly uncovered documents show that as early as 2006, the Department of Homeland Security has been planning pilot programs to deploy mobile scanning units that can be set up at public events and in train stations, along with mobile x-ray vans capable of scanning pedestrians on city streets.
+
+and that the TSA had research proposals to:
+
+bring full-body scanners to train stations, mass transit, and public events. Contracts included in the EPIC release showed plans to develop long-range scans that could assess what a subject carried from 30 feet away, along with studies that involved systems for x-ray scanners mounted in vans and "covert" scans of pedestrians.
+
+
+=== "No nudity" full-body scanner ===
+The new software for scanners has been applied by US Aviation Security, so the new full-body scanner will not give image of nudity of the person who is scanned to the operators of the scanner, but only give the image as a generic male or female figure with no features. Opponents of full body scanners still consider this to be an unconstitutional strip search, because even though the operators see an edited version of the image, a naked image is still captured by the machine, and there is no guarantee that the Government or private companies won't store the images in the case that a terrorist attack were successful.
+This type of software has been applied at Washington, Atlanta and Las Vegas airports.
+"Our top priority is the safety of the traveling public, and TSA constantly strives to explore and implement new technologies that enhance security and strengthen privacy protections for the traveling public," TSA Administrator John Pistole stated. "This software upgrade enables us to continue providing a high level of security through advanced imaging technology screening, while improving the passenger experience at checkpoints." 
+
+
+== Technical countermeasures ==
+Some people wish to prevent either the loss of privacy or the possibility of health problems or genetic damage that might be associated with being subjected to a backscatter X-ray scan. One company sells X-ray absorbing underwear which is said to have X-ray absorption equivalent to 0.5 mm of lead. Another product, Flying Pasties, is "... designed to obscure the most private parts of the human body when entering full body airport scanners", but its description does not seem to claim any protection from the X-ray beam penetrating the body of the person being scanned.
+
+
+== See also ==
+Explosives trace-detection portal machine (puffer machine)
+Full-body CT scan (in medical imaging)
+
+
+== References ==
+
+"Innovative Security Scan simplifies passenger control". Schiphol. 2007-05-16. Archived from the original on 2008-08-22. Retrieved 2008-12-03. 
+
+
+== External links ==
+List of American airports that currently/will use Full Body Scanners in their passenger searches
+Challenge to Airport Body Scanners
+Health effects of the full-body scanners
+European Union Refused Body Scanners
+Invasion of the Body Scanners by Randall Amster, Truthout, January 24, 2010.
+Alternate ways to screen airport passengers without the need of full body scan
+National Outcry Over TSA Body Scanners and Invasive Pat-Downs – video report by Democracy Now!
+Details about body scanners

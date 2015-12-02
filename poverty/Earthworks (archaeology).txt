@@ -1,0 +1,55 @@
+In archaeology, earthworks are artificial changes in land level, typically made from piles of artificially placed or sculpted rocks and soil. Earthworks are often known as barrows in England, and mounds in North America. Earthworks can themselves be archaeological features, or they can show features beneath the surface.
+
+
+== TypesEdit ==
+Earthworks of interest to archaeologists include hill forts, henges, mounds, platform mounds, effigy mounds, enclosures, long barrows, tumuli, ridge and furrow, mottes, round barrows, and other tombs.
+Hill forts, a type of fort made out of mostly earth and other natural materials including sand, straw, and water, were built as early as the late Stone Age and were built more frequently during the Bronze Age as a means of protection  See also Oppidum.
+Henge earthworks are those that consist of a flat area of earth in a circular shape that are encircled by a ditch, or several circular ditches, with a bank on the outside of the ditch built with the earth from inside the ditch. They are believed to have been used as monuments for spiritual ritual ceremonies.
+A mound is a substantial manmade pile of earth or rocks that was frequently created to mark burial sites 
+Platform mounds are pyramid or rectangular-shaped mounds that are used to hold a building or temple on top.
+An effigy mound is a pile of earth, often very large in scale, that is shaped into the image of a person or animal, often for symbolic or spiritual reasons 
+An enclosure is a space that is surrounded by an earthwork.
+Long barrows are oblong-shaped mounds that are used for burials.
+Tumuli are mounds of earth created over a tomb; it has the same meaning as barrow.
+A cross dyke or cross-ridge dyke is a bank and ditch, or sometimes a ditch between two banks, that crosses a ridge or spur of high ground. Found in Europe and often belonging to the later Bronze Age or Iron Age. Often marked on Ordnance Survey maps in the UK.
+Ridge and furrows are sets of parallel depressions and ridges in the ground formed primarily through historic farming techniques.
+Mottes are mound structures made of earth and stone that once held castles. They are an important part of the motte-and-bailey castle, a castle design during early Norman times in which the castle is built on the motte, and surrounded by a ditch and a bailey, which is an enclosure with a stone wall.
+A round barrow is a mound that is in a rounded shape that was used during Neolithic times as a burial mound.
+Geoglyph, a large design or motif
+
+
+== SizeEdit ==
+Earthworks can vary in height from a few centimetres to the size of Silbury Hill at 40 metres (130 ft). They can date from the Neolithic to the present. The structures can also stretch for many tens of kilometres (e.g. Offa's Dyke and Antonine Wall). In area, they can cover many hectares; for example, Maiden Castle, which is 19 hectares (47 acres).
+
+
+== DetectionEdit ==
+Shallow earthworks are often more visible as cropmarks or in aerial photographs if taken when the sun is low in the sky and shadows are more pronounced. Similarly, earthworks may be more visible after a frost or a light dusting of snow.
+Earthworks can be detected and plotted using Light Detection and Ranging (LIDAR). This technique is particularly useful for mapping small variations in land height that would be difficult to detect by eye. It can be used to map features beneath forest canopy and for features hidden by other vegetation. LIDAR results can be input into a geographic information system (GIS) to produce three-dimensional representations of the earthworks.
+
+
+== InterpretationEdit ==
+
+An accurate survey of the earthworks can enable them to be interpreted without the need for excavation. For example, earthworks from deserted medieval villages can be used to determine the location, size, and layout of lost settlements. Often these earthworks can point to the purpose of such a settlement, as well the context in which it existed.
+
+
+== ExamplesEdit ==
+
+Earthworks in North America include mounds built by Native Americans known as the Mound Builders. Ancient people who lived in the American Midwest commonly built effigy mounds, which are mounds shaped like animals (real or imaginary) or people. Possibly the most famous of these effigy mounds is Serpent Mound. Located in the Ohio, this 411-meterlong earthen work is thought to memorialize alignments of the planets and stars that were of special significance to the Native Americans that constructed it. Cone-shaped or conical mounds are also numerous, with thousands of them scattered across the American Midwest, some over 80 feet tall. These conical mounds appear to be marking the graves of one person or even dozens of people. An example of a conical mound is the Miamisburg Mound in central Ohio, which has been estimated to have been built by people of the Adena culture in the time range of 800 B.C. to 100 AD. The American Plains also hold temple mounds, or platform mounds, which are giant pyramid-shaped mounds with flat tops that once held temples made of wood. Examples of temple mounds include Monks Mound located at the Cahokia site in Collinsville, Illinois, and Mound H at the Crystal River site in Citrus County, Florida.
+Military earthworks can result in subsequent archaeological earthworks. Examples include Roman marching forts which can leave small earthworks. During the American Civil War, earthwork fortifications were built throughout the country, by both Confederate and Union sides. The largest earthwork fort built during the war was Fortress Rosecrans, which originally encompassed 255 acres (103 ha).
+In northeastern Somalia, near the city of Bosaso at the end of the Baladi valley, lies an earthwork 2 km to 3 km long. Local tradition recounts that the massive embankment marks the grave of a community matriarch. It is the largest such structure in the wider Horn region.
+The Steppe Geoglyphs, discovered in 2007 using Google Earth, are an example of Earthworks in Central Asia.
+
+
+== GalleryEdit ==
+
+
+== NotesEdit ==
+
+
+== ReferencesEdit ==
+Aston, Mick (2002) Interpreting the Landscape, Tempus, ISBN 0-7524-2520-X
+Feder, Kenneth (2008) Linking to the Past, 2nd ed., New York: Oxford, ISBN 978-0-19-533117-2
+Muir, Richard (2004) Landscape Encyclopedia, Bollington, Cheshire: Windgather, ISBN 0-9545575-0-6
+Taylor, Christopher (1974) Fieldwork in Medieval Archaeology, London: Batsford, ISBN 0-7134-2850-3
+Wilson, D.R. (2000) Air Photo Interpretation for Archaeologists, 2nd ed., Stroud: Tempus, ISBN 0-7524-1498-4
+Wood, Eric (1975) Collins Field Guide to Archaeology, 4th ed., London: Collins, ISBN 0-00-219168-7

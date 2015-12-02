@@ -1,0 +1,24 @@
+This is a list of sovereign states and territories by carbon dioxide emissions due to certain forms of human activity, based on the EDGAR database created by European Commission and Netherlands Environmental Assessment Agency released in 2014. The following table lists the 2014 annual CO2 emissions estimates (in thousands of CO2 tonnes) along with a list of emissions per capita (in tonnes of CO2 per year) from same source. The data only considers carbon dioxide emissions from the burning of fossil fuels and cement manufacture, but not emissions from land use, land-use change, and forestry. Emissions from international shipping or bunker fuels are also not included in national figures, which can make a huge difference for small countries with important ports. The top 10 largest emitter countries account for 68.2% of the world total. Other powerful, more potent greenhouse gases are not included in this data, including methane.
+
+
+== See also ==
+
+List of countries by electricity production from renewable sources
+List of countries by greenhouse gas emissions
+List of countries by greenhouse gas emissions per capita
+List of countries by ratio of GDP to carbon dioxide emissions
+General:
+World energy consumption
+
+
+== Notes and references ==
+
+
+== External links ==
+The contents of this article comes from the latest figures from the millennium indicators as of 2009-07-14:
+United Nation Statistics Division
+GHG data from UNFCCC - United Nations Framework Convention on Climate Change GHG emissions data
+Breathing Earth - A visual real-time simulation that uses this CO2 emissions data
+Google - public data "CO2 emissions (kt)"
+Google - public data "CO2 emissions (tonne per capita)"
+World CO2 Emissions | Tableau Public

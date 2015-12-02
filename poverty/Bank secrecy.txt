@@ -1,0 +1,81 @@
+Bank secrecy (or bank privacy) is a legal principle in some jurisdictions under which banks are not allowed to provide to authorities personal and account information about their customers unless certain conditions apply (for example, a criminal complaint has been filed). In some cases, additional privacy is provided to beneficial owners through the use of numbered bank accounts or otherwise. Bank secrecy is prevalent in certain countries such as Switzerland, Lebanon, Singapore and Luxembourg, as well as offshore banks and other tax havens under voluntary or statutory privacy provisions.
+
+Created by the Swiss Banking Act of 1934, which led to the famous Swiss bank numbered account, the principle of bank secrecy is always considered one of the main aspects of private banking. It has also been accused by NGOs and governments of being one of the main instruments of underground economy and organized crime, in particular following the class action suit against the Vatican Bank in the 1990s, the Clearstream scandal and the terrorist attacks of September 11, 2001. Former bank employees from banks in Switzerland (UBS, Julius Baer) and Liechtenstein (LGT Group) have testified that their former institutions helped clients evade billions of dollars in taxes by routing money through offshore havens in the Caribbean and Switzerland. One of these, Rudolf M. Elmer, wrote, "It is a global problem...Offshore tax evasion is the biggest theft among societies and neighbor states in this world." The Swiss Parliament ratified on June 17, 2010 an agreement between the Swiss and the United States governments allowing UBS to transmit to the US authorities information concerning 4,450 American clients of UBS suspected of tax evasion.
+Advances in financial cryptography (e.g. public-key cryptography) could make it possible to use anonymous electronic money and anonymous digital bearer certificates for financial privacy and anonymous Internet banking, given enabling institutions (e.g. issuers of such certificates and digital cash) and secure computer systems.
+
+
+== Swiss Banking Act of 1934Edit ==
+
+Bank secrecy was codified in Switzerland by the 1934 Federal Act on Banks and Savings Banks (Swiss Banking Act of 1934) following a public scandal in France, when MP Fabien Albertin denounced tax evasion by eminent French personalities, including politicians, judges, industrialists, church dignitaries and directors of newspapers, who were hiding their money in Switzerland. He called these men of "a particularly ticklish patriotism", who "probably are unaware that the money they deposit abroad is lent by Switzerland to Germany". The Peugeot brothers and François Coty, of the famous perfume family, were on his list. Since then, Swiss banks have acquired worldwide celebrity due to their numbered bank accounts, which critics such as ATTAC NGO alleged only help legalized tax evasion, money laundering and more generally the underground economy.
+Under the Swiss principle of bank secrecy, privacy is statutorily enforced, with Swiss law strictly limiting any information shared with third parties, including tax authorities, foreign governments or even Swiss authorities, except when requested by a Swiss judge's subpoena. However banking is not strictly anonymous since under its banking law all Swiss bank accounts, including numbered bank accounts, are linked to an identified individual. This law only permits a bank to share information with others in cases of severe criminal acts, such as identifying a terrorist's bank account or tax fraud, but not simple non-reporting of taxable income (called tax evasion in Switzerland). In April 2013, French Minister Jérôme Cahuzac was forced to resign when the Geneva public prosecutor, acting quickly on a French request related to tax fraud, found evidence of undeclared Swiss accounts.
+Under pressure from the G20 and the OECD, the Swiss government announced in March 2009 that it will abolish the distinction between tax fraud and tax evasion in dealings with foreign clients. The distinction remains valid for domestic clients. Any bank employee violating a client's privacy could be punished quite severely by law. After signing 12 new double taxation treaties in accordance with the international standard set by the OECD, Switzerland was removed from the grey list of non-compliant tax jurisdictions.
+In October 2013, the Swiss government stated that it intended to sign an international agreement sponsored by the OECD that, if ratified by Parliament, will align Swiss bank practices with those of other countries and in effect end the special secrecy that clients of Swiss banks had enjoyed in the past.
+After the revelations of whistleblower Bradley Birkenfeld in 2007, UBS was caught red-handed by the United States government offering tax evasion strategies, sending undercover bankers with encrypted computers to the United States. After it was caught, UBS paid a $780 million penalty and handed over hundreds of client files to American authorities. In 2010, the Swiss and the United States governments negotiated an agreement allowing Swiss bank UBS to transmit to the US authorities information concerning 4,450 American clients of UBS suspected of tax evasion.
+In the aftermath of the UBS and Julius Baer banking cases, some wealthy clients who continue to use offshore accounts are turning to private banks in Singapore and Hong Kong. In addition to the local Singapore or Hong Kong banks, offices have been opened in those localities by a number of Swiss private banks. The move to Singapore and Hong Kong is an alternative to the banking secrecy that Swiss banks have come under attack for. Singapore has bank secrecy provisions comparable to those in Switzerland. Although Hong Kong does not have the same bank privacy laws, it offers flexibility in the creation of opaque companies that can serve as tax conduits.
+Many offshore banks, located in tax havens such as in the Cayman Islands and Panama, also have strict privacy laws.
+
+
+== United States legislation in response to bank secrecyEdit ==
+
+
+=== U.S. Bank Secrecy Act of 1970Edit ===
+
+The United States' Bank Secrecy Act (or BSA) requires financial institutions to assist government agencies to detect and prevent money laundering. Specifically, the act requires financial institutions to keep records of cash purchases of negotiable instruments, file reports of cash transactions exceeding $10,000 (daily aggregate amount), and to report suspicious activity that might signify money laundering, tax evasion, or other criminal activities.
+
+
+=== USA PATRIOT ActEdit ===
+
+The 2001 USA PATRIOT Act created many new rules for American banks in an attempt to defeat bank secrecy. A list of such banks or shell banks are given to the U.S. banks who are not allowed to wire money to them. All new customers to American banks must now be asked if they are U.S. citizens. If not, they must state their occupation and whether they expect to be wired foreign money.
+“The purpose of the USA PATRIOT Act is to deter and punish terrorist acts in the United States and around the world, to enhance law enforcement investigatory tools, and other purposes, some of which include: --To strengthen U.S. measures to prevent, detect and prosecute international money laundering and financing of terrorism; --To subject to special scrutiny foreign jurisdictions, foreign financial institutions, and classes of international transactions or types of accounts that are susceptible to criminal abuse; --To require all appropriate elements of the financial services industry to report potential money laundering; --To strengthen measures to prevent use of the U.S. financial system for personal gain by corrupt foreign officials and facilitate repatriation of stolen assets to the citizens of countries to whom such assets belong.”
+
+
+== Actions by European countriesEdit ==
+European countries had long complained that banking secrecy provisions in countries such as Austria, Liechtenstein, Luxembourg, and Switzerland favored tax evasion by their citizens, particularly the citizens of countries such as Belgium, France, Germany and Italy which border one or more of those countries. In 2009 tensions reached a height and concerned countries (supported to some extent by other countries) raised the issue at the OECD and the G20. As a result, essentially all countries agreed to implement tax treaties that would facilitate the exchange of banking information in case of suspected tax evasion.
+In 2013, Swiss President Ueli Maurer defended banking secrecy, and declared it is "comparable" to medical confidentiality, and that "the state must absolutely respect the private sphere" and should not know "what there is in your bank account".
+In October 2013, the Swiss government stated that it intended to sign an international agreement sponsored by the OECD that, if ratified by Parliament, will align Swiss bank practices with those of other countries and in effect end the special secrecy that clients of Swiss banks had enjoyed in the past.
+
+
+== Tax evasion and money launderingEdit ==
+Jurisdiction with what other countries view are excessive protections benefitting dubious parties are sometimes known as secrecy havens, by analogy with tax havens.
+Numbered bank accounts, used by Swiss banks and other offshore banks located in tax havens, have been accused by NGOs such as ATTAC of being a major instrument of the underground economy, facilitating tax evasion and money laundering. After Al Capone's 1931 condemnation for tax evasion, according to journalist Lucy Komisar
+
+mobster Meyer Lansky took money from New Orleans slot machines and shifted it to accounts overseas. The Swiss secrecy law two years later assured him of G-man-proof-banking. Later, he bought a Swiss bank and for years deposited his Havana casino take in Miami accounts, then wired the funds to Switzerland via a network of shell and holding companies and offshore accounts
+
+Joseph Stiglitz, 2001 Nobel laureate for economics, told Komisar:
+
+You ask why, if there's an important role for a regulated banking system, do you allow a non-regulated banking system to continue? It's in the interest of some of the moneyed interests to allow this to occur. It's not an accident; it could have been shut down at any time. If you said the US, the UK, the major G7 banks will not deal with offshore bank centers that don't comply with G7 banks regulations, these banks could not exist. They only exist because they engage in transactions with standard banks.
+
+In 1999, a class action suit against the Vatican Bank criticized the role of Switzerland during World War II.
+Also in 1999, according to Lucy Komisar, banks "orchestrated a successful e-mail campaign to Congress" to "sink a 'know your customer' regulation proposed by the Federal Deposit Insurance Corporation".
+In 2001, the United States learned that the Swiss had protected the bank that handled finances for Osama Bin Laden. One of them, the Bahrain International Bank, had funds transiting through non-published accounts of Clearstream, which has been qualified as a "bank of banks" and was involved in one of Luxembourg's major financial scandals.
+
+
+=== U.S. Terrorist Finance Tracking ProgramEdit ===
+
+A series of articles published on June 23, 2006, by The New York Times, The Wall Street Journal and the Los Angeles Times revealed that the United States government, specifically the US Treasury Department and the Central Intelligence Agency, had a program to access the SWIFT transaction database after the September 11th attacks rendering bank privacy severely compromised.
+
+
+=== Bradley Birkenfeld Whistleblowing CaseEdit ===
+Swiss bank secrecy was dealt a severe setback by the revelations made by ex-UBS banker Bradley Charles Birkenfeld, who blew the whistle on UBS providing Americans with vehicles to hide up to US$20 billion in assets to avoid taxes. Birkenfeld's revelations to the U.S. government concerning UBS's practices led to a massive fraud investigation against the Swiss bank UBS. As a result of the information he gave U.S. authorities, the DOJ announced it had reached a deferred prosecution agreement (DPA) with UBS that resulted in a $780 million fine and the release of previously privileged information on American tax evaders.
+On 11 September 2012, the U.S. IRS Whistleblower Office paid Birkenfeld a $104 million award for acting as a corporate whistleblower. The Swiss media credit Birkenfeld's act with affecting a sea change in Swiss banking. After Birkenfeld's award, the Swiss newspaper Blick claimed, “Birkenfeld was a blessing for the Swiss financial industry,” in that his revelations helped accelerate the industry's transition away from its reliance on “dirty” money by dooming the bank secrecy laws that enabled tax evasion.
+Birkenfeld has compared the Swiss banking industry with gangsters. "In essence, bank secrecy is analogous to criminal racketeering — and the Swiss government, along with every Swiss private banker, is a co-conspirator."
+
+
+=== Trusts as vehicles for tax evasion and money launderingEdit ===
+According to a book published in 2010 by an investigative journalist, the successful campaign to limit bank secrecy will likely lead to an increase use of trusts, mostly based in the UK or the USA. Such trusts can be used for tax evasion and money laundering.
+
+
+== In popular cultureEdit ==
+The notion of Swiss banks and secret numbered accounts has been widely used in post-war literature and cinema. Whether quite realistically in James Bond novels/movies or more speculatively in The DaVinci Code novel/movie, the instrument is often used by writers for characters to hide assets from the authorities.
+
+
+== See alsoEdit ==
+European Union withholding tax
+Private bank
+Safe deposit box
+World Jewish Congress lawsuit against Swiss banks
+Anonymous Internet banking
+Hottinger & Cie
+
+
+== ReferencesEdit ==

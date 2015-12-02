@@ -1,0 +1,73 @@
+Terrorism insurance is insurance purchased by property owners to cover their potential losses and liabilities that might occur due to terrorist activities.
+It is considered to be a difficult product for insurance companies, as the odds of terrorist attacks are very difficult to predict and the potential liability enormous. For example the September 11, 2001 attacks resulted in an estimated $31.7 billion loss. This combination of uncertainty and potentially huge losses makes the setting of premiums a difficult matter. Most insurance companies therefore exclude terrorism from coverage in casualty and property insurance, or else require endorsements to provide coverage.
+
+
+== Industry needs ==
+Concentration of risk is another factor in determining availability for terrorism insurance. Due to the concentrated losses of the World Trade Center, carriers were hit with large losses in one centralized location. Insurers seek to spread the coverage over a wider geographic area than as with other aggregate perils, such as flood.
+
+
+== Modelling the risks ==
+Insurance companies are using an approach that is similar to that used with natural catastrophe risks. A Swiss report suggested that in this case where demand is greater than the supply for terrorism coverage that a short-term solution is possible: a mix of government and private resource to make easy the transition. In this situation, the government would serve two functions: to establish rules to overcome the capacity shortage and to be the insurer of last resort.
+
+
+== By country ==
+
+
+=== Netherlands ===
+Insurance payments related to terrorism are restricted to a billion euro per year for all insurance companies together. This regards property insurance, but also life insurance, medical insurance, etc.
+
+
+=== United States ===
+In 2002, the US Congress enacted the Terrorism Risk Insurance Act, in which the government shared the cost of large insurance losses.
+On December 26, 2007, the President of the United States signed into law the Terrorism Risk Insurance Program Reauthorization Act of 2007 which extends the Terrorism Risk Insurance Act (TRIA) through December 31, 2014. The law extends the temporary federal Program that provides for a transparent system of shared public and private compensation for insured losses resulting from acts of terrorism.
+Some economists have supported U.S. government subsidies of terrorism insurance. Soon after the 9/11 terrorist attacks, economist Edwin Mills expressed concern over whether private developers could build real estate without subsidies for insurance. Economist David R. Barker argued that properly structured subsidies could increase overall economic efficiency. Other economists have argued against these subsidies.
+The United States insurance market offers coverage to the majority of large companies which ask for it in their polices. The price of the policy depends on where the clients are residing and how much limit they buy.
+
+According to The Economist, one of the best studies to understand TRIA has been the one undertaken in 2005 by the Center for Risk Management at the Wharton Business School ("TRIA and Beyond"; available on their website below).
+In mid-2007 the idea of another extension to TRIA was tabled and is officially known as TRIREA, (Terrorism Risk Insurance Revision and Extension Act). Initially TRIREA contained several new provisions including a mandatory 'make available' clause for NCBR coverage (Nuclear, Chemical, Biological and Radiological) and the ending of the distinction between domestic and foreign events.
+The current act expires on December 31, 2014, and has not been renewed. Many experts warn that "construction projects could be stalled and commercial loans on shopping malls, utilities and skyscrapers could be in jeopardy." In addition, according to the Baltimore Sun, the National Football League denied rumors that it would cancel the Super Bowl over the issue.
+
+
+=== Iraq ===
+The New York Times reports that in Baghdad personal terrorism insurance is available. One company offers such insurance for $90, and if the customer is a victim of terrorism in the next year, it pays the heirs $3,500.
+
+
+=== United Kingdom ===
+In the UK, following the Baltic Exchange bomb in 1992, all UK insurers stopped including terrorism cover on their commercial insurance policies with effect from 1 January 1993 (home insurance policies were unaffected). As a consequence, the government and insurance industry established the Pool Reinsurance Company Ltd (Pool Re). Primarily funded by premiums paid by policyholders, the government guarantees the fund although any such support must be repaid from future premiums. To date, despite paying over £600 million in relation to thirteen separate claims, no government support has been necessary.
+
+
+== Countries with long-term terrorism insurance programmes ==
+According to the policy agenda of The Real Estate Roundtable, long-term terrorism insurance is available in the following countries:
+Australia
+Austria
+Finland
+France
+Germany
+Israel
+Namibia
+Netherlands
+Russia
+South Africa
+Spain
+Switzerland
+Turkey
+United Kingdom
+
+
+== See also ==
+Security
+Geneva Association (also known as the International Association for the Study of Insurance Economics)
+Pool Re
+
+
+== References ==
+
+
+== External links ==
+Terrorism from the Insurance Information Institute
+Policy Watch: Challenges for Terorrism Risk Insurance in the United States (Wharton's authors)
+Terrorism Insurance: Where's the coverage?
+America Needs Terrorism Insurance
+Terrorism Insurance: Where Do We Go from Here? (Wharton's authors)
+CIAT: Coalition to Insure Against Terrorism
+Wharton Risk Center on Terrorism Insurance Markets

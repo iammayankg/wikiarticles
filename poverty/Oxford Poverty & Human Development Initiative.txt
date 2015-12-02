@@ -1,0 +1,73 @@
+The Oxford Poverty and Human Development Initiative (OPHI) is an economic research centre within the Oxford Department of International Development at the University of Oxford, England, that was established in 2007.
+
+
+== History ==
+The centre was established in 2007. In 2010, OPHI developed the Multidimensional Poverty Index for the United Nations Development Programme's Human Development Report. Since then OPHI has published a Global Multidimensional Poverty Index (MPI) annually. OPHI also serves as the Secretariat of the Multidimensional Poverty Peer Network (MPPN), a South-South initiative that supports policymakers to develop multidimensional poverty measures. It promotes the use of such measures for more effective poverty eradication efforts at the global, national and local levels.
+
+
+== About ==
+OPHI aims to build and advance a more systematic methodological and economic framework for reducing multidimensional poverty, grounded in people’s experiences and values. OPHI works towards this by:
+Broadening poverty measurement. OPHI develops and implements multi-dimensional measures of poverty, wellbeing and inequality. These measures go beyond traditional one-dimensional approaches to incorporate dimensions such as health, education, living standards, quality of work and more innovative dimensions.
+Improving data on poverty. OPHI has developed tools to measure five missing dimensions of poverty data that poor people value but which have been largely overlooked in international studies of poverty to date: Quality of Work, Empowerment, Physical Safety, The Ability to go About Without Shame and Psychological Wellbeing.
+Building capacity. OPHI runs academic courses and technical training programmes on multidimensional poverty and human development, and collaborates with universities, development agencies, governments and other research institutions and policy makers using our work.
+Impacting policy. OPHI’s methodologies have been adopted by policy makers, including national governments and the United Nations Development Programme Human Development Report.
+OPHI’s work is grounded in Amartya Sen’s capability approach. OPHI works to implement this approach by creating real tools that inform policies to reduce poverty. OPHI’s team members are involved in a wide range of activities and collaborations around the world, including survey design and testing, quantitative and qualitative data collection, training and mentoring, and advising policy makers.
+
+
+== Missing Dimensions of Poverty ==
+Money alone is an incomplete measure of ‘poverty’. Human development is more about giving people the opportunities to live lives they value, and enable them to achieve their own destiny. This goes beyond material resources – as people value many other aspects of life – and also focuses on what people are able to be and to do. OPHI has identified five ‘Missing Dimensions’ of poverty that deprived people cite as important in their experiences of poverty. To call attention to these ‘missing dimensions’, and to use them as a guide to policy, better data are needed.
+Objective
+OPHI promotes collection and analysis of data on five ‘missing dimensions’ of poverty:
+Quality of work
+Empowerment
+Physical safety
+Social connectedness
+Psychological wellbeing
+To date, these dimensions have been largely overlooked in large-scale quantitative work on poverty and human development. OPHI has designed five short, 8-10 minute questionnaire modules that can be integrated into national household surveys to obtain these data.
+Criteria
+The following criteria were used to identify suitable indicators for inclusion in individual or household surveys.
+The indicators need to be internationally comparable.
+They should assess both the instrumental and the intrinsic aspects of each dimension.
+They must enable identification of changes in the missing dimensions over time.
+They should draw on previous experience of particular indicators; notably we tried to use indicators that had been previously fielded and found to be ‘adequate’ measures for research purposes.
+Progress to date
+OPHI has ongoing collaboration with teams around the world to test and improve the modules and to produce new data and qualitative and quantitative analyses on the missing dimensions. Currently, OPHI and partners are fielding a nationally representative survey in Chad, and the first nationally representative dataset and analyses were conducted in Chile. Projects have also be conducted in Philippines, Nigeria and Sri Lanka, plus a first smaller project in Chad. You can read about OPHI's projects on the Missing Dimensions here.
+
+
+== Multidimensional Poverty ==
+Most countries of the world define poverty by income. Yet poor people themselves define their poverty much more broadly, to include lack of education, health, housing, empowerment, humiliation, employment, personal security and more. No one indicator, such as income, is uniquely able to capture the multiple aspects that contribute to poverty. Multidimensional poverty encompasses a range of deprivations that a household may suffer. The number of indicators and specific indicators used depend on the purpose of the measure. Common purposes include national poverty measures that reflect changes over time, targeting of services or conditional cash transfers and monitoring and evaluation. At a glance, multidimensional measures present an integrated view of the situation. We can also examine poverty by population group, or study the composition of deprivation for different groups. Multidimensional metrics are rigorous, easy to use, flexible, and adaptable to different contexts. OPHI has developed a methodology for measuring multidimensional poverty known as the Alkire Foster (AF) method. OPHI researchers apply the AF method and related multidimensional measures to a range of different countries and contexts. Their analyses span a number of different topics, such as changes in multidimensional poverty over time, comparisons in rural and urban poverty, and inequality among the poor. For more information on OPHI’s research, see our working paper series and research briefs.
+
+
+== Alkire Foster Method ==
+Sabina Alkire and James Foster have created a new method for measuring multidimensional poverty. It includes identifying ‘who is poor’ by considering the range of deprivations they suffer, and aggregating that information to reflect societal poverty in a way that is robust and decomposable. For free online video guides on how to use the Alkire-Foster method, see OPHI’s new online training portal.
+Contemporary methods of measuring poverty and wellbeing commonly generate a statistic for the percentage of the population who are poor, a head count (H). The Alkire Foster Method generates a headcount and also a unique class of poverty measures (Mα):
+M0: An ‘adjusted head count’. This reflects both the incidence (the percentage of the population who are poor) and intensity of poverty (the number of deprivations suffered by each household, A). It is calculated by multiplying the proportion of people who are poor by the percentage of dimensions in which they are deprived (M0 = H x A).
+M1: This measure reflects the incidence, intensity and depth of poverty. The depth of poverty is the ‘gap’ (G) between poverty and the poverty line (M1 = H x A x G).
+M2: This measures reflects the incidence, intensity, depth of poverty and inequality among the poor (the squared gap, S) (M2 = H x A x S).
+M0 can be calculated with ordinal and cardinal data. Cardinal data are required to calculate M1 and M2.
+The Alkire Foster Method is unique in that it can distinguish between, for example, a group of poor people who suffer only one deprivation on average and a group of poor people who suffer three deprivations on average at the same time.
+This flexible approach can be employed in a variety of situations by choosing different dimensions (e.g. education), indicators (e.g. how many years of education a person has) and cutoffs (e.g. a person with fewer than five years of education is considered deprived).
+Common Uses of the Alkire Foster Method
+Poverty measures. The Alkire Foster method can be used to create national, regional or international measures of poverty or wellbeing by incorporating dimensions and indicators that are tailored to the specific context.
+Targeting of services or conditional cash transfers. The Alkire Foster method can be used to target people who meet multiple criteria.
+Monitoring and evaluation. The Alkire Foster method can be used to monitor the effectiveness of programmes over time.
+Why the Alkire Foster Method is Useful
+The Alkire Foster method is a single societal poverty measure, but it can be broken down and analysed in a powerful way to inform policy. It can be used to:
+Break down by population group. the measure can be broken down (decomposed) by geographic area, ethnicity, or other groups, to show the composition of poverty within and among the groups.
+Break down by dimension/indicator. the measure can be broken down (decomposed) after identification to show which deprivations are driving poverty among and within groups.
+Compare across time. the measure can be used to monitor changes in poverty and the composition of poverty over time using time series or panel data. The Alkire Foster method reflects other dimensions directly and changes immediately as these change. This makes it an effective monitoring tool because improvements in the dimensions measured, such as health and education, are reflected quickly.
+Target the poorest groups and beneficiaries of conditional cash transfers, district interventions or public programmes. The targeting tool can be broken down to show the indicators in which they are most deprived.
+Complement other metrics. The Alkire Foster Method can complement other measures, such as income poverty.
+
+
+== See also ==
+Gross National Happiness
+Bhutan GNH Index
+Happiness economics
+
+
+== References ==
+
+
+== External links ==
+Official website

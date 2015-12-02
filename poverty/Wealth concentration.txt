@@ -1,0 +1,42 @@
+Wealth concentration is a process by which newly created wealth, under some conditions, can become concentrated in the possession of wealthy individuals or entities. Those who hold wealth have the means to invest in newly created sources and structures of wealth, or to otherwise leverage the accumulation of wealth, and are thus the beneficiaries of even greater wealth.
+
+
+== Economic conditions ==
+The first necessary condition for the phenomenon of wealth concentration to occur is an unequal initial distribution of wealth. The distribution of wealth throughout the population is often closely approximated by a Pareto distribution, with tails which decay as a power-law in wealth. (See also: Distribution of wealth and Economic inequality). According to PolitiFact and others, the 400 wealthiest Americans had "more wealth than half of all Americans combined." Inherited wealth may help explain why many Americans who have become rich may have had a "substantial head start". In September 2012, according to the Institute for Policy Studies, "over 60 percent" of the Forbes richest 400 Americans "grew up in substantial privilege".
+The second condition is that a small initial inequality must, over time, widen into a larger inequality. This is an example of positive feedback in an economic system. A team from Jagiellonian University produced statistical model economies showing that wealth condensation can occur whether or not total wealth is growing (if it is not, this implies that the poor could become poorer).
+
+
+=== Correlation between being rich and earning more ===
+Given an initial condition in which wealth is unevenly distributed (i.e., a "wealth gap"), several non-exclusive economic mechanisms for wealth condensation have been proposed:
+A correlation between being rich and being given high paid employment (oligarchy).
+A marginal propensity to consume low enough that high incomes are correlated with people who have already made themselves rich (meritocracy).
+The ability of the rich to influence government disproportionately to their favor thereby increasing their wealth (plutocracy).
+In the first case, being wealthy gives one the opportunity to earn more through high paid employment (e.g., by going to elite schools). In the second case, having high paid employment gives one the opportunity to become rich (by saving your money). In the case of plutocracy, the wealthy exert power over the legislative process, which enables them to increase the wealth disparity. An example of this is the high cost of political campaigning in some countries, in particular in the US (more generally, see also plutocratic finance).
+Because these mechanisms are non-exclusive, it is possible for all three explanations to work together for a compounding effect, increasing wealth concentration even further.
+Counterbalances to wealth concentration include certain forms of taxation, in particular wealth tax, inheritance tax and progressive taxation of income.
+
+
+== See also ==
+Capital accumulation
+Economic inequality
+Gini coefficient
+Inequity aversion
+We are the 99%
+Distribution of wealth
+
+
+== References ==
+
+(Zdzislaw Burda and others at Jagiellonian University), 2002 "Wealth condensation in Pareto macroeconomies" model appears in Physical Review E, vol 65
+
+
+== External links ==
+Winner-takes-all markets defined, The Economist
+CEO Pay 1,795-to-1 Multiple of Wages Skirts U.S. Law (2013-04-29), Bloomberg News
+Articles on Wealth Concentration by Jack Rasmus
+15 Mind-Blowing Facts About Wealth And Inequality In America - charts by The Business Insider
+Hogan, Jenny (March 2005). "Why it is hard to share the wealth". NewScientist (2490) (Reed Business Information). p. 6. 
+Yakovenko, Victor (November 2007). "Econophysics Research, Statistical Wealth Distribution". Retrieved 2007-12-17. 
+Half Of American Households Hold 1 Percent Of Wealth (2012-07-19), Dan Froomkin
+Wealth Gap - A Guide (2014-01-27), AP News
+Undervalued Riches of Top 1% Point to Greater Global Inequality (2014-08-06), Bloomberg News

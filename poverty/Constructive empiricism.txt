@@ -1,0 +1,21 @@
+In philosophy, constructive empiricism is a form of empiricism. Bas van Fraassen is nearly solely responsible for the initial development of constructive empiricism; its historically most important presentation appears in his The Scientific Image (1980). Constructive empiricism states that scientific theories are semantically literal, that they aim to be empirically adequate, and that their acceptance involves, as belief, only that they are empirically adequate. A theory is empirically adequate if and only if everything that it says about observable entities is true. A theory is semantically literal if and only if the language of the theory is interpreted in such a way that the claims of the theory are either true or false (as opposed to an instrumentalist reading).
+Constructive empiricism is thus a normative, semantic and epistemological thesis. That science aims to be empirically adequate expresses the normative component. That scientific theories are semantically literal expresses the semantic component. That acceptance involves, as belief, only that a theory is empirically adequate expresses the epistemological component.
+Constructive empiricism opposes scientific realism, logical positivism (or logical empiricism) and instrumentalism. Constructive empiricism and scientific realism agree that theories are semantically literal, which logical positivism and instrumentalism deny. Constructive empiricism, logical positivism and instrumentalism agree that theories do not aim for truth about unobservables, which scientific realism denies.
+Constructive empiricism has been used to analyze various scientific fields, from physics to psychology (especially computational psychology).
+
+
+== See also ==
+Constructivist epistemology
+Social constructionism
+
+
+== References ==
+van Fraassen, Bas. The Scientific Image. Oxford: Oxford University Press, 1980. ISBN 0-19-824427-4
+Godfrey-Smith, Peter Theory and Reality p. 184-186, 234. University of Chicago Press. ISBN 0-226-30063-3
+Monton, Bradley (ed.), Images of Empiricism: Essays on Science and Stances, with a Reply from Bas C. van Fraassen. Oxford: Oxford University Press, 2007. ISBN 0-19-921884-6.
+
+
+== External links ==
+Constructive Empiricism entry in the Stanford Encyclopedia of Philosophy
+In Defense of van Fraassen
+van Fraassen's website

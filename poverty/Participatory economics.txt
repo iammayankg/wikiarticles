@@ -1,0 +1,101 @@
+Participatory economics, often abbreviated parecon, is an economic system based on participatory decision making as the primary economic mechanism for the allocation of the factors of production and guidance of production in a given society. Participatory decision-making involves the participation of all persons in decision-making on issues in proportion to the impact such decisions have on their lives. Participatory economics is a form of decentralized economic planning and socialism involving the common ownership of the means of production. The participatory economic system is proposed as an alternative to contemporary capitalism, as well as an alternative to central planning. This economic model is primarily associated with the proposals put forth by the political theorist Michael Albert and economist Robin Hahnel, who describe participatory economics as an anarchistic economic vision.
+The underlying values that parecon seeks to implement are equity, solidarity, diversity, workers' self-management and efficiency (defined as accomplishing goals without wasting valued assets). The institutions of parecon include workers' and consumers' councils utilizing self-managerial methods for making decisions, balanced job complexes, remuneration based on individual effort, and participatory planning.
+Albert and Hahnel stress that parecon is only meant to address an alternative economic theory and must be accompanied by equally important alternative visions in the fields of politics, culture and kinship. The authors have also discussed elements of anarchism in the field of politics, polyculturalism in the field of culture, and feminism in the field of family and gender relations as being possible foundations for future alternative visions in these other spheres of society. Stephen R. Shalom has begun work on a participatory political vision he calls "par polity". Both systems together make up the political philosophy of Participism. Participatory Economics has also significantly shaped the interim International Organization for a Participatory Society.
+
+
+== Decision-making principle ==
+One of the primary propositions of parecon is that all persons should have a say in decisions proportionate to the degree to which they are affected by them. This decision-making principle is often referred to as self-management. In parecon, it constitutes a replacement for the mainstream economic conception of economic freedom, which Albert and Hahnel argue that by its very vagueness has allowed it to be abused by capitalist ideologues.
+
+
+== Work in a participatory economy ==
+
+
+=== Balanced job complexes ===
+
+Some tasks and jobs are more desirable than others, and some tasks and jobs are more menial than others. So, to achieve an equitable division of labour, it is proposed that each individual do different tasks, which, taken together, bring an average desirability and an average level of empowerment. The main goals are to dissolve economic hierarchy and achieve one class of workers, and to empower all to make contributions to the workplace. Hahnel and Albert argue that without balanced job complexes, those with empowering jobs, such as accounting or management, would be able to formulate plans and ideas, while others, such as janitors, would not develop the capacity to do so and neither would they have the training. Without balanced job complexes, most workers would most likely end up merely ratifying the proposals of empowered workers, and would have little reason to attend meetings.
+
+
+=== Compensation for effort and sacrifice ===
+Albert and Hahnel argue that it is inequitable and ineffective to compensate people on the basis of their birth or heredity. Therefore, the primary principle of participatory economics is to reward for effort and sacrifice. For example, mining work — which is dangerous and uncomfortable — would be more highly paid than office work for the same amount of time, thus allowing the miner to work fewer hours for the same pay, and the burden of highly dangerous and strenuous jobs to be shared among the populace.
+Additionally, participatory economics would provide exemptions from the compensation for effort principle. People with disabilities who are unable to work, children, the elderly, the infirm and workers who are legitimately in transitional circumstances, can be remunerated according to need. However, every able adult has the obligation to perform some socially useful work as a requirement for receiving reward, albeit in the context of a society providing free health care, education, skills training, and the freedom to choose between various democratically structured workplaces with jobs balanced for desirability and empowerment.
+The starting point for the income of all workers in participatory economics is an equal share of the social product. From this point, incomes for personal expenditures and consumption rights for public goods can be expected to diverge by small degrees reflecting the choices that individual workers make in striking a balance between work and leisure time, and reflecting the level of danger and strenuousness of a job as assigned by their immediate peers.
+
+
+== Allocation in a participatory economy ==
+
+
+=== Facilitation boards ===
+In a proposed participatory economy, key information relevant to converging on an economic plan would be made available by Iteration Facilitation Boards (IFBs), which, based on proposals from worker/consumer councils and economic data, present indicative prices and economic projections at each round of the planning process.
+The IFB has no decision-making authority. In theory, the IFB's activity can consist mainly of computers performing the (agreed upon) algorithms for adjusting prices and forecasts, with little human involvement.
+
+
+== Opposition to central planning and capitalism ==
+
+Robin Hahnel has argued that "participatory planning is not central planning", stating "The procedures are completely different and the incentives are completely different. And one of the important ways in which it is different from central planning is that it is incentive compatible, that is, actors have an incentive to report truthfully rather than an incentive to misrepresent their capabilities or preferences." Unlike historical examples of central planning, the parecon proposal advocates the use and adjustment of price information reflecting marginal social opportunity costs and benefits as integral elements of the planning process. Hahnel has argued emphatically against Milton Friedman's a priori tendency to deny the possibility of alternatives:
+
+Friedman assumes away the best solution for coordinating economic activities. He simply asserts "there are only two ways of coordinating the economic activities of millions — central direction involving the use of coercion — and voluntary cooperation, the technique of the marketplace." [...] a participatory economy can permit all to partake in economic decision making in proportion to the degree they are affected by outcomes. Since a participatory system uses a system of participatory planning instead of markets to coordinate economic activities, Friedman would have us believe that participatory planning must fall into the category of "central direction involving the use of coercion."
+
+Albert and Hahnel have voiced detailed critiques of centrally-planned economies in theory and practice, but are also highly-critical of capitalism. Hahnel claims "the truth is capitalism aggravates prejudice, is the most inequitable economy ever devised, is grossly inefficient — even if highly energetic — and is incompatible with both economic and political democracy. In the present era of free-market triumphalism it is useful to organize a sober evaluation of capitalism responding to Friedman's claims one by one."
+
+
+=== Critique of markets ===
+Mainstream economists largely acknowledge the problem of externalities but believe they can be addressed either through Coasian bargaining or the use of Pigovian taxes - extra taxes on goods that have externalities. According to economic theory, if Pigovian taxes are set so that the after-tax cost of the goods is equal to the social cost of the goods, the direct cost of production plus cost of externalities, then quantities produced will tend toward a socially optimal level. Hahnel observes, "more and more economists outside the mainstream are challenging this assumption, and a growing number of skeptics now dare to suggest that externalities are prevalent, and often substantial". Or, as E.K. Hunt put it: externalities are the rule rather than the exception, and therefore markets often work as if they were guided by a "malevolent invisible foot" that keeps kicking us to produce more of some things, and less of others than is socially efficient."
+As long as a market economy is in place, Albert and Hahnel favour Pigovian taxes over other solutions to environmental problems such as command and control, or the issuance of marketable permits. However, Hahnel, who teaches ecological economics at American University, argues that in a market economy businesses try to avoid the "polluter pays principle" by shifting the burden of the costs for their polluting activities to consumers. In terms of incentives he argues this might be considered a positive development because it would penalize consumers for "dirty" consumption. However it also has regressive implications since tax incidence studies show that ultimately it would be poor people who would bear a great deal of the burden of many pollution taxes. "In other words, many pollution taxes would be highly regressive and therefore aggravate economic injustice.". He therefore recommends that pollution taxes be linked to cuts in regressive taxes such as social security taxes.
+Hahnel argues that Pigovian taxes, along with associated corrective measures advanced by market economists, ultimately fall far short of adequately or fairly addressing externalities. He argues such methods are incapable of attaining accurate assessments of social costs:
+
+"Markets corrected by pollution taxes only lead to the efficient amount of pollution and satisfy the polluter pays principle if the taxes are set equal to the magnitude of the damage victims suffer. But because markets are not incentive compatible for polluters and pollution victims, markets provide no reliable way to estimate the magnitudes of efficient taxes for pollutants. Ambiguity over who has the property right, polluters or pollution victims, free rider problems among multiple victims, and the transaction costs of forming and maintaining an effective coalition of pollution victims, each of whom is affected to a small but unequal degree, all combine to render market systems incapable of eliciting accurate information from pollution victims about the damages they suffer, or acting upon that information even if it were known.
+
+
+=== Critique of tendency towards efficiency ===
+Hahnel has also written a detailed discussion of parecon's desirability compared to capitalism with respect to incentives to innovate. In capitalism, patent laws, intellectual property rights, industry structures, and barriers to market entry are institutional features that reward individual innovators while limiting the use of new technologies. Hahnel notes that, in contrast, "in a participatory economy all innovations will immediately be made available to all enterprises, so there will never be any loss of static efficiency.". Innovation is sometimes the outcome of cumulative creativity, which pareconomists believe may not be legitimately attributed to individuals.
+
+
+== Participatory economics and socialism ==
+Although participatory economics is not in itself intended to provide a general political system, clearly its practical implementation would depend on an accompanying political system. Advocates of parecon say the intention is that the four main ingredients of parecon be implemented with a minimum of hierarchy and a maximum of transparency in all discussions and decision-making. This model is designed to eliminate secrecy in economic decision-making, and instead encourage friendly cooperation and mutual support. This avoidance of power hierarchies puts parecon in the anarchist political tradition. Stephen Shalom has produced a political system meant to complement parecon, called Parpolity.
+Although parecon falls under left-wing political tradition, it is designed to avoid the creation of powerful intellectual elites or the rule of a bureaucracy, which is perceived as the major problem of the economies of the communist states of the 20th century. Parecon advocates recognize that monopolization of empowering labor, in addition to private ownership, can be a source of class division. Thus, a three-class view of the economy (capitalists, coordinators, and workers) is stressed, in contrast to the traditional two-class view of Marxism. The coordinator class, emphasized in Parecon, refers to those who have a monopoly on empowering skills and knowledge, and corresponds to the doctors, lawyers, managers, engineers, and other professionals in present economies. Parecon advocates argue that, historically, Marxism ignored the ability of coordinators to become a new ruling class in a post-capitalist society.
+The archetypal workplace democracy model, the Wobbly Shop was pioneered by the Industrial Workers of the World, in which the self-managing norms of grassroots democracy were applied.
+While many types of production and consumption may become more localised under participatory economics, the model does not exclude economies of scale.
+
+
+== Criticisms ==
+David Schweickart suggests Participatory Economics would be undesirable even if it was possible, accusing it of being:
+"a system obsessed with comparison (Is your job complex more empowering than mine?), with monitoring (You are not working at average intensity, mate--get with the program), with the details of consumption (How many rolls of toilet paper will I need next year? Why are some of my neighbors still using the kind not made of recycled paper?)"
+
+
+=== Planning ===
+
+Participatory Economics would create a large amount of administrative work for individual workers, who would have to plan their consumption in advance, and a new bureaucratic class. Proponents of parecon argue that capitalist economies are hardly free of bureaucracy or meetings, and a parecon would eliminate banks, advertising, stock market, tax returns and long-term financial planning. Albert and Hahnel claim that it is probable that a similar number of workers will be involved in a parecon bureaucracy as in a capitalist bureaucracy, with much of the voting achieved by computer rather than meeting, and those who are not interested in the collective consumption proposals not required to attend.
+Critics suggest that proposals require consideration of an unfeasibly large set of policy choices, and that lessons from planned societies show that peoples' daily needs cannot be established well in advance simply by asking people what they want. Albert and Hahnel note that markets themselves hardly adjust prices instantaneously, and suggest that in a Participatory Economy Facilitation boards could modify prices on a regular basis. According to Hahnel these act according to democratically decided guidelines, can be composed of members from other regions and are impossible to bribe due to parecon's non-transferable currency. However, Takis Fotopoulos argues that "no kind of economic organisation based on planning alone, however democratic and decentralised it is, can secure real self-management and freedom of choice."
+
+
+=== Loss of efficiency ===
+Parecon might reduce efficiency in the workplace. For one, expert and exceptional workers (e.g. exceptional surgeons and scientists) would not be performing their tasks full-time. Participatory economics would expect them to share in "disempowering work" and would not offer opportunities to seek additional compensation for their high ability or finding solutions to problems.
+Theodore Burczak argues that it is impossible for workers to give the unbiased assessments of the "largely unobservable" characteristics of effort proposed as the basis for salary levels, and the absence of market exchange mechanisms likewise makes calculating social costs of production and consumption impossible.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==
+A Quiet Revolution In Welfare Economics, Albert and Hahnel, Princeton University Press, 1990.
+Looking Forward: Participatory Economics for the Twenty First Century, Albert and Hahnel, South End Press, 1991.
+The Political Economy of Participatory Economics, Albert and Hahnel, Princeton University Press, 1991.
+Moving Forward: Program for a Participatory Economy, Albert, AK Press, 1997.
+Parecon: Life After Capitalism, Albert, Verso Books, 2003.
+Economic Justice And Democracy: From Competition To Cooperation, Hahnel, Routledge, 2005.
+Realizing Hope: Life Beyond Capitalism, Albert, Zed Press, 2006.
+Real Utopia: Participatory Society for the 21st Century, Chris Spannos (Ed.), AK Press, 2008.
+Takis Fotopoulos (2003), "Inclusive Democracy and Participatory Economics", Democracy & Nature, Volume 9, Issue 3 November 2003, pages 401 - 425 - comparison with Inclusive Democracy
+Rameez Rahman, Michel Meulpolder, David Hales, Johan Pouwelse, Henk Sips (2009), "Revisiting Social Welfare in P2P", Delft University of Technology Report. - applying Participatory Economics principles to analysis of peer-to-peer computing systems
+
+
+== External links ==
+Participatory Economics Information Site
+Vancouver Participatory Economics Collective
+Nonsense on Stilts: Michael Albert's Parecon - A critique
+Video
+Cartoon introduction to participatory economics (YouTube video) 7:16 mns, by Jason Mitchell
+Michael Albert in Alternative Economy Cultures Helsinki, Finland, 3 April 2009

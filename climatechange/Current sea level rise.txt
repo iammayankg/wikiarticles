@@ -1,0 +1,196 @@
+Sea level rise has been estimated to be on average between +2.6 mm and +2.9 mm per year ± 0.4 mm since 1993. Additionally, sea level rise has accelerated in recent years. For the period between 1870 and 2004, global average sea levels are estimated to have risen a total of 195 mm, and 1.7 mm ± 0.3 mm per year, with a significant acceleration of sea-level rise of 0.013 ± 0.006 mm per year per year. If this acceleration were to remain constant, the 1990 to 2100 sea level rise would range from 280 to 340 mm. Another study calculated the period from 1950 to 2009, and measurements show an average annual rise in sea level of 1.7 ± 0.3 mm per year, with satellite data showing a rise of 3.3 ± 0.4 mm per year from 1993 to 2009. Sea level rise is one of several lines of evidence that support the view that the global climate has recently warmed.
+In 2007, the Intergovernmental Panel on Climate Change (IPCC) stated that it is very likely human-induced (anthropogenic) warming contributed to the sea level rise observed in the latter half of the 20th century. The 2013 IPCC report (AR5) concluded, "there is high confidence that the rate of sea level rise has increased during the last two centuries, and it is likely that GMSL (Global Mean Sea Level) has accelerated since the early 1900’s.
+Sea level rises can considerably influence human populations in coastal and island regions and natural environments like marine ecosystems. Sea level rise is expected to continue for centuries. Because of the slow inertia, long response time for parts of the climate system, it has been estimated that we are already committed to a sea-level rise of approximately 2.3 meters for each degree Celsius of temperature rise within the next 2,000 years. It has been suggested that besides CO2 emissions reductions, a short term action to reduce sea level rise is to cut emissions of heat trapping gases such as methane and particulates such as soot.
+
+
+== MechanismEdit ==
+
+There are two main mechanisms that contribute to observed sea level rise: (1) thermal expansion: ocean water expands as it warms - because of the increase in ocean heat content; and (2) the melting of major stores of land ice like ice sheets and glaciers.
+On the timescale of centuries to millennia, the melting of ice sheets could result in even higher sea level rise. Partial deglaciation of the Greenland ice sheet, and possibly the West Antarctic ice sheet, could contribute 4 to 6 m (13 to 20 ft) or more to sea level rise.
+
+
+== Past changes in sea levelEdit ==
+
+Various factors affect the volume or mass of the ocean, leading to long-term changes in eustatic sea level. The two primary influences are temperature (because the density of water depends on temperature), and the mass of water locked up on land and sea as fresh water in rivers, lakes, glaciers, polar ice caps, and sea ice. Over much longer geological timescales, changes in the shape of oceanic basins and in land–sea distribution affect sea level. Since the Last Glacial Maximum about 20,000 years ago, sea level has risen by more than 125 m, averaging 6 mm/yr, as a result of melting of major ice sheets.
+During deglaciation between about 19,000 and 8,000 calendar years ago, sea level rose at extremely high rates as the result of the rapid melting of the British-Irish Sea, Fennoscandian, Laurentide, Barents-Kara, Patagonian, Innuitian ice sheets and parts of the Antarctic ice sheet. At the onset of deglaciation about 19,000 calendar years ago, a brief, at most 500-year long, glacio-eustatic event may have contributed as much as 10 m to sea level with an average rate of about 20 mm/yr. During the rest early Holocene, the rate of sea level rise varied from a low of about 6.0 - 9.9  mm/yr to as high as 30 - 60  mm/yr during brief periods of accelerated sea level rise.
+Solid geological evidence, based largely upon analysis of deep cores of coral reefs, exists only for 3 major periods of accelerated sea level rise, called meltwater pulses, during the last deglaciation. They are Meltwater pulse 1A between circa 14,600 and 14,300 calendar years ago; Meltwater pulse 1B between circa 11,400 and 11,100 calendar years ago; and Meltwater pulse 1C between 8,200 and 7,600 calendar years ago. Meltwater pulse 1A was a 13.5 m rise over about 290 years centered at 14,200 calendar years ago and Meltwater pulse 1B was a 7.5 m rise over about 160 years centered at 11,000 years calendar years ago. In sharp contrast, the period between 14,300 and 11,100 calendar years ago, which includes the Younger Dryas interval, was an interval of reduced sea level rise at about 6.0 - 9.9  mm/yr. Meltwater pulse 1C was centered at 8,000 calendar years and produced a rise of 6.5 m in less than 140 year. Such rapid rates of sea level rising during meltwater events clearly implicate major ice-loss events related to ice sheet collapse. The primary source may have been meltwater from the Antarctic ice sheet. Other studies suggest a Northern Hemisphere source for the meltwater in the Laurentide ice sheet.
+Recently, it has become widely accepted that late Holocene, 3,000 calendar years ago to present, sea level was nearly stable prior to an accerelation of rate of rise that is variously dated between 1850 and 1900 AD. Late Holocene rates of sea level rise have been estimated using evidence from archaeological sites and late Holocene tidal marsh sediments, combined with tide gauge and satellite records and geophysical modeling. For example, this research included studies of Roman wells in Caesarea and of Roman piscinae in Italy. These methods in combination suggest a mean eustatic component of 0.07  mm/yr for the last 2000 years.
+Sea level rose by 6 cm during the 19th century and 19 cm in the 20th century. Evidence for this includes geological observations, the longest instrumental records and the observed rate of 20th century sea level rise. For example, geological observations indicate that during the last 2,000 years, sea level change was small, with an average rate of only 0.0–0.2 mm per year. This compares to an average rate of 1.7 ± 0.5 mm per year for the 20th century. Church and White (2006) report a 0.013±0.006 mm yr−2 acceleration of sea-level rise since 1870. This is a revision since 2001, when the TAR stated that measurements have detected no significant acceleration in the recent rate of sea level rise. Baart et al. (2012) show that it is important to account for the effect of the 18.6-year lunar nodal cycle before acceleration in sea level rise should be concluded. Based on tide gauge data, the rate of global average sea level rise during the 20th century lies in the range 0.8 to 3.3 mm/yr, with an average rate of 1.8 mm/yr.
+A two degrees Celsius of warming would warm the Earth above Eemian levels, move conditions closer to the Pliocene climate, a time when sea level was in the range of 25 meters higher than today. However, one study argues that sea level during the Pliocene might have only risen by 9 to 13.5 meters, due to more resilient ice sheets.
+
+
+== ProjectionsEdit ==
+
+
+=== 21st centuryEdit ===
+The 2007 Fourth Assessment Report (IPCC 4) projected century-end sea levels using the Special Report on Emissions Scenarios (SRES). SRES developed emissions scenarios to project climate-change impacts. The projections based on these scenarios are not predictions, but reflect plausible estimates of future social and economic development (e.g., economic growth, population level). The six SRES "marker" scenarios projected sea level to rise by 18 to 59 centimetres (7.1 to 23.2 in). Their projections were for the time period 2090–99, with the increase in level relative to average sea level over the 1980–99 period. This estimate did not include all of the possible contributions of ice sheets.
+Hansen (2007), assumed an ice sheet contribution of 1 cm for the decade 2005–15, with a potential ten year doubling time for sea-level rise, based on a nonlinear ice sheet response, which would yield 5 m this century.
+Research from 2008 observed rapid declines in ice-mass balance from both Greenland and Antarctica, and concluded that sea-level rise by 2100 is likely to be at least twice as large as that presented by IPCC AR4, with an upper limit of about two meters.
+Projections assessed by the US National Research Council (2010) suggest possible sea level rise over the 21st century of between 56 and 200 cm (22 and 79 in). The NRC describes the IPCC projections as "conservative".
+In 2011, Rignot and others projected a rise of 32 centimetres (13 in) by 2050. Their projection included increased contributions from the Antarctic and Greenland ice sheets. Use of two completely different approaches reinforced the Rignot projection.
+In its Fifth Assessment Report (2013), The IPCC found that recent observations of global average sea level rise at a rate of 3.2 [2.8 to 3.6] mm per year is consistent with the sum of contributions from observed thermal ocean expansion due to rising temperatures (1.1 [0.8 to 1.4] mm per year, glacier melt (0.76 [0.39 to 1.13] mm per year), Greenland ice sheet melt (0.33 [0.25 to 0.41] mm per year), Antarctic ice sheet melt (0.27 [0.16 to 0.38] mm per year), and changes to land water storage (0.38 [0.26 to 0.49] mm per year). The report had also concluded that if emissions continue to keep up with the worst case IPCC scenarios, global average sea level could rise by nearly 1m by 2100 (0.52−0.98 m from a 1986-2005 baseline). If emissions follow the lowest emissions scenario, then global average sea level is projected to rise by between 0.28−0.6 m by 2100 (compared to a 1986−2005 baseline).
+The Third National Climate Assessment (NCA), released May 6, 2014, projected a sea level rise of 1 to 4 feet by 2100 (30–120 cm). Decision makers who are particularly susceptible to risk may wish to use a wider range of scenarios from 8 inches to 6.6 feet by 2100.
+A 2015 study by sea level rise experts concluded that based on MIS 5e data, sea level rise could rise faster in the coming decades, with a doubling time of 10, 20 or 40 years. The study abstract explains: We argue that ice sheets in contact with the ocean are vulnerable to non-linear disintegration in response to ocean warming, and we posit that ice sheet mass loss can be approximated by a doubling time up to sea level rise of at least several meters. Doubling times of 10, 20 or 40 years yield sea level rise of several meters in 50, 100 or 200 years. Paleoclimate data reveal that subsurface ocean warming causes ice shelf melt and ice sheet discharge.
+Our climate model exposes amplifying feedbacks in the Southern Ocean that slow Antarctic bottom water formation and increase ocean temperature near ice shelf grounding lines, while cooling the surface ocean and increasing sea ice cover and water column stability. Ocean surface cooling, in the North Atlantic as well as the Southern Ocean, increases tropospheric horizontal temperature gradients, eddy kinetic energy and baroclinicity, which drive more powerful storms. However, Greg Holland from the National Center for Atmospheric Research, who reviewed the study, noted “There is no doubt that the sea level rise, within the IPCC, is a very conservative number, so the truth lies somewhere between IPCC and Jim.”
+
+
+=== After 2100Edit ===
+There is a widespread consensus that substantial long-term sea-level rise will continue for centuries to come. IPCC 4 estimated that at least a partial deglaciation of the Greenland ice sheet, and possibly the West Antarctic ice sheet, would occur given a global average temperature increase of 1–4 °C (relative to temperatures over the years 1990–2000). This estimate was given about a 50% chance of being correct. The estimated timescale was centuries to millennia, and would contribute 4 to 6 metres (13 to 20 ft) or more to sea levels over this period.
+
+
+== ModelsEdit ==
+
+There is the possibility of a rapid change in glaciers, ice sheets, and hence sea level. Predictions of such a change are highly uncertain due to a lack of scientific understanding. Modeling of the processes associated with a rapid ice-sheet and glacier change could potentially increase future projections of sea-level rise.
+Hansen (2007), concluded that paleoclimate ice sheet models generally do not include physics of ice streams, effects of surface melt descending through crevasses and lubricating basal flow, or realistic interactions with the ocean. The calibration of projected modelling for future sea-level rise is generally done with a linear projection of future sea level. Thus, does not include potential nonlinear collapse of an ice sheet.
+
+
+== ContributionEdit ==
+
+Each year about 8 mm of precipitation (liquid equivalent) falls on the ice sheets in Antarctica and Greenland, mostly as snow, which accumulates and over time forms glacial ice. Much of this precipitation began as water vapor evaporated from the ocean surface. If no ice returned to the oceans, sea level would drop 8 mm every year. To a first approximation, the same amount of water appeared to return to the ocean in icebergs and from ice melting at the edges. Scientists previously had estimated which is greater, ice going in or coming out, called the mass balance, important because a nonzero balance causes changes in global sea level. High-precision gravimetry from satellites determined that Greenland was losing more than 200 billion tons of ice per year, in accord with loss estimates from ground measurement. The rate of ice loss was accelerating, having grown from 137 gigatons in 2002–2003.
+The total global ice mass lost from Greenland, Antarctica and Earth's glaciers and ice caps during 2003–2010 was about 4.3 trillion tons (1,000 cubic miles), adding about 12 mm (0.5 in) to global sea level, enough ice to cover an area comparable to the United States 50 cm (1.5 ft) deep.
+The melting of small glaciers on the margins of Greenland and the Antarctic Peninsula would increase sea level around 0.5 meter. At the extreme potential, according to the Third Assessment Report of the International Panel on Climate Change, the ice contained within the Greenland ice sheet entirely melted increases sea level by 7.2 meters (24 feet). The ice contained within the Antarctic ice sheet entirely melted would produce 61.1 meters (200 feet) of sea-level change, both totaling a sea-level rise of 68.3 meters (224 feet). 
+It is estimated that Antarctica, if fully melted, would contribute more than 60 metres of sea level rise, and Greenland would contribute more than 7 metres. Small glaciers and ice caps on the margins of Greenland and the Antarctic Peninsula might contribute about 0.5 metres. While the latter figure is much smaller than for Antarctica or Greenland it could occur relatively quickly (within the coming century) whereas melting of Greenland would be slow (perhaps 1,500 years to fully deglaciate at the fastest likely rate) and Antarctica even slower. However, this calculation does not account for the possibility that as meltwater flows under and lubricates the larger ice sheets, they could begin to move much more rapidly towards the sea.
+In 2002, Rignot and Thomas found that the West Antarctic and Greenland ice sheets were losing mass, while the East Antarctic ice sheet was probably in balance (although they could not determine the sign of the mass balance for The East Antarctic ice sheet). Kwok and Comiso (J. Climate, v15, 487–501, 2002) also discovered that temperature and pressure anomalies around West Antarctica and on the other side of the Antarctic Peninsula correlate with recent Southern Oscillation events.
+In 2005 it was reported that during 1992–2003, East Antarctica thickened at an average rate of about 18 mm/yr while West Antarctica showed an overall thinning of 9 mm/yr. associated with increased precipitation. A gain of this magnitude is enough to slow sea-level rise by 0.12 ± 0.02 mm/yr.
+
+
+=== AntarcticaEdit ===
+
+On the Antarctic continent itself, the large volume of ice present stores around 70% of the world's fresh water. This ice sheet is constantly gaining ice from snowfall and losing ice through outflow to the sea.
+Sheperd et al. 2012, found that different satellite methods were in good agreement and combing methods leads to more certainty with East Antarctica, West Antarctica, and the Antarctic Peninsula changing in mass by +14 ± 43, –65 ± 26, and –20 ± 14 gigatonnes per year.
+
+
+==== East Antarctic ice sheet (EAIS)Edit ====
+
+East Antarctica is a cold region with a ground-base above sea level and occupies most of the continent. This area is dominated by small accumulations of snowfall which becomes ice and thus eventually seaward glacial flows. The mass balance of the East Antarctic Ice Sheet as a whole is thought to be slightly positive (lowering sea level) or near to balance. However, increased ice outflow has been suggested in some regions.
+In 2011 ice-penetrating radar led to the creation of the first high-resolution topographic map of one of the last uncharted regions of Earth: the Aurora Subglacial Basin, an immense ice-buried lowland in East Antarctica larger than Texas. The map reveals some of the largest fjords or ice cut channels on Earth. Because the basin lies kilometres below sea level, seawater could penetrate beneath the ice, causing portions of the ice sheet to collapse and float off to sea. The map is expected to improve models of ice sheet dynamics.
+
+
+==== West Antarctic ice sheet (WAIS)Edit ====
+
+West Antarctica is currently experiencing a net outflow of glacial ice, which will increase global sea level over time. A review of the scientific studies looking at data from 1992 to 2006 suggested a net loss of around 50 gigatons of ice per year was a reasonable estimate (around 0.14 mm of sea-level rise), although significant acceleration of outflow glaciers in the Amundsen Sea Embayment could have more than doubled this figure for the year 2006.
+Thomas et al. found evidence of an accelerated contribution to sea level rise from West Antarctica. The data showed that the Amundsen Sea sector of the West Antarctic Ice Sheet was discharging 250 cubic kilometres of ice every year, which was 60% more than precipitation accumulation in the catchment areas. This alone was sufficient to raise sea level at 0.24 mm/yr. Further, thinning rates for the glaciers studied in 2002–03 had increased over the values measured in the early 1990s. The bedrock underlying the glaciers was found to be hundreds of metres deeper than previously known, indicating exit routes for ice from further inland in the Byrd Subpolar Basin. Thus the West Antarctic ice sheet may not be as stable as has been supposed.
+A 2009 study found that the rapid collapse of West Antarctic Ice Sheet would raise sea level by 3.3 metres (11 ft).
+
+
+=== GlaciersEdit ===
+
+Observational and modelling studies of mass loss from glaciers and ice caps indicate a contribution to sea-level rise of 0.2–0.4 mm/yr, averaged over the 20th century. The results from Dyurgerov show a sharp increase in the contribution of mountain and subpolar glaciers to sea-level rise since 1996 (0.5 mm/yr) to 1998 (2 mm/yr) with an average of about 0.35 mm/yr since 1960. Of interest also is Arendt et al., who estimate the contribution of Alaskan glaciers of 0.14±0.04 mm/yr between the mid-1950s to the mid-1990s, increasing to 0.27 mm/yr in the middle and late 1990s.
+
+
+=== GreenlandEdit ===
+
+In 2004 Rignot et al. estimated a contribution of 0.04 ± 0.01 mm/yr to sea level rise from South East Greenland. In the same year, Krabill et al. estimate a net contribution from Greenland to be at least 0.13 mm/yr in the 1990s. Joughin et al. have measured a doubling of the speed of Jakobshavn Isbræ between 1997 and 2003. This is Greenland's largest outlet glacier; it drains 6.5% of the ice sheet, and is thought to be responsible for increasing the rate of sea-level rise by about 0.06 millimetres per year, or roughly 4% of the 20th-century rate of sea-level increase. In 2004, Rignot et al. estimated a contribution of 0.04±0.01 mm/yr to sea-level rise from southeast Greenland.
+Rignot and Kanagaratnam produced a comprehensive study and map of the outlet glaciers and basins of Greenland. They found widespread glacial acceleration below 66 N in 1996 which spread to 70 N by 2005; and that the ice sheet loss rate in that decade increased from 90 to 200 cubic km/yr; this corresponds to an extra 0.25–0.55 mm/yr of sea level rise.
+In July 2005 it was reported that the Kangerdlugssuaq glacier, on Greenland's east coast, was moving towards the sea three times faster than a decade earlier. Kangerdlugssuaq is around 1,000 m thick, 7.2 km (4.5 miles) wide, and drains about 4% of the ice from the Greenland ice sheet. Measurements of Kangerdlugssuaq in 1988 and 1996 showed it moving at between 5 and 6 km/yr (3.1–3.7 miles/yr), while in 2005 that speed had increased to 14 km/yr (8.7 miles/yr).
+According to the 2004 Arctic Climate Impact Assessment, climate models project that local warming in Greenland will exceed 3 °C during this century. Also, ice-sheet models project that such a warming would initiate the long-term melting of the ice sheet, leading to a complete melting of the Greenland ice sheet over several millennia, resulting in a global sea level rise of about seven metres.
+
+
+== Subsidence and effective sea level riseEdit ==
+Many ports, urban conglomerations, and agricultural regions are built on river deltas, where subsidence contributes to a substantial increase in effective sea level rise. This is caused by both unsustainable extraction of groundwater (in some place also by extraction of oil and gas), and by levees and other flood management practices that prevent accumulation of sediments to compensate for the natural settling of deltaic soils. In many deltas this results in subsidence ranging from several millimeters per year up to possibly 25 centimeters per year in parts of the Ciliwung delta (Jakarta). Total anthropogenic-caused subsidence in the Rhine-Meuse-Scheldt delta (Netherlands) is estimated at 3 to 4 meters, over nine meters in the Sacramento-San Joaquin River Delta, and over ten feet in urban areas of the Mississippi River Delta (New Orleans).
+
+
+== EffectsEdit ==
+
+The IPCC TAR WGII report (Impacts, Adaptation Vulnerability) notes that current and future climate change would be expected to have a number of impacts, particularly on coastal systems. Such impacts may include increased coastal erosion, higher storm-surge flooding, inhibition of primary production processes, more extensive coastal inundation, changes in surface water quality and groundwater characteristics, increased loss of property and coastal habitats, increased flood risk and potential loss of life, loss of non-monetary cultural resources and values, impacts on agriculture and aquaculture through decline in soil and water quality, and loss of tourism, recreation, and transportation functions.
+There is an implication that many of these impacts will be detrimental—especially for the three-quarters of the world's poor who depend on agriculture systems. The report does, however, note that owing to the great diversity of coastal environments; regional and local differences in projected relative sea level and climate changes; and differences in the resilience and adaptive capacity of ecosystems, sectors, and countries, the impacts will be highly variable in time and space.
+The IPCC report of 2007 estimated that accelerated melting of the Himalayan ice caps and the resulting rise in sea levels would likely increase the severity of flooding in the short term during the rainy season and greatly magnify the impact of tidal storm surges during the cyclone season. A sea-level rise of just 400 mm in the Bay of Bengal would put 11 percent of the Bangladesh's coastal land underwater, creating 7–10 million climate refugees.
+Sea level rise could also displace many shore-based populations: for example it is estimated that a sea level rise of just 200 mm could make 740,000 people in Nigeria homeless.
+Future sea-level rise, like the recent rise, is not expected to be globally uniform. Some regions show a sea-level rise substantially more than the global average (in many cases of more than twice the average), and others a sea level fall. However, models disagree as to the likely pattern of sea level change.
+
+
+=== Island nationsEdit ===
+IPCC assessments suggest that deltas and small island states are particularly vulnerable to sea-level rise caused by both thermal expansion and increased ocean water. Sea level changes have not yet been conclusively proven to have directly resulted in environmental, humanitarian, or economic losses to small island states, but the IPCC and other bodies have found this a serious risk scenario in coming decades.
+Maldives, Tuvalu, and other low-lying countries are among the areas that are at the highest level of risk. The UN's environmental panel has warned that, at current rates, sea level would be high enough to make the Maldives uninhabitable by 2100.
+Many media reports have focused on the island nations of the Pacific, notably the Polynesian islands of Tuvalu, which based on more severe flooding events in recent years, were thought to be "sinking" due to sea level rise. A scientific review in 2000 reported that based on University of Hawaii gauge data, Tuvalu had experienced a negligible increase in sea level of 0.07 mm a year over the past two decades, and that the El Niño Southern Oscillation (ENSO) had been a larger factor in Tuvalu's higher tides in recent years. A subsequent study by John Hunter from the University of Tasmania, however, adjusted for ENSO effects and the movement of the gauge (which was thought to be sinking). Hunter concluded that Tuvalu had been experiencing sea-level rise of about 1.2 mm per year. The recent more frequent flooding in Tuvalu may also be due to an erosional loss of land during and following the actions of 1997 cyclones Gavin, Hina, and Keli.
+Besides the issues that flooding brings, such as soil salinisation, the islands states themselves would also become dissolved over time, as the islands become uninhabitable or completely submerged by the sea. Once this happens, all rights on the surrounding area (sea) are removed. This area can be huge as rights extend to a radius of 224 nautical miles (414 km) around the entire island state. Any resources, such as fossil oil, minerals and metals, within this area can be freely dug up by anyone and sold without needing to pay any commission to the (now dissolved) island state.
+Options that have been proposed to assist island nations to adapt to rising sea level include abandoning islands, building dikes, and building upwards.
+
+
+=== CitiesEdit ===
+A study in the April, 2007 issue of Environment and Urbanization reports that 634 million people live in coastal areas within 30 feet (9.1 m) of sea level. The study also reported that about two thirds of the world's cities with over five million people are located in these low-lying coastal areas. Future sea level rise could lead to potentially catastrophic difficulties for shore-based communities in the next centuries: for example, many major cities such as Venice,London, New Orleans, and New York already need storm-surge defenses, and would need more if the sea level rose, though they also face issues such as subsidence. However, modest increases in sea level are likely to be offset when cities adapt by constructing sea walls or through relocating.
+Re-insurance company Swiss Re estimates an economic loss for southeast Florida in 2030, of $33 billion from climate-related damages. Miami has been listed as "the number-one most vulnerable city worldwide" in terms of potential damage to property from storm-related flooding and sea-level rise.
+
+
+=== Extreme sea level rise eventsEdit ===
+Downturn of Atlantic meridional overturning circulation (AMOC), has been tied to extreme regional sea level rise (1-in-850 year event). Between 2009–2010, coastal sea levels north of New York City increased by 128 mm within two years. This jump is unprecedented in the tide gauge records, which collects data since a couple of centuries.
+
+
+== Sea level measurementEdit ==
+
+
+=== SatellitesEdit ===
+
+In 1992 the TOPEX/Poseidon satellite was launched to record the change in sea level. Current rates of sea level rise from satellite altimetry have been estimated in the range of 2.9–3.4 ± 0.4–0.6 mm per year for 1993–2010. This exceeds those from tide gauges. It is unclear whether this represents an increase over the last decades; variability; true differences between satellites and tide gauges; or problems with satellite calibration. Due to calibration errors of the first satellite – Topex/Poseidon, sea levels have been slightly overestimated until 2015, which resulted in masking of ongoing sea level rise acceleration.
+
+
+=== Tide gaugeEdit ===
+
+
+==== AmsterdamEdit ====
+The longest running sea-level measurements are recorded at Amsterdam, in the Netherlands—part of which (about 25%) lies beneath sea level, beginning in 1700.
+
+
+==== AustraliaEdit ====
+In Australia, data collected by the Commonwealth Scientific and Industrial Research Organisation (CSIRO) show the current global mean sea level trend to be 3.2 mm/yr., a doubling of the rate of the total increase of about 210mm that was measured from 1880 to 2009, which reflected an average annual rise over the entire 129-year period of about 1.6 mm/year.
+Australian record collection has a long time horizon, including measurements by an amateur meteorologist beginning in 1837 and measurements taken from a sea-level benchmark struck on a small cliff on the Isle of the Dead near the Port Arthur convict settlement on 1 July 1841. These records, when compared with data recorded by modern tide gauges, reinforce the recent comparisons of the historic sea level rise of about 1.6 mm/year, with the sharp acceleration in recent decades.
+Continuing extensive sea level data collection by Australia's (CSIRO) is summarized in in its finding of mean sea level trend to be 3.2 mm/yr. As of 2003 the National Tidal Centre of the Bureau of Meteorology managed 32 tide gauges covering the entire Australian coastline, with some measurements available starting in 1880.
+
+
+==== United StatesEdit ====
+
+Tide gauges in the United States reveal considerable variation because some land areas are rising and some are sinking. For example, over the past 100 years, the rate of sea level rise varied from about an increase of 0.36 inches (9.1 mm) per year along the Louisiana Coast (due to land sinking), to a drop of a few inches per decade in parts of Alaska (due to post-glacial rebound). The rate of sea level rise increased during the 1993–2003 period compared with the longer-term average (1961–2003), although it is unclear whether the faster rate reflected a short-term variation or an increase in the long-term trend.
+One study showed no acceleration in sea level rise in US tide gauge records during the 20th century. However, another study found that the rate of rise for the US Atlantic coast during the 20th century was far higher than during the previous two thousand years.
+
+
+== AdaptationEdit ==
+In 2008, the Dutch Delta Commission (Deltacommissie), advised in a report that the Netherlands would need a massive new building program to strengthen the country's water defenses against the anticipated effects of global warming for the next 190 years. This commission was created in September 2007, after the damage caused by Hurricane Katrina prompted reflection and preparations. Those included drawing up worst-case plans for evacuations. The plan included more than €100 billion (US$144 bn), in new spending through the year 2100 to take measures, such as broadening coastal dunes and strengthening sea and river dikes. The commission said the country must plan for a rise in the North Sea up to 1.3 metres (4 ft 3 in) by 2100, rather than the previously projected 0.80 metres (2 ft 7 in), and plan for a 2–4 metre (6.5–13 feet) rise by 2200.
+The New York City Panel on Climate Change (NPCC), is an effort to prepare the New York City area for climate change.
+Miami Beach is spending $500 million in the next years to address sea-level rise. Actions include a pump drainage system, and to raise roadways and sidewalks.
+
+
+== See alsoEdit ==
+
+Carbon cycle
+Coastal Development
+Coastal sediment supply
+Effects of global warming on oceans
+Hydrosphere
+Islands First
+Standard sea level
+Transgression (geology)
+
+
+== NotesEdit ==
+
+
+== ReferencesEdit ==
+Ipcc ar4 wg1 (2007), Solomon, S.; Qin, D.; Manning, M.; Chen, Z.; Marquis, M.; Averyt, K.B.; Tignor, M.; and Miller, H.L., ed., Climate Change 2007: The Physical Science Basis, Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change, Cambridge University Press, ISBN 978-0-521-88009-1  (pb: 978-0-521-70596-7).
+Ipcc ar4 wg2 (2007), Parry, M.L.; Canziani, O.F.; Palutikof, J.P.; van der Linden, P.J.; and Hanson, C.E., ed., Climate Change 2007: Impacts, Adaptation and Vulnerability, Contribution of Working Group II to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change, Cambridge University Press, ISBN 978-0-521-88010-7  (pb: 978-0-521-70597-4).
+Ipcc ar4 wg3 (2007), Metz, B.; Davidson, O.R.; Bosch, P.R.; Dave, R.; and Meyer, L.A., ed., Climate Change 2007: Mitigation of Climate Change, Contribution of Working Group III to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change, Cambridge University Press, ISBN 978-0-521-88011-4  (pb: 978-0-521-70598-1).
+Ipcc ar4 syr (2007), Core Writing Team; Pachauri, R.K; and Reisinger, A., eds., Climate Change 2007: Synthesis Report, Contribution of Working Groups I, II and III to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change, IPCC, ISBN 92-9169-122-4 .
+Ipcc tar wg1 (2001), Houghton, J.T.; Ding, Y.; Griggs, D.J.; Noguer, M.; van der Linden, P.J.; Dai, X.; Maskell, K.; and Johnson, C.A., ed., Climate Change 2001: The Scientific Basis, Contribution of Working Group I to the Third Assessment Report of the Intergovernmental Panel on Climate Change, Cambridge University Press, ISBN 0-521-80767-0  (pb: 0-521-01495-6).
+Ipcc tar wg2 (2001), McCarthy, J. J.; Canziani, O. F.; Leary, N. A.; Dokken, D. J.; and White, K. S., ed., Climate Change 2001: Impacts, Adaptation and Vulnerability, Contribution of Working Group II to the Third Assessment Report of the Intergovernmental Panel on Climate Change, Cambridge University Press, ISBN 0-521-80768-9  (pb: 0-521-01500-6).
+Ipcc tar wg3 (2001), Metz, B.; Davidson, O.; Swart, R.; and Pan, J., ed., Climate Change 2001: Mitigation, Contribution of Working Group III to the Third Assessment Report of the Intergovernmental Panel on Climate Change, Cambridge University Press, ISBN 0-521-80769-7  (pb: 0-521-01502-2).
+Bucx, T.; Marchand, M.; Makaske, A.; van de Guchte, C. (December 2010), Comparative assessment of the vulnerability and resilience of 10 deltas: synthesis report, Delta Alliance report number 1, Delft-Wageningen, The Netherlands: Delta Alliance International, ISBN 978-94-90070-39-7 
+Hanson, S.; Nicholls, R.; Ranger, N.; Hallegatte, S.; Corfee-Morlot, J.; Herweijer, C.; Chateau, J. (2011), "A global ranking of port cities with high exposure to climate extremes", Climatic Change 104 (1): 89–111, doi:10.1007/s10584-010-9977-4 
+Tessler, Z. D.; Vörösmarty, C. J.; Grossberg, M.; Gladkova, I.; Aizenman, H.; Syvitski, J. P. M.; Foufoula-Georgiou, E. (7 August 2015), "Profiling risk and sustainability in coastal deltas of the world.", Science 349 (6248): 638–43, doi:10.1126/science.aab3574 
+
+
+== Further readingEdit ==
+
+
+== External linksEdit ==
+Third National Climate Assessment Sea Level Rise Key Message
+"University of Colorado at Boulder Sea Level Change". 
+Incorporating Sea Level Change Scenarios at the Local Level Outlines eight steps a community can take to develop site-appropriate scenarios
+East Coast faces faster sea level rise; Cities from North Carolina to Massachusetts see waters rising more rapidly July 28, 2012; Vol.182 #2 (p. 17) Science News
+Sea Level Rise:Understanding the past – Improving projections for the future
+Providing new homes for climate exiles Sujatha Byravan and Sudhir Chella Rajan, 2006
+New perspectives for the future of the Maldives Nils-Axel Mörner, Michael Tooley, Göran Possnert, 2004
+"Physical Agents of Land Loss: Relative Sea Level". An Overview of Coastal Land Loss: With Emphasis on the Southeastern United States. US Geological Survey. Retrieved 14 February 2005. 
+The Global Sea Level Observing System (GLOSS)
+Surgewatch, database for UK flood events
+Maps that show a rise in sea levels
+Sea Level Rise and Coastal Flooding Impacts (NOAA)
+Sea Level Trends (NOAA)

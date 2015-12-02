@@ -1,0 +1,230 @@
+The Human Rights Act 1998 (c42) is an Act of Parliament of the United Kingdom which received Royal Assent on 9 November 1998, and mostly came into force on 2 October 2000. Its aim was to incorporate into UK law the rights contained in the European Convention on Human Rights. The Act makes a remedy for breach of a Convention right available in UK courts, without the need to go to the European Court of Human Rights (ECtHR) in Strasbourg.
+In particular, the Act makes it unlawful for any public body to act in a way which is incompatible with the Convention, unless the wording of any other primary legislation provides no other choice. It also requires the judiciary (including tribunals) to take account of any decisions, judgment or opinion of the European Court of Human Rights, and to interpret legislation, as far as possible, in a way which is compatible with Convention rights. However, if it is not possible to interpret an Act of Parliament so as to make it compatible with the Convention, the judges are not allowed to override it. All they can do is issue a declaration of incompatibility. This declaration does not affect the validity of the Act of Parliament: in that way, the Human Rights Act seeks to maintain the principle of Parliamentary sovereignty (see: Constitution of the United Kingdom). However, judges may strike down secondary legislation. Under the Act, individuals retain the right to sue in the Strasbourg court.
+David Cameron has criticised the Act since 2007 and his second ministry plans to replace it with a "British Bill of Rights".
+
+
+== Historical context ==
+The Convention was drafted by the Council of Europe after World War II. Sir David Maxwell-Fyfe was the Chair of the Committee on Legal and Administrative Questions of the Council's Consultative Assembly from 1949 to 1952, and oversaw the drafting of the European Convention on Human Rights. It was designed to incorporate a traditional civil liberties approach to securing "effective political democracy", from the strong traditions of freedom and liberty in the United Kingdom. As a founding member of the Council of Europe, the UK acceded to the European Convention on Human Rights in March 1951. However it was not until the 1960s that British citizens were able to bring claims in the European Court of Human Rights (ECtHR). During the 1980s, groups such as Charter 88 (which invoked the 300th anniversary of the Glorious Revolution in 1688 and the Bill of Rights 1689) accused the executive of misusing its power and argued that a new British Bill of Rights was needed to secure human rights in the UK.
+In its manifesto for the 1997 general election, the Labour party pledged to incorporate the European Convention into domestic law. When the election resulted in a landslide Labour victory, the party, under the leadership of Tony Blair, fulfilled this pledge through Parliamentary passage of the Human Rights Act the following year.
+The 1997 white paper "Rights Brought Home" stated:
+
+It takes on average five years to get an action into the European Court of Human Rights once all domestic remedies have been exhausted; and it costs an average of £30,000. Bringing these rights home will mean that the British people will be able to argue for their rights in the British courts – without this inordinate delay and cost.
+
+
+== Structure of the Act ==
+The Human Rights Act places a duty on all courts and tribunals in the United Kingdom to interpret legislation so far as possible in a way compatible with the rights laid down in the European Convention on Human Rights (section 3(1)). Where this is not possible, the court may issue a "declaration of incompatibility". The declaration does not invalidate the legislation, but permits the amendment of the legislation by a special fast-track procedure under section 10 of the Act. As of August 2006, 20 declarations had been made, of which six were overturned on appeal.
+The Human Rights Act applies to all public bodies within the United Kingdom, including central government, local authorities, and bodies exercising public functions. However, it does not include Parliament when it is acting in its legislative capacities.
+
+
+=== Section 3 ===
+
+Section 3 is a particularly wide provision that requires courts to interpret both primary and subordinate legislation so that their provisions are compatible with the articles of the European Convention of Human Rights which are also part of the Human Rights Act. This interpretation goes far beyond normal statutory interpretation, and includes past and future legislation, therefore preventing the Human Rights act from being impliedly repealed. Courts have applied this through three forms of interpretation, "reading in" – inserting words where there are none in a statute; "reading out" where words are omitted from a statute; and "reading down" where a particular meaning is chosen to be in compliance. They do not interpret statutes to conflict with legislative intent, and courts have been reluctant in particular to "read out" provisions for this reason. If it is not possible to so interpret, they may issue a declaration of incompatibility under section 4.
+
+
+=== Sections 4 and 10 ===
+
+Sections 4 and 10 allows courts to issue a declaration of incompatibility where it is impossible to use section 3 to interpret primary or subordinate legislation to be compatible with the articles of the European Convention of Human Rights, which are also part of the Human Rights Act. In these cases, interpretation to comply may conflict with legislative intent. It is considered a measure of last resort. A range of superior courts can issue a declaration of incompatibility.
+A declaration of incompatibility is not binding on the parties to the proceedings in which it is made, nor can a declaration invalidate legislation. Section 4 therefore achieves its aim through political rather than legal means.
+Section 10 gives a government minister the power to make a "remedial order" in response to either
+a declaration of incompatibility, from which there is no possibility of appeal, or
+a ruling of the European Court of Human Rights
+A remedial order may "make such amendments to the legislation as [the Minister] considers necessary to remove the incompatibility". Remedial orders do not require full legislative approval, but must be approved by resolutions of each House of Parliament. In especially urgent cases, Parliamentary approval may be retroactive.
+Remedial orders may have retroactive effect, but no one may be guilty of a criminal offence solely as the result of the retroactive effect of a remedial order.
+Section 10 has been used to make small adjustments to bring legislation into line with Convention rights although entirely new pieces of legislation are sometimes necessary.
+As of December 2014, 29 declarations of incompatibility have been issued, of which
+8 have been struck down on appeal
+1 is pending appeal, as of December 2014
+16 have been remedied through the ordinary legislative process (including amendment or repeal of the offending legislation).
+3 have been addressed through remedial orders
+1 has not been remedied.
+The one case not to have been remedied, as of December 2014, is Smith v. Scott, concerning the right of serving prisoners to vote in the UK.
+
+
+=== Other sections ===
+Although the Act, by its own terms, applies only to public bodies, it has had increasing influence on private law litigation between individual citizens leading some academics to state that it has horizontal effect as well as vertical effect (as in disputes between the state and citizens). This is because section 6(1) of the Human Rights Act defines courts and tribunals as public bodies meaning their judgments must comply with human rights obligations except in cases of declarations of incompatibility. Therefore, judges have a duty to act in compatibility with the Convention even when an action is a private one between two citizens.
+
+
+== Rights protected under the Act ==
+
+The rights protected under the human rights act are
+
+
+=== Article 2. Right to life ===
+1Everyone’s right to life shall be protected by law. No one shall be deprived of his life intentionally save in the execution of a sentence of a court following his conviction of a crime for which this penalty is provided by law.
+2Deprivation of life shall not be regarded as inflicted in contravention of this Article when it results from the use of force which is no more than absolutely necessary:
+(a)in defence of any person from unlawful violence;
+(b)in order to effect a lawful arrest or to prevent the escape of a person lawfully detained;
+(c)in action lawfully taken for the purpose of quelling a riot or insurrection.
+
+
+=== Article 3. Prohibition of torture ===
+No one shall be subjected to torture or to inhuman or degrading treatment or punishment.
+
+
+=== Article 4. Prohibition of slavery and forced labour ===
+1No one shall be held in slavery or servitude.
+2No one shall be required to perform forced or compulsory labour.
+3For the purpose of this Article the term “forced or compulsory labour” shall not include:
+(a)any work required to be done in the ordinary course of detention imposed according to the provisions of Article 5 of this Convention or during conditional release from such detention;
+(b)any service of a military character or, in case of conscientious objectors in countries where they are recognised, service exacted instead of compulsory military service;
+(c)any service exacted in case of an emergency or calamity threatening the life or well-being of the community;
+(d)any work or service which forms part of normal civic obligations.
+
+
+=== Article 5. Right to liberty and security ===
+1Everyone has the right to liberty and security of person. No one shall be deprived of his liberty save in the following cases and in accordance with a procedure prescribed by law:
+(a)the lawful detention of a person after conviction by a competent court;
+(b)the lawful arrest or detention of a person for non-compliance with the lawful order of a court or in order to secure the fulfilment of any obligation prescribed by law;
+(c)the lawful arrest or detention of a person effected for the purpose of bringing him before the competent legal authority on reasonable suspicion of having committed an offence or when it is reasonably considered necessary to prevent his committing an offence or fleeing after having done so;
+(d)the detention of a minor by lawful order for the purpose of educational supervision or his lawful detention for the purpose of bringing him before the competent legal authority;
+(e)the lawful detention of persons for the prevention of the spreading of infectious diseases, of persons of unsound mind, alcoholics or drug addicts or vagrants;
+(f)the lawful arrest or detention of a person to prevent his effecting an unauthorised entry into the country or of a person against whom action is being taken with a view to deportation or extradition.
+2Everyone who is arrested shall be informed promptly, in a language which he understands, of the reasons for his arrest and of any charge against him.
+3Everyone arrested or detained in accordance with the provisions of paragraph 1(c) of this Article shall be brought promptly before a judge or other officer authorised by law to exercise judicial power and shall be entitled to trial within a reasonable time or to release pending trial. Release may be conditioned by guarantees to appear for trial.
+4Everyone who is deprived of his liberty by arrest or detention shall be entitled to take proceedings by which the lawfulness of his detention shall be decided speedily by a court and his release ordered if the detention is not lawful.
+5Everyone who has been the victim of arrest or detention in contravention of the provisions of this Article shall have an enforceable right to compensation.
+
+
+=== Article 6. Right to a fair trial ===
+1In the determination of his civil rights and obligations or of any criminal charge against him, everyone is entitled to a fair and public hearing within a reasonable time by an independent and impartial tribunal established by law. Judgment shall be pronounced publicly but the press and public may be excluded from all or part of the trial in the interest of morals, public order or national security in a democratic society, where the interests of juveniles or the protection of the private life of the parties so require, or to the extent strictly necessary in the opinion of the court in special circumstances where publicity would prejudice the interests of justice.
+2Everyone charged with a criminal offence shall be presumed innocent until proved guilty according to law.
+3Everyone charged with a criminal offence has the following minimum rights:
+(a)to be informed promptly, in a language which he understands and in detail, of the nature and cause of the accusation against him;
+(b)to have adequate time and facilities for the preparation of his defence;
+(c)to defend himself in person or through legal assistance of his own choosing or, if he has not sufficient means to pay for legal assistance, to be given it free when the interests of justice so require;
+(d)to examine or have examined witnesses against him and to obtain the attendance and examination of witnesses on his behalf under the same conditions as witnesses against him;
+(e)to have the free assistance of an interpreter if he cannot understand or speak the language used in court.
+
+
+=== Article 7. No punishment without law ===
+1No one shall be held guilty of any criminal offence on account of any act or omission which did not constitute a criminal offence under national or international law at the time when it was committed. Nor shall a heavier penalty be imposed than the one that was applicable at the time the criminal offence was committed.
+2This Article shall not prejudice the trial and punishment of any person for any act or omission which, at the time when it was committed, was criminal according to the general principles of law recognised by civilised nations.
+
+
+=== Article 8. Right to respect for private and family life ===
+1Everyone has the right to respect for his private and family life, his home and his correspondence.
+2There shall be no interference by a public authority with the exercise of this right except such as is in accordance with the law and is necessary in a democratic society in the interests of national security, public safety or the economic well-being of the country, for the prevention of disorder or crime, for the protection of health or morals, or for the protection of the rights and freedoms of others.
+
+
+=== Article 9. Freedom of thought, conscience and religion ===
+1Everyone has the right to freedom of thought, conscience and religion; this right includes freedom to change his religion or belief and freedom, either alone or in community with others and in public or private, to manifest his religion or belief, in worship, teaching, practice and observance.
+2Freedom to manifest one’s religion or beliefs shall be subject only to such limitations as are prescribed by law and are necessary in a democratic society in the interests of public safety, for the protection of public order, health or morals, or for the protection of the rights and freedoms of others.
+
+
+=== Article 10. Freedom of expression ===
+1Everyone has the right to freedom of expression. This right shall include freedom to hold opinions and to receive and impart information and ideas without interference by public authority and regardless of frontiers. This Article shall not prevent States from requiring the licensing of broadcasting, television or cinema enterprises.
+2The exercise of these freedoms, since it carries with it duties and responsibilities, may be subject to such formalities, conditions, restrictions or penalties as are prescribed by law and are necessary in a democratic society, in the interests of national security, territorial integrity or public safety, for the prevention of disorder or crime, for the protection of health or morals, for the protection of the reputation or rights of others, for preventing the disclosure of information received in confidence, or for maintaining the authority and impartiality of the judiciary.
+
+
+=== Article 11. Freedom of assembly and association ===
+1Everyone has the right to freedom of peaceful assembly and to freedom of association with others, including the right to form and to join trade unions for the protection of his interests.
+2No restrictions shall be placed on the exercise of these rights other than such as are prescribed by law and are necessary in a democratic society in the interests of national security or public safety, for the prevention of disorder or crime, for the protection of health or morals or for the protection of the rights and freedoms of others. This Article shall not prevent the imposition of lawful restrictions on the exercise of these rights by members of the armed forces, of the police or of the administration of the State.
+
+
+=== Article 12. Right to marry ===
+Men and women of marriageable age have the right to marry and to found a family, according to the national laws governing the exercise of this right.
+
+
+=== Article 14. Prohibition of discrimination ===
+The enjoyment of the rights and freedoms set forth in this Convention shall be secured without discrimination on any ground such as sex, race, colour, language, religion, political or other opinion, national or social origin, association with a national minority, property, birth or other status.
+
+
+=== Article 16. Restrictions on political activity of aliens ===
+Nothing in Articles 10, 11 and 14 shall be regarded as preventing the High Contracting Parties from imposing restrictions on the political activity of aliens.
+
+
+=== Article 17. Prohibition of abuse of rights ===
+Nothing in this Convention may be interpreted as implying for any State, group or person any right to engage in any activity or perform any act aimed at the destruction of any of the rights and freedoms set forth herein or at their limitation to a greater extent than is provided for in the Convention.
+
+
+=== Article 18. Limitation on use of restrictions on rights ===
+The restrictions permitted under this Convention to the said rights and freedoms shall not be applied for any purpose other than those for which they have been prescribed.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+The Act provides that it is unlawful for a public authority to act in such a way as to contravene Convention rights. For these purposes public authority includes any other person "whose functions are functions of a public nature." It also explicitly includes the Courts. Convention rights includes only those rights specified in section 1 of the Act (these are recited in full in Schedule 1). In the interpretation of those rights the Act provides that the domestic Courts "may" take into account the jurisprudence of the European Court of Human Rights (ECtHR).
+Section 7 enables any person, with standing, to raise an action against a public authority which has acted or proposes to act in such a Convention-contravening manner. A person will have standing to do so provided they would satisfy the "victim test" stipulated by Article 34 of the Convention. This is a more rigorous standard than is ordinarily applied to standing in English, although not Scottish, judicial review.
+If it is held that the public authority has violated the claimant's Convention rights, then the Court is empowered to "grant such relief or remedy, or make such order, within its powers as it considers just and appropriate." This can include an award of damages, although the Act provides additional restrictions on the Court's capacity to make such an award.
+However, the Act also provides a defence for public authorities if their Convention violating act is in pursuance of a mandatory obligation imposed upon them by Westminster primary legislation. The Act envisages that this will ordinarily be a difficult standard to meet though since it requires the Courts to read such legislation (and for that matter subordinate legislation) "So far as it is possible to do so...in a way which is compatible with the Convention rights."
+Where it is impossible to read primary legislation in a Convention compliant manner, the only sanction available to the Courts is to make a Declaration of Incompatibility in respect of it. The power to do so is restricted to the higher Courts. Such a Declaration has no direct impact upon the continuing force of the legislation but it is likely to produce public pressure upon the government to remove the incompatibility. It also strengthens the case of a claimant armed with such a decision from the domestic Courts in any subsequent appeal to ECtHR. In order to provide swift compliance with the Convention the Act allows Ministers to take remedial action to amend even offending primary legislation via subordinate legislation.
+
+
+== Abolition of the death penalty ==
+Section 21(5) of the Act completely abolished the death penalty in the United Kingdom, effective on royal assent. The death penalty had already been abolished for all civilian offences, including murder (Murder (Abolition of Death Penalty) Act 1965) and treason (Crime and Disorder Act 1998), but remained in force for certain military offences (although these provisions had not been used for several decades).
+This provision was not required by the European Convention (protocol 6 permits the death penalty in time of war; protocol 13, which prohibits the death penalty for all circumstances, did not then exist); rather, the government introduced it as a late amendment in response to parliamentary pressure.
+
+
+== Notable human rights case law ==
+Lee Clegg's murder conviction gave rise to the first case invoking the Act, brought by The Times in October 2000 which sought to overturn a libel ruling against the newspaper.
+Campbell v. MGN Ltd. [2002] EWCA Civ 1373, Naomi Campbell and Sara Cox both sought to assert their right to privacy under the Act. Both cases were successful for the complainant (Campbell's on the second attempt; Cox's attempt was not judicially decided but an out of court settlement was reached before the issue could be tested in court) and an amendment to British law to incorporate a provision for privacy is expected to be introduced.
+Venables and Thompson v. News Group Newspapers [2001] 1 All ER 908, the James Bulger murder case tested whether the Article 8 (privacy) rights of Venables and Thomson, the convicted murderers of Bulger, applied when four newspapers sought to publish their new identities and whereabouts, using their Article 10 rights of freedom of expression. The judge, Dame Elizabeth Butler-Sloss, granted permanent global injunctions ordering that the material not be published because of the disastrous consequences such disclosure might have for the former convicts, not least the possibility of physical harm or death (hence claims for Article 2 rights were entertained, and sympathised with).
+A and Others v. Secretary of State for the Home Department [2004] UKHL 56, on 16 December 2004, the House of Lords held in that Part 4 of the Anti-terrorism, Crime and Security Act 2001, under whose powers a number of non-UK nationals were detained in Belmarsh Prison, was incompatible with the Human Rights Act. This precipitated the enactment of the Prevention of Terrorism Act 2005 to replace Part 4 of the 2001 Act.
+Amesh Chauhan and Dean Hollingsworth were photographed by a speed camera in 2000. As is standard practice for those caught in this way, they were sent a form by the police asking them to identify who was driving the vehicle at the time. They protested under the Human Rights Act, arguing that they could not be required to give evidence against themselves. An initial judgment, by Judge Peter Crawford at Birmingham Crown Court, ruled in their favour but this was later reversed.
+Price v. Leeds City Council [2005] EWCA Civ 289, on 16 March 2005 the Court of Appeal upheld a High Court ruling that Leeds City Council could not infringe the right to a home of a Romani family, the Maloneys, by evicting them from public land. The court however referred the case to the House of Lords as this decision conflicted with a ruling from the European Court of Human Rights (ECtHR).
+In March 2006, the High Court in London ruled against a hospital's bid to turn off the ventilator that kept the child, known as Baby MB, alive. The 19-month-old baby has the genetic condition spinal muscular atrophy, which leads to almost total paralysis. The parents of the child fought for his right to life, despite claims from medics that the invasive ventilation would cause an 'intolerable life'.
+Connors v. UK, a judgment given by ECtHR, declared that travellers who had their licences to live on local authority-owned land suddenly revoked had been discriminated against, in comparison to the treatment of mobile-home owners who did not belong to the traveller population, and thus their Article 14 (protection from discrimination) and Article 8 (right to respect for the home) rights had been infringed. However, there has never been a case where the Act has been successfully invoked to allow travellers to remain on greenbelt land, and indeed the prospects of this ever happening seem highly unlikely after the House of Lords decision in Kay and others and another v. London Borough of Lambeth and others heard with Price v Leeds City Council which severely restricted the occasions on which Article 8 may be invoked to protect someone from eviction in the absence of some legal right over the land.
+Afghan hijackers case 2006, in May 2006, a politically controversial decision regarding the treatment of nine Afghan men who hijacked a plane to flee from the Taliban, caused widespread condemnation by many tabloid newspapers (most notably The Sun), the broadsheets and the leaders of both the Labour Party and the Conservative Party. It was ruled by an Immigration Tribunal, under the Human Rights Act, that the hijackers could remain in the United Kingdom; a subsequent court decision ruled that the government had abused its power in restricting the hijackers' right to work.
+Mosley v News Group Newspapers Limited (2008), Max Mosley challenged an invasion of his private life after the News of the World exposed his involvement in a sadomasochistic sex act. The case resulted in Mr Mosley being awarded £60,000 in damages.
+
+
+== Criticism ==
+
+
+=== From the Conservative right ===
+During the campaign for the 2005 parliamentary elections the Conservatives under Michael Howard declared their intention to "overhaul or scrap" the Human Rights Act. According to him "the time had come to liberate the nation from the avalanche of political correctness, costly litigation, feeble justice, and culture of compensation running riot in Britain today and warning that the politically correct regime ushered in by Labour's enthusiastic adoption of human rights legislation has turned the age-old principle of fairness on its head".
+He cited a number of examples of how, in his opinion, the Human Rights Act had failed: "the schoolboy arsonist allowed back into the classroom because enforcing discipline apparently denied his right to education; the convicted rapist given £4000 compensation because his second appeal was delayed; the burglar given taxpayers' money to sue the man whose house he broke into; travellers who thumb their nose at the law allowed to stay on green belt sites they have occupied in defiance of planning laws".
+The schoolboy referred to by Mr Howard was suing for compensation, not to be allowed back into the classroom, since he was already a university student at the time of the court case. In addition, the claim was rejected.
+
+
+=== Politicised judges? ===
+The Human Rights Act prior to its introduction, it would result in unelected judges making substantive judgments about government policies and "legislating" in their amendments to the common law resulting in a usurpation of Parliament's legislative supremacy and an expansion of the UK courts' justiciability. R (on the application of Daly) v Secretary of State for the Home Department highlights how the introduction of a proportionality test borrowed from ECtHR jurisprudence has allowed a greater scrutiny of the substantive merits of a government's policy, meaning that judicial review has become more of an appeal than a review.
+The interpretative obligation under section 3(1) of the Human Rights Act to read primary legislation as Convention compliant, so far as is possible, is not dependent upon the presence of ambiguity in legislation. Section 3(1) could require the court to depart from the unambiguous meaning that legislation would otherwise bear subject to the constraint that this modified interpretation must be one “possible” interpretation of the legislation. Paul Craig argues that this results in the courts adopting linguistically strained interpretations instead of issuing declarations of incompatibility.
+
+
+=== Journalistic freedom ===
+In 2008 the editor of the Daily Mail criticised the Human Rights Act for allowing, in effect, a right to privacy at English law despite the fact that Parliament has not passed such legislation. Paul Dacre was in fact referring to the indirect horizontal effect of the Human Rights Act on the doctrine of breach of confidence which has moved English law closer towards a common law right to privacy. In response the Lord Chancellor Lord Falconer stated that the Human Rights Act had been passed by Parliament, that people's private lives needed protection and that the judge in the case had interpreted relevant authorities correctly.
+
+
+=== Left-wing criticism ===
+In contrast, some have argued that the Human Rights Act does not give adequate protection to rights because of the ability for the government to derogate from Convention rights under article 15 especially in relation to terrorism legislation. Recent cases such as R (ProLife Alliance) v. BBC [2002] EWCA Civ 297 have been decided in reference to common law rights rather than statutory rights leading to the possibility of judicial activism.
+
+
+=== Terrorism ===
+Senior Labour politicians have criticised the Human Rights Act and the willingness of the judiciary to invoke declarations on incompatibility against terrorism legislation. Former Home Secretary Dr John Reid argued that the Human Rights Act was hampering the fight against global terrorism in regard to controversial control orders:
+
+There is a very serious threat – and I am the first to admit that the means we have of fighting it are so inadequate that we are fighting with one arm tied behind our backs. So I hope when we bring forward proposals in the next few weeks that we will have a little less party politics and a little more support for national security.
+
+
+=== Controversy rulings ===
+Rulings based on the Human rights Act have been criticised by Lady Hale. In 2011 she said that the Act was overused, and criticised the decision of European human rights judges to give prisoners the vote.
+
+
+== Planned replacement ==
+In 2007, Howard's successor as Leader of the Opposition, David Cameron, vowed to repeal the Human Rights Act if he was elected, instead replacing it with a 'Bill of Rights' for Britain. The human rights organisation JUSTICE released a discussion paper entitled A Bill of Rights for Britain?, examining the case for updating the Human Rights Act with an entrenched bill.
+Following the 2010 general election, the Conservative – Liberal Democrat Coalition Agreement said that the Human Rights Act would be investigated.
+In 2011, following controversial rulings from both the European Court of Human Rights (ECtHR) and the Supreme Court of the United Kingdom, David Cameron suggested a "British Bill of Rights". The government commission set up to investigate the case for a Bill of Rights had a split of opinion.
+Judge Dean Spielmann, the President of ECtHR, warned in 2013 that the United Kingdom could not withdraw from the Convention on Human Rights without jeopardising its membership of the European Union.
+In 2014, the Conservative Party planned to repeal the Act and replace it with a "British Bill of Rights".
+Following the 2015 election win for the Conservative Party, Michael Gove, the Secretary of State for Justice, was charged with implementing the reforms which were previously blocked by the Liberal Democrats in the coalition government. The Conservative Party manifesto said that the new bill will "break the formal link between British Courts and the European Court of Human Rights". This would mean that human rights cases under the ECtHR would have to go to a court in Strasbourg rather than being able to be tried in the UK. Civil liberty advocates have expressed concern that the proposed changes would "erode the right to life, the right to privacy, the right to a fair trial, the right to protest and the right to freedom from torture and discrimination".
+
+
+== See also ==
+Human rights in the United Kingdom
+Joint Committee on Human Rights
+Declaration of incompatibility
+
+
+== References ==
+
+
+== Further reading ==
+Hoffman, David; Rowe, John (2006). Human Rights in the UK: an Introduction to the Human Rights Act 1998 (2nd ed.). Harlow, United Kingdom: Pearson Longman. ISBN 1-4058-2393-3. 
+Amos, Merris (2013). "Transplanting Human Rights Norms: The Case of the United Kingdom's Human Rights Act". Human Rights Quarterly 35 (2): 386–407. doi:10.1353/hrq.2013.0021. 
+
+
+== External links ==
+Fifty Human Rights Cases That Transformed Britain - Infographic
+A New British Bill of Rights: The Case For
+Rights Brought Home: Government white paper
+Human Rights Act 1998 Leaflet with detailed information from Community Legal Service Direct.
+The Human Rights Act – Exploding the Myths by Liberty
+A table of all of the declarations of incompatibility which the courts have made as of 1 August 2006 from the Department for Constitutional Affairs
+The Impact of the Human Rights Act 1998 on Policing in England and Wales

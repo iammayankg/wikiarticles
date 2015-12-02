@@ -1,0 +1,145 @@
+Weaving is good for making clothes Weaving is a method of textile production in which two distinct sets of yarns or threads are interlaced at right angles to form a fabric or cloth. Similar methods are knitting, felting, and braiding or plaiting. The longitudinal threads are called the warp and the lateral threads are the weft or filling. (Weft or woof is an old English word meaning "that which is woven".) The method in which these threads are inter woven affects the characteristics of the cloth.
+Cloth is usually woven on a loom, a device that holds the warp threads in place while filling threads are woven through them. A fabric band which meets this definition of cloth (warp threads with a weft thread winding between) can also be made using other methods, including tablet weaving, back-strap, or other techniques without looms.
+The way the warp and filling threads interlace with each other is called the weave. The majority of woven products are created with one of three basic weaves: plain weave, satin weave, or twill.115/> Woven cloth an be plain (in one colour or a simple pattern), or can be woven in decorative or artistic design
+
+
+== Process and terminology ==
+
+In general, weaving involves using a loom to interlace two sets of threads at right angles to each other: the warp which runs longitudinally and the weft (older woof) that crosses it. One warp thread is called an end and one weft thread is called a pick. The warp threads are held taut and in parallel to each other, typically in a loom. There are many types of looms.
+Weaving can be summarized as a repetition of these three actions, also called the primary motion of the loom.
+Shedding: where the ends are separated by raising or lowering heald frames (heddles) to form a clear space where the pick can pass
+Picking: where the weft or pick is propelled across the loom by hand, an air-jet, a rapier or a shuttle.
+Beating-up or battening: where the weft is pushed up against the fell of the cloth by the reed.
+The warp is divided into two overlapping groups, or lines (most often adjacent threads belonging to the opposite group) that run in two planes, one above another, so the shuttle can be passed between them in a straight motion. Then, the upper group is lowered by the loom mechanism, and the lower group is raised (shedding), allowing to pass the shuttle in the opposite direction, also in a straight motion. Repeating these actions form a fabric mesh but without beating-up, the final distance between the adjacent wefts would be irregular and far too large.
+The secondary motion of the loom are the:
+Let off Motion: where the warp is let off the warp beam at a regulated speed to make the filling even and of the required design
+Take up Motion: Takes up the woven fabric in a regulated manner so that the density of filling is maintained
+The tertiary motions of the loom are the stop motions: to stop the loom in the event of a thread break. The two main stop motions are the
+warp stop motion
+weft stop motion
+The principal parts of a loom are the frame, the warp-beam or weavers beam, the cloth-roll (apron bar), the heddles, and their mounting, the reed. The warp-beam is a wooden or metal cylinder on the back of the loom on which the warp is delivered. The threads of the warp extend in parallel order from the warp-beam to the front of the loom where they are attached to the cloth-roll. Each thread or group of threads of the warp passes through an opening (eye) in a heddle. The warp threads are separated by the heddles into two or more groups, each controlled and automatically drawn up and down by the motion of the heddles. In the case of small patterns the movement of the heddles is controlled by “cams” which move up the heddles by means of a frame called a harness; in larger patterns the heddles are controlled by a dobby mechanism, where the healds are raised according to pegs inserted into a revolving drum. Where a complex design is required, the healds are raised by harness cords attached to a Jacquard machine. Every time the harness (the heddles) moves up or down, an opening (shed) is made between the threads of warp, through which the pick is inserted. Traditionally the weft thread is inserted by a shuttle.
+On a conventional loom, the weft thread is carried on a pirn, in a shuttle that passes through the shed. A handloom weaver could propel the shuttle by throwing it from side to side with the aid of a picking stick. The "picking΅ on a power loom is done by rapidly hitting the shuttle from each side using an overpick or underpick mechanism controlled by cams 80-250 times a minute. When a pirn is depleted, it is ejected from the shuttle and replaced with the next pirn held in a battery attached to the loom. Multiple shuttle boxes allow more than one shuttle to be used. Each can carry a different colour which allows banding across the loom.
+The rapier-type weaving machines do not have shuttles, they propel the weft by means of small grippers or rapiers that pick up the filling thread and carry it halfway across the loom where another rapier picks it up and pulls it the rest of the way. Some carry the filling yarns across the loom at rates in excess of 2,000 meters per minute. Manufacturers such as Picanol have reduced the mechanical adjustments to a minimum, and control all the functions through a computer with a graphical user interface. Other types use compressed air to insert the pick. They are all fast, versatile and quiet.
+The warp is sized in a starch mixture for smoother running. The loom warped (loomed or dressed) by passing the sized warp threads through two or more heddles attached to harnesses. The power weavers loom is warped by separate workers. Most looms used for industrial purposes have a machine that ties new warps threads to the waste of previously used warps threads, while still on the loom, then an operator rolls the old and new threads back on the warp beam. The harnesses are controlled by cams, dobbies or a Jacquard head.
+
+The raising and lowering sequence of warp threads in various sequences gives rise to many possible weave structures: textile production went through profound changes brought about by the industrial revolution in the 19th century. At the beginning of the century in America, weaving was still done by hand, both commercially and at home. Most professional weavers were men who did their work for sale. Women wove items at home for family use. By the end of the 19th century weavers were simply mill workers who tended several water or steam powered looms at a time. The increased speed of production brought more textiles to the average farmhouse and renderd
+plain weave: plain, and hopsacks, poplin, taffeta, poult-de-soie, pibiones and grosgrain.
+twill weave: these are described by weft float followed by warp float, arranged to give diagonal pattern. 2/1 twill, 3/3 twill, 1/2 twill. These are softer fabrics than plain weaves.,
+satin weave: satins and sateens,
+complex computer-generated interlacings.
+pile fabrics : such as velvets and velveteens 
+Both warp and weft can be visible in the final product. By spacing the warp more closely, it can completely cover the weft that binds it, giving a warp faced textile such as repp weave. Conversely, if the warp is spread out, the weft can slide down and completely cover the warp, giving a weft faced textile, such as a tapestry or a Kilim rug. There are a variety of loom styles for hand weaving and tapestry.
+
+
+== History ==
+
+There are some indications that weaving was already known in the Paleolithic era. An indistinct textile impression has been found at the Dolní Věstonice site.
+The earliest known Neolithic textile production is supported by a 2013 find of a piece of cloth woven from hemp, in burial F. 7121 at the Çatalhöyük site suggested to be from around 7000 BC. Further finds come from the advanced civilisation preserved in the pile dwellings in Switzerland. Another extant fragment from the Neolithic was found in Fayum, at a site dated to about 5000 BCE. This fragment is woven at about 12 threads by 9 threads per cm in a plain weave. Flax was the predominant fibre in Egypt at this time (3600 BCE) and continued popularity in the Nile Valley, though wool became the primary fibre used in other cultures around 2000 BCE.
+ weaving was known in all the great civilisations, but no clear line of causality has been established. Early looms required two people to create the shed, and one person to pass through the filling. Early looms wove a fixed length of cloth, but later ones allowed warp to be wound out as the fell progressed. The weavers were often children or slaves. Weaving became simpler when the warp was sized.
+
+
+=== China and East Asia ===
+The weaving of silk from silkworm cocoons has been known in China since about 3 500 BCE. Silk that was intricately woven and dyed, showing a well developed craft, has been found in a Chinese tomb dating back to 2 700 BCE.
+Sericulture and silk weaving spread to Korea by 200 BCE, to Khotan by 50 CE, and to Japan by about 300 CE.
+The pit-treadle loom may have originated in India though most authorities establish the invention in China. Pedals were added to operate heddles. By the Middle Ages such devices also appeared in Persia, Sudan, Egypt and possibly the Arabian Peninsula, where "the operator sat with his feet in a pit below a fairly low-slung loom." In 700 AD, horizontal looms and vertical looms could be found in many parts of Asia, Africa and Europe. In Africa, the rich dressed in cotton while the poorer wore wool. By the 12th century it had come to Europe either from the Byzantium or Moorish Spain where the mechanism was raised higher above the ground on a more substantial frame.
+
+
+=== Medieval Europe ===
+The predominant fibre was wool, followed by linen and nettlecloth for the lower classes. Cotton was introduced to Sicily and Spain in the 9th century. When Sicily was captured by the Normans, they took the technology to Northern Italy and then the rest of Europe. Silk fabric production was reintroduced towards the end of this period and the more sophisticated silk weaving techniques were applied to the other staples.
+The weaver worked at home and marketed his cloth at fairs. Warp-weighted looms were commonplace in Europe before the introduction of horizontal looms in the 10th and 11th centuries. Weaving became an urban craft and to regulate their trade, craftsmen applied to establish a guild. These initially were merchant guilds, but developed into separate trade guilds for each skill. The cloth merchant who was a member of a city's weavers guild was allowed to sell cloth; he acted as a middleman between the tradesmen weavers and the purchaser. The trade guilds controlled quality and the training needed before an artisan could call himself a weaver.
+
+By the 13th century, an organisational change took place, and a system of putting out was introduced. The cloth merchant purchased the wool and provided it to the weaver, who sold his produce back to the merchant. The merchant controlled the rates of pay and economically dominated the cloth industry. The merchants' prosperity is reflected in the wool towns of eastern England; Norwich, Bury St Edmunds and Lavenham being good examples. Wool was a political issue. The supply of thread has always limited the output of a weaver. About that time, the spindle method of spinning was replaced by the great wheel and soon after the treadle-driven spinning wheel. The loom remained the same but with the increased volume of thread it could be operated continuously.
+The 14th century saw considerable flux in population. The 13th century had been a period of relative peace; Europe became overpopulated. Poor weather led to a series of poor harvests and starvation. There was great loss of life in the Hundred Years War. Then in 1346, Europe was struck with the Black Death and the population was reduced by up to a half. Arable land was labour-intensive and sufficient workers no longer could be found. Land prices dropped, and land was sold and put to sheep pasture. Traders from Florence and Bruges bought the wool, then sheep-owning landlords started to weave wool outside the jurisdiction of the city and trade guilds. The weavers started by working in their own homes then production was moved into purpose-built buildings. The working hours and the amount of work were regulated. The putting-out system had been replaced by a factory system.
+
+
+=== Huguenot Weavers ===
+Huguenot Weavers, Calvinists, fleeing from religious persecution, migrated from mainland Europe to Britain around the time of 1685. They came from Flanders and the great silk-weaving cities of France, such as Lyon and Tours. They settled first in Canterbury; then some 13,050 moved to Spitalfields in London. Others moved further, to the silk weaving town of Macclesfield. Their arrival challenged the English weavers of cotton, woollen and worsted cloth, who consequently learned the Huguenots' superior techniques.
+
+
+=== Weaving in the American Colonies (1500-1800) ===
+Colonial America relied heavily on Great Britain for manufactured goods of all kinds. British policy was to encourage the production of raw materials in colonies and discourage manufacturing. The Wool Act 1699 restricted the export of colonial wool. As a result, many people wove cloth from locally produced fibres. The colonists also used wool, cotton and flax (linen) for weaving, though hemp could be made into serviceable canvas and heavy cloth. They could get one cotton crop each year; until the invention of the cotton gin it was a labour-intensive process to separate the seeds from the fibres.
+A plain weave was preferred as the added skill and time required to make more complex weaves kept them from common use. Sometimes designs were woven into the fabric but most were added after weaving using wood block prints or embroidery.
+
+
+=== Industrial Revolution ===
+
+Before the Industrial Revolution, weaving was a manual craft and wool was the principal staple. In the great wool districts a form of factory system had been introduced but in the uplands weavers worked from home on a putting-out system. The wooden looms of that time might be broad or narrow; broad looms were those too wide for the weaver to pass the shuttle through the shed, so that the weaver needed an expensive assistant (often an apprentice). This ceased to be necessary after John Kay invented the flying shuttle in 1733. The shuttle and the picking stick sped up the process of weaving. There was thus a shortage of thread or a surplus of weaving capacity. The opening of the Bridgewater Canal in June 1761 allowed cotton to be brought into Manchester, an area rich in fast flowing streams that could be used to power machinery. Spinning was the first to be mechanised (spinning jenny, spinning mule), and this led to limitless thread for the weaver.
+Edmund Cartwright was the first to attempt to mechanise weaving from 1785. He built a factory at Doncaster and obtained a series of patents between 1785 and 1792. In 1788, his brother Major John Cartwight built Revolution Mill at Retford (named for the centenary of the Glorious Revolution). In 1791, he licensed his loom to the Grimshaw brothers of Manchester, but their Knott Mill burnt down the following year (possibly a case of arson). Edmund Cartwight was granted a reward of £10,000 by Parliament for his efforts in 1809. However, success in power-weaving also required improvements by others, including H. Horrocks of Stockport. Only during the two decades after about 1805, did power-weaving take hold. At that time there were 250,000 hand weavers in the UK. Textile manufacture was one of the leading sectors in the British Industrial Revolution, but weaving was a comparatively late sector to be mechanised. The loom became semi-automatic in 1842 with Kenworthy and Bulloughs Lancashire Loom. The various innovations took weaving from a home-based artisan activity (labour-intensive and man-powered) to steam driven factories process. A large metal manufacturing industry grew to produce the looms, firms such as Howard & Bullough of Accrington, and Tweedales and Smalley and Platt Brothers. Most power weaving took place in weaving sheds, in small towns circling Greater Manchester away from the cotton spinning area. The earlier combination mills where spinning and weaving took place in adjacent buildings became rarer. Wool and worsted weaving took place in West Yorkshire and particular Bradford, here there were large factories such as Lister's or Drummond's, where all the processes took place. Both men and women with weaving skills emigrated, and took the knowledge to their new homes in New England, to places like Pawtucket and Lowell.
+
+Woven 'grey cloth' was then sent to the finishers where it was bleached, dyed and printed. Natural dyes were originally used, with synthetic dyes coming in the second half of the 19th century. The need for these chemicals was an important factor in the development of the chemical industry.
+The invention in France of the Jacquard loom in about 1803, enabled complicated patterned cloths to be woven, by using punched cards to determine which threads of coloured yarn should appear on the upper side of the cloth. The jacquard allowed individual control of each warp thread, row by row without repeating, so very complex patterns were suddenly feasible. Samples exist showing calligraphy, and woven copies of engravings. Jacquards could be attached to handlooms or powerlooms.
+
+
+== The role of the weaver ==
+A distinction can be made between the role and lifestyle and status of a handloom weaver, and that of the powerloom weaver and craft weaver. The perceived threat of the power loom has led to disquiet and industrial unrest. Well known protests movements such as the Luddites and the Chartists had hand loom weavers amongst their leaders. In the early 19th century power weaving became viable. Richard Guest in 1823 made a comparison of the productivity of power and hand loom weavers:
+
+A very good Hand Weaver, a man twenty-five or thirty years of age, will weave two pieces of nine-eighths shirting per week, each twenty-four yards long, and containing one hundred and five shoots of weft in an inch, the reed of the cloth being a forty-four, Bolton count, and the warp and weft forty hanks to the pound, A Steam Loom Weaver, fifteen years of age, will in the same time weave seven similar pieces.
+
+He then speculates about the wider economics of using powerloom weavers:
+
+...it may very safely be said, that the work done in a Steam Factory containing two hundred Looms, would, if done by hand Weavers, find employment and support for a population of more than two thousand persons.
+
+
+=== Hand loom weavers ===
+Hand loom weavers were mainly men- due to the strength needed to batten. They worked from home sometimes in a well lit attic room. The women of the house would spin the thread they needed, and attend to finishing. Later women took to weaving, they obtained their thread from the spinning mill, and working as outworkers on a piecework contract. Over time competition from the power looms drove down the piece rate and they existed in increasing poverty.
+
+
+=== Power loom weavers ===
+
+Power loom workers were usually girls and young women. They had the security of fixed hours, and except in times of hardship, such as in the cotton famine, regular income. They were paid a wage and a piece work bonus. Even when working in a combined mill, weavers stuck together and enjoyed a tight-knit community. The women usually minded the four machines and kept the looms oiled and clean. They were assisted by 'little tenters', children on a fixed wage who ran errands and did small tasks. They learnt the job of the weaver by watching. Often they would be half timers, carrying a green card which teacher and overlookers would sign to say they had turned up at the mill in the morning and in the afternoon at the school. At fourteen or so they come full-time into the mill, and started by sharing looms with an experienced worker where it was important to learn quickly as they would both be on piece work. Serious problems with the loom were left to the tackler to sort out. He would inevitably be a man, as were usually the overlookers. The mill had its health and safety issues, there was a reason why the women tied their hair back with scarves. Inhaling cotton dust caused lung problems, and the noise was causing total hearing loss. Weavers would mee-maw as normal conversation was impossible. Weavers used to 'kiss the shutttle' that is suck thread though the eye of the shuttle- this left a foul taste in the mouth due to the oil which was also carcinogenic.
+
+
+=== Craft Weavers ===
+Arts and Crafts was an international design philosophy that originated in England and flourished between 1860 and 1910 (especially the second half of that period), continuing its influence until the 1930s. Instigated by the artist and writer William Morris (1834–1896) during the 1860s and inspired by the writings of John Ruskin (1819–1900), it had its earliest and most complete development in the British Isles but spread to Europe and North America. It was largely a reaction against mechanisation and the philosophy advocated of traditional craftsmanship using simple forms and often medieval, romantic or folk styles of decoration. Hand weaving was highly regard and taken up as a decorative art. Female students at the Bauhaus which adopted some of its philosophy, were directed to study in the Weaving Workshop. The weaver was thus a student of art, and yet again predominantly female. With the growth of leisure in the late 20th century, weaving became a popular pastime.
+
+
+=== Wire Weavers ===
+Weaving is not just confined to traditional materials such as yarn and thin woods. Wire weaving is a technique used by jewellers around the world. Often regional traditional weaving techniques are interpreted into wire form to create art work, jewellery and occasional items of apparel. wire weavers
+Not to be confused with wire wrapping, wire weaving follows traditional on and off loom weaving techniques. Well renowned artists and design houses include Mary Lee Hu, Stuart Golder, Yuri Ichihashi, Knitted & Kitted, Boucheron and Kazumi Nagano. Wires are generally drawn out to extremely fine strands and consist of a wide range of precious metals such as Gold, Silver and Copper.
+Examples of this work are displayed in a number of notable gallaries including the Victoria & Albert Museum in London and the Facere Gallery.
+
+
+== Other cultures ==
+
+
+=== Andean civilizations ===
+
+Whereas European cloth-making generally created ornamentation through "suprastructural" means—by adding embroidery, ribbons, brocade, dyeing, and other elements onto the finished woven textile—pre-Columbian Andean weavers created elaborate cloth by focusing on "structural" designs involving manipulation of the warp and weft of the fabric itself. Andeans used "tapestry techniques; double-, triple- and quadruple-cloth techniques; gauze weaves; warp-patterned weaves; discontinuous warp or scaffold weaves; and plain weaves" among many other techniques, in addition to the suprastructural techniques listed above.
+
+
+=== American Southwest ===
+
+Textile weaving, using cotton dyed with pigments, was a dominant craft among pre-contact tribes of the American southwest, including various Pueblo peoples, the Zuni, and the Ute tribes. The first Spaniards to visit the region wrote about seeing Navajo blankets. With the introduction of Navajo-Churro sheep, the resulting woolen products have become very well known. By the 18th century the Navajo had begun to import yarn with their favorite color, Bayeta red. Using an upright loom, the Navajos wove blankets worn as garments and then rugs after the 1880s for trade. Navajo traded for commercial wool, such as Germantown, imported from Pennsylvania. Under the influence of European-American settlers at trading posts, Navajos created new and distinct styles, including "Two Gray Hills" (predominantly black and white, with traditional patterns), "Teec Nos Pos" (colorful, with very extensive patterns), "Ganado" (founded by Don Lorenzo Hubbell), red dominated patterns with black and white, "Crystal" (founded by J. B. Moore), Oriental and Persian styles (almost always with natural dyes), "Wide Ruins," "Chinlee," banded geometric patterns, "Klagetoh," diamond type patterns, "Red Mesa" and bold diamond patterns. Many of these patterns exhibit a fourfold symmetry, which is thought to embody traditional ideas about harmony, or hózhó.
+
+
+=== Amazonia ===
+In Native Amazonia, densely woven palm-bast mosquito netting, or tents, were utilized by the Panoans, Tupinambá, Western Tucano, Yameo, Záparoans, and perhaps by the indigenous peoples of the central Huallaga River basin (Steward 1963:520). Aguaje palm-bast (Mauritia flexuosa, Mauritia minor, or swamp palm) and the frond spears of the Chambira palm (Astrocaryum chambira, A.munbaca, A.tucuma, also known as Cumare or Tucum) have been used for centuries by the Urarina of the Peruvian Amazon to make cordage, net-bags hammocks, and to weave fabric. Among the Urarina, the production of woven palm-fiber goods is imbued with varying degrees of an aesthetic attitude, which draws its authentication from referencing the Urarina’s primordial past. Urarina mythology attests to the centrality of weaving and its role in engendering Urarina society. The post-diluvial creation myth accords women’s weaving knowledge a pivotal role in Urarina social reproduction. Even though palm-fiber cloth is regularly removed from circulation through mortuary rites, Urarina palm-fiber wealth is neither completely inalienable, nor fungible since it is a fundamental medium for the expression of labor and exchange. The circulation of palm-fiber wealth stabilizes a host of social relationships, ranging from marriage and fictive kinship (compadrazco, spiritual compeership) to perpetuating relationships with the deceased.
+
+
+== See also ==
+
+Merchant capitalism
+Persian weave
+Textile manufacturing terminology
+Weaving (mythology)
+Basket weaving
+Bhuiyar
+Ventile
+Banig
+Petate
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Bibliography ==
+
+
+== External links ==
+Encyclopædia Britannica 1911 – Weaving at the Wayback Machine (archived May 28, 2013)
+Resource collection An on-line repository of articles (4720), books (459), illustrations (271), patents (398) and periodicals (1322) relating to weaving.
+British Pathé Weaving Linen 1940-1949 Educational film
+Illustrated Guide of Tilling and Weaving: Rural Life in China from 1696

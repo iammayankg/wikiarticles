@@ -1,0 +1,134 @@
+Private Sector Development (PSD) is a term in the international development industry to refer to a range of strategies for promoting economic growth and reducing poverty in developing countries by building private enterprises. This could be through working with firms directly, with membership organisations to represent them, or through a range of areas of policy and regulation to promote functioning, competitive markets.
+
+
+== Introduction ==
+Supporters argue that PSD is an important part of poverty reduction. Whether as workers, subsistence farmers or entrepreneurs, most poor people already participate in markets. Strengthening these markets in ways that secure higher incomes for the poor is therefore seen by PSD advocates as a fair and efficient way to fight poverty. Earning a decent income in the private sector, it is argued, is also more dignifying than relying on hand-outs.
+As with all development interventions, PSD programmes are under pressure to measure and report their achievements, monitoring and evaluating their work in ways that are both credible and cost-effective. One source of further information about methodologies for measuring the results of PSD, including the approaches currently used by different donors, is the Donor Committee for Enterprise Development.
+An April 2013 EPS PEAKS paper found a strong and well-established case for donors to intervene in private markets to deliver subsidies for development purposes. The researcher found that the theoretical reasons for intervention were well established by the economics literature, but that the practical approaches and frameworks for delivering subsidies to private sector entities are more complex and less understood.
+The approaches that do exist vary widely and not just in one dimension. The researcher identified some key criteria that can be used to evaluate different approaches and instruments and gave examples of their usage by different donor institutions. In practical terms, they said that thoroughly-researched cost benefit analyses should be used to assess project impact and that it was vital that donors recognise that by actively distorting a market outcome, there might be significant consequences to be understood and analysed.
+
+
+== Approaches to private sector development ==
+
+
+=== Business environment reform ===
+Where entrepreneurship and markets are stifled by inappropriate regulation, excessive taxation, lack of fair competition, lack of voice or an unstable policy environment, growth and poverty reduction are likely to suffer. Typically, donors first fund business environment analyses, such as the World Bank's Doing Business Reports, identifying the major constraints to business growth. They then work with government and other stakeholders to implement reforms.
+The private sector itself can play an important role in advocating for a better business environment. Many development agencies thus work to strengthen the capacity of businesses and business associations to engage in public-private dialogue with governments.
+
+
+=== Business linkages and value chain development ===
+A value chain is a series of activities that enterprises undertake when they produce a good or service, adding value to the inputs at each stage. Value Chain Development thus seeks to maximise the value of any given type of product, whilst incurring the least possible cost to the producers, in the places along the production chain that give the most benefit to poor people. One way is to improve production processes. Another way is to increase the commercial linkages between the businesses that poor people own or work for, and businesses that can offer them new and more profitable opportunities as customers or suppliers.
+
+
+=== Business development services ===
+This approach seeks to build markets in services that improve the performance of individual enterprises. Some of the most important BDS markets are in training, consultancy, marketing, market information, information technology and technology transfer. For many within the development community, donors should ideally not undertake BDS directly; instead they should facilitate commercial BDS providers to be self-sustaining, through the improvement of their techniques and the sourcing of new clients,. BDS markets can be sustainable where providers recover their costs via the fees they charge for services. However, business development services are also found in developed countries where the argument advanced is that the market for business development fails and therefore the government should enable this market  Developed countries experience suggests that fees for publicly supported advice was a policy that did not work. In fact, the evidence suggests that subsidised intensive work with relatively few business clients works well, which suggests the requirement for DBS to be self-financing is too onerous.
+
+
+=== Making markets work for the poor ===
+The Making markets work for the poor/M4P approach aims to understand how poor people interact with market systems, and how these systems can be changed to improve their lives. It aims for large-scale, sustainable impact by focusing on overall markets, rather than targeting individual actors within that market. In this sense, an M4P programme may incorporate various elements of value chain development, BDS and/ or business environment reform. Donors that have pioneered the M4P approach include the UK's Department for International Development (DFID), the Swedish International Development and Cooperation Agency (Sida) and the Swiss Agency for Development and Cooperation (SDC).
+
+
+=== Green growth ===
+A number of development agencies are engaged in developing markets to channel finance raised for climate change mitigation and adaptation in industrialised countries towards initiatives that reduce carbon emissions in the developing world. If managed appropriately, they argue, the challenge of responding to climate change could generate decent jobs and incomes for many millions of poor people.
+
+
+=== Women's entrepreneurship development ===
+In many parts of the developing world, women are systematically excluded from business opportunities. Discrimination can disadvantage women in their access to the knowledge and skills needed to be successful in business. At the same time, laws that disadvantage women in gaining access to property can make it hard for women to raise the necessary capital. Many donors actively support programmes that help women to overcome these and other barriers.
+
+
+=== Local economic development ===
+Local Economic Development (LED) typically starts by analysing the economy of a particular region or municipality, identifying opportunities to enhance its prospects. LED strategies may combine any of the following: business environment reform, value chain development, infrastructure development, innovation and technology policy, planning and/ or skills development. LED programmes often involve local and regional governments, the private sector and civil society in programme design and implementation. LEDknowledge.org is an open access database of publications on Local Economic Development. In addition, the Donor Committee for Enterprise Development has a knowledge page on Local Economic Development and Clusters.
+
+
+=== Public-private partnerships ===
+Many development agencies are now working directly with businesses to deliver development impacts. Such public-private partnerships or public-private development partnerships cover a wide range of activities. A common characteristic of most PPPs is the aim to leverage the development impact of companies’ core business activities. One increasingly common approach is to create a Challenge Fund, whereby companies bid for donor funding, competing to maximise the development impact of the grant money made available. Other PPP programmes assist companies in finding business partners in developing countries, or offer technical support and expertise. Through some PPP programmes, companies can directly contribute to donor and development agencies' development projects. The Donor Committee for Enterprise Development provides a mapping of its member agency PPPs.
+
+
+=== Access to finance ===
+Affordably access to finance is seen by most experts as vital to private enterprises in the developing world. While some development agencies therefore see it as part of Private Sector Development, many treat it as a separate field in its own right.
+
+
+=== Private sector development in conflict-affected environments ===
+Conflict presents unique challenges and unique opportunities for Private Sector Development. One the one hand, conflict disrupts the regular functioning of markets and in their place creates a war economy. PSD practitioners must be sensitive to the impact of their activities on the conflict situation, e.g. effects on the distribution of resources, as well as the impacts that conflict will have on their activities. On the other hand, where it generates job creation and trade, Private Sector Development can play a vital role in peacebuilding.
+
+
+=== Industrial Policy ===
+Industrial policy is broadly defined as selective government intervention to promote a specific economic sector and promote structural change. It may target manufacturing, agricultural or services sectors. If and how donors should promote industrial policy is much debated in development circles.
+
+
+=== Innovation Policy ===
+New or improved are important drivers of competitiveness, growth and employment generation. In the context of private sector development, “innovation is understood as the commercially successful introduction or implementation of a technical or organisational innovation.” Donor agency support to innovation covers a broad range of activities, including the creation of appropriate framework conditions for innovation, and the development of innovative capacities of companies. This may include business advisory and support services, finance and skills development; business incubators and technology extension services, as well as value chain and cluster approaches.
+
+
+=== Private sector development following the financial crisis ===
+For many people, the Global Financial Crisis has raised questions about the ways in which markets should be regulated in order to ensure long-term, sustainable development. At the same time, with many countries now faced with slower growth and higher unemployment, reviving economies by kick-starting the private sector is seen by many as at the heart of a global response.
+
+
+== See also ==
+Aid
+Asian Development Bank
+AusAID
+Canadian International Development Agency
+Corporate governance
+Corporate social responsibility
+Danish International Development Agency
+DFID
+Deutsche Gesellschaft für Internationale Zusammenarbeit
+Dutch Ministry of Foreign Affairs
+Economic Development
+Entrepreneurial ecosystem
+Federal Ministry of Economic Cooperation and Development
+French Development Agency
+Food and Agriculture Organization
+Foreign direct investment
+International Development Research Centre
+International Finance Corporation
+International Fund for Agricultural Development
+International Labour Office
+Ministère des affaires étrangères
+Norwegian Agency for Development Cooperation
+Organisation for Economic Co-operation and Development
+Poverty reduction
+Swedish International Development Cooperation Agency
+United Nations Development Programme
+United Nations Industrial Development Organization
+USAID
+World Bank
+
+
+== External links ==
+The Donor Committee for Enterprise Development (DCED)
+USAID--PSD strategy for Iraq
+PSD projects in Afghanistan, China, Laos
+DFID-Private Sector Development Strategy
+UNDP-Creating Value for All
+Private Sector & Development, PROPARCO's magazine
+
+
+== References ==
+^ See for example DFID, Prosperity for all: making markets work', London: 2008.'
+^ See for example Michael Fairbanks et al, In the River They Swim, Templeton Press
+^ Muaz, Jalil Mohammad (2013), Practical Guidelines for conducting research. Summarising good research practice in line with the DCED Standard
+^ Donor Committee for Enterprise Development, Measuring Results
+^ Miller,H. April 2013, What practical approaches/frameworks are there for effectivelydelivering subsidy to private sector entities for development purposes? Economicand private sector professional evidence and applied knowledge servicesHelpdesk request, http://partnerplatform.org/?gz82am1p
+^ Miller,H. April 2013, What practical approaches/frameworks are there for effectivelydelivering subsidy to private sector entities for development purposes? Economicand private sector professional evidence and applied knowledge servicesHelpdesk request, http://partnerplatform.org/?gz82am1p
+^ Further information on business environment reform programmes can be found at www.Business-Environment.org.
+^ For more information on this topic, visit www.PublicPrivateDialogue.org.
+^ For more information on this topic, visit www.Value-Chains.org.
+^ For more information on this topic, visit www.Value-Chains.org.
+^ Mole, K. F. and Bramley,G. 2006,``Making policy choices in nonfinancial business support: an international comparison Environment and Planning C: Government and Policy vol 24 pp 885 - 905
+^ Bennett R.J. (2008) SME policy support in Britain since the 1990s: what have we learned? Environment and Planning C: Government and Policy, 26(2): 375-397
+^ Mole K.F., Hart M., Roper S., and Saal D. (2011) "Broader or Deeper? Exploring the most effective intervention profile for public small business support" Environment and Planning A 43(1) 87 – 105
+^ Springfield Centre. (2008) A Synthesis of the Making Markets Work for the Poor Approach', Bern: Swiss Agency for Development and Cooperation, October 2008;Swedish International Development Cooperation Agency, Making Markets Work for the Poor: Challenges to Sida’s Support for Private Sector Development, Stockholm: October 2003
+^ Donor Committee for Enterprise Development, Green Growth
+^ International Labour Organisation, Towards decent work in a sustainable, low-carbon world, Geneva:ILO, 2008.
+^ Some examples of development agencies' policies and initiatives related to Women's Entrepreneurship Development can be found here
+^ International Labour Organization website, Local Economic Development
+^ The multi-donor Africa Enterprise Challenge Fund provides one such example.
+^ DCED directory of public-private partnership programmes, categorised by different types of support, target regions and countries
+^ "Partnership Mechanisms of DCED Member Agencies" DCED. Retrieved 28/03/2012.
+^ Dr Naoise MacSweeney, Private Sector Development in Conflict-Affected Environments: A Review of Current Literature and Practice, Cambridge, UK: DCED, 2008.
+^ e.g. Pagg and Saggi (2006) The case for industrial policy: A critical survey
+^ DCED: Five major debates in Industrial Policy
+^ BMZ Working Group on Promoting Innovation Systems
+^ e.g.World Bank (2010): Innovation policy. A guide for developing countries and GTZ (2009):Innovation and Technology Policy in the Context of Technical Cooperation

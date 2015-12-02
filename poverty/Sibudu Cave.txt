@@ -1,0 +1,65 @@
+Sibudu Cave is a rock shelter in a sandstone cliff in northern KwaZulu-Natal, South Africa. It is an important Middle Stone Age site occupied, with some gaps, from 77,000 years ago to 38,000 years ago.
+Evidence of some of the earliest examples of modern human technology has been found in the shelter (although the earliest known spears date back 400,000 years). The evidence in the shelter includes the earliest bone arrow (61,000 years old), the earliest needle (61,000 years old), the earliest use of heat-treated mixed compound gluing (72,000 years ago), and the earliest example of the use of bedding (77,000 years ago).
+The use of glues and bedding are of particular interest, because the complexity of their creation and processing has been presented as evidence of continuity between early human cognition and that of modern humans.
+
+
+== Description ==
+Sibudu Cave is a rock shelter, located roughly 40 km (25 mi) north of the city of Durban and about 15 km (9 mi) inland, near the town of Tongaat. It is in a steep, forested cliff facing WSW that overlooks the Tongati River in an area that is now a sugar cane plantation. The shelter was formed by erosional downcutting of the Tongati River, which now lies 10 m (33 ft) below the shelter. Its floor is 55 m (180 ft) long, and about 18 m (59 ft) in width. It has a large collection of Middle Stone Age deposits that are well preserved organically and accurately dated using optically stimulated luminescence.
+The first excavations following its discovery in 1983 were carried out by Aron Mazel of the Natal Museum (unpublished work). Lyn Wadley of the University of the Witwatersrand started renewed excavations in September 1998.
+
+
+== Occupation ==
+The occupations at Sibudu are divided into pre-Still Bay, Still Bay (72,000–71,000 BP), Howiesons Poort (before 61,000 BP), post-Howiesons Poort (58,500 BP), late (47,700 BP), and final Middle Stone Age phases (38,600 BP). There were occupation gaps of approximately 10,000 years between the post-Howiesons Poort and the late Middle Stone Age stage, and the late and final Middle Stone periods. There was no Late Stone Age occupation, although there was a 1,000 BP Iron Age occupation.
+Evidence suggests these were dry periods and the shelter was occupied only during wet climatic conditions.
+
+
+== Technology ==
+The pre-Still Bay occupation had a lithic flake-based industry and made few tools. The Still Bay occupation, in addition to such flakes, made bifacial tools and points . Trace use analysis on the tips of the points finds evidence of compound adhesives on their bases where they would once have been hafted to shafts.
+Various examples of early human technology have been found:
+A bone point, a possible arrowhead that pushes back the origin of bow and bone arrow technology to 61,000 BP, at least 20,000 years beyond the previous earliest example;
+The earliest known bone needle, dated to 61,000 BP, with wear similar to that found in bone needles used to puncture animal hide;
+The earliest example of a compound glue (plant gum and red ochre), used for hafting stone points into wood handles to create spears—-dated no later than 71,000 BP; and
+Shell beads, although of a more recent date than those found at Blombos cave (71,000 BP for the Sibudu beads, versus 75,000 BP for those at Blombos);
+The earliest example of the use of bedding, dating back to approximately 77,000 years ago, 50,000 years earlier than records elsewhere else.
+The plant bedding consisted of sedge and other monocotyledons topped with aromatic leaves containing natural insecticidal and larvicidal chemicals. The leaves were all from Cryptocarya woodii Engl. which, when crushed, are aromatic and contain traces of α-pyrones, cryptofolione, and goniothalamin, chemicals that have insecticidal and larvicidal properties against, for example, mosquitoes. Cryptocarya species are still used extensively as traditional medicines.
+Howiesons Poort occupation manufactured blade tools. These blades are shaped like the segment of an orange, with a sharp cutting edge on the straight lateral and an intentionally blunted and curved back. These were attached to shafts or handles by means of ochre and plant adhesive or alternatively fat mixed with plant material. Segments often were made with a cutting edge along their entire length, which requires that they be attached to their hafts without twine and so, calls for particularly strong adhesive glue.
+Points were used in the period after the Howiesons Poort for hunting weapons, such as the tips of spears. Use–trace analysis suggests that many of these points were hafted with ochre-loaded adhesives.
+
+
+== Cognitive archaeology ==
+The replication of shafted tool manufacture using only methods and materials available at Sibudu, has enabled the identification of the complexity of the thought processes that it required. The stone spear was embedded in the wood using a compound adhesive made up of plant gum, red ochre, and to aid the workability, possibly a small amount of beeswax, coarse particles, or fat. This preliminary mixture had to have the correct ingredient proportions and then, before shafting, undergo a controlled heat treatment stage. This heating had to avoid boiling or dehydrating the mixture too much, otherwise it would weaken the resulting mastic. The maker also had to reduce its acidity. By experimentally recreating the creation of this adhesive, researchers concluded that the Middle Stone Age (MSA) humans at Sibudu would have required the multilevel mental operations and abstract thought capabilities of modern people to do this.
+
+Artisans living in the MSA must have been able to think in abstract terms about properties of plant gums and natural iron products, even though they lacked empirical means for gauging them. Qualities of gum, such as wet, sticky, and viscous, were mentally abstracted, and these meanings counterpoised against ochre properties, such as dry, loose, and dehydrating. Simultaneously, the artisan had to think about the correct position for placing stone inserts on the shafts.... Although fully modern behaviour is recognizable relatively late in the MSA, the circumstantial evidence provided here implies that people who made compound adhesives in the MSA shared at least some advanced behaviors with their modern successors.p. 9593.
+
+In a commentary upon this research it has been suggested that instead of focusing upon language, with
+
+activities that tax reasoning ability and are also visible archaeologically, such as shafting, archaeologists are in a better position to contribute to an understanding of the evolution of the modern mind.p. 9545.
+
+Some of these hafted points might have been launched from bows. While "most attributes such as micro-residue distribution patterns and micro-wear will develop similarly on points used to tip spears, darts or arrows" and "explicit tests for distinctions between thrown spears and projected arrows have not yet been conducted" the researchers find "contextual support" for the use of these points on arrows: a broad range of animals were hunted, with an emphasis on taxa that prefer closed forested niches, including fast moving, terrestrial and arboreal animals. This is an argument for the use of traps, perhaps including snares. If snares were used, the use of cords and knots, which also would have been adequate for the production of bows, is implied. The employment of snares also would demonstrate a practical understanding of the latent energy stored in bent branches, the main principle of bow construction.
+The use of Cryptocarya leaves in bedding indicates that early use of herbal medicines may have awarded selective advantages to humans, and the use of such plants implies a new dimension to the behaviour of early humans at this time.
+
+
+== Interrupted technological development ==
+Artifacts such as piecing needles, arrows, and shell beads  at Sibudu and elsewhere occur in a pattern whereby innovations are not further and progressively developed, but arise and then disappear. For instance, the shell beads occur in the Still Bay layers, but are absent from the Howiesons Poort ones, in Sibudu and elsewhere. This challenges the idea that the early development of technology by early humans was a process of accumulation of improvements. In discussing the findings of artefacts at Sibudu researchers have commented that they:
+
+can hardly be used to support the "classic" out of Africa scenario, which predicts increasing complexity and accretion of innovations during the MSA, determined by biological change. Instead, they appear, disappear, and re-appear in a way that best fits a scenario in which historical contingencies and environmental, rather than cognitive, changes are seen as main drivers.p. 1577.
+
+The idea that environmental change was responsible for this pattern has been questioned, and instead it has been suggested that the driving factors were changes in the social networks related to changes in population density.
+
+
+== See also ==
+Howieson's Poort Shelter
+Klasies River Caves
+List of caves in South Africa
+Modern behaviour
+Timeline of evolution
+Timeline of historic inventions
+Lyn Wadley
+
+
+== References ==
+
+
+== External links ==
+Little arrow that rewrites history books
+Sibudu Cave (South Africa)

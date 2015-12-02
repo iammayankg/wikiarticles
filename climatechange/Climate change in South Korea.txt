@@ -1,0 +1,89 @@
+In recent decades most countries have been experiencing huge industrial progress. Urban and industrial areas in South Korea also had fast development from 1960s to 1980s. Industrialization and the increase in population have produced various pollutants and greenhouse gases, which are anthropogenic factors for climate change. South Korea is experiencing changes in climate parameters, including annual temperature, rainfall amounts, and precipitation. The most distinct climate change predicted for South Korea is an increase in the range of temperature fluctuation throughout the four seasons. The number of record minimum temperature days has decreased rapidly, and maximum precipitation during the summer has increased. Ongoing global climate change has produced local climate changes and extreme weather that affects: social, economy, industry, culture, and many other sectors. The increased possibility for new types of strong weather damage evokes the seriousness and the urgency of climate change. To quickly adapt to climate change, the South Korean government began an effort to reduce greenhouse gas emissions, and is one step closer to having a low-carbon based socio-economic nation.
+
+
+== Climate Change ==
+
+
+=== Precipitation increase ===
+Seoul, capital city of South Korea, has 227 years of precipitation records Cheugugi, which is the longest continual instrumental rainfall collection in the world. The record of daily precipitation provides a high-resolution dataset for detecting the singularity of extreme weather events and the multiple decades of precipitation variability. The Cheugugi observed precipitation from year 1778 to 1907, and modern observation equipment was developed and has been used since 1908. Comparing the Cheugugi period and the modern period, the modern period shows a significant increase in mean rainfall rate. For example, statistic data for summer precipitation at Cheugugi period is 861.8 mm whereas that for the modern period mean is 946.5 mm.
+As the amount of rainfall in the last 10 years has increased because of the number of heavy rain and torrential rain events having increased in frequency, the risk of heavy rain has become much higher on the southern part of peninsula than the central region of the Korea peninsula. A large amount of water vapor entering the southern part of the peninsula (Southern coast, Jeju Island) flows into the Yellow Sea in summer and creates a high frequency of torrential rains. On the other hand, the east coast shows a low torrential rain frequency. As of 1990, over the past 20 years and over the most recent 20 years the torrential rain frequency data show a 25% increase in torrential rain watches and a 60% increase in heavy rain warnings.
+
+
+=== Changes in precipitation ===
+The tropical rain belt ‘Changma front’ is created in the Bay of Bengal and the western North Pacific as a sub-system of East Asian Monsoon. The northward movement of the ‘Changma front’ is influenced by the development of the subtropical ridge. This northward moving quasi-stationary front is called 'Changma' in South Korea, which represents the main precipitation period. The ‘Changma front’ takes about 4 to 5 weeks to go through the Korea Peninsula. This slow movement results in a large, but steady, amount of summer rainfall over the entire Korea Peninsula in late June and July each year. In recent years, the ‘Changma front’ tended to move quickly, taking less than 3 weeks to go through the Korea Peninsula while pouring down heavy rain showers, along with various sizes of storms from late July to early August. It means that we are having more extreme weather and localized heavy rain occurring after ‘Changma’. The dynamics of the ‘Changma’ rains in the early summer, which derive from baroclinic disturbances that are strongly modified by latent heat release, remain poorly understood. While an increase in rainfall in the absence of the monsoonal circulation shifts is expected, relatively modest shifts or changes in timing can significantly affect East Chinese, Korean and Japanese climates.
+
+
+=== Temperature increases ===
+Since 1999, the Korea Global Atmosphere Watch Center located at Anmyeon-do has been monitoring major greenhouse gasses (GHG) such as carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), and chlorofluorocarbons (CFC-11 and CFC-12). The Anmyeon-do station is located in a relatively pollution-free environment, an ideal site for observing the background atmosphere of Northeast Asia, including the Korean Peninsula. Among these GHG, CO2 acts most to change many aspects of the climate factors. The CO2 concentrations at Anmyeon-do are substantially higher than the global average; the average CO2 concentration for 2011 was recorded as 395.7 ppm, an increase of 25.0 ppm (6.7%) relative to the annual average of 370.7 ppm for 1999, and 5.2 ppm higher than the global average of 390.5 ppm for the same year as documented by NOAA/GMD. The annual growth rate of CO2 for the 13-year period from 1999 through 2011 was 2.16 ppm/year, which was higher than the global average of 1.9 ppm/year, but it has slowed in recent years. During the industrialization era (second industrial revolution) over the past few decades, people have been burning fossil fuels (coal, oil, gasoline, natural gas), which releases CO2 into the atmosphere, causing the greenhouse effect. A sharp temperature contrast is shown between the urban and rural areas due to this industrialization. The mean temperatures data variations observed at ten meteorological stations in South Korea show an annual mean temperature increase at a rate of 0.52 °C per decade. During the last 29 years, the increase in the annual mean temperature was 1.5 °C for the Seoul station (found in an urban area) and 0.6 °C for the rural and seashore stations. These rate differences are significantly larger over urbanized areas. South Korea is experiencing a rapid temperature increase,increase Daily maximum and minimum temperatures are very likely to increase in East Asia, resulting in more severe warm extremes, but less severe cold extremes. These mean temperature increases, especially the temperature increase rate after the 1950s is 1.5 times higher than before the 1950s. The duration of winter is also projected to be a one-month shorter than before, therefore having spring and summer will be 20 days longer more during the 1990s compared to what they were during the 1920s seasonal distribution. When average temperature comparison for comparing 20th-century and 21st-century temperature averages, it is shown that there is a 4 °C increase. The mean yearly temperature for South Korea is 10~15 °C, which means that the Korea Peninsula will soon become a subtropical region with an average temperature of over 27 °C. The recent subtropical zone is located on the lower seaside of Korea Peninsula, but as accelerated temperatures increase, it will result in the subtropical zone move migrating northward. Therefore, by 2100 the subtropical zone is projected to expand its region to the north end of Taebaek Mountains.
+
+
+== Climate Change and Justice in Korea ==
+Just like other countries, Korea cannot evade from the effect of climate change. Increase of flooding and typhoon, and damage from them is significant in recent few decades. We can point out carbon emission as one of causations of climate change. However, the problem is that the distribution of burden (eg.damage) from climate change is unequal.
+
+
+=== Natural disaster : Flooding and Typhoon ===
+The damage on properties and loss of lives caused by natural disaster are a typical impact of climate change. Because of this point, decreasing the natural disaster is one of main goals for many nations which tries to adjust in climate change. Increase in frequency of flooding, typhoon or hurricane intensity results in steady increase of number of large scale natural disaster, and damage for those. South Korea is not an exception. Especially, damage for flooding and typhoon is significant.
+
+
+=== Is natural disaster really natural? ===
+Environmental geographers argue that there is no such thing as a natural disaster. In every part of a disaster, including causation and vulnerability, the contours of disaster and the safety level of each citizens is closely related to a social aspect of them. When discussing causation, people cannot deny the naturalness of disasters. Disasters including droughts, hurricanes, tsunamis and earthquakes are certainly natural events. However, whether natural events turn out to be a disaster or not, depends on the location, and extent of pollution. Same intensity of two hurricanes, which one of them is placed in unpopulated area and one of them in big metropolitan, will show significant difference of damage intensity as a result. Also, the causation of natural events are not detached from the social, since the carbon emission is a major factor of dramatic warming. Hurricane Katrina is a great example. Next one is Vulnerability. A main point, is that some people are much more vulnerable than others. Briefly, rich people tend to take higher chance to survive from disasters, while poor and working class is more vulnerable to them
+
+
+=== Korean Industry distribution, and damage density of natural disaster ===
+According to the map of industry distribution in Korea, it is noticeable that north-east part of the Korea does not have significant industry. High-tech, heavy and IT industries are placed near the capital, or more close to the sea in the south of Korea. Unlike the industry distribution density, according to the map of damage from natural disaster, the damage is the most dense in the north-east part of the Korea.
+
+
+== Response to climate change ==
+
+
+=== Government response: Carbon tax ===
+Even though Korea is not a mandatory country to start carbon tax policy, The government is anticipating a carbon tax policy to prepare for the future trend of the carbon marketplace.
+They released a carbon reduction policy to reduce 30% of Business-as-usual (BAU) carbon production until the year 2020. Having a carbon tax is going to increase the burden on Korean companies that are highly dependent on manufacturing which emits a lot of carbon dioxide. Also, it will eventually increase the production cost, resulting in South Korean companies to becoming less competitive then than other global companies. Therefore, Korean companies are now investing in developing new technology that will effectively reduce CO_2 while also constructing a cooperation agreement to share its new technologies and reinforce its eco-friendly campaign. Green IT is a response to climate change and energy savings that will solve the pending issues between the other countries involved in the campaign. Therefore, countrywide comprehensive and systematic policy formulation and project implementation is needed. The South Korean government will require more practical comprehensive measures that will contribute to Green IT industry.
+
+
+=== Company response: Green IT industry ===
+A new Korean Government IT strategy project is projected to have a 20% increase in green IT and IT product by 2012  by the Ministry of Knowledge and Economy. Meanwhile, the Ministry of Public Administration and Security have already started a computational center for green energy-saving and have formulated a comprehensive plan to promote the 'energy-saving'. Through professional organizations comprehensive energy-saving, environmental protection, and budget savings procedures are in progress for energy diagnostic purposes. In addition to what has already been discussed the plan for idle shut-off, demolition equipment, and main contents as ' a green-based computational center for environmental improvement plans ' will also go ahead as scheduled.
+
+
+== See also ==
+Wikipedia, Climate Justice
+Wikipedia, Environmental Justice
+Wikipedia, Social Justice
+Wikipedia, Pollution
+Wikipedia, Social Inequality
+Wikipedia, Climate change
+Wikipedia, Global warming
+
+
+== References ==
+
+김정은, 윤원태, 조경숙, 문자연, 2007: 한반도기후변화특성, 한국기상학회., 10, 472-473
+김기종, 2008: 친환경그린IT 현황및시사점: IT 서비스업을중심으로. 산업은행경제연구소, 29p.
+KT경제경영연구소, 2009: 저탄소녹색성장을위한그린IT의비전과전략. KT 경제경영연구소. 59p.
+기획재정부, 2009: 신성장동력비전및발전전략. 기획재정부리포트., 73p.
+서경환, 손준혁, 이준이, 2011: 장마의 재조명, 한국기상학회지. http://climate.atmos.pusan.ac.kr/publications/paper/005_DJ_A_New_Look_at_Changma.pdf
+서경환, 이준이, 2011: 장마백서. 한국기상청.,268p
+SK텔레콤, 2012: SK텔레콤의 2011 지속가능성보고서. SK텔레콤., 60p.
+양용석, 2010: 기후변화와정보통신산업의상관관계: 그린 IT를주임으로. 기상기술정책., 3, 85-99
+국토환경정보센터,국토환경지식정보
+
+
+== Further reading ==
+Agriculture Sciences Seoul National University ., 2010: Korea Forestry and Fisheries Industry and technology R&D trend analyze survey. IPET Publishing, 47pp.
+Jiang, D.B., H.J. Wang., and X.M. Lang., 2004: East Asian Climate Change Trend under Global Warming Background. Chinese Journal of Geophysics., 47, 675-681.
+Kwon, W.-T., 2011: Climate Change Scenario Report 2011 for the corresponding IPCC fifth Assessment Report. NIMR, 117pp.
+Lee, S.H., 2010: Projection of Climate Change Effects on the Potential Distribution of Endemic Genera in Korea. Chungnam National University Graduate School, 99pp.
+OECD., 2012: OECD Environmental Outlook to 2050: The Consequences of Inaction. OECD Publishing, 89pp.
+Richard, S.J., 2002: Estimates of the Damage Cost of Climate Change. Environmental and Resource Economics., 21, 47-73
+Lee, H.K., 2009: Internal and External Green IT Marketplace Trend & Prospect. The Federation of Korea Information Industries.,251, 30-33
+
+
+== External links ==
+Korea Meteorological Administration http://web.kma.go.kr/eng/biz/climate_01.jsp
+Climate Change Research Institute of Korea http://www.crik.re.kr/
+Korea Climate Change & Energy Institute http://www.kce.re.kr/
+Climate Change Information Center http://www.climate.go.kr/index.html
+Korea Research Institute of Climate Change Countermeasures Strategies http://www.kricccs.com/detail.php?number=682&thread=22r03r01
+NOAA/GMD global CO_2CO2 rate *http://www.esrl.noaa.gov/gmd/ccgg/trends/global.html
+http://www.greenpostkorea.co.kr/news/articleView.html?idxno=16513
+http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=038&aid=0000376835

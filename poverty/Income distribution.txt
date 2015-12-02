@@ -1,0 +1,62 @@
+In economics, income distribution is how a nation’s total GDP is distributed amongst its population.
+Income and its distribution have always been a central concern of economic theory and economic policy. Classical economists such as Adam Smith, Thomas Malthus and David Ricardo were mainly concerned with factor income distribution, that is, the distribution of income between the main factors of production, land, labour and capital.
+Modern economists have also addressed this issue, but have been more concerned with the distribution of income across individuals and households. Important theoretical and policy concerns include the relationship between income inequality and economic growth.
+The distribution of income within a society may be represented by the Lorenz curve. The Lorenz curve is closely associated with measures of income inequality, such as the Gini coefficient.
+
+
+== Measurement ==
+
+The concept of inequality is distinct from that of poverty and fairness. Income inequality metrics (or income distribution metrics) are used by social scientists to measure the distribution of income, and economic inequality among the participants in a particular economy, such as that of a specific country or of the world in general. While different theories may try to explain how income inequality comes about, income inequality metrics simply provide a system of measurement used to determine the dispersion of incomes.
+
+
+== Causes ==
+
+Causes of income inequality and of levels of equality/inequality include: tax policies, other economic policies, labor union policies, monetary policies, the market for labor, abilities of individual workers, technology and automation, education, globalization, gender, race, and culture.
+
+
+== Distribution measurement internationally ==
+
+Using Gini coefficients, several organizations, such as the United Nations (UN) and the US Central Intelligence Agency (CIA), have measured income inequality by country.
+
+
+== Trends ==
+
+Standard economic theory stipulates that inequality tends to increase over time as a country develops, and to decrease as a certain average income is attained. This theory is commonly known as the Kuznets curve after Simon Kuznets. However, many prominent economists disagree with the need for inequality to increase as a country develops. Further, empirical data on the proclaimed subsequent decrease of inequality is conflicting.
+There are two ways of looking at income inequality, within country inequality (intra-country inequality) – which is inequality within a nation; or between country inequality (inter-country inequality) which is inequality between countries.
+According to intra-country inequality at least in the OECD countries, a May 2011 report by OECD stated that the gap between rich and poor within OECD countries (most of which are "high income" economies) "has reached its highest level for over 30 years, and governments must act quickly to tackle inequality".
+Furthermore, increased inter-country income inequality over a long period is conclusive, with the Gini coefficient (using PPP exchange rate, unweighted by population) more than doubling between 1820 and the 1980s from .20 to .52 (Nolan 2009:63). However, scholars disagree about whether inter-country income inequality has increased (Milanovic 2011), remained relatively stable (Bourguignon and Morrison 2002), or decreased (Sala-i-Martin, 2002) since 1980. What Milanovic (2005)  calls the “mother of all inequality disputes” emphasizes this debate by using the same data on Gini coefficient from 1950–2000 and showing that when countries’ GDP per capita incomes are unweighted by population income inequality increases, but when they are weighted inequality decreases. This has much to do with the recent average income rise in China and to some extent India, who represent almost two-fifths of the world. Notwithstanding, inter-country inequality is significant, for instance as a group the bottom 5% of US income distribution receives more income than over 68 percent of the world, and of the 60 million people that make up the top 1% of income distribution, 50 million of them are citizens of Western Europe, North America or Oceania (Milanovic 2011:116,156).
+In a TED presentation shown here, Hans Rosling presented the distribution and change in income distribution of various nations over the course of a few decades along with other factors such as child survival and fertility rate.
+
+
+== Income distribution in different countries ==
+
+
+=== Income distribution in the United States ===
+
+In the United States, income has become distributed more unequally over the past 30 years, with those in the top quintile (20%) earning more than the bottom 80% combined.
+
+
+== See also ==
+
+Affluence in the United States
+Galor-Zeira Model
+Kinetic exchange models of markets
+Median household income
+Personal income in the United States
+Poverty in the United States
+Redistribution of wealth
+Wealth distribution
+
+
+== References ==
+
+
+== Further reading ==
+Levy, Frank (2008). "Distribution of Income". In David R. Henderson (ed.). Concise Encyclopedia of Economics (2nd ed.). Indianapolis: Library of Economics and Liberty. ISBN 978-0865976658. OCLC 237794267. 
+
+
+== External links ==
+The World Top Income Database by Anthony Atkinson, Thomas Piketty, Emmanuel Saez, Facundo Alvaredo
+The Polarization of the U.S. Labor Market, economics.harvard.edu
+INTERNATIONAL MONETARY FUND Research Department. Inequality and Unsustainable Growth: Two Sides of the Same Coin? Prepared by Andrew G. Berg and Jonathan D. Ostry1
+The Chartbook of Income Inequality from INET at the University of Oxford by Anthony Atkinson, Salvatore Morelli, and Max Roser. (This source presents data about long-run changes in the income distribution for 25 countries over the course of more than one hundred years.)

@@ -1,0 +1,39 @@
+The Indian Ocean Dipole (IOD), also known as the Indian Niño, is an irregular oscillation of sea-surface temperatures in which the western Indian Ocean becomes alternately warmer and then colder than the eastern part of the ocean.
+
+
+== The phenomenon ==
+The IOD involves an aperiodic oscillation of sea-surface temperatures, between "positive", "neutral" and "negative" phases. A positive phase sees greater-than-average sea-surface temperatures and greater precipitation in the western Indian Ocean region, with a corresponding cooling of waters in the eastern Indian Ocean—which tends to cause droughts in adjacent land areas of Indonesia and Australia. The negative phase of the IOD brings about the opposite conditions, with warmer water and greater precipitation in the eastern Indian Ocean, and cooler and drier conditions in the west.
+The IOD also affects the strength of monsoons over the Indian subcontinent. A significant positive IOD occurred in 1997–8, with another in 2006. The IOD is one aspect of the general cycle of global climate, interacting with similar phenomena like the El Niño-Southern Oscillation (ENSO) in the Pacific Ocean.
+The IOD phenomenon was first identified by climate researchers in 1999. Yet evidence from fossil coral reefs demonstrates that the IOD has functioned since at least the middle of the Holocene period, 6500 years ago.
+An average of four each positive/negative IOD events occur during each 30-year period with each event lasting around six months. However, there have been 12 positive IODs since 1980 and no negative events from 1992 until a strong negative event in late 2010. The occurrence of consecutive positive IOD events are extremely rare with only two such events recorded, 1913–1914 and the three consecutive events from 2006–2008 which preceded the Black Saturday bushfires. Modelling suggests that consecutive positive events could be expected to occur twice over a 1,000 year period. The positive IOD in 2007 evolved together with La Niña which is a very rare phenomenon that has happened only once in the available historical records (in 1967). A strong negative IOD developed in October 2010, which, coupled with a strong and concurrent La Niña, caused the 2010–2011 Queensland floods and the 2011 Victorian floods.
+In 2008, Dr Nerilie Abram used coral records from the eastern and western Indian Ocean to construct a coral Dipole Mode Index extending back to 1846AD. This extended perspective on IOD behaviour suggested that positive IOD events increased in strength and frequency during the 20th century.
+
+
+== Effect on Australian Droughts ==
+A 2009 study by Ummenhofer et al. at the University of New South Wales (UNSW) Climate Change Research Centre, has demonstrated a significant correlation between the IOD and drought in the southern half of Australia, in particular the south-east. Every major southern drought since 1889 has coincided with positive/neutral IOD fluctuations including the 1895–1902, 1937–1945 and the 1995-2009 droughts.
+The research shows that when the IOD is in its negative phase, with cool Indian Ocean water west of Australia and warm Timor Sea water to the north, winds are generated that pick up moisture from the ocean and then sweep down towards southern Australia to deliver higher rainfall. In the IOD positive phase, the pattern of ocean temperatures is reversed, weakening the winds and reducing the amount of moisture picked up and transported across Australia. The consequence is that rainfall in the south-east is well below average during periods of a positive IOD.
+The study also shows that the IOD has a much more significant effect on the rainfall patterns in south-east Australia than the El Niño-Southern Oscillation (ENSO) in the Pacific Ocean as already shown in several recent studies.
+
+
+== See also ==
+Arctic dipole anomaly
+Monsoon
+
+
+== References ==
+
+
+== Further reading ==
+Abram, Nerilie J.; et al. (2007). "Seasonal characteristics of the Indian Ocean dipole during the Holocene epoch". Nature 445 (7125): 299–302. Bibcode:2007Natur.445..299A. doi:10.1038/nature05477. PMID 17230187. 
+Ashok, Karumuri; Guan, Zhaoyong; Yamagata, Toshio (2001). "Impact of the Indian Ocean Dipole on the Relationship between the Indian Monsoon Rainfall and ENSO". Geophysical Research Letters 28 (23): 4499–4502. Bibcode:2001GeoRL..28.4499A. doi:10.1029/2001GL013294. 
+Li, Tim; et al. (2003). "A Theory for the Indian Ocean Dipole–Zonal Mode". Journal of the Atmospheric Sciences 60 (17): 2119–35. Bibcode:2003JAtS...60.2119L. doi:10.1175/1520-0469(2003)060<2119:ATFTIO>2.0.CO;2. 
+Rao, S. A.; et al. (2002). "Interannual variability in the subsurface Indian Ocean with special emphasis on the Indian Ocean Dipole". Deep Sea Research-II 49 (7–8): 1549–72. Bibcode:2002DSR....49.1549R. doi:10.1016/S0967-0645(01)00158-8. 
+Saji, N. H.; et al. (1999). "A dipole mode in the tropical Indian Ocean". Nature 401 (6751): 360–3. doi:10.1038/43854. PMID 16862108. 
+Behera, S. K.; et al. (2008). "Unusual IOD event of 2007". Geophysical Research Letters 35 (14): L14S11. Bibcode:2008GeoRL..3514S11B. doi:10.1029/2008GL034122. 
+
+
+== External links ==
+IOD home page.
+IOD, monsoons, and ENSO.
+Indian Ocean causes Big Dry: drought mystery solved.
+Animation of Indian Ocean Dipole in Victoria, Australia

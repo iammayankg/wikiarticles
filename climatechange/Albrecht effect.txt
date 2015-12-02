@@ -1,0 +1,13 @@
+The Albrecht effect describes how cloud condensation nuclei (CCN), possibly from anthropogenic pollution, may increase cloud lifetime and hence increase the amount of solar radiation reflected from clouds. Because it does not directly interact with incoming or outgoing radiation, it has an indirect effect on climate.
+Aerosol particles act as CCNs creating more droplets of a smaller size. These take more time to coalesce to raindrop size (>100μm), reducing precipitation efficiency and hence increasing the lifetime of the cloud. The increased scattering of incoming radiation leads to a cooling of -0.3 to -1.4 Wm−2. This effect is not as well understood as the Twomey effect.
+There are many other effects, indirect and semi-direct aerosol effects resulting in a large uncertainty in the radiative forcing due to aerosols.
+
+
+== See also ==
+Particulates and soot
+
+
+== References ==
+
+
+== Bibliography ==

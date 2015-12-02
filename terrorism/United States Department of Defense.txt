@@ -1,0 +1,129 @@
+The Department of Defense (DoD, USDOD, or DOD) is an executive branch department of the federal government of the United States charged with coordinating and supervising all agencies and functions of the government concerned directly with national security and the United States Armed Forces. The Department is also the largest employer in the world, with more than 2.13 million active duty servicemen and women as well as their support staff of civilian workers. Adding to the total is over 1.1 million National Guardsmen and Reservists from the four services, bringing the total to just over 3.2 million employees.
+The Department of Defense is headed by the Secretary of Defense, a cabinet-level head who reports directly to the President of the United States. Beneath the Department of Defense are three subordinate military departments: the United States Department of the Army, the United States Department of the Navy, and the United States Department of the Air Force. In addition, four national intelligence services are subordinate to the Department of Defense: the Defense Intelligence Agency (DIA), the National Security Agency (NSA), the National Geospatial-Intelligence Agency (NGA), and the National Reconnaissance Office (NRO). Other Defense Agencies include the Defense Advanced Research Projects Agency (DARPA), the Defense Logistics Agency (DLA), the Missile Defense Agency (MDA), Defense Threat Reduction Agency (DTRA), and the Pentagon Force Protection Agency (PFPA), all of which are under the command of the Secretary of Defense. Military operations are managed by nine regional or functional Unified Combatant Commands. The Department of Defense also operates several joint services schools, including the National Defense University (NDU) and the National War College (NWC).
+
+
+== History ==
+
+The history of the defense of the United States started with the Continental Congress in 1775. The creation of the United States Army was enacted on 14 June 1775. This coincides with the American holiday Flag Day. The Second Continental Congress would charter the United States Navy, on 13 October 1775, and create the United States Marine Corps on 10 November 1775. Today, both the Navy and the Marine Corps are separate military services subordinate to the Department of the Navy.
+
+
+=== The War Department ===
+
+The Preamble of the United States Constitution gave the authority to federal government, to defend its citizens:
+
+The first Congress was seated on 4 March 1789. This first Congress had a huge agenda, that of creating legislation to build a government for the ages. Legislation to create a military defense force went stagnate. Two separate times, President George Washington went to Congress to remind them of their duty to establish a military. Finally, on the last day of the session, 29 September 1789, Congress created the historic forerunner of the Department of Defense: the War Department.
+
+
+=== National Military Establishment ===
+After the end of World War II, President Harry Truman proposed creation of a unified department of national defense. In a special message to Congress on 19 December 1945, the President cited both wasteful military spending and inter-departmental conflicts. Deliberations in Congress went on for months focusing heavily on the role of the military in society and the threat of granting too much military power to the executive.
+
+On 26 July 1947, Truman signed the National Security Act of 1947, which set up a unified military command known as the "National Military Establishment", as well as creating the Central Intelligence Agency, the National Security Council, National Security Resources Board, United States Air Force (formerly the Army Air Forces) and the Joint Chiefs of Staff. The act placed the National Military Establishment under the control of a single Secretary of Defense. The National Military Establishment formally began operations on 18 September, the day after the Senate confirmed James V. Forrestal as the first Secretary of Defense. The National Military Establishment was renamed the "Department of Defense" on 10 August 1949, in an amendment to the original 1947 law.
+Under the Department of Defense Reorganization Act of 1958 (Pub.L. 85–899), channels of authority within the department were streamlined, while still maintaining the authority of the Military Departments. Also provided in this legislation was a centralized research authority, the Advanced Research Projects Agency, eventually known as DARPA. The Act moved decision-making authority from the Military Departments to the Joint Chiefs of Staff and the Secretary of Defense. It also strengthened the command channel of the military over U.S. forces from the President to the Secretary of Defense. Written and promoted by the Eisenhower administration, it was signed into law 6 August 1958.
+
+
+== Organizational structure ==
+
+The Secretary of Defense, appointed by the President with the advice and consent of the Senate, is by federal law (10 U.S.C. § 113) the head of the Department of Defense, "the principal assistant to the President in all matters relating to Department of Defense", and has "authority, direction and control over the Department of Defense". Because the Constitution vests all military authority in Congress and the President, the statutory authority of the Secretary of Defense is derived from their constitutional authorities. Since it is impractical for either Congress or the President to participate in every piece of Department of Defense affairs, the Secretary of Defense, and the Secretary's subordinate officials generally exercise military authority.
+The Department of Defense is composed of the Office of the Secretary of Defense (OSD), the Joint Chiefs of Staff (JCS) and the Joint Staff (JS), Office of the Inspector General (DODIG), the Combatant Commands, the Military Departments (Department of the Army (DA), Department of the Navy (DON) & Department of the Air Force (DAF)), the Defense Agencies and Department of Defense Field Activities, the National Guard Bureau (NGB), and such other offices, agencies, activities, organizations, and commands established or designated by law, or by the President or by the Secretary of Defense.
+Department of Defense Directive 5100.01 describes the organizational relationships within the Department, and is the foundational issuance for delineating the major functions of the Department. The latest version, signed by former Secretary of Defense Robert Gates in December 2010, is the first major re-write since 1987.
+
+
+=== Office of the Secretary of Defense ===
+
+The Office of the Secretary of Defense (OSD) is the Secretary and Deputy Secretary's (mainly) civilian staff.
+OSD is the principal staff element of the Secretary of Defense in the exercise of policy development, planning, resource management, fiscal and program evaluation and oversight, and interface and exchange with other U.S. Government departments and agencies, foreign governments, and international organizations, through formal and informal processes. OSD also performs oversight and management of the Defense Agencies and Department of Defense Field Activities.
+
+
+==== Defense Agencies ====
+OSD also supervises the following Defense Agencies:
+
+
+==== National Intelligence Agencies ====
+Several defense agencies are members of the United States Intelligence Community. These are national-level intelligence services that operate under the jurisdiction of the Department of Defense but simultaneously fall under the authorities of the Director of National Intelligence. They fulfill the requirements of national policy makers and war planners, serve as Combat Support Agencies, and also assist non-Department of Defense intelligence or law enforcement services such as the Central Intelligence Agency and the Federal Bureau of Investigation.
+The military services each have their own intelligence elements which are distinct from but subject to coordination by the national intelligence agencies under the Department of Defense. Department of Defense manages the nation's coordinating authorities and assets in the disciplines of signals intelligence, geospatial intelligence, and measurement and signature intelligence and also builds, launches, and operates the Intelligence Community's satellite assets. Department of Defense also has its own human intelligence service which contributes to the CIA's human intelligence efforts while also focusing on military human intelligence priorities. These agencies are directly overseen by the Undersecretary of Defense for Intelligence.
+
+
+=== Joint Chiefs of Staff ===
+
+The Joint Chiefs of Staff (JCS) is a body of senior uniformed leaders in the Department of Defense who advise the Secretary of Defense, the Homeland Security Council, the National Security Council and the President on military matters. The composition of the Joint Chiefs of Staff is defined by statute and consists of the Chairman of the Joint Chiefs of Staff (CJCS), Vice Chairman of the Joint Chiefs of Staff (VCJCS), Senior Enlisted Advisor to the Chairman (SEAC), the Military Service Chiefs from the Army, Navy, Air Force, and Marine Corps, in addition to the Chief of National Guard Bureau, all appointed by the President following Senate confirmation. Each of the individual Military Service Chiefs, outside of their Joint Chiefs of Staff obligations, works directly for the Secretary of the Military Department concerned, i.e. Secretary of the Army, Secretary of the Navy, and the Secretary of the Air Force.
+Following the Goldwater-Nichols Act in 1986 the Joint Chiefs of Staff do not have operational command authority, neither individually nor collectively, as the chain of command goes from the President to the Secretary of Defense, and from the Secretary of Defense to the Commanders of the Combatant Commands. Goldwater-Nichols also created the office of Vice Chairman, and the Chairman is now designated as the principal military adviser to the Secretary of Defense, the Homeland Security Council, the National Security Council and to the President.
+The Joint Staff (JS) is a headquarters staff in the Pentagon, composed of personnel from all the four services, that assists the Chairman and the Vice Chairman in discharging their responsibilities and is managed by the Director of the Joint Staff (DJS) who is a Lieutenant General or Vice Admiral.
+
+
+=== Military Departments ===
+There are three Military Departments within the Department of Defense:
+the Department of the Army, which the United States Army is organized within.
+the Department of the Navy, which the United States Navy and the United States Marine Corps are organized within.
+the Department of the Air Force, which the United States Air Force is organized within.
+The Military Departments are each headed by their own Secretary (i.e., Secretary of the Army, Secretary of the Navy and Secretary of the Air Force), appointed by the President, with the advice and consent of the Senate. They have legal authority under Title 10 of the United States Code to conduct all the affairs of their respective departments within which the military services are organized. The Secretaries of the Military Departments are (by law) subordinate to the Secretary of Defense and (by SecDef delegation) to the Deputy Secretary of Defense.
+The Secretaries of the Military Departments, in turn, normally exercises authority over their forces by delegation through their respective Service Chiefs (i.e., Chief of Staff of the Army, Chief of Naval Operations, Commandant of the Marine Corps, and Chief of Staff of the Air Force) over forces not assigned to a Combatant Command.
+The Secretaries of the Military Departments and the Service Chiefs do not possess operational command authority over U.S. troops (this power was stripped from them in the Defense Reorganization Act of 1958), and instead the Military Departments are tasked solely with "the training, provision of equipment, and administration of troops."
+
+
+=== Unified Combatant Commands ===
+
+A Unified Combatant Command is a military command composed of personnel and equipment from at least two Military Departments, which has a broad and continuing mission.
+The Military Departments are responsible for equipping and training the troops to fight, while the Unified Combatant Commands are responsible for actual operational command of military forces. Almost all operational U.S. forces are under the authority of a Unified Command. The Unified Commands are governed by a Unified Command Plan, a frequently updated document (produced by the Department of Defense) which lays out the Command's mission, geographical/functional responsibilities, and force structure.
+During military operations, the chain of command runs from the President to the Secretary of Defense to the combatant commanders of the Combatant Commands.
+The United States currently has nine Combatant Commands, organized either on a geographical basis (known as "Area of Responsibility", AOR) or on a global, functional basis:
+U.S. Northern Command (USNORTHCOM)
+U.S. Southern Command (USSOUTHCOM)
+U.S. Central Command (USCENTCOM)
+U.S. European Command (USEUCOM)
+U.S. Pacific Command (USPACOM)
+U.S. Africa Command (USAFRICOM)
+U.S. Strategic Command (USSTRATCOM)
+U.S. Special Operations Command (USSOCOM)
+U.S. Transportation Command (USTRANSCOM)
+
+
+== Budget ==
+
+Department of Defense spending in 2010 was 4.8% of GDP and accounted for approximately 45% of budgeted global military spending – more than the next 17 largest militaries combined.
+The Department of Defense accounts for the majority of federal discretionary spending. In FY 2010 the Department of Defense budgeted spending accounted for 21% of the U.S. Federal Budget, and 53% of federal discretionary spending, which represents funds not accounted for by pre-existing obligations. However, this does not include many military-related items that are outside of the Defense Department budget, such as nuclear weapons research, maintenance, cleanup, and production, which is in the Department of Energy budget, Veterans Affairs, the Treasury Department's payments in pensions to military retirees and widows and their families, interest on debt incurred in past wars, or State Department financing of foreign arms sales and militarily-related development assistance. Neither does it include defense spending that is not military in nature, such as the Department of Homeland Security, counter-terrorism spending by the FBI, and intelligence-gathering spending by NASA.
+In the 2010 United States federal budget, the Department of Defense was allocated a base budget of $533.7 billion, with a further $75.5 billion adjustment in respect of 2009, and $130 billion for overseas contingencies. The subsequent 2010 Department of Defense Financial Report shows the total budgetary resources for fiscal year 2010 were $1.2 trillion. Of these resources, $1.1 trillion were obligated and $994 billion were disbursed, with the remaining resources relating to multi-year modernization projects requiring additional time to procure. After over a decade of non-compliance, Congress has established a deadline of Fiscal year 2017 for the Department of Defense to achieve audit readiness.
+In 2015 the allocation for the Department of Defense was $585 billion, the highest level of budgetary resources among all Federal agencies, and this amounts to more than one-half of the annual Federal Expenditures in the United States federal budget discretionary budget.
+
+
+== Energy use ==
+
+The Department of Defense was the largest single consumer of energy in the United States in 2006.
+In FY 2006, the Department used almost 30,000 gigawatt hours (GWH) of electricity, at a cost of almost $2.2 billion. The Department's electricity use would supply enough electricity to power more than 2.6 million average American homes. In electricity consumption, if it were a country, the Department would rank 58th in the world, using slightly less than Denmark and slightly more than Syria (CIA World Factbook, 2006).
+The Department of Defense is responsible for 93% of all US government fuel consumption in 2007 (Department of the Air Force: 52%; Department of the Navy: 33%; Department of the Army: 7%; other Department components: 1%). The Department of Defense uses 4,600,000,000 US gallons (1.7×1010 L) of fuel annually, an average of 12,600,000 US gallons (48,000,000 L) of fuel per day. A large Army division may use about 6,000 US gallons (23,000 L) per day. According to the 2005 CIA World Factbook, if it were a country, the Department of Defense would rank 34th in the world in average daily oil use, coming in just behind Iraq and just ahead of Sweden. The Air Force is the largest user of fuel energy in the federal government. The Air Force uses 10% of the nation's aviation fuel. (JP-8 accounts for nearly 90% of its fuels.) This fuel usage breaks down as such: 82% jet fuel, 16% facility management and 2% ground vehicle/equipment.
+
+
+== Related legislation ==
+The organization and functions of the Department of Defense are in Title 10 of the United States Code.
+Other significant legislation related to the Department of Defense includes:
+1947: National Security Act of 1947
+1958: Department of Defense Reorganization Act, Pub.L. 85–899 (see note in history section above)
+1963: Department of Defense Appropriations Act, Pub.L. 88–149
+1963: Military Construction Authorization Act, Pub.L. 88–174
+1967: Supplemental Defense Appropriations Act, Pub.L. 90–8
+1984: Department of Defense Authorization Act, Pub.L. 98–525
+1986: Goldwater-Nichols Act of 1986 (Department of Defense Reorganization Act), Pub.L. 99–433
+1996: Antiterrorism and Effective Death Penalty Act, Pub.L. 104–132
+
+
+== Warrior Games ==
+The Warrior Games is a multi-sport event for wounded, injured or ill service personnel and veterans organized by the Department of Defense. In 2015, teams from the Army, Marine Corps, Navy/Coast Guard, Air Force, Special Operations Command, and the British Armed Forces took part, competing in eight adaptive sports. The Games have taken place annually since 2010. The 2015 event was the first organized by the DoD, previously it was hosted by the United States Olympic Committee. Britain's Prince Harry, at the time serving as a Captain and helicopter pilot in the British Army, opened the 2013 Games, which inspired him to create the Invictus Games.
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+Official website
+Department of Defense in the Federal Register
+Office of the Under Secretary of Defense (Comptroller) Budget and Financial Management Policy
+Death and Taxes: 2009 A visual guide and infographic of the 2009 United States federal budget including the Department of Defense with data provided by the Comptrollers office.
+Department of Defense IA Policy Chart
+Works by United States Department of Defense at Project Gutenberg
+Works by or about United States Department of Defense at Internet Archive
+Department of Defense collection at Internet Archive

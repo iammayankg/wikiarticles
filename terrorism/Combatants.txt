@@ -1,0 +1,40 @@
+A combatant is a person who takes a direct part in the hostilities of an armed conflict. If a combatant follows the law of war, then he or she is considered a privileged combatant and upon capture, he or she will qualify as a prisoner of war under the Third Geneva Convention (GCIII). An unprivileged combatant is a person, such as a mercenary, who takes a direct part in the hostilities but who upon capture does not qualify for prisoner-of-war status.
+
+
+== Privileged combatantsEdit ==
+The following categories of combatants qualify for prisoner-of-war status on capture:
+Members of the armed forces of a Party to the conflict as well as members of militias or volunteer corps forming part of such armed forces.
+Members of other militias and members of other volunteer corps, including those of organized resistance movements, belonging to a party to the conflict and operating in or outside their own territory, even if this territory is occupied, provided that they fulfill the following conditions:
+that of being commanded by a person responsible for his subordinates;
+that of having a fixed distinctive sign recognizable at a distance;
+that of carrying arms openly;
+that of conducting their operations in accordance with the laws and customs of war.
+
+Members of regular armed forces who profess allegiance to a government or an authority not recognized by the Detaining Power.
+Inhabitants of a non-occupied territory, who on the approach of the enemy spontaneously take up arms to resist the invading forces, without having had time to form themselves into regular armed units, provided they carry arms openly and respect the laws and customs of war.
+For countries which have signed the "Protocol Additional to the Geneva Conventions of 12 August 1949, and relating to the Protection of Victims of International Armed Conflicts" (Protocol I), combatants who do not wear a distinguishing mark still qualify as prisoners of war if they carry arms openly during military engagements, and while visible to the enemy when they are deploying to conduct an attack against them.
+
+
+== Unprivileged combatantsEdit ==
+
+There are several types of combatants who do not qualify as privileged combatants:
+Combatants who would otherwise be privileged but have breached the laws and customs of war (e.g., feigning surrender or injury or killing enemy combatants who have surrendered).
+Spies, mercenaries, child soldiers, and civilians who take a direct part in combat and do not fall into one of the categories listed in the previous section, (for example "[i]nhabitants of a non-occupied territory, who on the approach of the enemy spontaneously take up arms to resist the invading forces" would qualify as privileged combatants).
+If there is any doubt as to whether the person benefits from "combatant" status, they must be held as a POW until they have faced a "competent tribunal" (GCIII Art 5) to decide the issue.
+Most unprivileged combatants who do not qualify for protection under the Third Geneva Convention do so under the Fourth Geneva Convention (GCIV), which concerns civilians, until they have had a "fair and regular trial". If found guilty at a regular trial, they can be punished under the civilian laws of the detaining power.
+
+
+== See alsoEdit ==
+Non-combatant
+Rule of Law in Armed Conflicts Project (RULAC)
+
+
+== ReferencesEdit ==
+^ a b Under Article 47 of Protocol I (Additional to the Geneva Conventions) it is stated in the first sentence "A mercenary shall not have the right to be a combatant or a prisoner of war." On 4 December 1989 the United Nations passed resolution 44/34 the International Convention against the Recruitment, Use, Financing and Training of Mercenaries. It entered into force on 20 October 2001 and is usually known as the UN Mercenary Convention– International Convention against the Recruitment, Use, Financing and Training of Mercenaries A/RES/44/34 72nd plenary meeting 4 December 1989 (UN Mercenary Convention). Article 2 makes it an offence to employ a mercenary and Article 3.1 states that "A mercenary, as defined in article 1 of the present Convention, who participates directly in hostilities or in a concerted act of violence, as the case may be, commits an offence for the purposes of the Convention." – International Convention against the Recruitment, Use, Financing and Training of Mercenaries
+^ The relevance of IHL in the context of terrorism official statement by the ICRC 21 July 2005. "If civilians directly engage in hostilities, they are considered 'unlawful' or 'unprivileged' combatants or belligerents (the treaties of humanitarian law do not expressly contain these terms). They may be prosecuted under the domestic law of the detaining state for such action".
+^ This point is found in Article 51.3 of the Geneva Conventions Protocol I "Civilians shall enjoy the protection afforded by this section, unless and for such time as they take a direct part in hostilities". (Geneva Conventions Protocol I Article 51.3)
+^ The exceptions are: "Nationals of a State which is not bound by the [Fourth Geneva] Convention are not protected by it. Nationals of a neutral State who find themselves in the territory of a belligerent State, and nationals of a co-belligerent State, shall not be regarded as protected persons while the State of which they are nationals has normal diplomatic representation in the State in whose hands they are." (GCIV Article 4)
+
+
+== External linksEdit ==
+Humanitarian Law & Armed Conflict not working.. closed link

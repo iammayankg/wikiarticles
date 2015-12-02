@@ -1,0 +1,125 @@
+Conditional cash transfer (CCT) programs aim to reduce poverty by making welfare programs conditional upon the receivers' actions. The government (or a charity) only transfers the money to persons who meet certain criteria. These criteria may include enrolling children into public schools, getting regular check-ups at the doctor's office, receiving vaccinations, or the like. CCTs are unique in seeking to help the current generation in poverty, as well as breaking the cycle of poverty for the next through the development of human capital.
+
+
+== Countries ==
+Conditional cash transfers exist in the following countries, among many others:
+Bangladesh: Female Secondary School Assistance Project, established in 1994. This CCT program, conditional only on school attendance and girls remaining unmarried, provides tuition and stipends.
+Brazil: Bolsa Família (formerly Bolsa Escola) started in the 1990s and expanded rapidly in 2001 and 2002. It provides monthly cash payments to poor households if their school-aged children (between the ages of 6 and 15) are enrolled in school, and if their younger children (under age 6) have received vaccinations.
+Cambodia: Cambodia Education Sector Support Project, established in 2005, is conditional on attendance and maintaining passing grades.
+Chile: Chile Solidario, established in 2002, requires the family to sign a contract to meet 53 specified minimum conditions seen as necessary to overcome extreme poverty. In exchange, they receive from the state psychosocial support, protection bonds, guaranteed cash subsidies, and preferential access to skill development, work and social security programmes.
+Colombia: Familias en Acción, established in 2002, is a conditional cash transfer programme, very similar to the Mexican PROGRESA/Oportunidades, consisting of cash transfers to poor families conditional on children attending school and meeting basic preventive health care requirements.
+Egypt: Program Minhet El-Osra, began in 2009, currently being piloted in an urban slum in Cairo, Ain Es-Sira, and 65 villages in rural Upper Egypt by the Egyptian Ministry of Social Solidarity
+Guatemala: Mi Familia Progresa, established April 16, 2008, is a conditional cash transfer program that is intended to provide financial support to families living in poverty and extreme poverty and who have children age 0 to 15 years and/or pregnant women or nursing mothers who live mainly in rural and marginal areas of the peripheries of urban centers (cities).
+Honduras: The Family Allowance Program (PRAF II) created in 1998 was based on the PRAF I program created in 1990. The Family Allowance Program, PRAF, founded in 1990 as a social compensation program of the government of the Republic of Honduras.
+Indonesia: Program Keluarga Harapan and Program Nasional Pemberdayaan Masyarakat-Generasi Sehat dan Cerdas, both established in 2007. The Program Keluarga Harapan is a household CCT program, while Program Nasional Pemberdayaan Masyarakat is a community-based CCT program. They are focused on reducing poverty, maternal mortality, and child mortality and providing universal coverage of basic education.
+Jamaica: Programme of Advancement Through Health and Education (PATH), administered by the Ministry of Labour and Social Security, is a conditional cash transfer (CCT) programme. It provides cash transfers to poor families, who are subject to comply with conditions that promote the development of the human capital of their members. PATH was created in 2001, as part of a wide-ranging reform of the welfare system carried out by the government of Jamaica.
+Mexico: Oportunidades is the principal anti-poverty program of the Mexican government. (The original name of the program was Progresa; it was changed in 2002.) Oportunidades focuses on helping poor families in rural and urban communities invest in human capital—improving the education, health, and nutrition of their children. The Progresa program was one of the first large-scale conditional cash transfer programs.
+Nicaragua: The Social Protection Network, established in 2000 and implemented by the Social Emergency Fund (FISE), was terminated in 2005.
+Panama: Red de Oportunidades is a program implemented by the Government of Panama to the population under 18 to provide them access to health services and education.
+Peru: Juntos was established in 2005. The program provides a monthly dividend to mothers (married or single) living in extreme poverty. Mothers can only qualify for the program if they send their children to school and take them for regular medical checkups.
+Philippines: Department of Social Welfare and Development — Pantawid Pamilyang Pilipino Program, is a social development strategy of the national government that provides conditional cash grants to extremely poor households to improve their health, nutrition and education particularly of children age 0-14.
+Turkey: Şartlı Nakit Transferi (ŞNT), established in 2003 and it is still being implemented by the General Directorate of Social Assistance (GDSA: Sosyal Yardımlar Genel Müdürlüğü).
+United States of America: Opportunity NYC. ONYC ended on August 31, 2010. The program built on the conceptual framework and success of international conditional cash transfer (CCT) programs and was the first major CCT initiative implemented in the United States. The principal objective of Opportunity NYC Family Rewards was to test the impact of monetary incentives on children’s education, family health and adults’ workforce outcomes.
+
+
+== Effectiveness ==
+Few development initiatives have been evaluated as rigorously as CCT programs. The implementation of conditional cash transfer programs has been accompanied by systematic efforts to measure their effectiveness and understand their broader impact on households’ behavior, a marked departure from the limited attention that has been paid to rigorous impact evaluations in the past. Evaluation results are available for PROGRESA in Mexico, PETI in Brazil and the Atencion a Crisis in Nicaragua. These evaluations reveal that conditional cash transfers can provide effective incentives for investing in the poor’s human capital. CCTs have affected not only the overall level of consumption, but also the composition of consumption. There is a good deal of evidence that households that receive CCTs spend more on food and, within the food basket, on higher-quality sources of nutrients than do households that do not receive the transfer but have comparable overall income or consumption levels. In Bangladesh, Pakistan, and Turkey, where school enrollment rates among girls were lower than among boys, CCTs have helped reduce this gender gap. CCTs have resulted in sizeable reductions in poverty among recipients—especially when the transfer has been sufficient, well targeted, and structured in a way that does not discourage recipients from taking other actions to escape poverty. Because CCTs provide a steady income, they have helped protect poor households from the worst effects of unemployment, catastrophic illness, and other sudden income shocks. And making cash transfers to women, as virtually all CCTs do, may have increased the bargaining power of women.
+In the US, a paper by the Institute for Research on Poverty concluded in 2011: "Over time, we find that expenditures have shifted toward the disabled and the elderly, and away from those with the lowest incomes and toward those with higher incomes, with the consequence that post-transfer rates of deep poverty for some groups have increased. We conclude that the U.S. benefit system is paternalistic and tilted toward the support of the employed and toward groups with special needs and perceived deservingness.".
+
+
+== Latin America ==
+Many countries in Latin America are now using CCT programs as a major tool of their social policy since they have been proven to be very effective in helping poor families. By 2011 CCTs had spread to 18 countries in the region and covered as many as 129 million beneficiaries. Although the conditions and amounts of money may vary from country to country, ranging from $5 to $33 per child, in general these programs provide money to poor families under the condition that those transfers are used as an investment on their children’s human capital, such as regular school attendance and basic preventive health care. The purpose of these programs is to address the inter-generational transmission of poverty and to foster social inclusion by targeting the poor, focusing on children, delivering transfers to women, and changing social accountability relationships between beneficiaries, service providers and governments. Most of these transfer schemes are now benefiting around 110 million people in the region, and are considered relatively cheap, costing around 0.5% of their GDP.
+Conditional cash transfer programs can be very effective in reducing poverty in the short term since they have helped to increase household income and consumption in poor families.They have also worked effectively in increasing school enrollment and attendance, especially in middle school. A substantial improvement in health and nutrition of the children that benefit from these programs has been acknowledged. However, studies by the UNDP have shown that conditional cash transfers neither represented a significant increase in the quality of education and in learning nor significant increased salaries, once the recipients entered the labor force.
+Most CCT programs are very well-targeted and effective in reaching the poor and the excluded groups, notably the extreme poor living outside the reach of social protection programs tied with formal sector employment. On average, 80% of the benefits go to the 40% poorest families. The programs have also promoted equality of gender since they provide larger funds to girls since they often drop out earlier, so it has increased their enrollment and attendance to secondary levels of education. In the long run, these investments may also yield to significant changes in women's empowerment and insertion in economic networks.
+
+
+== Africa ==
+While most conditional cash transfer programs are in Latin America, a significant amount of research has been conducted regarding the implementation of these programs in Africa. In addition, programs are looking to the Latin America for examples on how to implement these programs. While there are a few unconditional cash transfer programs in Africa being tested, two conditional cash transfer programs in Africa are currently being implemented. For CCTs to be successful, they require sufficient infrastructure. Poor education and health systems limit the benefits of CCT programs. Impacts should be seen in regard to the effectiveness of health and education institutions of the country.
+
+
+=== Morocco ===
+Since 2007 a pilot conditional cash transfer program has been researching its effectiveness in Morocco, organized by the World Bank. The program targets poor regions of Morocco with high dropout rates and should cover 160,000 households by 2010. The pilot program is a comparative test that has four treatment groups. One group is receiving unconditional cash transfers, regardless of child school attendance. The next three are given conditional cash transfers to families of children grades 3-6 based on the child's attendance at school.
+The three treatment groups vary in how attendance is monitored, ranging from monitoring attendance based on teacher’s report, all the way to a sophisticated system involving monitoring through biometric fingerprint machines.
+In addition, within each classroom, which parent (the mother or father) is randomized to see if the family benefits more from having the money targeted to one or the other. This study will bring research that assesses the importance of conditionality, monitoring, and targeting within a conditional cash transfer program.
+
+
+== Europe ==
+Conditional cash transfer programs are not used widely in Europe. In the UK, in 2011 CentreForum proposed an additional child benefit dependent on parenting activities.
+
+
+== Turkey ==
+In Turkey, CCT program has been implemented by GDSA since 2003 with education and health components in which almost 5 billion Turkish Liras (app.1.5 billion Euros) has been allocated to about 3.5 million beneficiary households. In order to be paid regularly in CCT, students (ages5-20) have to attend school regularly and children (ages 0–6) have to be taken to health centres regularly. All the conditions are being monitored by GDSA from the databases of Ministry of Health and Ministry of Education by the means of MIS.
+The conditional education grants are provided to children of the target group on school enrollment condition, from the first grade through the end of the twelfth grade. Once qualified as beneficiaries, children should maintain at least 80 per cent attendance rate to continue to receive the grant.
+Individual payment amounts differ according to components. Girls are paid higher amounts than boys in education component to encourage poor families to send their daughters to school. Besides, due to increasing drop-out rates in higher grades, secondary school (9th-12th grades) students are paid higher amounts than primary school ones in order to ensure the effect of the program on decreasing the drop-out rates.
+The project named "Strengthening the Impact of the Conditional Cash Transfer Programme in Turkey for Increasing High School Attendance" has been started up in December 2014. The project has been integrated to Turkey CCT implementation and designed for high school CCT beneficiaries in order to ensure them to get a degree and decrease early school leaving rates which is one of the most important topics for European Union 2020 targets for sustainable growth.
+In the scope of the project extra incentives were added into CCT education programme aiming to support high school education attendance which would provide stronger reinforcement for the CCT families. Grants (60 € for each eligible student) is provided for parents (preferably mothers) of high school (9th, 10th and 11th grades) CCT beneficiaries suffering from lack of financial resources to cover educational expenditures especially in the beginning of each year.
+
+
+== Medical applications ==
+Modest financial incentives delivered in routine clinical practice have been found to significantly improve adherence to, and completion of, vaccination programmes.
+
+
+== Obstacles and failed programs ==
+Although the benefits of Conditional Cash Transfer programs across the world have been widely noted, there remains a series of obstacles to their success that have caused some programs to be stunted or terminated completely.
+
+
+=== External factors ===
+According to a comprehensive study done by Senior Research Analysts Laura Rawlings and Gloria Rubio of the World Bank, the beginning stages of program implementation present the challenge of creating a reliable implementation schedule. On many occasions, changes in political leadership, natural disasters, or changes in program administration have delayed the implementation schedule and lead to decreased efficiency or program termination.
+An example of the negative outcomes of one such delay is provided by the UN Development Programme's in-depth study of the short-lived Nicaragua's Social Protection Network. According to the study, the movement of the program administration to the country's Ministry of the Family caused a delay in efficiency and resources that, among other factors, led to the program's termination. Delays can also be caused by difficulties in developing the Program Management Information System (MIS).
+One such delay in Mexico's Oportunidades program caused 27% of its targeted population not to receive any transfers after two years of implementation.
+In addition to unscheduled delays, other external factors that can hinder a CCT's success pertain to unexpected financial crisis. According to a comprehensive assessment provided by the World Bank, the structure of Conditional Cash Transfer programs has not yet been adjusted to retain success in the event of a large financial crisis.
+Primarily, Conditional Cash Transfer Programs are not flexible enough to extend benefits to households that fall into the program's targeted population only during economic downturns. Thus, those not normally covered by the program's benefits may be harder hit than those who are but will not be able to be assisted.
+
+
+=== Exclusion ===
+Another common obstacle to success in most CCTs is exclusion of needy homes in the targeting process. In an assessment by the World Bank, much exclusion was due to remote communities' inability to access schools or clinics. Many such communities fall into developing countries' most poverty-stricken populations but cannot follow through with conditionalities since the transportation costs to attend schools or hospital visits outweigh the benefits. Furthermore, an evaluation of Mexico's PROGRESA- Oportunidades program addresses the issue that those in poverty with debilitating illnesses can also be excluded from CCTs due to their physical inability to accomplish the conditionalities.
+Exclusion has also been noted by both the World Bank study and the PROGRESA-Oportunidades evaluation evident in both community-based targeting and self-targeting approaches. In the case of self-targeting, used by Mexico's PROGRESA-Oportunidades, working women may be excluded from the program because they are unable to miss work to register or accomplish all conditions. In the case of community-based targeting, the World Bank study notes that the extremely poor who may live in generally middle-class communities will be excluded.
+
+
+=== Distrust ===
+Targeted populations' distrust of the program due to lack of adequate information has been noted by at least three case studies to be a leading factor in the Conditional Cash Transfer programs’ downfalls. The extensive study by the UN Development Programme on Nicaragua's Social Protection Network (RPS) reveals that the level of distrust of the program was so high that a domestic publicity campaign could have possibly saved the RPS from extinction. This high level of domestic distrust was due, in part, to efforts to politicize the program.
+One report addressed in the UN Development Programme's study stated that RPS employees were approached by members of the government, who demanded that half their salaries be donated to the party in power. Although the RPS was successful in avoiding the threats, it was later revealed that the RPS was the only Nicaraguan institution of its kind not making governmental contributions.
+This same level of distrust is reflected in a study on the feasibility of a Haitian CCT made by the International Food Policy Research Institute. In the focus group they interviewed, almost all subjects expressed a "profound lack of faith" in the Haitian government. Instead, they preferred that the Conditional Cash Transfer Programs be implemented by community committees or NGO’s.
+However, this distrust in governments' ability to fairly implement Conditional CCTs fairly is not strictly limited to developing countries. In an article in the New York Times addressing the termination of the pilot CCT, Opportunity NYC, the committee leader of one of its lending institutions stated that people were distrustful and confused by the program's intricacies. New York City's deputy mayor for health and human services added that many busy and stressed households were not being able to handle the wealth of conditions they had to complete since they were not efficiently educated about the program.
+
+
+== Unconditional versus conditional cash transfers ==
+
+There is currently much discussion about whether conditionality, or conditions for the cash transfer, is necessary or important to a cash transfer program. Research, such as the pilot conditional cash transfer program in Indonesia called Generasi, examined the importance of conditionality. One report looks at data from Mexico's Oportunidades/Progresa program, which looks at families who accidentally did not receive forms that monitor school attendance and therefore received unconditional cash transfers. It then compares them with those households that did receive the forms. It was shown that conditionality had the strongest impact on children's attendance to secondary school, as enrollment rates in secondary school were higher for those that received the forms.
+Another report on an experiment in Malawi is researching the importance of conditionality among families with school-age girls. The program was conducted, with data collected between October 2007 and June 2010. It was found that the treatment arm providing conditional cash transfer programs had higher enrollment rates, as well as higher scores in independently administered tests of cognitive ability, mathematics and English reading comprehension. However, the UCT treatment arm had a much lower incidence of pregnancy and marriage among schoolage girls.
+A strong argument against the conditionality of social cash transfers is proposed by proponents of a rights-based approach to development. From a human rights perspective, cash transfers are a means to ensure the human rights to social protection and an adequate standard of living for all members of society, including first and foremost the fundamental right to food. States have the duty to ensure those rights with a maximum of available resources. While reducing poverty in general, conditional cash transfers have shown to often exclude those who need it the most, violating the human rights principle of non-discrimination and equality.
+The following program in Malawi is an example of an unconditional cash transfer:
+The Mchinji Pilot Social Cash Transfer Scheme is part of the larger Malawi Social Protection Policy and Framework, and began in April 2006. It is mainly financed by UNICEF and the National AIDS Commission. The objectives of the scheme are to reduce poverty of people in the pilot area who are ultra poor and labor constrained, increase school enrolment and attendance, and to generate information regarding the feasibility of a cash transfer program as part of a Social Protection Programme for Malawi. The goal for this program is to reduce the ultra poverty rate from the 22% rate in 2007 to 10% by 2015.
+This program targets those households that are ultra poor (See poverty for definition) and those who are labor constrained, defined as either a household in which no able-bodied members 19-64 can work due to chronic sickness or disability or a household with one-able bodied member that has to care for more than three dependents. About 22% of Malawi as of 2007 was ultra-poor, living on less than 20 cents a day, and of that group 10% are labor constrained.
+The program would give anywhere from 600 kwacha ($4 US) monthly for a one person household to 1800 kwacha ($13 US) monthly for a four or more person family. There is also an extra bonus of 200 kwacha for children enrolled in primary school and 400 kwacha for children enrolled in secondary school. The location for the program is in the Mchinji District, the 14th poorest district out of 28 in Malawi.
+It was chosen for its average poverty level of all the districts in Malawi and its proximity to the capital, Lilongwe.
+
+
+== See also ==
+Means test
+Cash transfers (Transfer payments)
+Unconditional basic income
+Specific programs:
+Bolsa Família
+Oportunidades
+Opportunity NYC
+Social Protection Network
+New Incentives
+
+
+== References ==
+
+
+== Further reading ==
+"Redesigning Conditional Cash Transfers" J-PAL Briefcase(2012)
+Fiszbein, A. and Schady, N. (2009) Conditional Cash Transfers: Reducing Present and Future Poverty World Bank Publications, ISBN 978-0-8213-7352-1
+Hanlon, Joseph, Armando Barrientos and David Hulme (2010). Just Give Money to the Poor: The Development Revolution from the Global South. Sterling, VA: Kumarian Press.
+Rawlings, L. and G. Rubio (2005). "Evaluating the Impact of Conditional Cash Transfer Programs: Lessons from Latin America" The World Bank Research Observer 2005 20(1):29-55
+
+
+== External links ==
+The Role of Conditional Cash Transfers in Equitable Development
+Conditional Cash Transfer Programs: Are They Really Magic Bullets?
+Give the poor money: Conditional-cash transfers are good. They could be even better The Economist, 29 July 2010
+Weddle, Ryan World Bank's Conditional Cash Transfer Programs Show Signs of Success Devex, 11 February 2009
+Opportunity NYC at Rockefeller Foundation

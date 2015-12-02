@@ -1,0 +1,16 @@
+Information access is an area of research at the intersection of Informatics, Information Science, Information Security, Language Technology, Computer Science, and Library Science.
+The objective of the various research efforts in information access is to simplify and make it more effective for human users to access and further process large and unwieldy amounts of data and information.
+Several technologies applicable to the general area are Information Retrieval, Text Mining, Machine Translation, and Text Categorisation.
+During discussions on free access to information as well as on information policy, information access is understood as concerning the insurance of free and closed access to information. Information access covers many issues including copyright, open source, privacy, and security.
+Groups such as the American Library Association, the American Association of Law Libraries, Ralph Nader's Taxpayers Assets Project have advocated for free access to legal information. The vendor neutral citation movement in the legal field is working to ensure that courts will accept citations from cases on the web which do not have the traditional (copyrighted) page numbers from the West Publishing company. There is a worldwide Free Access to Law Movement which advocates free access to legal information. The Wired Magazine Article Who Owns The Law is an introduction to the access to legal information issue.
+
+
+== External links ==
+CRS Report - Access to Government Information in the United States
+Access to Information in the Philippines
+Information Access Alliance
+ALA- Access to Electronic Information, Services, and Networks
+Issues in Access to Information: A Bibliography
+The Information Society - The way to equitable globalisation and development? News reports and features by IPS Inter Press Service
+Information and Communication Technologies for Development and Poverty Reduction: The Potential of Telecommunications Edited by Maximo Torero and Joachim von Braun (2006), Johns Hopkins University Press
+Access to Information - The World Bank page

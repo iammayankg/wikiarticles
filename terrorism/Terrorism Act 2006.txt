@@ -1,0 +1,253 @@
+The Terrorism Act 2006 is an Act of the Parliament of the United Kingdom that received Royal Assent on 30 March 2006, after being introduced on 12 October 2005. The Act creates new offences related to terrorism, and amends existing ones. The Act was drafted in the aftermath of the 7 July 2005 London bombings, and some of its terms have proven to be highly controversial. The government considered the act a necessary response to an unparalleled terrorist threat; it has encountered opposition from those who feel that it is an undue imposition on civil liberties, and could increase the terrorism risk.
+The act drew considerable media attention, not least because one of the key votes resulted in the first defeat of the government of Tony Blair on the floor of the House of Commons, and the worst such defeat for any government since 1978.
+
+
+== Early history ==
+
+
+=== Home Secretary's letter ===
+On 15 July, shortly after the London bombings, the Home Secretary Charles Clarke wrote to the spokesmen for the Conservatives and Liberal Democrats, David Davis and Mark Oaten respectively, to ask their views on proposed terrorism legislation, in an attempt to seek consensus. His letter made it clear that the proposals were already under consideration before the bombings. It first proposed new criminal offences to allow police and intelligence agencies to intervene before the precise details of a planned terrorist act are known.
+The second proposal was to criminalise indirect incitement to commit terrorist acts, and would enable the United Kingdom to ratify the Council of Europe Convention on the Prevention of Terrorism (Article 5). The third proposal was to criminalise the providing or receiving of terrorism training, again in line with the Council of Europe Convention (Article 7). Clarke followed up this letter with a statement in the House of Commons on 20 July.
+
+
+=== Prime Minister's statement ===
+On 5 August, Tony Blair made a statement at his regular monthly news conference which included a mention of the proposed legislation. He said:
+"... there will be new anti-terrorism legislation in the Autumn. This will include an offence of condoning or glorifying terrorism. The sort of remarks made in recent days should be covered by such laws. But this will also be applied to justifying or glorifying terrorism anywhere, not just in the United Kingdom."
+The statement "the sort of remarks made in recent days" was generally taken as a reference to Omar Bakri Muhammad who had received a great deal of publicity for his reaction to the London bombing. There had been other statements, made by a number of controversial figures, about the 11 September 2001 attacks and attacks on US and UK forces during the Iraqi insurgency. These figures also include Muslim clerics such as Abu Qutada and Abu Hamza al-Masri.
+
+
+=== Home Secretary's second letter ===
+On 15 September, Clarke published draft clauses of the intended bill in a further letter to David Davis and Mark Oaten, writing that he would like their comments on them. He also announced further proposals for the bill, including a power to proscribe groups that glorify terrorism, and one to tackle dissemination of "radical written material by extremist bookshops".
+The draft clause 2 would make it illegal to publish a statement which "glorifies, exalts or celebrates the commission, preparation or instigation (whether in the past, in the future or generally) of acts of terrorism". This wording was criticised for being vague, and for potentially stifling legitimate debate about government policy and the causes of terrorism. The clause only covered terrorist events which occurred more than 20 years ago if they directly relate to current events; a list of events occurring more than 20 years ago which would be covered was to be prepared by the Home Office. This provision was criticised as entirely subjective, and giving the Home Office the right to decide who was a terrorist and who was a freedom fighter.
+
+
+== Provisions ==
+
+
+=== Part 1 - Offences ===
+This Part creates a series of new criminal offences intended to assist the police in tackling terrorism. They are:
+Encouragement of terrorism (section 1): Prohibits the publishing of "a statement that is likely to be understood by some or all of the members of the public to whom it is published as a direct or indirect encouragement or other inducement to them to the commission, preparation or instigation of acts of terrorism or Convention offences." Indirect encouragement statements include every statement which glorifies the commission or preparation (whether in the past, in the future or generally) of such acts or offences; and is a statement from which those members of the public could reasonably be expected to infer that what is being glorified is being glorified as conduct that should be emulated by them in existing circumstances." In England and Wales, a person guilty of this offence is liable, on conviction on indictment, to imprisonment for a term not exceeding seven years, or to a fine, or to both, or, on summary conviction, to imprisonment for a term not exceeding twelve months, or to a fine not exceeding the statutory maximum, or to both. In Scotland and Northern Ireland, a person guilty of this offence is liable, on conviction on indictment, to imprisonment for a term not exceeding seven years, or to a fine, or to both, or, on summary conviction, to imprisonment for a term not exceeding six months, or to a fine not exceeding the statutory maximum, or to both.
+Disseminating terrorist publications (Section 2): Prohibits the dissemination of a publication which is either (a) likely to be understood as directly or indirectly encouraging terrorism, or (b) includes information which is likely to be understood as being useful in the commission or preparation of an act of terrorism. The maximum penalty is seven years' imprisonment.
+Preparation of terrorist acts (Section 5): Prohibits anyone from engaging in any conduct in preparation for an intended act of terrorism. The maximum penalty is life imprisonment.
+Training for terrorism (Section 6): Prohibits anyone from training others in terrorist activities, or from receiving training. The maximum penalty is 10 years' imprisonment.
+Attendance at a place used for terrorist training (Section 8): Prohibits anyone from being at a place where training is going on (whether in the United Kingdom or abroad), provided the person knew or reasonably believed that it was happening. The maximum penalty is 10 years' imprisonment.
+Making and possession of devices or materials (Section 9): Prohibits the making or possession of any radioactive device (i.e. a dirty bomb). The maximum penalty is life imprisonment.
+Misuse of devices or material and misuse and damage of facilities (Section 10): Prohibits using radioactive materials or a radioactive device in a terrorist attack, and the sabotage of nuclear facilities which causes a radioactive leak. The maximum penalty is life imprisonment.
+Terrorist threats relating to devices, materials or facilities (Section 11): Prohibits anyone from making threats to demand that they be given radioactive materials. The maximum penalty is life imprisonment.
+Trespassing etc. on nuclear sites (Section 12): Extends a previous ban on trespassing, imposed by the Serious Organised Crime and Police Act 2005, to cover any nuclear site.
+The encouragement, training, and preparation offences are extraterritorial offences. So persons who enagage in any of these activities outside the United Kingdom, commit an offence which is triable before the United Kingdom courts. The Act also extends the maximum length of imprisonment for 'possession for terrorist purposes' from 10 years to 15 years, and for threatening to damage a nuclear power station to life imprisonment. The proposal that only those who intended to incite terror could be prosecuted was defeated by two votes in the House of Commons (300-298) - this was reported at the time as 300-299, but the clerks of the house confirmed the list of Aye names (of which there are 298) to be accurate. It has been pointed out that the Government's resistance to the inclusion of the requirement of intention is somewhat two-faced, given that the reason offered for creating the offence was the need to comply with Article 5 of the Council of Europe Convention on the Prevention of Terrorism which expressly requires specific intent.
+
+
+=== Part 2 - Miscellaneous provisions ===
+This Part deals with miscellaneous provisions. It gives wider power to the Home Secretary to proscribe terrorist groups and amends the law to allow the proscription to continue when the group changes its name. The most controversial portion in the Act, relating to detention of terrorist suspects for questioning, was in sections 23 and 24. However, as originally introduced, the clauses made little change beyond allowing Police officers of the rank of Superintendent to authorise longer detention for terrorist suspects.
+Other provisions in Part 2 give greater flexibility to search warrants by allowing them to cover other premises under the control of the same suspect, and by allowing searches where the possession of terrorist publications is suspected. The powers of the Intelligence services are extended and warrants to intercept communications are given more wide-ranging effect.
+
+
+==== Section 25 - Expiry or renewal of extended maximum detention period ====
+The following orders have been made under section 25(2):
+The Terrorism Act 2006 (Disapplication of Section 25) Order 2007 (S.I. 2007/2181)
+The Terrorism Act 2006 (Disapplication of Section 25) Order 2008 (S.I. 2008/1745)
+The Terrorism Act 2006 (Disapplication of Section 25) Order 2009 (S.I. 2009/1883)
+The Terrorism Act 2006 (Disapplication of Section 25) Order 2010 (S.I. 2010/1909)
+
+
+=== Part 3 - Supplementary provisions ===
+This Part, apart from routine matters, creates a review of the operation of the Terrorism Act 2000.
+
+
+==== Section 39 - Short title, commencement and extent ====
+This section allows for the commencement of the Act.
+The following orders have been made under this section:
+The Terrorism Act 2006 (Commencement No. 1) Order 2006 (S.I. 2006/1013 (C.32))
+The Terrorism Act 2006 (Commencement No. 2) Order 2006 (S.I. 2006/1936 (C.64))
+
+
+== Second reading debate ==
+The principle of the bill was debated in the House of Commons on 26 October. In an opening speech which (with many interruptions) lasted 74 minutes, Charles Clarke asserted that there was no change in government policy which would remove the United Kingdom from Al Qaeda's firing line: "Its nihilism means that our societies would cease to be a target only if we were to renounce all the values of freedom and liberty that we have fought to extend over so many years. Our only answer to this threat must be to contest and then to defeat it, and that is why we need this legislation." David Davis said that there were many aspects of the bill which he could support unequivocally, but went on to criticise some of the uses of recent anti-terrorism legislation on trivial matters such as Walter Wolfgang. He concluded by saying that the Conservatives would support the second reading, but could not promise to support the third reading if changes were not made.
+Mark Oaten said that the Liberal Democrats could not support the bill in principle because it went further than the measures agreed between the three parties. He looked forward to re-establishing consensus in the committee stage. Labour MPs Paul Murphy (a former Secretary of State for Northern Ireland), Tony Lloyd, and Richard Burden offered general support. John Denham, a former Home Office minister who resigned over Iraq, argued that the bill was too widely drawn and would be of marginal use in fighting terrorism. Conservatives Douglas Hogg and Richard Shepherd dissented from their party's line to oppose on civil liberties grounds. Labour MPs Michael Meacher and Robert Wareing also opposed.
+In the event, the bill was given a second reading by 471 to 94. In support were 298 Labour MPs, 164 Conservatives, 8 members of the Democratic Unionist Party, and Mike Hancock of the Liberal Democrats. Opposed were 59 Liberal Democrats, 16 Labour MPs breaking the whip, 8 Conservative MPs breaking the whip, 4 Scottish National Party members, 3 Plaid Cymru members, the sole Ulster Unionist Party MP and Independent MPs Peter Law and Dr Richard Taylor. The Conservative MP Boris Johnson voted in both lobbies.
+
+
+== Extending the period of detention without charge ==
+A government amendment to the bill, proposed on 9 November but rejected by the Commons, would have meant that suspects arrested under suspicion of having conducted, or being engaged in planning, terrorist crimes could be held for a period of 90 days before being charged with a crime. This was a considerable increase over the existing term permitted by the Criminal Justice Act 2003, which allowed for a maximum 14 days detention before charges were laid; contrast also to the maximum of four days detention without charge allowed in cases of murder, rape and complex fraud.
+Under the new scheme, detentions would be reviewed every seven days by a judge sitting in-camera, who would rule as to whether the ongoing detention was justified. The Government argued that, given the suicidal nature of the threat posed by Al-Qaeda and related groups, it was no longer prudent for investigators to wait while a conspiracy developed. Instead, they reasoned, it was necessary for police to arrest terrorist suspects immediately, while police enquiries were at a relatively immature stage. The proposed 90 day detention period was necessary, the Government argued, as forensic testing and questioning of the suspect could not be completed within the allotted fortnight.
+At the Report stage the Commons rejected 90 days and voted through an amendment for 28 days detention, thereby doubling the period allowed under the Terrorism Act 2000. The amendment was proposed by David Winnick MP; Summary of voting on amendment on Public Whip. This power to detain for 28 days was formally brought into force on 25 July 2006. The 90 day limit was publicly advocated by Gordon Brown on 10 October 2006.
+
+
+=== Police advocacy of 90 day detention ===
+The Government repeatedly made the point that they had been advised by the police that 90 days was a necessary term of detention to prevent terrorism:
+Andy Hayman, Assistant Commissioner of the Metropolitan Police wrote to the Home Secretary on 6 October 2005 to express his view that 90 days was required. An image of the letter can be found at the Home Office website. The letter makes the following arguments:
+In contrast to terrorist acts perpetrated by the Irish Republican Army - who made efforts to restrict the number of casualties for political reasons - "modern terrorists" (the letter does not directly reference Muslim extremists) seek to maximise casualties. Therefore, a policy of attempting to catch terrorists "red-handed" (in possession of evidence, e.g. explosives) proves unacceptably risky. Hence suspects should be arrested earlier in the intelligence gathering stage, resulting in police having less evidence at the time of arrest.
+"The networks are invariably international, indeed global in their origin and span of operation. Enquiries have to be undertaken in many different jurisdictions, many of which are not able to operate to tight timescales."
+"Establishing the identity of suspects often takes a considerable amount of time. The use of forged or stolen identity documents compounds this problem."
+"There is often a need to employ interpreters to assist with the interview process. The global origins of the current terrorist threat has given rise to a requirement in some cases to secure the services of interpreters who can work in dialects from remote parts of the world. Such interpreters are difficult to find. This slows down proceedings, restricting the time available for interview."
+"Terrorists are now highly capable in their use of technology. In recent cases large numbers (hundreds) of computers and hard drives were seized. Much of the data was encrypted. The examination and decryption of such vast amounts of data takes time, and needs to be analysed before being incorporated into an interview strategy. This is not primarily a resourcing issue, but one of a necessarily sequential activity of data capture, analysis and disclosure prior to interview."
+"The forensic requirements in modern terrorist cases are far more complex and time consuming than in the past, particularly where there is the possibility of chemical, biological, radiological or nuclear hazards."
+"The use of mobile telephony by terrorists as a means of secure communication is a relatively new phenomenon. Obtaining data from service providers and subsequent analysis of the data to show linkage between suspects and their location at key times all takes time."
+"There is now a need to allow time for regular religious observance by detainees that was not a feature in the past. This too causes delay in the investigative processes during pre-charge detention."
+"A feature of major counter-terrorist investigations has been that one firm of solicitors will frequently represent many of the suspects. This leads to delay in the process because of the requirement for consultations with multiple clients."
+The letter goes on to posit a theoretical case based on previous investigations.
+Clarke repeated many of these points in his speech during the second reading of the bill.
+Michael Todd, Chief constable of Greater Manchester Police also publicly supported increased duration of detention:[2] Tony Blair quoted him as saying: "The reality of the terrorism threat that we currently face is so horrendous in terms of the implications that we are having to intervene far earlier in the investigation than we ever would have during IRA campaigns . . . because with mass casualty terrorism we cannot afford to take any chances."
+Todd also wrote to the press;
+to The Guardian "We have given that professional advice on one basis and one basis only, that these were the changes that professionals directly involved in the fight against terrorism felt were necessary to protect the people of this country from attack [...] That is the view not only of the Metropolitan police, but of chief constables across the country and the terrorism committee that represents them".
+And to The Daily Telegraph "the Government sought the views of the leaders of the police service on what legislative change was needed to combat the new reality of the terrorist threat. We have given that professional advice on one basis only, that these were the changes that professionals directly involved in the fight against terrorism felt were necessary to protect the people of this country from attack. The investigative difficulties of dealing with this threat, the operational need to take executive action to counter risk earlier and the frightening implications of getting it wrong mean that changes are needed. That is the view not only of the Metropolitan Police, but of chief constables across the country and the terrorism committee that represents them. Unfortunately, the proposal to increase the maximum period of pre-charge detention to three months has attracted unhelpful and unfair comparisons with internment, which it is not."
+The Devon and Cornwall Constabulary wrote to MPs to express support for the measure.
+In addition Blair cited Sir Hugh Orde (Chief Constable of Police Service of Northern Ireland), who expressed his disappointment at Parliament's eventual decision.
+Some Members of Parliament and the press criticised this public advocacy for policy from the police (the Liberal Democrat Adrian Sanders to name one); there were comments in the House concerned about "the politicisation of the police force" (Today programme, 11 November 2005). Indeed, the newspapers of Friday 12 November covered this question extensively when it emerged that the police had been encouraged to make representations to MPs - about the bill within their jurisdictions. Clarke sought to clarify the nature of these approaches made to Chief constables in a letter to The Telegraph on 12 November:
+
+On 3 November, I suggested to the Association of Chief Police Officers that chief constables write to MPs in their areas, making themselves or a relevant senior officer available to MPs, of all parties, who wanted to know their local police attitude to these issues. I made clear that this should not be on a party political basis.
+
+
+=== Criticism of 90 day detention ===
+Opponents of 90 day detention broadly argue that everyone has a right to liberty unless charged with a crime. Detention for 90 days without charge is seen as a retreat from habeas corpus. Many argue that the denial of such a fundamental right can never be justified, regardless of the threat posed by terrorism.
+Critics, including former Conservative Party leader Michael Howard, argued that no suspected terrorists who were released under the 14-day regime were later incriminated by new evidence, meaning that the police had never practically needed longer than 14 days.
+Archbishop Desmond Tutu has likened the British government's detention of terrorist suspects without charge to South Africa under apartheid. Tutu told the BBC: "Ninety days for a South African is an awful deja-vu because we had in South Africa in the bad old days a 90-day detention law." For further comparison, the Syrian government, when crushing opposition during the Syrian Uprising that began in 2011, only instituted detention without charge for a maximum of 60 days.
+The bill's opponents, who included the Conservatives, the Liberal Democrats, and members of Blair's ruling Labour Party, compared the lengthy period of detention to the policy of internment which had been used in Northern Ireland during the 1970s, and which many observers held to have served to antagonise Northern Ireland's Republican community and thus helped Provisional Irish Republican Army recruitment.
+The 90-day detention measure was also seen by many as an unfair and unjust extension of the police's powers, and extending the perceived scope of a "police state". Critics argued that Blair's government was pandering to public opinion, and freely doing the bidding of the police. Another argument against the 90-day measure was that the police and government were working closely together as senior Chief Constables wished to keep their jobs after the plans to cut the number of Constabularies in the United Kingdom from 39 down to around 12.
+
+
+=== Public opinion ===
+A YouGov poll was commissioned prior to the vote by Sky News to determine the public's view on an increased period of detention. The poll purported to show a 72% support for 90 days with just 22% opposed; however, some of those who viewed the full survey find this broad analysis controversial.
+With the defeat of the '90 day' amendment Tony Blair referred to a "worrying gap" between the opinion of MPs and the public.
+
+
+=== Application of the 28 day detention limit ===
+Prior to this act, the period which the police could detain terrorist suspects without bringing charges was 14 days. Since then, there have been several terrorist investigations where suspects have been arrested and held for more than 14 days without being informed of the offences of which they are suspect.
+Many of the 25 2006 transatlantic aircraft plot suspects were held for weeks after their arrest before being formally charged, but this period lasted for more than 14 days for only some of them, such as Mohammed Shamin Uddin.
+Also, from 23 August to 21 September, Habib Ahmed of Manchester was held as part of the 2006 Cheetham Hill terrorism arrests for the full 28 days before being accused of making computer records of possible terror targets and undergoing a course of weapons training at a terror camp in Pakistan between April and June 2006.
+
+
+== Progress of the bill through Parliament ==
+The bill was preceded by a meeting of the Home Affairs Select Committee, Counter Terrorism and Community Relations In The Aftermath of the London Bombings. The bill received its first reading on 13 October 2005, its second reading on 26 October and the third on 10 November. The Government defeat over the detention limit happened at the report stage on 9 November. Royal Assent was given on 30 March 2006.
+
+
+== Political implications of the bill ==
+Tony Blair personally argued for the bill, in its full form, in the strongest terms. In particular, he refused offers to compromise on a shorter period of detention, arguing that the 90 day figure was a direct recommendation of the police and that no lesser period would provide adequate protection.
+Following the Government's defeat on the 90 day matter, and the adoption of an amendment setting the maximum at 28 days, Blair criticised parliament and particularly the Labour MPs who had rebelled, saying there was a "worrying gap between parts of Parliament and the reality of the terrorist threat and public opinion". The defeat of the Government in this matter rekindled debate over whether Blair (who had already announced he would not seek a further term as PM) was a lame duck, no longer able to muster his party's support over contested issues.
+The British media has expressed broad doubts that the Government's intended programme of legislation will now get through Parliament. Specifically; welfare reform (green paper), including cuts in incapacity benefit; a health white paper, to increase involvement of private companies in health provision; and an education bill, also designed to increase private sector involvement in provision.
+
+
+== First conviction ==
+On 8 November 2007, a British woman, Samina Malik, became the first person to be convicted under the Act, for "possessing records likely to be useful in terrorism". She was sentenced on 6 December 2007 to a nine months suspended jail sentence. She was previously cleared of contravening section 57 of the Terrorism Act 2000, an offense which could have led to a 15-year prison sentence. The jury heard how she posted poems on internet supporting Bin Laden and martyrdom, under the name "Lyrical Terrorist" . The prosecution also claimed she joined an extremist organisation named "Jihad Way". Investigators had found a variety of terrorist literature when they searched her house, including poems she had written, terrorism manuals, and other written terrorist material. Malik denied the charges and claimed she was not a terrorist, her pseudonym having been chosen only because "it sounded cool". Her conviction was later overturned on 18 June 2008 by the Court of Appeal as unsafe.
+
+
+== See also ==
+Terrorism Acts
+Prevention of Terrorism Act 2005
+List of terrorist incidents in the United Kingdom
+Glorifying Terrorism
+
+
+== Footnotes ==
+^ Michael Todd was head of Greater Manchester Police at the time of the terrorist-related Wood Green ricin plot, during which a police officer was killed when trying to arrest suspects.
+
+
+== References ==
+
+
+== External links ==
+
+
+=== UK Legislation ===
+Text of the Terrorism Act 2006 as in force today (including any amendments) within the United Kingdom, from the UK Statute Law Database
+Explanatory notes to the Terrorism Act 2006.
+
+
+=== Parliamentary documents and debates timeline ===
+
+
+==== Structure ====
+The links in this section include only primary documents relating to the debate within Parliament, ordered chronologically and bulleted according to document type:
+Text of the bill and Hansard transcriptions of debates.
+Annotations.
+Direct links to Hansard debate subsections.
+Parliamentary briefing documents and other primary sources.
+
+
+==== Documents ====
+Letter from Charles Clarke to David Davis and Mark Oaten (shadow Home Secretary and Liberal Democrat Home Affairs spokesman respectively), 15 July (pdf)
+Hansard - Charles Clarke's statement to the House regarding the 7 July London bombings, 20 July
+
+JUSTICE open letter to Charles Clarke concerning proposed counter-terrorism measures (27 July 2005) (pdf)
+Tony Blair (Prime Minister)'s press conference about terrorism/counter-terrorism, 5 August
+
+Terrorism Bill ~ PDF version
+From The United Kingdom Parliament publications website.
+
+JUSTICE preliminary briefing on the Draft Terrorism Bill - September 2005 (pdf)
+Liberty Parliamentary briefing - Draft Terrorism Bill - September 2005 (pdf)
+Foreign Office report - Counter-terrorism Legislation and Practice: A Survey of Selected Countries, October 2005 (pdf) - referenced in Commons debates, this report outlines current anti-terrorism legislation in ten democaratic nations, including the United States, Canada, Australia and a portion of Europe.
+
+Home Affairs Select Committee Draft Terrorism Bill - 11 October 2005.
+
+Law Society Parliamentary brief for - HASC Draft Terrorism Bill - October 2005 (pdf)
+Amnesty International’s Parliamentary brief for - HASC Draft Terrorism Bill - October 2005
+
+(Terrorism Bill - 1st reading - 13 October : requires no debate in the Commons to be recorded in Hansard or elsewhere).
+
+Joint Committee on Human Rights - Counter-terrorism Policy and Human Rights - Uncorrected evidence transcript, 24 October - "Any public use of, or reference to, the contents should make clear that neither witnesses nor Members have had the opportunity to correct the record. The transcript is not yet an approved formal record of these proceedings." - This document is cited during the second reading.
+Amnesty International’s submission of 14 October to the UK Parliament’s Joint Committee on Human Rights in connection with the Committee's inquiry into the subject of "counter-terrorism policy and human rights".
+
+Hansard - Terrorism Bill - 2nd reading - 26 October (The House divided: Ayes 472, Noes 94.)
+
+JUSTICE Parliamentary briefing for - 2nd reading - October 2005 (pdf)
+Law Society Parliamentary brief for - 2nd reading - 26 October (pdf)
+Liberty Parliamentary briefing - 2nd reading - October 2005 (pdf)
+Law Society Parliamentary brief for - Committee Stage - 31 October (pdf)
+Amnesty International’s briefing for the House of Commons’ - second reading - 25 October
+
+Hansard - Terrorism Bill (Programme) (No. 2) - Report stage - 9 November
+The debate on ninety days detention:
+amendments tabled for 28 and 60 days, Charles Clarke begins responding to questions.
+contributions from Michael Howard and Kenneth Clarke.
+contribution from David Davis begins.
+the vote on the 90 day detention amendment with names - Ayes: 291, Noes 322 - "Question accordingly negatived".
+the vote on the 28 day detention amendment with names - Ayes: 323, Noes: 290 - "Question accordingly agreed to".
+Debate begins on 'encouragment of terrorism' led by Hazel Blears.
+Amendment: Clause 1 - Encouragement of Terrorism - "unforeseen recklessness"
+
+Amendment: Clause 1(2) - Encouragement of Terrorism - "glorifies" - This amendment sought the removal of the "glorification" section of the bill. The House voted to retain "glorification" as an offence.
+Law Society Parliamentary brief for - report stage - 9 October (pdf)
+
+Hansard - Terrorism Bill - 3rd reading - 10 November
+
+JUSTICE Parliamentary briefing for second reading in the House of Lords (November 2005) (pdf)
+
+Terrorism Act as originally enacted - March 2006
+For an appreciation of the parliamentary process see Act of Parliament - procedure - UK or, externally, Parliamentary Stages of a Government Bill (pdf) from the Commons Information Office.
+
+
+=== Secondary sources ===
+Point by point: Terror debate from BBC News.
+At-a-glance: New terror plans from BBC News.
+In quotes: Government on terror plans from BBC News.
+
+
+=== Media coverage ===
+Blair defeated over terror laws - BBC News report
+British Law Against Glorifying Terrorism Has Not Silenced Calls to Kill for Islam by Souad Mekhennet and Dexter Filkins, The New York Times, 21 August 2006
+
+
+==== Opinion-editorial articles ====
+
+
+===== Just prior to the 90 day detention vote =====
+Why MPs should reject 90-day detention - The Guardian.
+"It is a huge breach of the 300-year-old habeas corpus principle that every arrested citizen has a right to be either charged or freed. Democracies are not supposed to allow imprisonment without trial."
+
+Out of the frying pan of terror – but Blair will end up facing Labour's fire - The Times.
+"What looked rash on Friday looks astonishingly percipient today. At a stroke the Liberal Democrats and, more importantly, the Conservatives are at cross-purposes with the electorate on probably the most cutting issue of the decade."
+
+Stand firm - The Sun
+"ATTEMPTS to strengthen the hand of our police against terrorists are under attack. “Human rights” champions, woolly MPs and leftie judges want to scrap plans for holding terror suspects without charge for 90 days."
+
+
+===== Just post 90-day detention vote =====
+A failure of political judgment - The Guardian
+"the wounding conclusion from Wednesday's defeat concerns Mr Blair's judgment, rather than his authority."
+
+For country and conscience - The Times
+“Tony Blair no longer commands. Teflon Tony is dead.” The Prime Minister now needs to accept that this is the case and ponder how to adapt to a world where policies could regularly get stuck on the political pan."
+
+^ http://www.theyworkforyou.com/debates/?id=2006-02-15b.1428.2#g1455.0

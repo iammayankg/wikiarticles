@@ -1,0 +1,41 @@
+The Worldwide Incidents Tracking System (WITS) was a publicly accessible terrorism database operated by the National Counterterrorism Center (NCTC). NCTC discontinued WITS in April 2012.
+
+
+== ContentEdit ==
+As of September 2010, WITS contained over 68,939 records.
+The database was organized in the following dimensions:
+City
+Country
+Damage
+Event Type
+Facilities Type
+Geocode Anchor
+Geocode Country
+Geocode Province
+Group Type
+ICN: An incident number of form YYYYMMDDXX
+Incident Group Type
+Incident Subject
+Incident Summary
+Incident Year
+Included Facility Defining Characteristics
+Included Facility Nationalities
+Included Facility Targeted Characteristics
+Included Group Nationalities
+Perpetrator Confidence
+Provinces States
+Related Term
+Victim Incident Country
+WITS Child Record ParentID
+Weapon
+
+
+== ReferencesEdit ==
+
+
+== See alsoEdit ==
+Global Terrorism Database (GTD)
+
+
+== External linksEdit ==
+WITS Home

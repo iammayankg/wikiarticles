@@ -1,0 +1,63 @@
+Avoiding dangerous climate change (also expressed with equivalent terms such as preventing dangerous anthropogenic interference with the climate system) is a major objective of both scientific research and in international governmental development of climate policy.
+The concept expressed by these phrases was central to the "IPCC Second Assessment: Climate Change 1995" published by the International Panel on Climate Change. In 2002, the United Nations Framework Convention on Climate Change (UNFCCC), an international organization established by treaty in 1992, incorporated the concept as the focus of its formal Framework Convention policy:
+"ARTICLE 2. OBJECTIVE. The ultimate objective of this Convention and any related legal instruments that the Conference of the Parties may adopt is to achieve, in accordance with the relevant provisions of the Convention, stabilization of greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic interference with the climate system. Such a level should be achieved within a time-frame sufficient to allow ecosystems to adapt naturally to climate change, to ensure that food production is not threatened and to enable economic development to proceed in a sustainable manner." (Emph. added)
+Avoiding dangerous climate change and its equivalent terms have continued in common usage in the policy community, scientific literature and news media, and in 2005 a scientific conference (see below) focused on the concept and used the phrase in its title. The problem that arises is to decide what level of interference would lead to "dangerous" change. The relevance of the issue is increasing as existing Earth System Models project that as early as 2020 in tropical areas, 2047 on average globally, the Earth's surface temperature could move beyond historical analogs, potentially impacting over 3 billion people and the most diverse places on Earth.
+
+
+== Setting temperature rise goals ==
+Limiting the average global surface temperature increase of 2°C (3.6°F) over the pre-industrial average has, since the 1990s, been commonly regarded as an adequate means of avoiding dangerous climate change, in science and policy making. However, recent science has shown that the weather, environmental and social impacts of 2°C rise are much greater than the earlier science indicated, and that impacts for a 1°C rise are now expected to be as great as those previously assumed for a 2°C rise. In a July 2011 speech, climate scientist Kevin Anderson explained that for this reason, avoiding dangerous climate in the conventional sense is no longer possible, because the temperature rise is already close to 1°C, with effects formerly assumed for 2°C. Moreover, Anderson's presentation demonstrates reasons why a temperature rise of 4°C by 2060 is a likely outcome, given the record to date of action on climate, economic realities, and short window of time remaining for limiting the average surface temperature rise to 2°C or even 3°C. He also states that a 4°C rise would likely be an unstable state, leading to further increases in following decades regardless of mitigation measures that may be taken.
+The consequences of failing to avoid dangerous climate change have been explored in two recent scientific conferences: the 4 degrees and beyond climate change conference held at Oxford University in 2009; and the Four Degrees Or More? Australia in a Hot World held at the University of Melbourne in July 2011.
+
+
+== Symposium on avoiding dangerous climate change ==
+In 2005 an international conference called "Avoiding Dangerous Climate Change: A Scientific Symposium on Stabilisation of Greenhouse Gases" examined the link between atmospheric greenhouse gas concentration, and the 2 °C (3.6 °F) ceiling on global warming thought necessary to avoid the most serious effects of global warming. Previously, this had generally been accepted as being 550 ppm
+The conference took place under the United Kingdom's presidency of the G8, with the participation of around 200 'internationally renowned' scientists from 30 countries. It was chaired by Dennis Tirpak and hosted by the Hadley Centre for Climate Prediction and Research in Exeter, from 1 February to 3 February.
+
+
+=== Objectives ===
+
+The conference was called to bring together the latest research into what would be necessary to achieve the objective of the 1992 United Nations Framework Convention on Climate Change:
+to achieve, in accordance with the relevant provisions of the Convention, stabilization of greenhouse gas concentrations in the atmosphere at a level that would prevent dangerous anthropogenic interference with the climate system.
+It was also intended to encourage further research in the area. An initial assessment of the subject had been included in the 2001 IPCC Third Assessment Report; however, the topic had received relatively little international discussion.
+Specifically, the conference explored three issues:
+For different levels of climate change what are the key impacts, for different regions and sectors and for the world as a whole?
+What would such levels of climate change imply in terms of greenhouse gas stabilisation concentrations and emission pathways required to achieve such levels?
+What options are there for achieving stabilisation of greenhouse gases at different stabilisation concentrations in the atmosphere, taking into account costs and uncertainties?
+
+
+=== The symposium's conclusions ===
+Among the conclusions reached, the most significant was a new assessment of the link between the concentration of greenhouse gases in the atmosphere and the increase in global temperature levels. Some researchers have argued that the most serious consequences of global warming might be avoided if global average temperatures rose by no more than 2 °C (3.6 °F) above pre-industrial levels (1.4 °C above present levels). It had generally been assumed that this would occur if greenhouse gas concentrations rose above 550 ppm carbon dioxide equivalent by volume. This concentration was, for example, informing government in certain countries, including the European Union.
+The conference concluded that, at the level of 550 ppm, it was likely that 2 °C would be exceeded, according to the projections of more recent climate models. Stabilising greenhouse gas concentrations at 450 ppm would only result in a 50% likelihood of limiting global warming to 2 °C, and that it would be necessary to achieve stabilisation below 400 ppm to give a relatively high certainty of not exceeding 2 °C.
+The conference also claimed that, if action to reduce emissions is delayed by 20 years, rates of emission reduction may need to be 3 to 7 times greater to meet the same temperature target.
+Proceedings of the symposium were published in 2011, in an open-access special issue of the Royal Society's Philosophical Transactions A.
+
+
+=== Reactions to the symposium ===
+As a result of changing opinion on the "safe" atmospheric concentration of greenhouse gases, to which this conference contributed, the UK Government changed the target in the Climate Change Act from 60% to 80% by 2050.
+
+
+== See also ==
+
+4 Degrees and Beyond International Climate Conference
+Action on climate change
+Climate change mitigation scenarios
+Environmental impact of aviation
+Hypermobility (travel)
+Index of climate change articles
+
+
+== References ==
+
+
+== Further reading ==
+Hans Joachim Schellnhuber, Wolfgang Cramer, Nebojsa Nakicenovic, Tom Wigley, and Gary Yohe, eds. (February 2006), Avoiding Dangerous Climate Change (PDF), Cambridge University Press, doi:10.2277/0521864712, ISBN 978-0-521-86471-8, archived from the original (PDF) on 26 September 2007 
+
+
+== External links ==
+Avoiding Dangerous Climate Change. Symposium held on 1 to 3 February 2005 in Exeter, UK, UK Met Office, archived from the original on 20 February 2008 
+Tyndall Centre - A strategic assessment of scientific and behavioural perspectives on 'dangerous' climate change
+RSPB - Keeping below 2 degrees: Avoiding dangerous climate change
+WWF-UK - 2°C Is Too Much! Evidence and Implications of Dangerous Climate Change in the Arctic
+Netherlands Environmental Assessment Agency - Meeting the European Union 2°C climate target: global and regional emission implications
+Dr. James Hansen, Climate Scientist's web page
+AVOID 2 - A UK government-funded research programma on avoiding dangerous climate change

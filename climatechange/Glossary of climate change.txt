@@ -1,0 +1,197 @@
+This article serves as a glossary of climate change terms. It lists terms that are related to global warming.
+
+
+== 0-9 ==
+100,000-year problem - a discrepancy between the climate response and the forcing from the amount of incoming solar radiation.
+
+
+== A ==
+Adaptation - in the climate change context, adaptation implies an adjustment in natural or human systems in response to a changing/changed climate.
+Additionality - in the context of a project funded by carbon offsets, the additionality is the reduction in greenhouse gas emissions that is in addition to what would have resulted in the absence of the carbon offset funding.
+Albedo - An index of the "reflectiveness" - a way of quantifying how much radiation is reflected back, as opposed to that absorbed. Low albedo ~0 absorb most of the radiation and high ~1 reflect it.
+Anoxic event - a period when the Earth's oceans are free of oxygen below the surface layer.
+Antarctic oscillation (AAO) - a low-frequency mode of atmospheric variability of the southern hemisphere.
+Anthropogenic - literally, man-made.
+Anthropogenic climate change - climate change with the presumption of human influence, usually warming.
+Anthropogenic global warming (AGW) – global warming with the presumption of human influence.
+Anti-greenhouse effect - the cooling effect an atmosphere has on the ambient temperature of the planet.
+Arctic amplification - The effect of sea ice melting replace high albedo ice with low albedo sea that absorb the radiation from the sun get warmer and melt more ice.
+Arctic oscillation (AO) - the dominant pattern of non-seasonal sea-level pressure (SLP) variations north of 20 degrees N, and it is characterized by SLP anomalies of one sign in the Arctic and anomalies of opposite sign centered about 37-45 degrees N. See also NAO.
+Arctic shrinkage - the marked decrease in Arctic sea ice and the observed melting of the Greenland Ice Sheet in recent years.
+Atlantic Multidecadal Oscillation (AMO) - a hypothesised mode of natural variability occurring in the North Atlantic Ocean and which has its principle expression in the sea surface temperature (SST) field.
+Atmospheric sciences - an umbrella term for the study of the atmosphere, its processes, the effects other systems have on the atmosphere, and the effects of the atmosphere on these other systems.
+Atmospheric window - refers to those parts of the electromagnetic spectrum that are, with the Earth's atmosphere in its natural state, not absorbed at all.
+Attribution of recent climate change - the study of the causes of climate change.
+
+
+== B ==
+Black carbon - an aerosol or particulate (see also radiative forcing).
+
+
+== C ==
+Carbon cycle - the biogeochemical cycle by which carbon is exchanged between the biosphere, geosphere, hydrosphere, and atmosphere of the Earth.
+Carbon diet - the act of reducing the output of CO2 to reduce impact on the environment.
+Carbon footprint - the total set of greenhouse gas emissions caused by an organization, event or product.
+Carbon offset - a mechanism for individuals and businesses to neutralize rather than actually reduce their greenhouse gas emissions, by purchasing the right to claim someone else's reductions as their own.
+Carbon sequestration - proposals for removing CO2 from the atmosphere, or for preventing CO2 from fossil fuel combustion from reaching the atmosphere.
+Carbon sink - a natural or artificial reservoir that accumulates and stores some carbon-containing chemical compound for an indefinite period
+Carbon tax - a tax on energy sources which emit carbon dioxide.
+Clathrate gun hypothesis - the hypothesis that melting methane clathrates could trigger runaway or very severe global warming.
+Climate - the average and variations of weather in a region over long periods of time.
+Climate change - changes of climate in general, usually with no presumption of human influence. Note, however, that there is one important exception to this: the UNFCCC defines "climate change" as anthropogenic.
+Climate change feedback - a natural phenomenon that may increase or decrease the warming that eventually results from a change in radiative forcing.
+Climate commitment - how much future warming is "committed", even if greenhouse gas levels do not rise, due to thermal inertia, mainly of the oceans.
+Climate ethics - an area of research that focuses on the ethical dimensions of climate change.
+Climate forcing - an energy imbalance imposed on the climate system either externally or by human activities.
+Climate Justice - term used for viewing climate change as ethical issue, and considering how its causes and effects relate to concepts of justice
+Climate legislation - legislation dealing with regulation of greenhouse gas emissions.
+Climate refugee - a displaced person caused by climate change induced environmental disasters.
+Climate resilience - the capacity for a socio-ecological system to: (1) absorb stresses and maintain function in the face of external stresses imposed upon it by climate change and (2) adapt, reorganize, and evolve into more desirable configurations that improve the sustainability of the system, leaving it better prepared for future climate change impacts.
+Climate sensitivity - how responsive the temperature of the climate system is to a change in radiative forcing. Also: the temperature change in °C associated with a doubling of the concentration of CO2 in atmosphere (as the single most important factor of radiative forcing).
+Climate variability - climate change, with no presumption of cause.
+Climatology (Climate Science) - the study of climate, scientifically defined as weather conditions averaged over a period of time.
+
+
+== D ==
+Desertification - the degradation of land in arid and dry sub-humid areas, resulting primarily from natural activities and influenced by climatic variations
+Detection and attribution - see attribution of recent climate change
+
+
+== E ==
+Eco-efficiency - creating more goods and services while using fewer resources and creating less waste and pollution.
+Earth's atmosphere - a layer of gases surrounding the planet Earth and retained by the Earth's gravity.
+Earthshine - sunlight reflected from Earth and illuminating the dark side of the Moon.
+Ecotax - fiscal policy that introduces taxes intended to promote ecologically sustainable activities via economic incentives.
+Ecosystem Services - Benefits humans get from a multitude of resources and processes that are supplied by natural ecosystems.
+El Niño-Southern Oscillation (ENSO) - a set of specific interacting parts of a single global system of coupled ocean-atmosphere climate fluctuations that come about as a consequence of oceanic and atmospheric circulation.
+Emission intensity - the average emission rate of a given pollutant from a given source relative to the intensity of a specific activity; for example grams of carbon dioxide released per megajoule of energy produced, or the ratio of greenhouse gas emissions produced to GDP.
+Emission standards - requirements that set specific limits to the amount of pollutants that can be released into the environment
+Enteric fermentation - fermentation that takes place in the digestive systems of ruminant animals.
+Environmental crime - crime against environmental legislation that is liable for prosecution.
+
+
+== F ==
+Feedbacks - either an amplification (positive feedback) or a reduction (negative feedback) of the rate of global warming caused by its effects.
+Fossil fuel - fossil source fuels, that is, hydrocarbons found within the top layer of the earth’s crust.
+Freon - DuPont's trade name for its odorless, colorless, nonflammable, and noncorrosive chlorofluorocarbon and hydrochlorofluorocarbon refrigerants, which are used in air conditioning and refrigeration systems.
+
+
+== G ==
+Glacial earthquake -large scale tremblors that occur in glaciated areas where the glacier moves faster than one kilometer per year.
+Global cooling - conjecture during the 1970s of imminent cooling of the Earth's surface and atmosphere along with a posited commencement of glaciation.
+Global climate model, also General Circulation Model or GCM - a computer model of the world's climate system, including the atmosphere and oceans.
+Global dimming - the observed decrease in surface insolation, that may have recently reversed.
+Global warming (GW) - usually: the warming trend over the past century or so; also: any period in which the temperature of the Earth's atmosphere increases; also the theory of such changes.
+Global warming controversy - socio-political issues surrounding the theory of global warming.
+Global warming period - any period in which the temperature of the Earth's atmosphere increases.
+Global warming potential - a measure of how much a given mass of greenhouse gas is estimated to contribute to global warming.
+Greenhouse effect - both natural and anthropogenic
+Greenhouse gas - gasses that cause the greenhouse effect.
+Greenhouse gas inventory - a type of emission inventory that includes greenhouse gas emissions from source categories as well as removal by carbon sinks.
+Gulf Stream - a powerful, warm, and swift Atlantic ocean current that originates in the Gulf of Mexico, exits through the Strait of Florida, and follows the eastern coastlines of the United States and Newfoundland before crossing the Atlantic Ocean.
+
+
+== H ==
+Heiligendamm Process - an initiative that will institutionalize high level dialogue between the G8 countries and the five most important emerging economies, known as the O5 (Outreach 5) composed of China, Mexico, India, Brazil and South Africa; and the establishment of a common G5 + G8 platform at the OECD.
+Historical temperature record - see temperature record.
+Hockey stick graph - reconstructions of Northern Hemisphere or global mean temperature changes during the past 600 to 11,300 years, a name coined for the Mann, Bradley and Hughes 1999 (MBH99) reconstruction.
+Hockey stick controversy - disputes over these reconstructions.
+Holocene - a geological period, which began approximately 11,550 calendar years BP (about 9600 BC) and continued to the Anthropocene.
+Holocene Climatic Optimum - a warm period during roughly the interval 9,000 to 5,000 years B.P.
+
+
+== I ==
+Ice age - a period of long-term reduction in the temperature of Earth's climate, resulting in an expansion of the continental ice sheets, polar ice sheets and alpine glaciers.
+Ice core - a core sample from the accumulation of snow and ice over many years that have re-crystallized and have trapped air bubbles from previous time periods.
+Insolation - amount of solar radiation reaching the surface of the Earth.
+Invasive Species - introduced species that adversely affect the habitats and bioregions they invade economically, environmentally, and/or ecologically.
+Irradiance - amount of electromagnetic radiation reaching a surface, measured in watts per square meter.
+Instrumental temperature record - shows the fluctuations of the temperature of the atmosphere and the oceans as measured by temperature sensors. The longest-running quasi-global record starts in 1850.
+Interdecadal Pacific Oscillation (IPO) - a cycle of 15–30 years between warm or cool waters in the north and south Pacific.
+
+
+== K ==
+Keeling Curve - a graph showing the variation in concentration of atmospheric carbon dioxide since 1958.
+Kyoto Protocol - modification to UNFCCC. See also Post–Kyoto Protocol negotiations on greenhouse gas emissions.
+
+
+== L ==
+Little Ice Age - a period of cooling occurring after a warmer era known as the Medieval climate optimum.
+
+
+== M ==
+Magnetosphere - the region around an astronomical object in which phenomena are dominated or organized by its magnetic field.
+Maunder Minimum - the name given to the period roughly from 1645 to 1715, when sunspots became exceedingly rare, as noted by solar observers of the time.
+Mauna Loa - home to the longest instrumental CO2 record.
+Medieval climate optimum - warm period from about the 10th century to about the 14th century.
+Meteorology - the interdisciplinary scientific study of the atmosphere that focuses on weather processes and forecasting.
+Methane - a greenhouse gas released by enteric fermentation in livestock, rice production, and fossil fuel extraction.
+Mitigation of global warming - involves taking actions to reduce greenhouse gas emissions and to enhance sinks aimed at reducing the extent of global warming
+Mode of variability - a pattern of climate change, usually oscillatory, with specific regional effects
+
+
+== N ==
+Nitrous oxide (N2O) - a potent greenhouse gas produced primarily in agriculture, particularly by the livestock sector.
+Nonradiative forcing - a climate forcing that creates an energy imbalance that does not immediately involve radiation.
+North Atlantic Deep Water - one of the water masses of the ocean.
+North Atlantic oscillation - an atmospheric climate mode.
+
+
+== O ==
+Ocean planet - the opposite concept of Snowball Earth.
+Ozone depletion - not strongly connected to climate change
+
+
+== P ==
+Pacific decadal oscillation (PDO) - a 23-year pattern of warm or cool water in the north Pacific.
+Paleocene–Eocene Thermal Maximum (PETM) - a sudden warming event that fundamentally altered geological and biological aspects of the planet.
+Paleoclimatology - the study of climate change taken on the scale of the entire history of Earth.
+Polar amplification - greater temperature increases in the Arctic than in the earth as a whole) is a result of the collective effect of feedbacks and other processes." It does not apply to the Antarctic, because the Southern Ocean acts as a heat sink.
+Polar city - a proposed human refuge located in northern regions of the Earth, and in Tasmania, New Zealand and the Antarctica, where people might have to live in order to survive major global warming "events" in the far distant future, also dubbed Lovelock Retreats.
+Proxy - a variable that can be related to one of interest (e.g. tree rings can be proxies for temperature variations).
+
+
+== R ==
+Radiative forcing - is (loosely) defined as the change in net irradiance at the tropopause
+Removal unit - a tradable carbon credit or 'Kyoto unit' representing an allowance to emit one metric tonne of greenhouse gases absorbed by a removal or Carbon sink activity in an Annex I country
+Runaway greenhouse effect - somewhat ill-defined term, associated with the idea of large irreversible temperature rises
+
+
+== S ==
+Slash and burn - form of deforestation used to clear fields for agricultural use.
+Solar variation - changes in the amount of radiant energy emitted by the Sun.
+Solar wind - stream of charged particles ejected from the upper atmosphere of the Sun.
+Sunspot - a region on the Sun's surface (photosphere) that is marked by a lower temperature than its surroundings and has intense magnetic activity, which inhibits convection, forming areas of low surface temperature. Sunspot activity is subject to research on climate change.
+
+
+== T ==
+Thermohaline circulation - the global density-driven circulation of the oceans.
+TEX-86 - a paleothermometer based on the composition of membrane lipids of the marine picoplankton Crenarchaeota.
+Thermocline - (sometimes metalimnion) is a layer within a body of water or air where the temperature changes rapidly with depth.
+Tipping point (climatology) - the point at which change due to human activity brings about sufficient new processes in nature to make any human reversal of the change impossible.
+The Real Global Warming Disaster - a 2009 book by Christopher Booker that examines skeptically the subject of man made global warming.
+Thunderstorm - a storm with lighting and thunder.
+
+
+== U ==
+Urban heat island - a metropolitan area which is significantly warmer than its surroundings.
+
+
+== See also ==
+
+Climate change acronyms
+Glossary of environmental science
+List of climate change topics
+Scientific opinion on climate change
+Severe weather terminology (Canada)
+Severe weather terminology (United States)
+Timeline of environmental history
+
+
+== References ==
+
+
+== External links ==
+IPCC - glossary
+Environmental Terminology Discovery Service — EEA
+(multilingual environmental glossary in 28 languages: ar, bg, cs, da, de, el, en, es, et, eu, fi, fr, hu, is, it, lt, lv, mt, nl, no, pl, pt, ro, ru, sk, sl, sv, tr)

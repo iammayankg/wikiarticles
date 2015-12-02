@@ -1,0 +1,102 @@
+There are three related types of Neolithic earthwork that are all sometimes loosely called henges. The essential characteristic of all three types is that they feature a ring bank and ditch, but with the ditch inside the bank rather than outside. Due to the poor defensive utility of an enclosure with an external bank and an internal ditch, henges are not considered to have served a defensive purpose (cf. circular rampart). The three types are as follows, with the figure in brackets being the approximate diameter of the central flat area:
+Henge (> 20 m). The word henge refers to a particular type of earthwork of the Neolithic period, typically consisting of a roughly circular or oval-shaped bank with an internal ditch surrounding a central flat area of more than 20 m in diameter. There is typically little if any evidence of occupation in a henge, although they may contain ritual structures such as stone circles, timber circles and coves. Henge monument is sometimes used as a synonym for henge. Henges sometimes, but by no means always, featured stone or timber circles, and circle henge is sometimes used to describe these structures. The three largest stone circles in Britain (Avebury, the Great Circle at Stanton Drew stone circles and the Ring of Brodgar) are each in a henge. Examples of henges without significant internal monuments are the three henges of Thornborough Henges. Although having given its name to the word henge, Stonehenge is an atypical henge in that the ditch is outside the main earthwork bank.
+Hengiform monument (5 ≤ diameter ≤ 20 m). Like an ordinary henge except the central flat area is between 5 and 20 m in diameter, they comprise a modest earthwork with a fairly wide outer bank. Mini henge or Dorchester henge are sometimes used as synonyms for hengiform monument. An example is the Neolithic site at Wormy Hillock Henge.
+Henge enclosure (> 300 m). A Neolithic ring earthwork with the ditch inside the bank, with the central flat area having abundant evidence of occupation and usually being more than 300 m in diameter. Some true henges are as large as this (e.g., Avebury), but lack evidence of domestic occupation. Super henge is sometimes used as a synonym for a henge enclosure. Examples of henge enclosures are Durrington Walls and Mount Pleasant Henge.
+
+
+== EtymologyEdit ==
+The word henge is a backformation from Stonehenge, the famous monument in Wiltshire. Stonehenge is not a true henge as its ditch runs outside its bank, although there is a small extant external bank as well. The term was first coined in 1932 by Thomas Kendrick, who later became the Keeper of British Antiquities at the British Museum.
+
+
+== FormsEdit ==
+
+Henges may be classified as follows:
+Class I henges, which have a single entrance created from a gap in the bank;
+Class II henges which have two entrances, diametrically opposite each other;
+Class III henges, which have four entrances, facing each other in pairs.
+Sub groups exist for these when two or three internal ditches are present rather than one. Henges are usually associated with the Late Neolithic or Early Bronze Age, and especially with the pottery of this period: Grooved Ware, Impressed Wares (formerly known as Peterborough Ware), and Beakers. Sites such as Stonehenge also provide evidence of activity from the later Bronze Age Wessex culture.
+Henges often contain evidence of a variety of internal features, including timber or stone circles, pits, or burials, which may pre- or post-date the henge enclosure. A henge should not be confused with a stone circle within it, as henges and stone circles can exist together or separately. At Arbor Low in Derbyshire, all the stones except one are laid flat and do not seem to have been erected, as no stone holes have been found. Elsewhere, often only the stone holes remain to indicate a former circle.
+Some of the best-known henges are at:
+Avebury, about 20 miles (32 km) north of Stonehenge on Salisbury Plain, in Wiltshire
+Knowlton Circles henge complex in Dorset
+Maumbury Rings in Dorset (later reused as a Roman amphitheatre and then a Civil War fort)
+Mayburgh Henge in Cumbria
+The Ring of Brodgar in Orkney
+Thornborough Henges complex in Yorkshire
+Henges sometimes formed part of a ritual landscape or complex, with other Neolithic and Bronze Age monuments inside and outside the henge. Earlier monuments associated with a later henge might include Neolithic monuments such as a cursus (e.g., at Thornborough Henges the central henge overlies the cursus), or a long barrow such as the West Kennet Long Barrow at Avebury, Wiltshire, or even, as in the case of Stonehenge, Mesolithic post holes. Later monuments added after the henge was built might include Bronze Age cairns as at Arbor Low. Examples of such ritual landscapes are:
+Balfarg in Fife, Scotland
+Dunragit archaeological excavation site in Wigtownshire
+Heart of Neolithic Orkney, the UNESCO World Heritage Site on the Mainland, one of the islands of Orkney, Scotland
+Stonehenge, Avebury and Associated Sites, the UNESCO World Heritage Site located in Wiltshire, England
+already mentioned: Arbor Low, Knowlton Circles, Stanton Drew stone circles, and Thornborough Henges
+Burials have been recorded at a number of excavated henges, both pre-dating the henge and as a result of secondary reuse. For examle:
+At Avebury, at least two very disturbed inhumations were found in the central area
+Cairnpapple and North Mains both had burials that pre-date the henges, as well as post-date them
+At King Arthur's Round Table, Cumbria, a cremation trench lay within the monument
+At Woodhenge, a central burial of a child was interpreted by its excavators as a dedicatory offering
+At Maxey, phosphate surveys suggest that burials may also have been present within this monument
+
+
+== Origin and distributionEdit ==
+
+Efforts to provide a direct lineage for the henge from earlier enclosures have not been conclusive. Their chronological overlap with older structures makes it difficult to classify them as a coherent tradition. They seem to take the concept of creating a space separate from the outside world one step further than the causewayed enclosure, and they focus attention on an internal point. In some cases, the construction of the bank and ditch was a stage that followed other activity on the site. At Balfarg, North Mains and Cairnpapple, for example, earlier cremations and deliberate smashing of pottery predate the enclosure.
+Concentrations of henges occur over much of Britain. Orkney (Cunliffe 2001) and Wessex (Burl 1969) have both been suggested as the original provenance of the monument type; however, others remain unconvinced (Barclay 2005). Unlike earlier enclosure monuments, henges were not usually built on hilltops but on low-lying ground, often close to watercourses and good agricultural land.
+Some scholars, such as the editors of the 1982 edition of the Penguin Dictionary of Archaeology (Bray and Trump, 1982), have claimed that henges are unique to the British Isles. They state that similar, much earlier, circles on the Continent, such as Goseck circle (which has no bank in any case), and later ones such as Goloring are not proper "henges". But The Penguin Archaeological Guide (Bahn, 2001) does not comment on geographical locations for henges.
+
+Julian Cope, in The Megalithic European, proposes that the henge was a regional development from the Europe-wide causewayed enclosure. He notes it appeared following a cultural upheaval in around 3000 BC, which inspired the peoples of Neolithic Europe to develop more independently. He notes the 'rondel enclosures' of Bavaria's Isar Valley, which according to investigations by the German archaeologist R. A. Maier, "drew comparisons with the henge monuments and causewayed enclosures of the British Isles." Although still with a multiple-causewayed ditch and entrances at cardinal points, the roundels are described by John Hodgson (2003) as not being positioned with defensive aims in mind. The largest, at Kothingeichendorf, appeared to be "midway between a henge and a causewayed enclosure".
+Alasdair Whittle (2005) also views the development of the henge as a regional variation within a European tradition that included a variety of ditched enclosures. He notes that henges and the grooved ware pottery often found at them are two examples of the British Neolithic not found on the Continent. Caroline Malone (2001) also states that henges did not occur in the rest of Western Europe, but they developed from a broader tradition of enclosure to become "a phenomenon of the British Isles, a native tradition with sophisticated architecture and calendrical functions."
+
+
+== InterpretationEdit ==
+Henges may have been used for rituals or astronomical observation rather than day-to-day activity. That their ditches are located inside their banks indicates that they were not used for defence, and that the barrier of the earthworks was more likely symbolic than functional. Following arguments presented for Irish Iron Age enclosures, Barclay suggested that they are 'defensive': that the ditch and bank face something 'dangerous' inside the enclosure. He has also suggested that the considerable range of things surrounded by the earthworks, and the very long date range, are because henges were designed mainly to enclose pre-existing ceremonial sites that were seen as 'ritually charged' and therefore dangerous to people. It has been conjectured that whatever took place inside the enclosures was intended to be separate from the outside world and perhaps known only to select individuals or groups.
+The alignment of henges is a contentious issue. Popular belief is that their entrances point towards certain heavenly bodies. But henge orientation is highly variable and may have been more determined by local topography than by desire for symbolic orientation. Statistical analysis showed that Class I henges have a slight tendency to have an entrance set in the north or north-east quarter. Class II henges generally have their axes aligned approximately south-east to north-west or north-east to south-west.
+It has been suggested that the stone and timber structures sometimes built inside henges were used as solar declinometers to measure the position of the rising or setting sun. These structures by no means appear in all henges and often considerably post-date the henges. Thus they are not necessarily connected with the henge's original function. It has been conjectured that they could have been used to synchronize a calendar to the solar cycle for purposes of planting crops or timing religious rituals. Some henges have poles, stones or entrances that indicate the position of the rising or setting sun during the equinoxes and solstices, while others appear to frame certain constellations. Additionally, many are placed so that nearby hills either mark or do not interfere with such observations. Finally, some henges appear to be placed at particular latitudes. For example, a number are placed at a latitude of 55 degrees north, where the same two markers can indicate the rising and setting sun for both the spring and autumn equinoxes. But as henges are present from the extreme north to the extreme south of Britain, their latitude could not have been of great importance.
+Formalisation is commonly attributed to henges; indications of the builders' concerns in controlling the arrival at, entrance to, and movement within the enclosures. This was achieved through placing flanking stones or avenues at entrances of some henges, or by dividing up the internal space using timber circles. While some were the first monuments to be built in their areas, others were added to already important landscapes, especially the larger examples.
+The concentric nature of many of the internal features, such as the five rings of postholes at Balfarg or the six at Woodhenge, may represent a finer distinction than the inside-out differences suggested by henge earthworks. The ordering of space and the circular movement suggested by the sometimes densely packed internal features indicates a sophisticated degree of spatial understanding.
+
+
+== Hengiform monumentEdit ==
+Hengiform monuments, or mini henges, are distributed throughout England and mainland Scotland (with examples as far north as Caithness), though no examples have been found in Wales. Pits, cremations, postholes, stone-sockets and graves have been found within them, and postholes and cremation pits have also been found to be present close to the site in some cases. They typically have either one entrance or two opposing entrances. In plan, a mini henge can be mistaken for a ploughed-out round barrow, although the former tend to be slightly larger and their earthworks more substantial. As with ordinary henges, they are thought to have served ritual purposes and are thought to be of late Neolithic date.
+
+
+== Henge enclosureEdit ==
+Henge enclosures often contain or lie close to one or more ordinary henges. Finds of animal bone, grooved ware pottery, and evidence of dwellings have been found and coupled with the time and energy needed to build them, it is considered that they must have been important social centres analogous to tribal capitals. Two or four evenly spaced entrances lead through the earthwork to the centre.
+
+
+== See alsoEdit ==
+Archaeoastronomy
+Calendar
+Circular ditches
+Circular rampart
+Dolmen
+European megalithic culture
+Megalith
+Menhir
+Pit alignments
+Sundial
+
+
+== ReferencesEdit ==
+
+Bahn, P.G. (ed.) (2001) The Penguin Archaeological Guide, Penguin, London.
+Barclay, G. J. (2005) The henge and hengiform in Scotland, in Set in stone: new approaches to Neolithic monuments in Scotland, Cummings, V. and Pannett, A. (eds.) Oxbow, Oxford, pp. 81–94.
+Bray, W. and Trump D. (eds.) (1982) The Penguin Dictionary of Archaeology, Penguin, London.
+Burl, A. (1969) 'Henges: internal features and regional groups', Archaeological Journal, 126, pp. 1–28.
+Cunliffe, B. (2001) Facing the Ocean: the Atlantic and its Periphery 8000 BC–AD 1500, Oxford University Press, Oxford.
+Hodgson, J. (2003) Neolithic Enclosures in the Isar Valley, Bavaria in Enclosures and Defences in the Neolithic of Western Europe (Part ii), Burgess, C., Topping, P., Mordant, C. and Maddison, M. (eds.) Oxbow, quoted in Cope, J. (2004) The Megalithic European, Harper Collins, pp. 48–49.
+Malone, C. (2001) Neolithic Britain and Ireland, Tempus, Stroud.
+Whittle, A. (2005) The Neolithic Period in The Archaeology of Britain, Hunter, I. and Ralston, J. (eds.), Routledge, London.
+
+
+== BibliographyEdit ==
+Atkinson, R. J. C. (1951) The henge monuments of Great Britain.
+Thomas, J. (2004) Understanding the Neolithic, Routledge, London.
+
+
+== External linksEdit ==
+Gefrin website Henges in Northumberland including computer animation of Milfield North henge.
+English Heritage website: "henge" defined
+Henge search results from The Megalithic Portal
+http://www.themodernantiquarian.com
+http://henges.no.sapo.pt New Henge Theory – Engineering in Prehistory
+Henge monuments at Digital Digging

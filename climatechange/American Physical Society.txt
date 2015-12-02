@@ -1,0 +1,210 @@
+The American Physical Society (APS) is the world's largest organization of physicists. The Society publishes more than a dozen scientific journals, including the prestigious Physical Review and Physical Review Letters, and organizes more than twenty science meetings each year. APS is a member society of the American Institute of Physics.
+
+
+== HistoryEdit ==
+The American Physical Society was founded on May 20, 1899, when thirty-six physicists gathered at Columbia University for that purpose. They proclaimed the mission of the new Society to be "to advance and diffuse the knowledge of physics", and in one way or another the APS has been at that task ever since. In the early years, virtually the sole activity of the APS was to hold scientific meetings, initially four per year. In 1913, the APS took over the operation of the Physical Review, which had been founded in 1893 at Cornell University, and journal publication became its second major activity. The Physical Review was followed by Reviews of Modern Physics in 1929 and by Physical Review Letters in 1958. Over the years, Phys. Rev. has subdivided into five separate sections as the fields of physics proliferated and the number of submissions grew.
+In more recent years, the activities of the Society have broadened considerably. Stimulated by the increase in Federal funding in the period after the Second World War, and even more by the increased public involvement of scientists in the 1960s, the APS is active in public and governmental affairs, and in the international physics community. In addition, the Society conducts extensive programs in education, science outreach (specifically Physics Outreach), and media relations. APS has 14 divisions and 11 topical groups covering all areas of physics research. There are 6 forums that reflect the interest of its 50,000 members in broader issues, and 9 sections organized by geographical region.
+In 1999, APS Physics celebrated its centennial with the biggest-ever physics meeting in Atlanta. In 2005, APS took the lead role in United States participation in the World Year of Physics, initiating several programs to broadly publicize physics during the 100th anniversary of Albert Einstein's annus mirabilis. Einstein@Home, one of the projects APS initiated during World Year of Physics, is an ongoing and popular distributed computing project.
+
+
+=== Name change proposalEdit ===
+During the summer of 2005, the society conducted an electronic poll, in which the majority of APS members preferred the name American Physics Society. The poll became the motivation for a proposal of a name change promised in the leadership election that year. However, because of legal issues, the planned name change was eventually abandoned by the APS Executive Board.
+To promote public recognition of APS as a physics society, while retaining the name American Physical Society, the APS Executive Board adopted a new logo incorporating the phrase "APS Physics." General use of APS Physics to refer to APS or the American Physical Society is encouraged. The new APS Physics logo was designed by Kerry G. Johnson.
+Marvin Cohen, LBNL Faculty Senior Scientist, University Professor of Physics, University of California, Berkeley, who was APS President in November 2005, when the logo was approved by the Executive Board, said, "I like the logo. At least now when you are in an elevator at an APS meeting and someone looks at your badge, they won't ask you about sports."
+
+
+== APS journalsEdit ==
+
+The American Physical Society publishes 11 international research journals and an open-access on-line news and commentary website Physics.
+Physical Review Letters (PRL)
+Reviews of Modern Physics (RMP)
+Physical Review A (PRA): Atomic, molecular and optical physics.
+Physical Review B (PRB): Condensed matter and materials physics.
+Physical Review C (PRC): Nuclear physics.
+Physical Review D (PRD): Particles, fields, gravitation, and cosmology.
+Physical Review E (PRE): Statistical, nonlinear, and soft matter physics.
+Physical Review X (PRX): Open access; pure, applied, and interdisciplinary physics.
+Physical Review Applied (PRApplied): Experimental and theoretical applications of physics.
+Physical Review Special Topics: Accelerators and Beams (PRST-AB): Open access; accelerator science and technology.
+Physical Review Special Topics: Physics Education Research (PRST-PER): Open access; experimental and theoretical research on physics education.
+All members of APS receive the monthly publication Physics Today, published by the American Institute of Physics (AIP).
+
+
+== APS unitsEdit ==
+The American Physical Society has 44 units (divisions, forums, topical groups and sections) that represent the wide range of interests of the physics community.
+
+
+=== DivisionsEdit ===
+Atomic, Molecular & Optical Physics (DAMOP): The objective of the division is the promotion of the fundamental research on atoms, simple molecules, electrons and light, and their interactions. Historically, this is the oldest division of the American Physical Society. It was created in 1943. The division manages a number of prestigious awards for AMO scientists at various stages of their careers, such as the Davisson-Germer Prize in Atomic or Surface Physics, Rabi Prize in AMO Physics, Outstanding Doctoral Thesis Research in AMO Physics, Herbert P. Broida Prize, etc. It also organizes annual DAMOP Meetings attended by many leading AMO researchers, both from the United States and abroad.
+Astrophysics (DAP)
+Biological Physics (DBIO):With over 2,000 members, the division is the second largest learned society in the world devoted to biological physics, following the Biophysical Society. The objective of the division is the advancement and dissemination of knowledge on the broad interface of physics and biology. This includes studying biological phenomena with physics tools and identifying new physics questions within biological contexts. The division supports a program of over 500 presentations at the annual March Meeting of the APS, on topics ranging from protein biophysics, to neuroscience and evolution. It promotes research and development of biological physics, enhanced the standing of the field, and recognizes important contributions to the field, such as by awarding the Max Delbruck Prize in biological physics.
+Chemical Physics (DCP)
+Computational Physics (DCOMP): The division has more than 2,000 members, and the objective of the division is the advancement and dissemination of knowledge regarding the use of computers in physics research and education. This includes, among other areas, their application to experiments, theory, and education as well as the application of physics to the development of computer technology. This division provides to its members an opportunity for coordination and a forum for discussion and communication. In addition, the division promotes research and development in computational physics; enhances prestige and professional standing of its members; encourages scholarly publication; and promotes international cooperation in these activities.
+Condensed Matter Physics (DCMP)
+Fluid Dynamics (DFD)
+Laser Science (DLS)
+Materials Physics (DMP)
+Nuclear Physics (DNP)
+Particles and Fields (DPF)
+Physics of Beams (DPB)
+Plasma Physics (DPP)
+Polymer Physics (DPOLY)
+
+
+=== ForumsEdit ===
+Education (FEd)
+Graduate Student Affairs (FGSA)
+History of Physics (FHP)
+Industrial and Applied Physics (FIAP)
+International Physics (FIP)
+Outreach and Engaging the Public (FOEP)
+Physics and Society (FPS)
+
+
+=== SectionsEdit ===
+California-Nevada Section (CAL)
+Four Corners (4CS)
+Mid-Atlantic (MAS)
+New England (NES)
+New York State (NYSS)
+Northwest (NWS)
+Ohio-Region (OSAPS)
+Prairie Section (PSAPS)
+Southeastern (SESAPS)
+Texas (TSAPS)
+
+
+=== Topical groupsEdit ===
+APS has the following topical groups:
+Energy Research and Applications (GERA)
+Few-Body Systems (GFB)
+Gravitation (GGR)
+Hadronic Physics (GHP)
+Instrument and Measurement Science (GIMS)
+Magnetism (GMAG)
+Physics Education Research (GPER)
+Plasma Astrophysics (GPAP)
+Precision Measurement & Fundamental Constants (GPMFC)
+Physics of Climate (GPC)
+Quantum Information (GQI)
+Shock Compression of Condensed Matter (SHOCK)
+Soft Matter (GSOFT)
+Statistical and Nonlinear Physics (GSNP)
+
+
+== ProgramsEdit ==
+
+
+=== Physics Teacher Education CoalitionEdit ===
+The Physics Teacher Education Coalition (PhysTEC) is a joint project of the American Physical Society and the American Association of Physics Teachers, which helps universities transform their physics teacher education programs into national models. PhysTEC Supported Sites develop their physics teacher preparation programs by implementing a set of Key Components that project leaders have identified as critical to success in physics teacher preparation. The broader Coalition is a national network of institutions committed to developing and promoting excellence in physics and physical science teacher preparation.
+
+
+=== APS Bridge ProgramEdit ===
+The APS Bridge Program aims to increase the number of underrepresented minority students that earn doctoral degrees in physics. The program names doctoral and master's degree-granting institutions as Bridge Sites and awards them National Science Foundation funding to prepare post-baccalaureate students for doctoral studies through additional coursework, mentoring, research, application coaching, and GRE preparation.
+
+
+=== The APS Scholarship for Minority Undergraduate Physics MajorsEdit ===
+Formerly called the APS Corporate Sponsored Scholarship Program for Minority Undergraduate Students Who Major in Physics, this scholarship was established in 1980 with the goal of increasing the number of underrepresented minorities receiving bachelor's degrees in physics. The program provides funding and mentoring to talented students.
+
+
+=== Conferences for Undergraduate Women in PhysicsEdit ===
+APS Conferences for Undergraduate Women in Physics (APS CUWiP) are three-day regional conferences for undergraduate physics majors. The conferences aim to help undergraduate women continue in physics by providing them with the opportunity to experience a professional conference, information about graduate school and professions in physics, and access to other women in physics of all ages with whom they can share experiences, advice, and ideas.
+
+
+=== Career CenterEdit ===
+The APS Careers in Physics website is a gateway for physicists, students, and physics enthusiasts to obtain information about physics jobs and careers. APS Careers in Physics has an award-winning job board, offers professional development advice through its website and blog, and provides links to workshops, grants, and career resources.
+
+
+=== New Faculty WorkshopEdit ===
+APS co-sponsors a set of workshops for new physics and astronomy faculty with the American Association of Physics Teachers and the American Astronomical Society. These workshops reach nearly half of all new physics and astronomy faculty, and introduce them to current pedagogical practices, results of physics education research, and time management skills to help them begin and improve their academic careers.
+
+
+=== CSWP/COM site visitsEdit ===
+The APS has had a long-standing interest in improving the climate in physics departments for underrepresented minorities and women. The Committee on the Status of Women in Physics (CSWP) and the Committee on Minorities (COM) both sponsor site visit programs to universities as well as national labs. 
+
+
+=== Education conferencesEdit ===
+APS is a leading voice for physics education and the society sponsors a variety of conferences dedicating to helping physics education leaders stay on top of the trends in the field. Conferences include the annual Physics Department Chair Conference, a Graduate Education in Physics Conference, and a Distance Education & Online Learning in Physics Workshop. 
+
+
+== Prizes and awardsEdit ==
+
+
+=== Andrei Sakharov PrizeEdit ===
+The Andrei Sakharov Prize was established to recognize "outstanding leadership and/or achievements of scientists in upholding human rights." The prize is named in recognition of the courageous and effective work of the Soviet nuclear physicist Andrei Sakharov on behalf of human rights, to the detriment of his own scientific career and despite the loss of his own personal freedom.
+
+
+=== James Clerk Maxwell PrizeEdit ===
+The James Clerk Maxwell Prize in Plasma Physics was established in 1975 by the Maxwell Technologies, Inc., in honor of the Scottish physicist, James Clerk Maxwell. The prize recognizes outstanding contributions to the field of plasma physics. The prize consists of $10,000 and a certificate citing the contributions made by the recipient. The prize is presented annually.
+
+
+=== Aneesur Rahman Prize for Computational PhysicsEdit ===
+The Aneesur Rahman Prize for Computational Physics was established in 1992 with support from IBM Corporation. IT recognizes outstanding work in computational physics. It is awarded annually with a value of $5000 and is open to scientists of all nationalities. The winner delivers the Rahman lecture.
+
+
+=== David Adler Lectureship Award in the Field of Materials PhysicsEdit ===
+The David Adler Lectureship Award in the Field of Materials Physics is a prize that has been awarded annually by the American Physical Society since 1988. The recipient is chosen for being "an outstanding contributor to the field of materials physics, who is noted for the quality of his/her research, review articles and lecturing." The prize is named after physicist David Adler with contributions to the endowment by friends of David Adler and Energy Conversion Devices, Inc. The winner receives a $5,000 honorarium.
+
+
+=== Edward A. Bouchet AwardEdit ===
+The Edward A. Bouchet Award was established in 1994 by the APS Committee on Minorities in physics to recognize and honor distinguished underrepresented minority physics researchers who have made significant contributions to physics research. This lectureship provides funding for Award recipients to conduct visits to institutions where the impact on minority students is significant, to deliver technical or topical lectures, and in some cases, to conduct informal discussions with faculty and students.
+
+
+=== Fluid Dynamics PrizeEdit ===
+The Fluid Dynamics Prize is a prize that has been awarded annually by the society since 1979. The recipient is chosen for "outstanding achievement in fluid dynamics research". As of 2007 the prize is valued at $10,000. In 2004, the Otto Laporte Award, another APS award on fluid dynamics, was merged into the Fluid Dynamics Prize. 
+
+
+=== J. J. Sakurai PrizeEdit ===
+The J. J. Sakurai Prize for Theoretical Particle Physics is presented by the American Physical Society at its annual April Meeting, and honors outstanding achievement in particle physics theory. The prize, considered one of the most prestigious in physics, consists of a monetary award, a certificate citing the contributions recognized by the award, and a travel allowance for the recipient to attend the presentation. The award is endowed by the family and friends of particle physicist J. J. Sakurai. The prize has been awarded annually since 1985.
+
+
+=== Julius Edgar Lilienfeld PrizeEdit ===
+APS has awarded the Julius Edgar Lilienfeld Prize annually since 1989, excepting 2002. The purpose of the prize is to recognize outstanding contributions to physics. Among the recipients are Michael Berry, Alan Guth, Stephen Hawking, and Frank Wilczek.
+
+
+=== Maria Goeppert Mayer AwardEdit ===
+The Maria Goeppert Mayer Award recognizes and enhances outstanding achievements by women physicists in the early years of their careers and provides opportunities for them to present these achievements to others through public lectures.
+
+
+=== Max Delbruck Prize in Biological PhysicsEdit ===
+The Max Delbruck Prize recognizes and encourage outstanding achievement in biological physics research, and is one of the most prestigious international prizes in biological physics. It is awarded annually with a prize of $10000.
+
+
+=== Davisson–Germer Prize in Atomic or Surface PhysicsEdit ===
+The Davisson–Germer Prize in Atomic or Surface Physics is an annual prize for "outstanding work in atomic physics or surface physics". The prize is named after Clinton Davisson and Lester Germer, who first measured electron diffraction.
+
+
+=== Tom W. Bonner Prize in Nuclear PhysicsEdit ===
+The Tom W. Bonner Prize in Nuclear Physics is an annual prize awarded by the Division of Nuclear Physics. It was established in 1964.
+
+
+=== Oliver E. Buckley Condensed Matter PrizeEdit ===
+The Oliver E. Buckley Condensed Matter Prize is an annual prize with an award of $20,000 for "outstanding theoretical or experimental contributions to condensed matter physics". The prize is named after Oliver Ellsworth Buckley, a former president of AT&T Bell Laboratories, which endowed the prize in 1952.
+
+
+== Statement on global warmingEdit ==
+In 2007, APS adopted an official statement on global warming:
+Emissions of greenhouse gases from human activities are changing the atmosphere in ways that affect the Earth's climate. Greenhouse gases include carbon dioxide as well as methane, nitrous oxide and other gases. They are emitted from fossil fuel combustion and a range of industrial and agricultural processes.
+The evidence is incontrovertible: Global warming is occurring.
+If no mitigating actions are taken, significant disruptions in the Earth’s physical and ecological systems, social systems, security and human health are likely to occur. We must reduce emissions of greenhouse gases beginning now.
+Because the complexity of the climate makes accurate prediction difficult, the APS urges an enhanced effort to understand the effects of human activity on the Earth’s climate, and to provide the technological options for meeting the climate challenge in the near and longer terms. The APS also urges governments, universities, national laboratories and its membership to support policies and actions that will reduce the emission of greenhouse gases.
+In November 2009, 80 current and past members of the American Physical Society presented a letter to the society specifically objecting to the society's position. A few days later, the APS Council overwhelmingly rejected a proposal to replace the climate change statement. On April 18, 2010, the APS reaffirmed the 2007 statement with commentary to provide further support.
+The following individuals resigned their memberships over disagreement with the society's official statement on global warming:
+Ivar Giaever, Winner of the Nobel Prize for Physics in 1973, resigned 13 September 2011.
+Harold Lewis, Emeritus Professor of Physics and former department chairman at the University of California, Santa Barbara, resigned 6 October 2010. His letter argues that APS's cupidity is what is keeping it from changing its opinion on global warming.
+
+"...I am forced, with no pleasure at all, to offer you my resignation from the Society. It is of course, the global warming scam, with the (literally) trillions of dollars driving it, that has corrupted so many scientists, and has carried APS before it like a rogue wave. It is the greatest and most successful pseudoscientific fraud I have seen in my long life as a physicist." 
+
+
+== See alsoEdit ==
+Deutsche Physikalische Gesellschaft
+
+
+== ReferencesEdit ==
+
+
+== External linksEdit ==
+American Physical Society
+Bulletin of the American Physical Society — freely available scientific abstracts presented at general meetings and various unit meetings of APS Physics.
+Finding Aid to the Records of the American Physical Society, 1899-1989 at the Niels Bohr Library & Archives, American Institute of Physics
+Finding Aid to the American Physical Society, Division of Fluid Dynamics Archives, 1946-1991, Special Collections, Linderman Library, Lehigh University

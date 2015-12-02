@@ -1,0 +1,100 @@
+Guaranteed minimum income (GMI) (also called minimum income) is a system of social welfare provision that guarantees that all citizens or families have an income sufficient to live on, provided they meet certain conditions. Eligibility is typically determined by citizenship, a means test, and either availability for the labour market or a willingness to perform community services. The primary goal of a guaranteed minimum income is to reduce poverty. If citizenship is the only requirement, the system turns into a universal basic income.
+
+
+== ElementsEdit ==
+A system of guaranteed minimum income can consist of several elements, most notably:
+a calculation of the social minimum, usually below the minimum wage;
+a social safety net, to help citizens or families without sufficient financial means survive at the social minimum. This may be a transfer or, in some cases, a loan, and is generally conditional to availability for work, performance of community services, some kind of social contract, or commitment to a reintegration trajectory;
+child support by the state;
+student loan and grants;
+state pension for the elderly;
+disability pension for the persons with disability.
+
+
+== Differences between guaranteed minimum income and basic incomeEdit ==
+
+Basic income means the provision of identical payments from a government to all of its citizens. Guaranteed minimum income is a system of payments (perhaps only one) by a government to citizens who fail to meet one or more means tests. While most modern countries have some form of GMI, a basic income is rare.
+
+
+== AdvocatesEdit ==
+The first Muslim caliph, Abu Bakr, introduced a guaranteed minimum standard of income, granting each man, woman, and child ten dirhams annually; this was later increased to twenty dirhams.
+In 1795, American revolutionary Thomas Paine advocated a citizen's dividend to all US citizens as compensation for "loss of his or her natural inheritance, by the introduction of the system of landed property" (Agrarian Justice, 1795).
+French Emperor Napoleon Bonaparte echoed Paine's sentiments and commented that 'man is entitled by birthright to a share of the Earth's produce sufficient to fill the needs of his existence' (Herold, 1955).
+In 1963, Robert Theobald published the book Free Men and Free Markets, in which he advocated a guaranteed minimum income (the origin of the modern version of the phrase).
+In 1966, the Cloward–Piven strategy advocated "overloading" the US welfare system to force its collapse in the hopes that it would be replaced by "a guaranteed annual income and thus an end to poverty".
+In his final book Where Do We Go from Here: Chaos or Community? (1967), Martin Luther King Jr. wrote
+
+I am now convinced that the simplest approach will prove to be the most effective — the solution to poverty is to abolish it directly by a now widely discussed measure: the guaranteed income.
+
+In 1968, James Tobin, Paul Samuelson, John Kenneth Galbraith and another 1,200 economists signed a document calling for the US Congress to introduce in that year a system of income guarantees and supplements.
+In 1973, Daniel Patrick Moynihan wrote The Politics of a Guaranteed Income, in which he advocated the guaranteed minimum income and discussed Richard Nixon's Guaranteed Annual Income (GAI) proposal.
+In 1987, New Zealand's Labour Finance Minister Roger Douglas announced a Guaranteed Minimum Family Income Scheme to accompany a new flat tax. Both were quashed by then Prime Minister David Lange, who sacked Douglas.
+In his 1994 "autobiographical dialog," classical liberal Friedrich Hayek stated: "I have always said that I am in favor of a minimum income for every person in the country".
+In 2013, The Equal Life Foundation published the Living Income Guaranteed Proposal illustrating a practical way to implement and fund a minimum guaranteed income.
+Other modern advocates include Hans-Werner Sinn (Germany), Ayşe Buğra (Turkey), The Green Economics Institute (GEI), and Andrew Coyne (Canada).
+
+
+== FundingEdit ==
+Tax revenues would fund the majority of any GMI proposal. As most GMI proposals seek to create an earnings floor close to or above poverty lines amongst all citizens, the fiscal burden would require equally broad tax sources, such as income taxes or VATs, in order to fund such expenditures. To varying degrees, a GMI might be funded through the reduction or elimination of other social security programs such as unemployment insurance. Though neutral with respect to government finance, Milton Friedman also proposed a GMI in the context of abolishing minimum wages, which he argued unduly distorted labor market economics. The extent to which a GMI is designed to reduce or supplement existing social security programs can be seen as one of the unresolved cleavages amongst GMI advocates; more economically conservative seeking to replace the bulk of welfare spending with a GMI while more social or egalitarian proponents see the GMI as a component of a broader social welfare system.
+
+
+== Minimum income examples around the worldEdit ==
+
+
+=== United StatesEdit ===
+The United States has multiple social programs that provide guaranteed minimum incomes for individuals meeting certain criteria such as assets or disability. For instance, Supplemental Security Income (SSI) is a United States government program that provides stipends to low-income people who are either aged (65 or older), blind, or disabled. SSI was created in 1974 to replace federal-state adult assistance programs that served the same purpose. Today the program provides benefits to approximately eight million Americans. Another such program is Social Security Disability Insurance (SSD or SSDI), a payroll tax-funded, federal insurance program. It is managed by the Social Security Administration and is designed to provide income supplements to people who are physically restricted in their ability to be employed because of a notable disability, usually a physical disability. SSD can be supplied on either a temporary or permanent basis, usually directly correlated to whether the person's disability is temporary or permanent.
+
+
+=== CyprusEdit ===
+In July 2013, the Cypriot government unveiled a plan to reform the welfare system in Cyprus and create a ‘Guaranteed Minimum Income’ for all citizens, though this has been disputed.
+
+
+=== FranceEdit ===
+In 1988, France was one of the first countries to implement a minimum income, called the Revenu minimum d'insertion. In 2009, it was turned into Revenu de solidarité active (RSA), a new system which aimed at solving the Poverty trap by providing low-wage workers a complementary income; thus encouraging activity.
+
+
+=== Other countriesEdit ===
+Brazil: Bolsa Familia
+Canada: each province is responsible for implementing their program, in Québec it is known as Bien être social or social welfare
+Denmark: Social Bistand
+Finland: Toimeentulotuki
+Germany, Liechtenstein, Austria: Sozialhilfe
+Iceland: Félagsleg aðstoð
+Ireland: Supplementary Welfare Allowance
+Luxembourg: revenu minimum garanti (RMG)
+Netherlands: algemene bijstand, Wet werk en bijstand
+Norway: Stønad til livsopphold
+Portugal: Rendimento mínimo garantido (replaced in 2003 by the more restrictive Rendimento Social de Inserção)
+Spain: several schemes exist depending on the region (Renta Básica, Renta Mínima de Inserción, etc…)
+Sweden: Ekonomiskt bistånd, previously called socialbidrag
+Switzerland: fr:revenu minimal de réinsertion
+UK: Income Support
+
+
+== See alsoEdit ==
+Basic income
+Constitutional economics
+Guaranteed Annual Income
+Guaranteed Income Supplement
+Guaranteed Minimum Pension
+Homelessness in the United States
+Living wage
+New Cuban Economy
+Revenu minimum d'insertion
+Social credit
+Social dividend
+Wage slavery
+
+
+== Further readingEdit ==
+Colombino, U. (2011). Five issues in the design of Income support mechanisms: The case of Italy, IZA Discussion Papers 6059, Institute for the Study of Labor (IZA).
+
+
+== ReferencesEdit ==
+
+
+== External linksEdit ==
+Basic income for all-Philipp van Parijs, Boston Review
+"Social minimum" in the Stanford Encyclopedia of Philosophy
+Guaranteed Basic Income Studies: How it could be organised, Different Suggestions
+About a Guaranteed Basic Income: History

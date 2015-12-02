@@ -1,0 +1,129 @@
+Julian Paul Assange (born 3 July 1971) is an Australian computer programmer, publisher and journalist. He is known as the editor-in-chief of the website WikiLeaks, which he co-founded in 2006 after an earlier career in hacking and programming. WikiLeaks achieved particular prominence in 2010 when it published U.S. military and diplomatic documents leaked by Chelsea Manning. Assange has been under investigation in the United States since that time. In the same year, the Swedish Director of Public Prosecution opened an investigation into four sexual offences that Assange allegedly committed. In 2012, facing extradition to Sweden, he sought refuge at the Embassy of Ecuador in London and was granted political asylum by Ecuador.
+
+
+== Early life ==
+
+Assange was born in the north Queensland city of Townsville, to Christine Ann Assange (née Hawkins; b. 1951), a visual artist, and John Shipton, an anti-war activist and builder. The couple had separated before Assange was born.
+When he was a year old, his mother married Richard Brett Assange, an actor, with whom she ran "a small eccentric theatre company." They divorced around 1979, and Assange's mother then became involved with Leif Meynell, also known as Leif Hamilton, a member of the Australian New Age group The Family, with whom she had a son before the couple broke up in 1982. Assange had a nomadic childhood, and had lived in over thirty different Australian towns by the time he reached his mid-teens, when he settled with his mother and half-brother in Melbourne, Victoria.
+He attended many schools, including Goolmangar Primary School in New South Wales (1979–1983) and Townsville State High School, as well as being schooled at home. He studied programming, mathematics, and physics at Central Queensland University (1994) and the University of Melbourne (2003–2006), but did not complete a degree.
+
+
+== Hacking ==
+In 1987, Assange began hacking under the name Mendax (from Horace's splendide mendax: "nobly untruthful"). He and two others—known as "Trax" and "Prime Suspect"—formed a hacking group they called the International Subversives. During this time he hacked into the Pentagon and other U.S. Department of Defense facilities, MILNET, the U.S. Navy, NASA, and Australia's Overseas Telecommunications Commission; Citibank, Lockheed Martin, Motorola, Panasonic, and Xerox; and the Australian National University, La Trobe University, and Stanford University's SRI International. He is thought to have been involved in the WANK (Worms Against Nuclear Killers) hack at NASA in 1989, but he does not acknowledge this.
+In September 1991, he was discovered hacking into the Melbourne master terminal of Nortel, a Canadian multinational telecommunications corporation. The Australian Federal Police tapped Assange's phone line (he was using a modem), raided his home at the end of October, and eventually charged him in 1994 with thirty-one counts of hacking and related crimes. In December 1996, he pleaded guilty to twenty-five charges (the other six were dropped), and was ordered to pay reparations of A$2,100 and released on a good behaviour bond, avoiding a heavier penalty due to the perceived absence of malicious or mercenary intent and his disrupted childhood. After the trial, Assange lived in Melbourne, where he survived on single-parent income support.
+
+
+== Programming ==
+In 1993, Assange gave technical advice to the Victoria Police Child Exploitation Unit and assisted with prosecutions. In the same year he was involved in starting one of the first public internet service providers in Australia, Suburbia Public Access Network. He began programming in 1994, authoring or co-authoring the Transmission Control Protocol port scanner strobe.c (1995); patches to the open-source database PostgreSQL (1996); the Usenet caching software NNTPCache (1996); the Rubberhose deniable encryption system (1997), which reflected his growing interest in cryptography; and Surfraw, a command-line interface for web-based search engines (2000). During this period he also moderated the AUCRYPTO forum; ran Best of Security, a website "giving advice on computer security" that had 5,000 subscribers in 1996; and contributed research to Suelette Dreyfus's Underground (1997), a book about Australian hackers, including the International Subversives. In 1998, he co-founded the company Earthmen Technology.
+In 1999, Assange registered the domain leaks.org, but, as he put it, "I didn't do anything with it." He did, however, publicise a patent granted to the National Security Agency in August 1999 for voice-data harvesting technology: "This patent should worry people. Everyone's overseas phone calls are or may soon be tapped, transcribed and archived in the bowels of an unaccountable foreign spy agency." This would remain an abiding concern, to which he returned more than a decade later in Cypherpunks (2012), foreseeing a dystopian future in which, "the Internet, our greatest tool for emancipation, has been transformed into the most dangerous facilitator of totalitarianism we have ever seen".
+
+
+== WikiLeaks ==
+
+After his period of study at the University of Melbourne, Assange and others established WikiLeaks in 2006. Assange is a member of the organisation's advisory board and describes himself as the editor-in-chief. From 2007 to 2010, Assange travelled continuously on WikiLeaks business, visiting Africa, Asia, Europe and North America.
+WikiLeaks published secret information, news leaks, and classified media from anonymous sources. By 2015, WikiLeaks has published more than 10 million documents and associated analyses, and has been described by Assange himself as "a giant library of the world's most persecuted documents". The published material between 2006 and 2009 attracted various degrees of publicity, but it was only after it began publishing documents supplied by Chelsea Manning that Wikileaks became a household name. The Manning material included the Collateral Murder video (April 2010), the Afghanistan war logs (July 2010), the Iraq war logs (October 2010), a quarter of a million diplomatic cables (November 2010), and the Guantánamo files (April 2011).
+Opinions of Assange at this time were divided. Australian Prime Minister Julia Gillard described his activities as "illegal," but the police announced that he had broken no Australian law. U.S. Vice President Joe Biden and others called him a "terrorist." Some called for his assassination or execution. Support came from people including the Brazilian President Luiz Inacio Lula da Silva, Russian Prime Minister Vladimir Putin, and activists and celebrities including Tariq Ali, John Perry Barlow, Daniel Ellsberg, Mary Kostakidis, John Pilger, Vaughan Smith, and Oliver Stone.
+The year 2010 culminated with the Sam Adams Award, which Assange accepted in October, and a string of distinctions in December—the Le Monde readers' choice award for person of the year, the Time readers' choice award for person of the year (he was also a runner-up in Time's overall person of the year award), a deal for his autobiography worth at least US$1.3 million, and selection by the Italian edition of Rolling Stone as "rockstar of the year."
+The following February he won the Sydney Peace Foundation Gold Medal for Peace with Justice, previously awarded to only three people—Nelson Mandela, the Dalai Lama, and Buddhist spiritual leader Daisaku Ikeda. Two weeks later he filed for the trademark "Julian Assange" in Europe, which was to be used for "Public speaking services; news reporter services; journalism; publication of texts other than publicity texts; education services; entertainment services." For several years a member of the Australian journalists' union and still an honorary member, he picked up the Martha Gellhorn Prize for Journalism in June, and the Walkley Award for Most Outstanding Contribution to Journalism in November, having earlier won the Amnesty International UK Media Award (New Media) in 2009.
+
+
+== U.S. criminal investigation ==
+After WikiLeaks released the Manning material, U.S. authorities began investigating WikiLeaks and Assange personally with a view to prosecuting them under the Espionage Act of 1917. In November 2010, U.S. Attorney-General Eric Holder said there was "an active, ongoing criminal investigation" into WikiLeaks. It emerged from legal documents leaked over the ensuing months that Assange and others were being investigated by a federal grand jury in Alexandria, Virginia. An email from an employee of intelligence consultancy Strategic Forecasting, Inc. (Stratfor) leaked in 2012 said, "We have a sealed indictment on Assange." The U.S. government denies the existence of such an indictment.
+In December 2011, prosecutors in the Chelsea Manning case revealed the existence of chat logs between Manning and an alleged WikiLeaks interlocutor they claimed to be Assange. He "flatly" denies this, dismissing the alleged connection as "absolute nonsense." The logs were presented as evidence during Manning's court-martial in June–July 2013. The prosecution argued that they show WikiLeaks helping Manning reverse-engineer a password. The evidence that the interlocutor was Assange is circumstantial, however, and Manning insists she acted alone.
+Assange was being examined separately by "several government agencies" in addition to the grand jury, most notably the FBI. Court documents published in May 2014 suggest that Assange was still under "active and ongoing" investigation at that time.
+
+
+== Swedish sex assault allegations ==
+
+Until August 2015, Assange was wanted for questioning over two counts of sexual molestation and one count of unlawful coercion, alleged to have been committed against two women during a visit to Sweden in August 2010. He is still wanted for questioning over one count of "lesser-degree rape" (mindre grov våldtäkt) alleged to have been committed against one of the women. Assange denies the allegations.
+On 13 March 2015, in a reversal of their prior position on the matter, the Swedish prosecutors announced that they would be willing to interview Assange in the UK. However, as of August 2015, they have not yet been able reach an agreement with Ecuador that would allow them to interview him in the Embassy.
+On 12 August 2015, Swedish prosecutors announced that, as the statute of limitations for two of less serious allegations has run out, and they had not succeeded in interviewing Assange, they would end part of their preliminary investigation. After 18 August 2015, Assange can no longer be charged for all three of the less serious allegations. However, the preliminary investigation into the allegation of rape still continues, as the statute of limitations there will only expire in 2020.
+On 20 October 2015, a new batch of documents from a FOIA request filed by the Italian news magazine l'Espresso has been published online. They contains records of correspondence between the Swedish Prosecution Authority and the Crown Prosecution Service, and they expose the role of the latter in advising Sweden not to interview Julian Assange in London as he has repeatedly offered over the past five years. A CPS lawyer wrote in an email to Marianne Ny that "it would not be prudent for the Swedish authorities to try to interview the defendant in the UK" and warned not to "think that the case is being dealt with as just another extradition request". Assange legal team stated that, following these revelations, they would probably challenge the extradition request in court again.
+
+
+== Political asylum and life at the Ecuadorian embassy ==
+
+On 19 June 2012, Ecuadorian Foreign Minister Ricardo Patiño announced that Assange had applied for political asylum, that his government was considering the request, and that Assange was at the Ecuadorian embassy in London.
+
+On 16 August 2012, Foreign Minister Patiño announced that Ecuador was granting Assange political asylum because of the threat represented by the US secret investigation against him and several calls for assassination from many American politicians. In its formal statement, Ecuador reasoned that "as a consequence of [Assange's] determined defense to freedom of expression and freedom of press… in any given moment, a situation may come where his life, safety or personal integrity will be in danger". Latin American states expressed support for Ecuador. Ecuadorian President Rafael Correa confirmed on 18 August that Assange could stay at the embassy indefinitely, and the following day Assange gave his first speech from the balcony. Swedish lawyer Claes Borgström called Ecuador's decision "completely absurd" and "an abuse of the asylum instrument", a view echoed by others. Assange's supporters forfeited £293,500 in bail and sureties.
+His home since then has been an office converted into a studio apartment, equipped with a bed, telephone, sun lamp, computer, shower, treadmill, and kitchenette. Before the asylum was officially granted, the UK government threatened and even tried to raid the Embassy to seize Assange, thus violating the Vienna Convention on immunity of diplomatic premises. Only after international pressures the plan was abandoned. Officers of the Metropolitan Police Service were stationed outside the building from June 2012 to arrest him should he try to leave even if the Swedish case was dropped. The police guard was withdrawn on grounds of cost in October 2015, but the police said they would still deploy "a number of overt and covert tactics to arrest him". The cost of the policing was reported to have been £12.6m.
+On 18 August 2014, Assange announced that he would be leaving the Ecuadorian embassy "soon." While acknowledging that his health had "deteriorated," he emphasised that the announcement was prompted by "a range of important legal developments in the United Kingdom."
+Assange announced that he would run for the Australian Senate in March 2012 under the newly created WikiLeaks Party, had his own talk show on Russia Today in April–July and Cypherpunks was published in November. In the same year, he analysed the Kissinger cables held at the U.S. National Archives and released them in searchable form. On 15 September 2014, he appeared via remote video link on Kim Dotcom's Moment of Truth town hall meeting held in Auckland.
+In April 2015, during a video conference to promote the documentary Terminal F about Edward Snowden, Bolivia's ambassador to Russia, María Luisa Ramos Urzagaste, accused Assange of putting the life of Bolivian president Evo Morales at risk by—as Assange reveals in the documentary—intentionally providing the United States with false rumors that Snowden was on the president's plane when it was forced to land in Vienna in July 2013. "It is possible that in this wide-ranging game that you began my president did not play a crucial role, but what you did was not important to my president, but it was to me and the citizens of our country. And I have faith that when you planned this game you took into consideration the consequences," the ambassador told Assange. Assange stated that the plan "was not completely honest, but we did consider that the final result would have justified our actions. We weren't expecting this outcome. The result was caused by the United States' intervention. We can only regret what happened." Later, in an interview with Democracy Now, Assange explained in details the whole story of the grounding of Morales' plane, saying that after the US cancelled Snowden's passport, WikiLeaks thought about other strategies to take him to Latin America, and they considered private presidential jets of those countries which offered support. The appointed jet was Venezuelan President Nicolás Maduro's one, but Assange stated that "our code language that we used deliberately swapped the presidential jet that we were considering for the Bolivian jet [...] and in some of our communications, we deliberately spoke about that on open lines to lawyers in the United States. And we didn’t think much more of it. [...] We didn’t think this was anything more than just distracting." Eventually, this plan was not pursued and, under Assange's advice, Snowden sought asylum in Russia.
+Paris newspaper Le Monde in its 3 July 2015 edition published an open letter from Assange to French President François Hollande where Assange urges the French government to grant him refugee status. Assange wrote that “only France now has the ability to offer me the necessary protection against, and exclusively against, the political persecution that I am currently the object of.” In his 3 July letter Assange says, “By welcoming me, France would fulfill a humanitarian but also probably symbolic gesture, sending an encouragement to all journalists and whistleblowers... Only France is now able to offer me the necessary protection...France can, if it wishes, act.”
+In a statement issued by the Élysée Palace on 3 July 2015 in response to this letter, the French President said: “France cannot act on his request. The situation of Mr Assange does not present an immediate danger.”
+On 4 July 2015, in response to the denial of asylum by France, a spokesman for Assange denied that Assange had actually "filed" a request for asylum in France. Speaking on behalf of Assange, Baltasar Garzón, head of his legal team, said that Assange had sent the open letter to French president Francois Hollande; but Assange had only expressed his willingness “to be hosted in France if and only if an initiative was taken by the competent authorities.”
+
+
+== Writings ==
+Assange is an advocate of information transparency and market libertarianism. He has written a few short pieces, including "State and terrorist conspiracies" (2006), "Conspiracy as governance" (2006), "The hidden curse of Thomas Paine" (2008), "What’s new about WikiLeaks?" (2011), and the foreword to Cypherpunks (2012). He also contributed research to Suelette Dreyfus's Underground (1997), and received a co-writer credit for the Calle 13 song "Multi_Viral" (2013).
+Cypherpunks is primarily a transcript of the The World Tomorrow episode eight two-part interview between Assange, Jacob Appelbaum, Andy Müller-Maguhn, and Jérémie Zimmermann.
+Assange's book When Google Met WikiLeaks was published by OR Books on 18 September 2014. The book recounts when Google CEO Eric Schmidt requested a meeting with Assange, while he was under house arrest in rural Norfolk, UK. Schmidt was accompanied by Jared Cohen, director of Google Ideas; Lisa Shields, vice president of the Council on Foreign Relations; and Scott Malcomson, the communications director for the International Crisis Group. Excerpts were published on the Newsweek website, while Assange participated in a Q&A event that was facilitated by the Reddit website and agreed to an interview with Vogue magazine.
+
+
+== Personal life ==
+While still in his teens, Assange married a woman known only as Teresa, and in 1989 they had a son, Daniel Assange, now a software designer. The couple separated and fought over custody of the child until they worked out a custody agreement in 1999. Assange was Daniel's primary caregiver for much of his childhood. In an open letter to French President François Hollande, Assange stated his youngest child lives in France with his/her mother. He also stated that his family has faced death threats and harassment due to his work, thus forcing them to change identities and reduce contact with him.
+WikiLeaks journalist Sarah Harrison, who was involved in Edward Snowden entering Russia, has been reported at times as a girlfriend or ex-girlfriend of Assange.
+
+
+== Honors and awards ==
+2008, Economist New Media Award
+2009, Amnesty International UK Media Awards
+2010, TIME Person of the Year, Reader's Choice
+2010, Sam Adams Award
+2011, Free Dacia Award
+2011, Sydney Peace Foundation Gold Medal
+2011, Martha Gellhorn Prize for Journalism
+2011, Walkley Award for Most Outstanding Contribution to Journalism
+2011, Voltaire Award for Free Speech
+2012, Big Brother Awards Hero of Privacy
+2013, Global Exchange Human Rights Award, People’s Choice
+2013, Yoko Ono Lennon Courage Award for the Arts
+2013, New York Festivals World's Best TV & Films Silver World Medal
+2014, Union of Journalists in Kazakhstan Top Prize
+
+
+== Works about Assange ==
+
+
+=== Books ===
+Nick Cohen, You Can't Read this Book: Censorship in an Age of Freedom (2012).
+Suelette Dreyfus, Underground: Tales of Hacking, Madness and Obsession on the Electronic Frontier (1997), with research by Julian Assange.
+Andrew Fowler, The Most Dangerous Man in the World: The Explosive True Story of Julian Assange and the Lies, Cover-ups and Conspiracies He Exposed (2011).
+David Leigh and Luke Harding, WikiLeaks: Inside Julian Assange's War on Secrecy (2011).
+Andrew O'Hagan, Julian Assange: The Unauthorised Autobiography (2011).
+
+
+=== Essays ===
+Raffi Khatchadourian, "No secrets: Julian Assange's mission for total transparency," The New Yorker, 7 June 2010.
+Robert Manne, "The cypherpunk revolutionary: Julian Assange," The Monthly, March 2011. Reprinted in Robert Manne, Making Trouble: Essays Against the New Australian Complacency (Melbourne: Black Inc. Publishing, 2011).
+Andrew O'Hagan, "Ghosting: Julian Assange," London Review of Books, vol. 36, no. 5 (6 March 2014).
+
+
+=== Films ===
+Underground: The Julian Assange Story (2012), Australian TV drama that premiered at the 2012 Toronto International Film Festival.
+Julian (2012), Australian short film about nine-year-old Julian Assange. The film won several awards and prizes.
+The Fifth Estate (2013), thriller.
+Mediastan (2013), documentary produced by Assange; to challenge that of The Fifth Estate.
+We Steal Secrets: The Story of WikiLeaks (2013), American documentary.
+
+
+== Bibliography ==
+Underground: Tales of Hacking, Madness and Obsession on the Electronic Frontier (1997)
+Cypherpunks: Freedom and the Future of the Internet (2012) OR Books
+When Google Met WikiLeaks (2014) OR Books
+The WikiLeaks Files (2015) Verso Books
+
+
+== See also ==
+List of people who took refuge in a diplomatic mission
+Matt DeHart
+
+
+== References ==
+
+
+== External links ==
+Works by Julian Assange at Project Gutenberg
+Works by or about Julian Assange at Internet Archive
+Julian Assange at TED

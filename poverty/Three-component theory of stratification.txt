@@ -1,0 +1,59 @@
+The three-component theory of stratification, more widely known as Weberian stratification or the three class system, was developed by German sociologist Max Weber with class, status and party as distinct ideal types. Weber developed a multidimensional approach to social stratification that reflects the interplay among wealth, prestige and power.
+Weber argued that power can take a variety of forms. A person’s power can be shown in the social order through their status, in the economic order through their class, and in the political order through their party. Thus, class, status and party are each aspects of the distribution of power within a community.
+Class, status and party have not only a great deal of effect within their individual areas but also a great deal of influence over the other areas.
+Wealth: includes property such as buildings, lands, farms, houses, factories and as well as other assets - Economic Situation
+Prestige: the respect with which a person or status position is regarded by others - Status Situation
+Power: the ability of people or groups to achieve their goals despite opposition from others - Parties
+According to Weber, there are two basic dimensions of power: the possession of power and the exercising of power.
+This essay was written shortly before World War I and was published posthumously in 1922 as part of Weber's Wirtschaft und Gesellschaft. It was translated into English in the 1940s as "Class, Status, Party" and has been re-translated as "The distribution of power within the community: Classes, Stände, Parties".
+
+
+== Possession of power ==
+According to Weber, the ability to possess power derives from the individual's ability to control various "social resources". "The mode of distribution gives to the propertied a monopoly on the possibility of transferring property from the sphere of use as 'wealth' to the sphere of 'capital,' that is, it gives them the entrepreneurial function and all chances to share directly or indirectly in returns on capital." (Lemert 2004:116). These resources can be anything and everything: they might include land, capital, social respect, physical strength, and intellectual knowledge.
+
+
+== Exercising of power ==
+The ability to exercise power takes a number of different forms, but all involve the idea that it means the ability to get your own way with others, regardless of their ability to resist you. "For example, if we think about an individual’s chances of realizing their own will against someone else, it is reasonable to believe that the person’s social prestige, class position, and membership in a political group will have an effect on these chances" (Hurst 2007:202). In terms of understanding the relationship between power and social stratification, Weber theorized the various ways in which societies are organized in hierarchical systems of domination and subordination using the several major concepts.
+
+
+=== Class and power ===
+“Class, at its core, is an economic concept; it is the position of individuals in the market that determines their class position. And it is how one is situated in the marketplace that directly affects one’s life chances.” (Hurst 2007:203). This was theorized by Weber on the basis of "unequal access to material resources." For example, if someone possesses something that you want or need then this makes him potentially more powerful than you. He is in a dominant position and you are in a subordinate position because he controls access to a desired social resource. A classic illustration here is the relationship between an employer and employee.
+
+
+=== Social power (status or Stände) ===
+“The existence of status groups most often shows itself in the form of
+endogamy or the restricted pattern of social intercourse,
+sharing of food and other benefits within groups,
+status conventions or traditions, and
+monopolistic acquisition of certain economic opportunities or the avoidance of certain kinds of acquisitions. (Hurst 2007:204)
+If you respect someone or view him as your social superior, then he will potentially be able to exercise power over you (since you will respond positively to his instructions / commands). In this respect, social status is a social resource simply because he may have it while you may not. "Not all power, however entails social honor: The Typical American Boss, as well as the typical big speculator, deliberately relinquishes social honor. Quite generally, 'mere economic' power, and especially 'naked' money power, is by no means a recognized basis or social honor." (Lemert 2004:116).
+Note: The German word Stand, plural Stände (English, "status" or "status group") is sometimes left untranslated in Weber, in order to keep in view the origins of this concept in medieval guilds, professions, ethnic identities, and feudal classifications.
+
+
+=== Political power (party) ===
+Parties are associations that aim at securing “power within an organization [or the state] for its leaders in order to attain ideal or material advantages for its active members.” (Hurst 2007:206) This form of power can be related to the way in which the State is organized in modern social systems (involving the ability to make laws, for example). If you can influence this process of law creation then you will be in a potentially powerful position. Thus, by your ability to influence a decision-making process you possess power, even though you may not directly exercise that power personally. Political parties are the organizational means to possess power through the mechanism of the State and they include not just formally organized parties, but any group that is organized to influence the way in which power is exercised legitimately through the machinery of the State. "Since parties aim at such goals as getting their programs developed or accepted and getting positions of influence within organizations, it is clear that they operate only within a rational order within which these goals are possible to attain and only when there is a struggle for power" (Hurst 2007:206).
+
+
+=== Social action ===
+Social action is in direct relation to "political or party power" in combination with the class situation. The influence of laws is based on the social action of members of the classes. "The direction of interests may vary according to whether or not social action of a larger or smaller portion of those commonly affected by the class situation, or even an association among them, e.g., a trade union, has grown out of the class situation, from which the individual may expect promising results for himself." (Lemert 2004:117) "The degree in which “social action” and possibly associations emerge from the mass behavior of the members of a class is linked to general cultural conditions, especially to those of an intellectual sort. It is also likened to the extent of the contrasts that have already evolved.” (Lemert 2004:118). "Class-conscious action is most likely if, first, [Weber says] 'the connection between the causes and consequences of the "class situation"' are transparent, or clear. If individuals can plainly see that there is a connection between the structure of the economic system and what happens to them in terms of life chances, class action is more likely.” (Hurst 2007:204). The greater the numbers within these class positions, will increase the chance that they will rise up in action.
+
+
+=== Mobility ===
+“it is noncontroversial that the class situation in which each individual finds himself represents a limitation on his scope, tends to keep him within the class. It acts as an obstacle to any rise into a higher class, and as a pair of water wings with respect to the classes below…Class type, relations with class fellows, power over outward resources adapted to the class situation, and so on” (Schumpeter 1951:163-164). In capitalist society movement between classes is a possibility. Hence the use of the term “The American Dream” to show the ability of people to ascend to a higher class through hard work and ingenuity. "Class composition is forever changing, to the point where there may be a completely new set of families." (Schumpeter 1951:165). Weber saw four classes: the propertied class, the non-propertied class, the petit bourgeoisie and the manual labourer class.
+
+
+== Notes ==
+
+
+== References ==
+Hurst, Charles E. (2007). Social Inequality: Forms, Causes, and Consequences. Boston MA, Allyn and Bacon, 6th edn ISBN 0-205-48436-0.
+Lemert, Charles (2004). Social Theory: The Multicultural and Classic Readings. Boulder CO, Westview P., 3rd edn ISBN 0-8133-4217-1 and 978-0-8133-4217-7.
+Schumpeter, Joseph A. (1951). Imperialism and Social Classes. Fairfield NJ, Kelley. ISBN 0-678-00020-4
+Waters, Tony, and Dagmar Waters (2010). "The New Zeppelin University Translation of Weber's 'Classes, Stände, Parties'" (2010) 10 Journal of Classical Sociology 153.
+Waters, Tony, and Dagmar Waters (2015), editors and translators. Weber's Rationalism and Modern Society: New Translations on Politics, Bureaucracy and Social Stratification. New York: Palsgrave MacMillan.
+
+Weber, Max (1922/1980). Wirtschaft und Gesellschaft: Grundriss der verstehenden Soziologie. Tübingen, Mohr, 1922 ed. Marianne Weber, 5th edn 1980 ed. Johannes Winckelmann.
+Weber, Max (1946). From Max Weber, trans. and ed. Hans Gerth and C. Wright Mills. New York, Free P.
+Weber, Max (1964). The Theory of Social and Economic Organization, ed. Talcott Parsons. New York, NY: Free P.
+Weber, Max (1978). Economy and Society: an Outline of Interpretive Sociology [trans. of 1964 edn of Weber 1922], ed. Guenther Roth and Claus Wittich. Berkeley: U. California P.
+Weber, Max (2010) "The distribution of power within the community: Classes, Stände, Parties", trans. Dagmar Waters, Tony Waters and others (2010) 10 Journal of Classical Sociology 137.

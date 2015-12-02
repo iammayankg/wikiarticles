@@ -1,0 +1,100 @@
+Interrogation (also called questioning) is interviewing as commonly employed by law enforcement officers, military personnel, and intelligence agencies with the goal of eliciting useful information. Interrogation may involve a diverse array of techniques, ranging from developing a rapport with the subject, to outright torture.
+
+
+== TechniquesEdit ==
+
+There are multiple techniques employed in interrogation including deception, torture, increasing suggestibility, and the use of mind-altering drugs.
+
+
+=== SuggestibilityEdit ===
+A person's suggestibility is how willing they are to accept and act on suggestions by others. Interrogators seek to increase a subject's suggestibility. Methods used to increase suggestibility may include moderate sleep deprivation, exposure to constant white noise, and using GABAergic drugs such as sodium amytal or sodium thiopental. It should be noted that attempting to increase a subject's suggestibility through these methods may violate local and national laws concerning the treatment of detainees, and in some areas may be considered torture. Sleep deprivation, exposure to white noise, and the use of drugs may greatly inhibit a detainee's ability to provide truthful and accurate information.
+
+
+=== DeceptionEdit ===
+Deception can form an important part of effective interrogation. In the United States, there is no law or regulation that forbids the interrogator from lying about the strength of their case, from making misleading statements or from implying that the interviewee has already been implicated in the crime by someone else. See case law on trickery and deception (Frazier v. Cupp).
+As noted above, traditionally the issue of deception is considered from the perspective of the interrogator engaging in deception towards the individual being interrogated. Recently, work completed regarding effective interview methods used to gather information from individuals who score in the medium to high range on measures of psychopathology and are engaged in deception directed towards the interrogator have appeared in the literature.  The importance of allowing the psychopathic interviewee to tell one lie after another and not confront until all of the lies have been presented is essential when the goal is to use the interview to expose the improbable statements made during the interview in future court proceedings.
+
+
+==== Verbal and Non-Verbal CuesEdit ====
+The major aim of this technique is to investigate to what extent verbal and non-verbal features of liars’ and truth-tellers’ behaviour change during the course of repeated interrogations. It has shown that liars displays significantly fewer smiles, self-manipulations, pauses, and less gaze aversion than truth-tellers. The paper  talks about three different approaches to non-verbal deceptive behaviour: the emotional, the cognitive and the attempted control approach. Emotional approach suggests that a liar can feel either guilt, fear or excitement, and that each emotional state will lead to a specific set of behaviours (e.g. guilt will result in gaze aversion). The rationale behind the cognitive approach is that lying is a more cognitively complex task than telling the truth. Hence, it is predicted that liars will, for example, make more speech disturbances and speak more slowly. Finally, the attempted control approach proposes that a liar will try to control his or her behaviour in order to appear as normal and as honest as possible. It also talks about how the Liars try to remember what they have said in previous interrogations, while truth-tellers try to remember what they actually have experienced. It can be speculated that the ‘rehearsal-strategy’ used by liars will promote consistency, while the more re-collective nature of the truth-tellers’ memory work will undermine consistency.
+
+
+=== Good cop/bad copEdit ===
+
+Good cop/bad cop is an interrogation technique in which the officers take different sides. The 'bad cop' takes a negative stance on the subject. This allows for the 'good cop' to sympathize with and defend the subject. The idea is to get the subject to trust the 'good cop' and provide him with the information they are looking for.
+
+
+=== Pride-and-ego downEdit ===
+
+Pride-and-ego down is a U.S. Army term that refers to techniques used by captors in interrogating prisoners to encourage cooperation, usually consisting of "attacking the source's sense of personal worth" and in an "attempt to redeem his pride, the source will usually involuntarily provide pertinent information in attempting to vindicate himself."
+
+
+=== Reid techniqueEdit ===
+
+The Reid technique is a trademarked interrogation technique widely used by law enforcement agencies in North America. The technique (which requires interrogators to watch the body language of suspects to detect deceit) has been criticized for being difficult to apply across cultures and eliciting false confessions from innocent people.
+
+
+=== Mind-altering drugsEdit ===
+
+
+=== TortureEdit ===
+
+The history of the state use of torture in interrogations extends over more than 2,000 years in Europe—though it was recognized early on as the Roman imperial jurist Ulpian in the third century A.D. cautioned, that information extracted under duress was deceptive and untrustworthy. There is "no means of obtaining the truth" from those who have the strength to resist says Ulpian, while others unable to withstand the pain "will tell any lie rather than suffer it."
+The use of torture as an investigative technique waned with the rise of Christianity since it was considered "antithetical to Christ's teachings," and in 866 Pope Nicholas I banned the practice. But after the 13th century many European states such as Germany, Italy, and Spain began to return to physical abuse for religious inquisition, and for secular investigations. By the 18th century the spreading influence of the Enlightenment led European nations to abandon officially state-sanctioned interrogation by torture. By 1874 Victor Hugo could plausibly claim that "torture has ceased to exist." Yet in the 20th century authoritarian states such as Mussolini's Fascist Italy, Hitler's Third Reich, and Lenin's and Stalin's Soviet Union once again resumed the practice, and on a massive scale.
+The most recent and most prominent instance of the use of torture in interrogation is that of the American CIA. After the defeat of the Axis powers in World War II, the CIA became both student and teacher of torture, propagating torture techniques worldwide to support anti-Communist regimes during the Cold War. The CIA adopted methods used by the Gestapo, KGB and North Koreans from their involvement in the Korean War such as waterboarding, sleep deprivation, and the use of electric shock, and researched new ideas: so-called 'no-touch' torture involving sensory deprivation, self-inflicted pain, and psychological stress. The CIA taught its refined techniques of torture through police and military training to American-supported regimes in the Middle East, in Southeast Asia during the bloody Phoenix program, and throughout Latin America during Operation Condor. Torture also became widespread in some Asian nations and South Pacific nations, in Malasia, the Philippines and elsewhere, both for interrogation and to terrorize opponents of the regime. "In its pursuit of torturers across the globe for the past forty years," writer Alfred McCoy notes, "Amnesty International has been, in a certain sense, following the trail of CIA programs."
+After the revelation of CIA sponsored torture in the 1970s and the subsequent outcry, the CIA largely stopped its own interrogations under torture and throughout the 1980s and 1990s "outsourced" such interrogation through renditions of prisoners to third world allies, often called torture-by-proxy. But in the furor over the September 11 attacks, American authorities cast aside scruples, legally authorizing some forms of interrogation by torture under euphemisms such as "enhanced interrogation" or "interrogation in depth" to collect intelligence on Al Qaeda, starting in 2002. Ultimately the CIA, the US military, and their contract employees tortured untold thousands at Abu Ghraib, Bagram, and secret black site prisons scattered around the globe, according to the Senate Intelligence Committee report on CIA torture and the bipartisan U.S. Senate Armed Services Committee report Whether these interrogations under torture produced useful information is hotly disputed.
+The administration of President Obama in 2009 prohibited so-called enhanced interrogation, and as of March 2012 there is no longer a nation which openly admits to deliberate abuse of prisoners for purposes of interrogation.
+
+
+== Around the worldEdit ==
+
+
+=== United KingdomEdit ===
+British legislation that applies to interrogation activities include:
+Human Rights Act 1998
+Regulation of Investigatory Powers Act 2000
+Anti-terrorism, Crime and Security Act 2001
+Terrorism Act 2006
+All police officers are trained in interview techniques during basic training, further training in detailed interviewing or specialist interviewing is received in specialist or advanced courses, such as criminal investigation, fraud investigation or child protection.
+Military interrogation takes two forms, Tactical Questioning or Detailed Interviewing. Tactical Questioning is the initial screening of detainees, Detailed Interviewing is the more advanced questioning of subjects.
+Training for all personnel engaged in both TQ and DI takes place at the Defence Intelligence and Security Centre, Chicksands.
+British military personnel were found to have misused a number of techniques during the detention of suspects in Northern Ireland in the early 1970s. Investigations into these techniques resulted in the publication of policy directives that prohibited the use of hooding, stress positions or wall-standing, noise, sleep deprivation and deprivation of food and drink.
+During the early stages of Operation Telic in Iraq during 2003 and 2004 some infantry units have been found to have applied these techniques in contravention of standing orders.
+The use of torture is explicitly prohibited. However, Human Rights Watch and Amnesty International have accused officers of the British Intelligence and Security Services of being at least complicit in the extraction of information from subjects under torture by second parties.
+
+
+=== United StatesEdit ===
+
+War On Terror
+During the War on Terror, torture has never been authorized or permitted for use at Guantanamo Bay detainment camp or any other U.S. Department of Defense detention/internment facility on captives, whether they are enemy prisoners of war, detainees, and unlawful enemy combatants, though there have been people who have reported being tortured at Guantanamo Bay.
+Torture, in this context, is a war crime. Specifically, a grave violation of the Law of Land Warfare. War crimes are punishable under U.S. Code as well as the U.S. Code of Military Justice. There is no statute of limitations for war crimes. Instances of criminal behavior by military, civilian, and contract personnel of the U.S. Department of Defense has happened and has happened with regard to Geneva Category regarding prisoners and detainees. Criminal behavior in this context may range from mishandling to abuse to torture. Military Commanders investigate rigorously any accusation of prisoner mishandling, abuse, or torture. The military continues to vigorously prosecute any such unlawful activity.
+Army regulations and policy have always been clear, the torture or coercion of an enemy prisoner of war during interrogation, or in any other circumstance, is not only unlawful but also an unproductive and unreliable method for gaining information. In addition, U.S. Army interrogation procedures continue to stress that all detained or captured persons will be treated as Geneva Category Enemy Prisoners of War until determined otherwise by a duly constituted military tribunal.
+U.S. Air Force General Jack L. Rives (Deputy Judge Advocate General) advised a U.S. government task force that many of the extreme methods of interrogation would leave service personnel open to legal sanction in the U.S. and foreign countries.
+
+
+=== InquisitionEdit ===
+
+
+== Resistance trainingEdit ==
+
+Resistance training is often a prerequisite for some military personnel since prisoners of war (POWs) routinely undergo interrogation.
+
+
+== Movement for increased recording of interrogations in the U.S.Edit ==
+Currently, there is a movement for mandatory electronic recording of all custodial interrogations in the United States. "Electronic recording" describes the process of recording interrogations from start to finish. This is in contrast to a "taped" or "recorded confession," which typically only includes the final statement of the suspect. "Taped interrogation" is the traditional term for this process; however, as analog is becoming less and less common, statutes and scholars are referring to the process as "electronically recording" interviews or interrogations. Alaska, Illinois, Maine, Minnesota, and Wisconsin are the only states to require taped interrogation. New Jersey's taping requirement started on January 1, 2006. Massachusetts allows jury instructions that state that the courts prefer taped interrogations. Commander Neil Nelson of the St. Paul Police Department, an expert in taped interrogation, has described taped interrogation in Minnesota as the "best thing ever rammed down our throats".
+
+
+== See alsoEdit ==
+Covert interrogation
+Interrogation of Saddam Hussein
+Third degree (interrogation)
+Water cure (torture)
+
+
+== ReferencesEdit ==
+
+
+== External linksEdit ==
+Interrogation techniques from GlobalSecurity.org
+Limits to Interrogation – The Man In The Snow White Cell, how Nguyen Tai resisted interrogation and torture for years.
+'In the Box': Go Inside the Interrogation Room (See what tactics police use to extract confessions from suspects, solve crimes) from ABCNews.go.com

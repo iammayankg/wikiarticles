@@ -1,0 +1,80 @@
+M-Pesa (M for mobile, pesa is Swahili for money) is a mobile phone-based money transfer and microfinancing service, launched in 2007 by Vodafone for Safaricom and Vodacom, the largest mobile network operators in Kenya and Tanzania. It has since expanded to Afghanistan, South Africa, India and in 2014 to Eastern Europe. M-Pesa allows users to deposit, withdraw, transfer money and pay for goods and services (Lipa na M-Pesa) easily with a mobile device.
+The service allows users to deposit money into an account stored on their cell phones, to send balances using PIN-secured SMS text messages to other users, including sellers of goods and services, and to redeem deposits for regular money. Users are charged a small fee for sending and withdrawing money using the service. M-Pesa is a branchless banking service; M-Pesa customers can deposit and withdraw money from a network of agents that includes airtime resellers and retail outlets acting as banking agents.
+M-Pesa has spread quickly, and by 2010 had become the most successful mobile-phone-based financial service in the developing world. By 2012, a stock of about 17 million M-Pesa accounts had been registered in Kenya. The service has been lauded for giving millions of people access to the formal financial system and for reducing crime in an otherwise largely cash-based society.
+
+
+== History ==
+In 2002, researchers at Gamos and the Commonwealth Telecommunications Organisation, funded by Department for International Development UK (DFID), documented that in Uganda, Botswana and Ghana, people were spontaneously using airtime as a proxy for money transfer. Kenyans were transferring airtime to their relatives or friends who were then using it or reselling it. Gamos researchers approached MCel in Mozambique, and in 2004 MCel introduced the first authorised airtime credit swapping – a precursor step towards M-Pesa. The idea was discussed by the Commission for Africa and DFID introduced the researchers to Vodafone who had been discussing supporting microfinance and back office banking with Mobile phones. S Batchelor (Gamos) and N Hughes (Vodafone CSR) discussed how a system of money transfer could be created in Kenya. DFID amended the terms of reference for its grant to Vodafone, and piloting began in 2005. In April 2007, following a student software development project from Kenya, Safaricom launched a new mobile phone based payment and money transfer service, known as M-Pesa.
+The initial work of developing the product was given to a product and technology development company known as Sagentia. Development and second line support responsibilities were transferred to IBM in September 2009, where most of the original Sagentia team transferred to.
+
+
+=== Concept ===
+The initial concept of M-Pesa had been to create a service which would allow microfinance borrowers to conveniently receive and repay loans using the network of Safaricom airtime resellers. This would enable microfinance institutions (MFIs) to offer more competitive loan rates to their users, as costs are lower than when dealing in cash. The users of the service would gain through being able to track their finances more easily. When the service was piloted, customers adopted the service for a variety of alternative uses and complications arose with Faulu, the partnering MFI. In discussion with other parties, M-Pesa was re-focused and launched with a different value proposition: sending remittances home across the country and making payments.
+
+
+== Services ==
+M-Pesa is operated by Safaricom and Vodacom, mobile network operators (MNO) not classed as deposit-taking institutions, such as a bank. M-Pesa customers can deposit and withdraw money from a network of agents that includes airtime resellers and retail outlets acting as banking agents. The service enables its users to:
+deposit and withdraw money
+transfer money to other users and non-users
+pay bills
+purchase airtime and
+transfer money between the service and, in some markets like Kenya, a bank account. A partnership with Kenya-based Equity Bank launched M-KESHO, a product using M-PESA’s platform and agent network, that offers expanded banking services like interest-bearing accounts, loans, and insurance.
+The user interface technology of M-Pesa differs between Safaricom of Kenya and Vodacom of Tanzania, although the underlying platform is the same. While Safaricom uses SIM toolkit (STK) to provide handset menus for accessing the service, Vodacom relies mostly on USSD to provide users with menus, but also supports STK.
+
+
+== Cost, transaction charges, statistics ==
+Transaction charges depend on the amount of money being transferred and whether the payee is a registered user of the service. The actual cost is a fixed amount for a given range of transaction sizes; for example Safaricom charges up to 66 Kshs. for a transaction to an unregistered user for transactions between 101-500 Kshs. (US$1–5) and 27 Kshs. for a transfer to a registered user for the same amount. At the highest transfer bracket of 50,001-70,000 Kshs. the fee for a transfer to a registered user is 110 Kshs. The maximum amount that can be transferred to a non-registered user of the system is 35,000 Kshs. with a fee of 275 Kshs. Cash withdrawal fees are also charged, with a charge of 10 Kshs. for a withdrawal of 50-100 Kshs. to 330 Kshs. for a withdrawal of 50,001-70,000 Kshs. Anja Bengelstorf from the German Academic Exchange Service cites the central bank of Kenya when she states that 1 billion CHF is moved in fiscal year 2014, with a profit of 268 million CHF, that is close to 27% of the moved money.
+
+
+== Markets ==
+
+
+=== Kenya ===
+
+M-Pesa was first launched by the Kenyan mobile network operator Safaricom, where Vodafone is technically a minority shareholder (40%), in March 2007. M-Pesa quickly captured a significant market share for cash transfers, and grew to 17 million subscribers by December 2011 in Kenya alone.
+The growth of the service forced formal banking institutions to take note of the new venture. In December 2008, a group of banks reportedly lobbied the Kenyan finance minister to audit M-Pesa, in an effort to at least slow the growth of the service. This ploy failed, as the audit found that the service was robust. At this time The Banking Act did not provide basis to regulate products offered by non-banks, of which M-Pesa was one such very successful product. As at November 2014, M-Pesa transactions for the 11 months of 2014 were valued at KES. 2.1 trillion, a 28% increase from 2013, and almost half the value of the country's GDP.
+On November 19, 2014, Safaricom launched a companion android app Safaricom M-Ledger for its M-Pesa users. The application, currently available only on Android, gives M-Pesa users a historical view of all their transactions.
+
+
+=== Tanzania ===
+M-Pesa was launched in Tanzania by Vodacom in 2008 but its initial ability to attract customers fell short of expectations. In 2010, the International Finance Corporation released a report which explored many of these issues in greater depth and analyzed the strategic changes that Vodacom has implemented to improve their market position. As of May 2013, M-Pesa in Tanzania has five million subscribers.
+
+
+=== Afghanistan ===
+In 2008 Vodafone partnered with Roshan, Afghanistan's primary mobile operator, to provide M-Pesa, the local brand of the service. When the service was launched it was initially used to pay policemen's salaries set to be competitive with what the Taliban were earning. Soon after the product was launched, the Afghan National Police found that under the previous cash model, 10% of their workforce were ghost police officers who did not exist; their salaries had been pocketed by others. When corrected in the new system, many police officers believed that they had received a raise or that there had been a mistake, as their salaries rose significantly. The National Police discovered that there was so much corruption when payments had been made using the previous model that the policemen did not know their true salary. The service has been so successful that it has been expanded to include limited merchant payments, peer-to-peer transfers, loan disbursements and payments.
+
+
+=== South Africa ===
+In September 2010 Vodacom and Nedbank announced the launch of the service in South Africa, where there were estimated to be more than 13 million "economically active" people without a bank account. M-Pesa has been slow to gain a toehold in the South African market compared to Vodacom's projections that it would sign up 10 million users in the following three years. By May 2011, it had registered approximately 100,000 customers. The gap between expectations for M-Pesa's performance and its actual performance can be partly attributed to differences between the Kenyan and South African markets, including the banking regulations at the time of M-Pesa's launch in each country. According to MoneyWeb, a South African investment website, "A tough regulatory environment with regards to customer registration and the acquisition of outlets also compounded the company's troubles, as the local regulations are more stringent in comparison to our African counterparts. Lack of education and product understanding also hindered efforts in the initial roll out of the product." In June 2011, Vodacom and Nedbank launched a campaign to re-position M-Pesa, targeting the product to potential customers who have a higher Living Standard Measures (LSM) than were first targeted.
+
+
+=== India ===
+M-Pesa, was launched in India as a close partnership with ICICI bank in November 2011. Development for the bank began as early as 2008. The service continues to operate in a limited geographical area in India. Vodafone India had partnered with both ICICI and ICICI bank, ICICI launched M-Pesa on 18 April 2013. Vodafone plans to rollout this service throughout India. The user needs to register for this service by paying 100 Rupees, on which 25 Rupees will be credited back to the users account and there are charges levied per M-Pesa transaction for money transfer services and DTH and Prepaid recharges can be done through m-pesa for free.
+
+
+=== Eastern Europe ===
+In March 2014, M-Pesa expanded into Romania, while mentioning that it may continue to expand elsewhere into Eastern Europe, as a number of individuals there possess mobile phones but not possess traditional bank accounts. It is unlikely, as of May 2014, however, that the service will expand into Western Europe anytime soon.
+In May 2015, M-PESA was also launched in Albania.
+
+
+=== Other markets ===
+M-Pesa expanded into Mozambique, Lesotho, and Egypt in May, June, and July 2013, respectively. A full listing of countries in which M-Pesa currently operates can be found on M-Pesa's website.
+
+
+== Regulation and KYC rules ==
+M-Pesa sought to engage Kenyan regulators and keep them updated on the development process. M-Pesa also reached out to international regulators, such as the UK's Financial Conduct Authority (FCA) and the Payment Card Industry (PCI) to understand how best to protect client information and adhere to internationally recognized best practices.
+Know Your Customer (KYC) requirements impose obligations on prospective clients and on banks to collect identification documents of clients and then to have those documents verified by banks. The Kenyan government issues national identity cards that M-Pesa leveraged in their business processes to satisfy their KYC requirements.
+M-Pesa obtained a "special" license from regulators, despite concerns by regulators about non-branch banking adding to the current state of financial instability.
+
+
+== See also ==
+Digital currency
+Mobile banking
+Mobile payments
+
+
+== References ==
+
+
+== External links ==
+Mpesa

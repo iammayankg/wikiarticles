@@ -1,0 +1,148 @@
+An insurgency is a rebellion against authority (for example, an authority recognized as such by the United Nations) when those taking part in the rebellion are not recognized as belligerents. An insurgency can be fought via counter-insurgency warfare, and may also be opposed by measures to protect the population, and by political and economic actions of various kinds aimed at undermining the insurgents' claims against the incumbent regime. The nature of insurgencies is an ambiguous concept.
+Not all rebellions are insurgencies. There have been many cases of non-violent rebellions, using civil resistance, as in the People Power Revolution in the Philippines in the 1980s that ousted President Marcos and the Egyptian Revolution of 2011. Where a revolt takes the form of armed rebellion, it may not be viewed as an insurgency if a state of belligerency exists between one or more sovereign states and rebel forces. For example, during the American Civil War, the Confederate States of America was not recognized as a sovereign state, but it was recognized as a belligerent power, and thus Confederate warships were given the same rights as United States warships in foreign ports.
+When insurgency is used to describe a movement's unlawfulness by virtue of not being authorized by or in accordance with the law of the land, its use is neutral. However, when it is used by a state or another authority under threat, "insurgency" often also carries an implication that the rebels' cause is illegitimate, whereas those rising up will see the authority itself as being illegitimate. Criticisms of widely held ideas and actions about insurgency started to occur in works of the 1960s; they are still common in recent studies.
+Sometimes there may be one or more simultaneous insurgencies (multipolar) occurring in a country. The Iraq insurgency is one example of a recognized government versus multiple groups of insurgents. Other historic insurgencies, such as the Russian Civil War, have been multipolar rather than a straightforward model made up of two sides. During the Angolan Civil War there were two main sides: MPLA and UNITA. At the same time, there was another separatist movement for the independence of the Cabinda region headed up by FLEC. Multipolarity extends the definition of insurgency to situations where there is no recognized authority, as in the Somali Civil War, especially the period from 1998 to 2006, where it broke into quasi-autonomous smaller states, fighting among one another in changing alliances.
+
+
+== Definition ==
+
+If there is a rebellion against the authority (for example the United Nations) and those taking part in the rebellion are not recognized as belligerents then the rebellion is an insurgency. However, not all rebellions are insurgencies, as a state of belligerency may exist between one or more sovereign states and rebel forces. For example, during the American Civil War, the Confederate States of America was not recognized as a sovereign state, but it was recognized as a belligerent power, and thus Confederate warships were given the same rights as United States warships in foreign ports.
+When insurgency is used to describe a movement's unlawfulness by virtue of not being authorized by or in accordance with the law of the land, its use is neutral. However, when it is used by a state or another authority under threat, "insurgency" often also carries an implication that the rebels cause is illegitimate, whereas those rising up will see the authority itself as being illegitimate.
+The use of the term insurgency does recognize the political motivation of those who participate in an insurgency, while the term brigandry implies no political motivation. If an uprising has little support (for example those who continue to resist towards the end of an armed conflict when most of their allies have surrendered) then such a resistance may be described as brigandry and those who participate as brigands.
+The distinction on whether an uprising is an insurgency or a belligerency has not been as clearly codified as many other areas covered by the internationally accepted laws of war for two reasons. The first is that international law traditionally does not encroach on matters that are solely the internal affairs of a sovereign state (although recent developments such as the responsibility to protect is starting to undermine this traditional approach). The second is because at the Hague Conference of 1899 there was disagreement between the Great Powers who considered francs-tireurs to be unlawful combatants subject to execution on capture and smaller states who maintained that they should be considered lawful combatants. The dispute resulted in a compromise wording being included in the Hague Conventions known as the Martens Clause after the diplomat who drafted the clause.
+The Third Geneva Convention, as well as the other Geneva Conventions, are oriented to conflict involving nation-states, and only loosely address irregular forces:
+
+Members of other militias and members of other volunteer corps, including those of organized resistance movements, belonging to a Party to the conflict and operating in or outside their own territory, even if this territory is occupied, provided that such militias or volunteer corps, including such organized resistance movements...
+
+The United States Department of Defense (DOD) defines it as "An organized movement aimed at the overthrow of a constituted government through use of subversion and armed conflict." The United States counterinsurgency Field Manual, proposes a structure that includes both insurgency and counterinsurgency [COIN] (italics in original):
+
+Insurgency and its tactics are as old as warfare itself. Joint doctrine defines an insurgency as an organized movement aimed at the overthrow of a constituted government through the use of subversion and armed conflict. These definitions are a good starting point, but they do not properly highlight a key paradox: though insurgency and COIN are two sides of a phenomenon that has been called revolutionary war or internal war, they are distinctly different types of operations. In addition, insurgency and COIN are included within a broad category of conflict known as irregular warfare.
+
+This definition does not consider the morality of the conflict, or the different viewpoints of the government and the insurgents. It is focused more on the operational aspects of the types of actions taken by the insurgents and the counter-insurgents.
+
+The Department of Defense's (DOD) definition focuses on the type of violence employed (unlawful) towards specified ends (political, religious or ideological). This characterization fails to address the argument from moral relativity that "one man's terrorist is another man's freedom fighter." In essence, this objection to a suitable definition submits that while violence may be "unlawful" in accordance with a victim's statutes, the cause served by those committing the acts may represent a positive good in the eyes of neutral observers.
+
+The French expert on Indochina and Vietnam, Bernard Fall, who wrote Street Without Joy, said that "revolutionary warfare" (guerrilla warfare plus political action) might be a more accurate term to describe small wars such as insurgencies. Insurgency has been used for years in professional military literature. Under the British, the situation in Malaya (now Malaysia) was often called the "Malayan insurgency" or "the Troubles" in Northern Ireland. Insurgencies have existed in many countries and regions, including the Philippines, Indonesia, Afghanistan, Chechnya, Kashmir, Northeast India, Yemen, Djibouti, Colombia, Sri Lanka, and Democratic Republic of the Congo, the American colonies of Great Britain, and the Confederate States of America. Each had different specifics but share the property of an attempt to disrupt the central government by means considered illegal by that government. North points out, however, that insurgents today need not be part of a highly organized movement:
+
+Some are networked with only loose objectives and mission-type orders to enhance their survival. Most are divided and factionalized by area, composition, or goals. Strike one against the current definition of insurgency. It is not relevant to the enemies we face today. Many of these enemies do not currently seek the overthrow of a constituted government...weak government control is useful and perhaps essential for many of these "enemies of the state" to survive and operate."
+
+
+== Tactics ==
+Insurgencies differ in their use of tactics and methods. In a 2004 article, Robert R. Tomes spoke of four elements that "typically encompass an insurgency":
+cell-networks that maintain secrecy
+terrorism used to foster insecurity among the population and drive them to the insurgents for protection
+multifaceted attempts to cultivate support in the general population, often by undermining the new regime
+attacks against the government
+Tomes' is an example of a definition that does not cover all insurgencies. For example, the French Revolution had no cell system, and in the American Revolution, little to no attempt was made to terrorize civilians. In consecutive coups in 1977 and 1999 in Pakistan, the initial actions focused internally on the government rather than on seeking broad support. While Tomes' definition fits well with Mao's Phase I, it does not deal well with larger civil wars. Mao does assume terrorism is usually part of the early phases, but it is not always present in revolutionary insurgency.
+Tomes offers an indirect definition of insurgency, drawn from Trinquier's definition of counterinsurgency: "an interlocking system of actions—political, economic, psychological, military—that aims at the [insurgents' intended] overthrow of the established authority in a country and its replacement by another regime."
+Steven Metz observes that past models of insurgency do not perfectly fit modern insurgency, in that current instances are far more likely to have a multinational or transnational character than those of the past. Several insurgencies may belong to more complex conflicts, involving "third forces (armed groups which affect the outcome, such as militias) and fourth forces (unarmed groups which affect the outcome, such as international media), who may be distinct from the core insurgents and the recognized government. While overt state sponsorship becomes less common, sponsorship by transnational groups is more common. "The nesting of insurgency within complex conflicts associated with state weakness or failure..." (See the discussion of failed states below.) Metz suggests that contemporary insurgencies have far more complex and shifting participation than traditional wars, where discrete belligerents seek a clear strategic victory.
+
+
+=== Terrorism ===
+
+All insurgencies include terrorism, with the caveat that there is no universally accepted definition of terrorism. While there is no accepted definition in international law, United Nations-sponsored working definitions include one drafted by Alex P. Schmid for the Policy Working Group on the United Nations and Terrorism. Reporting to the Secretary-General in 2002, the Working Group stated the following:
+
+Without attempting a comprehensive definition of terrorism, it would be useful to delineate some broad characteristics of the phenomenon. Terrorism is, in most cases, essentially a political act. It is meant to inflict dramatic and deadly injury on civilians and to create an atmosphere of fear, generally for a political or ideological (whether secular or religious) purpose. Terrorism is a criminal act, but it is more than mere criminality. To overcome the problem of terrorism it is necessary to understand its political nature as well as its basic criminality and psychology. The United Nations needs to address both sides of this equation.
+
+Yet another conflict of definitions involves insurgency versus terrorism. The winning essay of the 24th Annual United States Chairman of the Joint Chiefs of Staff Strategic Essay Contest, by Michael F. Morris, said [A pure terrorist group] "may pursue political, even revolutionary, goals, but their violence replaces rather than complements a political program." Morris made the point that the use, or non-use, of terrorism does not define insurgency, "but that organizational traits have traditionally provided another means to tell the two apart. Insurgencies normally field fighting forces orders of magnitude larger than those of terrorist organizations." Insurgencies have a political purpose, and may provide social services and have an overt, even legal, political wing. Their covert wing carries out attacks on military forces with tactics such as raids and ambushes, as well as acts of terror such as attacks that cause deliberate civilian casualties.
+Mao considered terrorism a basic part of his first part of the three phases of revolutionary warfare. Several insurgency models recognize that completed acts of terrorism widen the security gap; the Marxist guerrilla theoretician Carlos Marighella specifically recommended acts of terror, as a means of accomplishing something that fits the concept of opening the security gap. Mao considered terrorism to be part of forming a guerilla movement.
+
+
+=== Subversion ===
+
+While not every insurgency involves terror, most involve an equally hard to define tactic, subversion. "When a country is being subverted it is not being outfought; it is being out-administered. Subversion is literally administration with a minus sign in front." The exceptional cases of insurgency without subversion are those when there is no accepted government that is providing administrative services.
+While it is less commonly used by current U.S. spokesmen, that may be due to the hyperbolic way it was used in the past, in a specifically anticommunist context. U.S. Secretary of State Dean Rusk did in April 1962, when he declared that urgent action was required before the "enemy's subversive politico-military teams find fertile spawning grounds for their fish eggs."
+In a Western context, Rosenau cites a British Secret Intelligence Service definition as "a generalized intention to (emphasis added) "overthrow or undermine parliamentary democracy by political, industrial or violent means." While insurgents do not necessarily use terror, it is hard to imagine any insurgency meeting its goals without undermining aspects of the legitimacy or power of the government or faction it opposes. Rosenau mentions a more recent definition that suggests subversion includes measures short of violence, which still serve the purposes of insurgents. Rarely, subversion alone can change a government; this arguably happened in the liberalization of Eastern Europe. To the Communist government of Poland, Solidarity appeared subversive but not violent.
+
+
+== Political rhetoric, myths and models ==
+In arguing against the term Global War on Terror, Francis Fukuyama said the United States was not fighting terrorism generically, as in Chechnya or Palestine. Rather, he said the slogan "war on terror" is directed at "radical Islamism, a movement that makes use of culture for political objectives." He suggested it might be deeper than the ideological conflict of the Cold War, but it should not be confused with Samuel P. Huntington's "clash of civilizations". Addressing Huntington's thesis, Fukuyama stressed that the United States and its allies need to focus on specific radical groups, rather than clash with global Islam.
+Fukuyama argued that political means, rather than direct military measures, are the most effective ways to defeat that insurgency. David Kilcullen wrote "We must distinguish Al Qa'eda and the broader militant movements it symbolises – entities that use terrorism – from the tactic of terrorism itself."
+There may be utility in examining a war not specifically on the tactic of terror, but in coordination among multiple national or regional insurgencies. It may be politically infeasible to refer to a conflict as an "insurgency" rather than by some more charged term, but military analysts, when concepts associated with insurgency fit, should not ignore those ideas in their planning. Additionally, the recommendations can be applied to the strategic campaign, even if it is politically unfeasible to use precise terminology.
+While it may be reasonable to consider transnational insurgency, Anthony Cordesman points out some of the myths in trying to have a worldwide view of terror:
+Cooperation can be based on trust and common values: One man's terrorist is another man's freedom fighter.
+A definition of terrorism exists that can be accepted by all.
+Intelligence can be freely shared.
+Other states can be counted on to keep information secure, and use it to mutual advantage.
+International institutions are secure and trustworthy.
+Internal instability and security issues do not require compartmentation and secrecy at national level.
+The "war on terrorism" creates common priorities and needs for action.
+Global and regional cooperation is the natural basis for international action.
+Legal systems are compatible enough for cooperation.
+Human rights and rule of law differences do not limit cooperation.
+Most needs are identical.
+Cooperation can be separated from financial needs and resources
+Social scientists, soldiers, and sources of change have been modeling insurgency for nearly a century, if one starts with Mao. Counterinsurgency models, not mutually exclusive from one another, come from Kilcullen, McCormick, Barnett and Eizenstat. Kilcullen describes the "pillars" of a stable society, while Eizenstat addresses the "gaps" that form cracks in societal stability. McCormick's model shows the interplay among the actors: insurgents, government, population and external organizations. Barnett discusses the relationship of the country with the outside world, and Cordesman focuses on the specifics of providing security.
+Recent studies have tried to model the conceptual architecture of insurgent warfare using computational and mathematical modelling. A recent study by Juan Camilo Bohorquez, Sean Gourley, Alexander R. Dixon, Michael Spagat, and Neil F. Johnson entitled "Common Ecology Quantifies Human Insurgency", suggests a common structure for 9 contemporary insurgent wars, supported on statistical data of more than 50,000 insurgent attacks. The model explains the recurrent statistical pattern found in the distribution of deaths in insurgent and terrorist events.
+
+
+=== Kilcullen's pillars ===
+
+Kilcullen describes a framework for counterinsurgency. He gives a visual overview of the actors in his model of conflicts, which he represents as a box containing an "ecosystem" defined by geographic, ethnic, economic, social, cultural, and religious characteristics. Inside the box are, among others, governments, counterinsurgent forces, insurgent leaders, insurgent forces, and the general population, which is made up of three groups:
+those committed to the insurgents;
+those committed to the counterinsurgents;
+those who simply wish to get on with their lives.
+Often, but not always, states or groups that aid one side or the other are outside the box. Outside-the-box intervention has dynamics of its own.
+The counterinsurgency strategy can be described as efforts to end the insurgency by a campaign developed in balance along three "pillars": security, political, and economical.
+"Obviously enough, you cannot command what you do not control. Therefore, unity of command (between agencies or among government and non-government actors) means little in this environment." Unity of command is one of the axioms of military doctrine that change with the use of swarming:. In Edwards' swarming model, as in Kilcullen's mode, unity of command becomes "unity of effort at best, and collaboration or deconfliction at least."
+As in swarming, in Kilcullen's view unity of effort "depends less on a shared command and control hierarchy, and more on a shared diagnosis of the problem (i.e., the distributed knowledge of swarms), platforms for collaboration, information sharing and deconfliction. Each player must understand the others' strengths, weaknesses, capabilities and objectives, and inter-agency teams must be structured for versatility (the ability to perform a wide variety of tasks) and agility (the ability to transition rapidly and smoothly between tasks)."
+
+
+=== Eizenstat and closing gaps ===
+Insurgencies, according to Stuart Eizenstat grow out of "gaps". To be viable, a state must be able to close three "gaps", of which the first is most important:
+Security: protection "... against internal and external threats, and preserving sovereignty over territory. If a government cannot ensure security, rebellious armed groups or criminal nonstate actors may use violence to exploit this security gap—as in Haiti, Nepal, and Somalia."
+Capacity: the survival needs of water, electrical power, food and public health, closely followed by education, communications and a working economic system. "An inability to do so creates a capacity gap, which can lead to a loss of public confidence and then perhaps political upheaval. In most environments, a capacity gap coexists with—or even grows out of—a security gap. In Afghanistan and the Democratic Republic of the Congo, for example, segments of the population are cut off from their governments because of endemic insecurity. And in postconflict Iraq, critical capacity gaps exist despite the country's relative wealth and strategic importance."
+Legitimacy: closing the legitimacy gap is more than an incantation of "democracy" and "elections", but a government that is perceived to exist by the consent of the governed, has minimal corruption, and has a working law enforcement and judicial system that enforce human rights.
+Note the similarity between Eizenstat's gaps and Kilcullen's three pillars. In the table below, do not assume that a problematic state is unable to assist less developed states while closing its own gaps.
+
+
+=== McCormick Magic Diamond ===
+McCormick's model is designed as a tool for counterinsurgency (COIN), but develops a symmetrical view of the required actions for both the Insurgent and COIN forces to achieve success. In this way the counterinsurgency model can demonstrate how both the insurgent and COIN forces succeed or fail. The model's strategies and principle apply to both forces, therefore the degree the forces follow the model should have a direct correlation to the success or failure of either the Insurgent or COIN force.
+
+The model depicts four key elements or players:
+Insurgent force
+Counterinsurgency force (i.e., the government)
+Population
+International community
+All of these interact, and the different elements have to assess their best options in a set of actions:
+Gaining support of the population
+Disrupt opponent's control over the population
+Direct action against opponent
+Disrupt opponent's relations with the international community
+Establish relationships with the international community
+
+
+=== Barnett and connecting to the core ===
+In Thomas Barnett's paradigm, the world is divided into a "connected core" of nations enjoying a high level of communications among their organizations and individuals, and those nations that are disconnected internally and externally. In a reasonably peaceful situation, he describes a "system administrator" force, often multinational, which does what some call "nation-building", but, most importantly, connects the nation to the core and empowers the natives to communicate—that communication can be likened to swarm coordination. If the state is occupied, or in civil war, another paradigm comes into play: the leviathan, a first-world military force that takes down the opposition regular forces. Leviathan is not constituted to fight local insurgencies, but major forces. Leviathan may use extensive swarming at the tactical level, but its dispatch is a strategic decision that may be made unilaterally, or by an established group of the core such as NATO or ASEAN.
+
+
+=== Cordesman and security ===
+Other than brief "Leviathan" takedowns, security building appears to need to be regional, with logistical and other technical support from more developed countries and alliances (e.g., ASEAN, NATO). Noncombat military assistance in closing the security gap begins with training, sometimes in specialized areas such as intelligence. More direct, but still noncombat support, includes intelligence, planning, logistics and communications.
+Anthony Cordesman notes that security requirements differ by region and state in region. Writing on the Middle East, he identified different security needs for specific areas, as well as the US interest in security in those areas.
+In North Africa, the US focus should be on security cooperation in achieving regional stability and in counterterrorism.
+In the Levant, the US must largely compartment security cooperation with Israel and cooperation with friendly Arab states like Egypt, Jordan, and Lebanon, but can improve security cooperation with all these states.
+In the Persian Gulf, the US must deal with the strategic importance of a region whose petroleum and growing gas exports fuel key elements of the global economy.
+It is well to understand that counterterrorism, as used by Cordesman, does not mean using terrorism against the terrorism, but an entire spectrum of activities, nonviolent and violent, to disrupt an opposing terrorist organization. The French general, Joseph Gallieni, observed, while a colonial administrator in 1898,
+
+A country is not conquered and pacified when a military operation has decimated its inhabitants and made all heads bow in terror; the ferments of revolt will germinate in the mass and the rancours accumulated by the brutal action of force will make them grow again
+
+Both Kilcullen and Eizenstat define a more abstract goal than does Cordesman. Kilcullen's security pillar is roughly equivalent to Eizenstat's security gap:
+Military security (securing the population from attack or intimidation by guerrillas, bandits, terrorists or other armed groups)
+Police security (community policing, police intelligence or "Special Branch" activities, and paramilitary police field forces).
+Human security, building a framework of human rights, civil institutions and individual protections, public safety (fire, ambulance, sanitation, civil defense) and population security.
+
+This pillar most engages military commanders' attention, but of course military means are applied across the model, not just in the security domain, while civilian activity is critically important in the security pillar also ... all three pillars must develop in parallel and stay in balance, while being firmly based in an effective information campaign.
+
+Anthony Cordesman, while speaking of the specific situation in Iraq, makes some points that can be generalized to other nations in turmoil. Cordesman recognizes some value in the groupings in Samuel P. Huntington's idea of the clash of civilizations, but, rather assuming the civilizations must clash, these civilizations simply can be recognized as actors in a multinational world. In the case of Iraq, Cordesman observes that the burden is on the Islamic civilization, not unilaterally the West, if for no other reason that the civilization to which the problematic nation belongs will have cultural and linguistic context that Western civilization cannot hope to equal.
+The heart of strengthening weak nations must come from within, and that heart will fail if they deny that the real issue is the future of their civilization, if they tolerate religious, cultural or separatist violence and terrorism when it strikes at unpopular targets, or if they continue to try to export the blame for their own failures to other nations, religions, and cultures.
+
+
+== Counterinsurgency ==
+
+Before one counters an insurgency, however, one must understand what one is countering. Typically the most successful counterinsurgencies have been the British in the Malay Emergency and the Filipino government's countering of the Huk Rebellion. In the Philippine-American War, the U.S. forces successfully quelled the Filipino insurgents by 1902, albeit with tactics considered unacceptable by the majority of modern populations.
+
+
+== See also ==
+
+
+== Footnotes ==

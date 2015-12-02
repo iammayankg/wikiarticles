@@ -1,0 +1,120 @@
+An unconditional basic income (also called basic income, basic income guarantee, universal basic income, universal demogrant, or citizen’s income) is a form of social security system in which all citizens or residents of a country regularly receive an unconditional sum of money, either from a government or some other public institution, in addition to any income received from elsewhere.
+An unconditional income transfer of less than the poverty line is sometimes referred to as a "partial basic income".
+Basic income systems that are financed by the profits of publicly owned enterprises (often called social dividend or citizen's dividend) are major components in many proposed models of market socialism. Basic income schemes have also been promoted within the context of capitalist systems, where they would be financed through various forms of taxation.
+Similar proposals for "capital grants provided at the age of majority" date to Thomas Paine's Agrarian Justice of 1795, there paired with asset-based egalitarianism. The phrase "social dividend" was commonly used as a synonym for basic income in the English-speaking world before 1986, after which the phrase "basic income" gained widespread currency. Prominent advocates of the concept include Philippe Van Parijs, Ailsa McKay, André Gorz, Hillel Steiner, Peter Vallentyne, and Guy Standing.
+
+
+== Topics in relation to basic income ==
+
+
+=== Administrative efficiency ===
+The lack of means test or similar administration would allow for some saving on social welfare which could be put towards the grant.
+The Basic Income Earth Network (BIEN) describes one of the benefits of a basic income as having a lower overall cost than that of the current means-tested social welfare benefits, and they have put forth proposals for implementation they claim to be financially viable.
+
+
+=== Work incentives and disincentives ===
+A frequent objection to basic income is that it would create a disincentive to work since it is unconditional. It might be expected that the magnitude of such a disincentive would depend on how generous the basic income were to be. Some campaigners in Switzerland have suggested a level that would only just be liveable, arguing that people would want to supplement it.
+Tim Worstall, a writer and blogger, has argued that traditional welfare schemes create a disincentive to work because such schemes typically cause people to lose benefits at around the same rate that their income rises (a form of poverty trap where the marginal tax rate is 100%). He has asserted that this particular disincentive is not a property shared by basic income as the rate of increase is positive at all incomes.
+In one study, even when the benefits are not permanent, the hours worked—by the recipients of the benefit—are observed to decline by 5%, a decrease of 2 hours in a typical 40 hour work week:
+
+While experiments have been conducted in the United States and Canada, those participating knew that their benefits were not permanent and, consequently, they were not likely to change their behaviour as much or in the same manner had the GAI been ongoing. As a result, total hours worked fell by about five percent on average. The work reduction was largest for second earners in two-earner households and weakest for the main earner. Further, the negative work effect was higher the more generous the benefit level.
+
+However, in studies of the Mincome experiment in rural Dauphin, Manitoba in the 1970s, the only two groups who worked significantly less were new mothers and teenagers working to support their families. New mothers spent this time with their infant children, and working teenagers put significant additional time into their schooling. Under Mincome, "the reduction of work effort was modest: about one per cent for men, three per cent for wives, and five per cent for unmarried women."
+Another study that contradicted such decline in work incentive was a pilot project implemented in 2008 and 2009 in the Namibian village of Omitara; the assessment of the project after its conclusion found that economic activity actually increased, particularly through the launch of small businesses, and reinforcement of the local market by increasing households' buying power. However the residents of Omitara were described as suffering "dehumanising levels of poverty" before the introduction of the pilot, and as such the project's relevance to potential implementations in developed economies is not known.
+
+
+=== Funding ===
+When Milton Friedman and other (right wing) economists proposed negative income tax in the 1960s, the idea was that it could be financed by a flat tax, reduced bureaucracy and that the income guarantee would slowly be phased out. The idea was to have a simpler welfare system and to make it easier for unemployed people to get into the workforce. Since the main advocacy for the reform has come from other political camps than the right wing, such as the Greens, but also some socialists, feminists and most recently the Pirates. People from different ideological backgrounds have over the years proposed different models, including both different financiation and different levels. Socialists and other people who believe in the idea of common resource ownership have proposed funding on the basis of social ownership of the means of production and/or natural resources. People to the right, such as Friedman, are usually inclined to finance only by flat tax, or a flat tax and some other traditional taxes. Greens are keen on "green financing", whether it be environmental taxes or in some other ways. Also worth mentioning is the idea to finance mainly or partly with VAT and the idea to have a monetary reform at the same time, which supposedly can take a big part of the funding.
+
+
+=== Affordability ===
+The affordability of a basic income proposal relies on many factors such as the costs of any public services it replaces, tax increases required, and less tangible auxiliary effects on government revenue and/or spending (for example a successful basic income scheme may reduce crime, thereby reducing required expenditure on policing and justice.)
+Specific, though informal, measurements were made by Pascal J. for Canada who concluded that a 2004 taxable basic income benefit of $7800 per adult could be afforded without any tax increases by replacing welfare, unemployment, and core old-age services.
+A 2012 affordability study done in the Republic of Ireland by Social Justice Ireland found that basic income would be affordable with a 45% income tax rate. This would lead to an improvement in income for the majority of the population.
+
+
+=== Difference from guaranteed income ===
+Basic income and traditional welfare systems both share goals of achieving some level of economic equity. Guaranteed income puts preconditions on the payment of income.
+
+
+== Pilot programmes ==
+
+The Permanent Fund of Alaska is well established and is perhaps to be seen as a permanent system, rather than a basic income pilot. The same could perhaps be said about Bolsa Familia also. Leaving those two big systems apart, these are some of the most well known basic income pilots up to date.
+The experiments with negative income tax in United States and Canada in the 1960s and 1970s.
+The experiments in Namibia (starting 2008)
+The experiment in Brazil (starting 2008)
+The experiments in India (starting 2011)
+The GiveDirectly experiment
+The study in rural North Carolina
+
+
+== Basic income and ideology ==
+
+
+=== Left-wing views ===
+Left-wing economists have advocated a form of basic income as a means for distributing the economic profits of publicly owned enterprises to benefit the entire population (also referred to as a social dividend), where the basic income payment represents the return to each citizen on the capital owned by society. These systems would be directly financed out of returns on publicly owned assets and are featured as major components of many models of market socialism. Erik Olin Wright, for example, characterizes basic income as a socialist project and a further reform to capitalism that could establish the basis of a social economy by empowering labor in relation to capital. Other theorists leaning towards different kinds of socialism who have advocated basic income include James Meade, Bertrand Russel, Frances Fox Piven and Harry Shutt. Meade states that a return to full employment can only be achieved if, among other things, workers offer their services at a low enough price that the required wage for unskilled labour would be too low to generate a socially desirable distribution of income. He therefore concludes that a citizen's income is necessary to achieve full employment without suffering stagnant or negative growth in wages. James Meade advocated for a social dividend scheme to be funded by publicly owned productive assets. Russel argued for a basic income alongside public ownership as a means to decrease the average length of the working day and to achieve full employment. Fox Piven hold the view that an income guarantee would benefit all workers by liberating them from the anxiety that results from the "tyranny of wage slavery" and provide opportunities for people to pursue different occupations and develop untapped potentials for creativity. Gorz saw basic income as a necessary adaptation to the increasing automation of work, but also a way to overcome the alienation in work and life and to get increase the amount of leisure time available to each individual. Harry Shutt proposed basic income along with reforms to make all or most of the enterprises collective in nature, rather than private. Together, he argued, these measures would constitute the makeup of a post-capitalist economic system.
+
+
+=== Georgist views ===
+Geolibertarians seek to synthesize propertarian libertarianism and a geoist (or Georgist) philosophy of land as unowned commons or equally owned by all people, citing the classical economic distinction between unimproved land and private property. The rental value of land is produced by the labors of the community and, as such, rightly belongs to the community at large and not solely to the landholder. A land value tax (LVT) is levied as an annual fee for exclusive access to a section of earth, which is collected and redistributed to the community either through public goods, such as public security or a court system, or in the form of a basic guaranteed income called a citizen's dividend. Geolibertarians view the LVT as a single tax to replace all other methods of taxation, which are deemed unjust violations of the non-aggression principle.
+
+
+=== Right-wing views ===
+Support for basic income has been expressed by several people associated with right-wing political views. While adherents of such views generally favor minimization or abolition of the public provision of welfare services, some have cited basic income as a viable strategy to reduce the amount of bureaucratic administration that is prevalent in many contemporary welfare systems. Others have contended that it could also act as a form of compensation for fiat currency inflation.
+
+
+=== Feminist view ===
+Feminist economist Ailsa McKay argued for a basic income as "a tool for promoting gender-neutral social citizenship rights."
+
+
+=== Technological unemployment ===
+Concerns about automation and other causes of technological unemployment have caused many in the high-tech industry to turn to basic income proposals as a necessary implication of their business models. Journalist Nathan Schneider first highlighted the turn of the "tech elite" to these ideas with an article in Vice magazine, which cited figures such as Marc Andreessen, Sam Altman, Peter Diamandis, and others.
+
+
+== Worldwide ==
+
+Generally the discussion on basic income developed in Europe in the 1970s and 1980s, partly inspired by the debate in United States and Canada somewhat earlier, and has since then broadened to most of the developed world, to Latin America, Middle East, and to at least some countries in Africa and Asia. The Alaska Permanent Fund is regarded as one of the best examples of an existing basic income, even though it's only a partial basic income. Other examples of existing basic income, or similar welfare programs, include Bolsa Familia in Brazil, the partial basic income in Macao and the basic income in Iran. Basic income pilots have been conducted in United States and Canada in the 1960s and 1970s, Namibia (from 2008) and in India (from 2011). In Europe there are political decisions in France, Netherlands and Finland to start up some basic income pilots. Switzerland will hold a referendum on the topic in 2016.
+
+
+== Advocates ==
+
+
+=== Europe ===
+European advocates of basic income system are for example Philippe van Parijs, Ailsa McKay (until 2004), Götz Werner, Saar Boerlage, André Gorz, Antonio Negri, Osmo Soininvaara, Guy Standing.
+Some individuals who support introduction of basic income in Germany include activist Susanne Wiest, Green politician Sabine Niels, CDU politician Dieter Althaus, businessman Götz Werner, CDU politician Thoma Dörflinger, leader of the Left Party Katja Kipping.
+
+
+=== North and South America ===
+Advocates of basic income from North and South America include Charles Murray, Eduardo Suplicy and Hugh Segal, Canada.
+The Permanent Fund Dividend paid to residents of Alaska (subject to certain conditions or requirements) is considered to be a leading example of a Basic Income policy.
+
+
+=== Asia, Africa and Oceania ===
+Advocates from Oceania include Gareth Morgan.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==
+Raventós, Daniel; Wark, Julie. "Indignation, Basic Income and the First Social Law. Taking It to the Streets in Spain" Counterpunch, 14 May 2012.
+Raventós, Daniel; Wark, Julie. "General Strike in the Kingdom of Spain: the Political Economy and Basic Income" "Opendemocracy", 30 March 2012.
+Colombino, U. (2014). Five Crossroads on the Way to Basic Income: An Italian Tour, IZA Discussion Papers 8087, Institute for the Study of Labor (IZA).
+Lo Vuolo, Rubén M.; Raventós, Daniel; Yanes, Pablo. "Basic Income in Times of Economic Crisis: The War Social and Working Rights," Counterpunch (Weekend Edition, 5–7 November 2010).
+Raventós, Daniel; Lo Vuolo, Rubén (16 July 2009). "Basic Income: good in the boom, essential in the crisis". On Line Opinion (Australia’s e-journal of social and political debate). Retrieved 17 February 2011. 
+"History of Basic Income," BIEN (Basic Income Earth Network).
+Lord, Clive; Kennet, Miriam (2012). Green Economics and The Citizens Income, published by The Green Economics Institute
+The Case for a Basic Guaranteed Income for All. The Huffington Post, 13 May 2014.
+Free Money for All Makes the case for a basic income guarantee using primarily conservative and libertarian arguments.
+Are Tech Titans Promoting Basic Income Guarantee as a Way to Shrink Government, Kill Social Programs? (2015-01-07) and The Failure of a Past Basic Income Guarantee - the Speenhamland System (2015-01-15), Naked Capitalism
+Peter Barnes (2014). With Liberty and Dividends for All: How to Save Our Middle Class When Jobs Don't Pay Enough. Berrett-Koehler Publishers. ISBN 1626562148
+Sutter, John D. The argument for a basic income. CNN. March 10, 2015.
+
+
+== External links ==
+The Basic income, a cultural impulse, German documentary, available in more than 20 languages
+Basic Income Studies: An International Journal of Basic Income Research
+BasicIncome.org

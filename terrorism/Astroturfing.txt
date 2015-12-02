@@ -1,0 +1,95 @@
+Astroturfing is the practice of masking the sponsors of a message or organization (e.g., political, advertising, religious or public relations) to make it appear as though it originates from and is supported by grassroots participant(s). It is a practice intended to give the statements or organizations more credibility by withholding information about the source's financial connection. The term astroturfing is a derivation of AstroTurf, a brand of synthetic carpeting designed to look like natural grass, a play on the word "grassroots." The implication behind the use of the term is that there are no "true" or "natural" grassroots, but rather "fake" or "artificial" support, though some astroturfing operatives defend the practice (see Justification below).
+On the Internet, astroturfers use software to mask their identity. Sometimes one individual operates over many personas to give the impression of widespread support for their client's agenda. Some studies suggest astroturfing can alter public viewpoints and create enough doubt to inhibit action.
+
+
+== DefinitionEdit ==
+Astroturfing is the use of fake grassroots efforts that primarily focus on influencing public opinion and are typically funded by corporations, and governmental entities, to form opinions.
+
+
+== Policies and enforcementEdit ==
+Many countries have laws that prohibit more overt astroturfing practices. In the United States the Federal Trade Commission (FTC) may send cease and desist orders or require a fine of $16,000 per day for those that violate its "Guides Concerning the Use of Endorsements and Testimonials in Advertising." The FTC's guides were updated in 2009 to address social media and word-of-mouth marketing. According to an article in the Journal of Consumer Policy, the FTC's guides holds advertisers responsible for ensuring bloggers or product endorsers comply with the guides and any product endorsers with a material connection are required to provide honest reviews.
+In the European Union, the Unfair Commercial Practices Directive requires that paid-for editorial content in the media provide a clear disclosure that the content is a sponsored advertisement. Additionally, it prohibits those with a material connection from misleading readers into thinking they are a regular consumer. The United Kingdom has the Consumer Protection from Unfair Trading Regulations which prohibits "Falsely representing oneself as a consumer." They allow for up to two years in prison and unlimited fines for breaches. Additionally, the advertising industry in the UK has adopted many voluntary policies, such as the Code of Non-Broadcast Advertising, Sale, Promotion and Direct Marketing. A trade association, the Advertising Standards Authority, investigates complaints of breaches. The policy requires that marketing professionals not mislead their audience, including by omitting a disclosure of their material connection.
+In Australia astroturfing is regulated by Section 18 of the Australian Consumer Law, which broadly prohibits "misleading and deceptive conduct". According to the Journal of Consumer Policy Australia's laws, which were introduced in 1975, are more vague. In most cases, they are enforced through lawsuits from competitors, rather than the regulatory body, the Australian Competition and Consumer Commission. There is also an International Consumer Protection and Enforcement Network (ICPEN).
+Legal regulations are primarily targeted towards testimonials, endorsements and statements as to the performance or quality of a product. Employees of an organization may be considered acting as customers if their actions are not guided by authority within the company.
+
+
+== DebateEdit ==
+
+
+=== EffectivenessEdit ===
+In the book Grassroots for Hire: Public Affairs Consultants in American Democracy, Edward Walker defines "astroturfing" as public participation that is perceived as heavily incentivized, as fraudulent (claims are attributed to those who did not make such statements), or as an elite campaign masquerading as a mass movement. Although not all campaigns by professional grassroots lobbying consultants meet this definition, the book finds that the elite-sponsored grassroots campaigns often fail when they are not transparent about their sources of sponsorship and/or fail to develop partnerships with constituencies that have an independent interest in the issue. Walker highlights the case of Working Families for Wal-Mart, in which the campaign's lack of transparency led to its demise.
+A study published in the Journal of Business Ethics examined the effects of websites operated by front groups on students. It found that astroturfing was effective at creating uncertainty and lowering trust about claims, thereby changing perceptions that tend to favor the business interests behind the astroturfing effort. The New York Times reported that "consumer" reviews are more effective, because "they purport to be testimonials of real people, even though some are bought and sold just like everything else on the commercial Internet." Some organizations feel their business is threatened by negative comments, so they may engage in astroturfing to drown them out. Online comments from astroturfing employees can also sway the discussion through the influence of groupthink.
+
+
+=== JustificationEdit ===
+Some astroturfing operatives defend their practice. Regarding "movements that have organized aggressively to exaggerate their sway", author Ryan Sager said this "isn't cheating. Doing everything in your power to get your people to show up is basic politics." According to a Porter/Novelli executive, "There will be times when the position you advocate, no matter how well framed and supported, will not be accepted by the public simply because you are who you are."
+
+
+=== Impact on societyEdit ===
+Data mining expert Bing Liu (University of Illinois) estimated that one-third of all consumer reviews on the Internet are fake. According to the New York Times, this has made it hard to tell the difference between "popular sentiment" and "manufactured public opinion." According to an article in the Journal of Business Ethics, astroturfing threatens the legitimacy of genuine grassroots movements. The authors argued that astroturfing that is "purposefully designed to fulfill corporate agendas, manipulate public opinion and harm scientific research represents a serious lapse in ethical conduct." A 2011 report found that often paid posters from competing companies are attacking each other in forums and overwhelming regular participants in the process. George Monbiot said persona management software that supports astroturfing, "could destroy the Internet as a forum for constructive debate." An article in the Journal of Consumer Policy said that regulators and policy makers needed to be more aggressive about astroturfing. The author said it undermines the public's ability to inform potential customers of sub-standard products or inappropriate business practices, but also noted that fake reviews were difficult to detect.
+
+
+== TechniquesEdit ==
+Use of one or more front groups is one astroturfing technique. These groups typically present themselves as serving the public interest, while actually working on behalf of a corporate or political sponsor. Front groups may resist legislation and scientific consensus that is damaging to the sponsor's business by emphasizing minority viewpoints, instilling doubt and publishing counterclaims by corporate-sponsored experts. Fake blogs can also be created that appear to be written by consumers, while actually being operated by a commercial or political interest. Some political movements have provided incentives for members of the public to send a letter to the editor at their local paper, often using a copy and paste form letter that is published in dozens of newspapers verbatim.
+Another technique is the use of sockpuppets, where a single person creates multiple identities online to give the appearance of grassroots support. Sockpuppets may post positive reviews about a product, attack participants that criticize the organization, or post negative reviews and comments about competitors, under fake identities. Astroturfing businesses may pay staff based on the number of posts they make that are not flagged by moderators. Persona management software may be used so that each paid poster can manage five to seventy convincing online personas without getting them confused.
+Pharmaceutical companies may sponsor patient support groups and simultaneously push them to help market their products. Bloggers who receive free products, paid travel or other accommodations may also be considered astroturfing if those gifts are not disclosed to the reader. Analysts could be considered astroturfing, since they often cover their own clients without disclosing their financial connection. To avoid astroturfing, many organizations and press have policies about gifts, accommodations and disclosures.
+
+
+=== DetectionEdit ===
+Persona management software can age accounts and simulate the activity of attending a conference automatically to make it more convincing that they are genuine. At HBGary, employees are given separate thumb drives that contain online accounts for individual identities and visual cues to remind the employee which identity they are using at the time.
+Mass letters may be printed on personalized stationery using different typefaces, colors and words to make them appear personal.
+According to an article in The New York Times, the Federal Trade Commission rarely enforces its astroturfing laws. However, astroturfing operations are frequently detected if their profile images are recognized or if they are identified through the usage patterns of their accounts. Filippo Menczer's group at Indiana University developed software in 2010 that detects astroturfing on Twitter by recognizing behavioral patterns.
+
+
+== Business and adoptionEdit ==
+According to an article in the Journal of Consumer Policy academics disagree on how prolific astroturfing is.
+According to Nancy Clark from Precision Communications, grass-roots specialists charge $25 to $75 for each constituent they convince to send a letter to a politician. Paid online commentators in China are paid fifty cents for each online post that is not removed by moderators, leading to the nickname of the "50-cent party." The New York Times reported that a business selling fake online book reviews charged $999 for 50 reviews and made $28,000 a month shortly after opening.
+According to The Financial Times, astroturfing is "common place" in American politics, but was "revolutionary" in Europe when it was exposed that the European Privacy Association, an anti-privacy "think-tank," was actually sponsored by technology companies.
+
+
+== History of incidentsEdit ==
+
+
+=== OriginsEdit ===
+Although the term "astroturfing" was not yet developed, an early example of the practice was in Act 1, Scene 2 of Shakespeare's play Julius Caesar. In the play, Cassius writes fake letters from "the public" to convince Brutus to assassinate Caesar. In the early 1900s a disposable cup vendor convinced travelers to avoid public drinking cups found in trains and shops through a pamphlet called The Cup Campaigner. The pamphlet warned that public drinking cups could spread disease and did not disclose that the message was commercially motivated. The term "astroturfing" was first coined in 1985 by then-US Senator Lloyd Bentsen (D–Texas) when he said, "a fellow from Texas can tell the difference between grass roots and AstroTurf... this is generated mail". Bentsen was describing a "mountain of cards and letters" sent to his office to promote insurance industry interests.
+
+
+=== TobaccoEdit ===
+As health advocates began winning legislation to raise taxes and increase regulation of smoking in the US, Philip Morris, Burson-Marsteller and other tobacco interests created the National Smokers Alliance (NSA) in 1993. The NSA and other tobacco interests initiated an aggressive public relations campaign from 1994 to 1999 in an effort to exaggerate the appearance of grassroots support for smoker's rights. According to an article in the Journal of Health Communication, the NSA had mixed success at defeating bills that were damaging revenues of tobacco interests.
+
+
+=== InternetEdit ===
+Email, automated phone calls, form letters, and the Internet made astroturfing more economical and prolific in the late 1990s. In 2001, as Microsoft was defending itself against an antitrust lawsuit, Americans for Technology Leadership (ATL), a group heavily funded by Microsoft, initiated a letter-writing campaign. ATL contacted constituents under the guise of conducting a poll and sent pro-Microsoft consumers pre-written letters to send to involved lawmakers. The effort was designed to make it appear as though there was public support for a sympathetic ruling in the antitrust lawsuit.
+In 2009/10, an Indiana University research study developed a software system to detect astroturfing in the Twitter stream. "Some of these cases caught the attention of the popular press due to the sensitivity of the topic in the run up to the 2010 U.S. midterm political elections, and subsequently many of the accounts involved were suspended by Twitter." The study cited a limited number of examples, all promoting conservative policies and candidates.
+
+
+=== PoliticsEdit ===
+In 2006, two Edelman employees created a blog called "Wal-Marting Across America" about two people traveling to Wal-Marts across the country. The blog gave the appearance of being operated by spontaneous consumers, but was actually operated on behalf of Working Families for Walmart, a group funded by Wal-Mart. In 2007, Ask.com deployed an anti-Google advertising campaign portraying Google as an "information monopoly" that was damaging the Internet. The ad was designed to give the appearance of a popular movement and didn't disclose it was funded by a competitor.
+In 2003, GOPTeamLeader.com offered the site's users "points" that could be redeemed for products if they signed a form letter promoting George Bush and got a local paper to publish it as a letter to the editor. More than 100 newspapers published an identical letter to the editor from the site with different signatures on it. Similar campaigns were used by GeorgeWBush.com, and by MoveOn.org to promote Michael Moore's film Fahrenheit 9/11.  The Committee for a Responsible Federal Budget's "Fix the Debt" campaign advocated to reduce government debt without disclosing that its members were lobbyists or high-ranking employees at corporations that aim to reduce federal spending. It also sent op-eds to various students that were published as-is.
+The Tea Party movement has been alleged by noted liberals to be a case of astroturfing.
+
+
+=== EnvironmentEdit ===
+Corporate efforts to mobilize the public against environmental regulation accelerated in the US following the election of president Barack Obama.
+Russia has recently been accused of using astroturf tactics to drum up anti-fracking sentiment across Europe and the West in order to maintain dominance in oil exports through Ukraine.
+
+
+=== CommercialEdit ===
+In 2010, the Federal Trade Commission settled a complaint with Reverb Communications, who was using interns to post favorable product reviews in Apple's iTunes store for clients. In September 2012, one of the first major identified case of astroturfing in Finland involved criticisms about the cost of a €1.8 billion patient information system, which was defended by fake online identities operated by involved vendors.
+In September 2013, New York Attorney General Eric T. Schneiderman announced a settlement with 19 companies to prevent astroturfing. "'Astroturfing' is the 21st century's version of false advertising, and prosecutors have many tools at their disposal to put an end to it," said Scheiderman. The companies paid $350,000 to settle the matter, but the settlement opened the way for private suits as well. "Every state has some version of the statutes New York used," according to lawyer Kelly H. Kolb. "What the New York attorney general has done is, perhaps, to have given private lawyers a road map to file suit."
+
+
+=== State-sponsoredEdit ===
+In 2008, an expert on Chinese affairs, Rebecca MacKinnon, estimated the country employed 280,000 in a government-sponsored astroturfing operation to post pro-China propaganda and drown out voices of dissent.
+In June 2010, the United States Air Force solicited for "persona management" software that would "enable an operator to exercise a number of different online persons from the same workstation and without fear of being discovered by sophisticated adversaries. Personas must be able to appear to originate in nearly any part of the world and can interact through conventional online services and social media platforms..." The $2.6 million contract was awarded to Ntrepid Corporation for astroturfing software the military would use to spread pro-American propaganda in the Middle East, and disrupt extremist propaganda and recruitment.
+
+
+== See alsoEdit ==
+Front organization
+Sockpuppet (Internet)
+State-sponsored internet sockpuppetry
+Internet troll
+Internet Water Army
+
+
+== ReferencesEdit ==

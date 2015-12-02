@@ -1,0 +1,110 @@
+Diphtheria (from Greek: διφθέρα diphthera, meaning leather) is an infection caused by the bacterium Corynebacterium diphtheriae. Signs and symptoms may vary from mild to severe. They usually start two to five days after exposure. Symptoms often come on fairly gradually beginning with a sore throat and fever. In severe cases a grey or white patch develops in the throat. This can block the airway and create a barking cough as in croup. The neck may swell in part due to large lymph nodes. A form of diphtheria that involves the skin, eyes, or genitals also exists. Complications may include myocarditis, inflammation of nerves, kidney problems, and bleeding problems due to low blood platelets. Myocarditis may result in an abnormal heart rate and inflammation of the nerves may result in paralysis.
+Diphtheria is usually spread between people by direct contact or through the air. It may also be spread by contaminated objects. Some people carry the bacteria without having symptoms, but can still spread the disease to others. There are three main types of C. diphtheriae causing different severities of disease. The symptoms are due to a toxin produced by the bacteria. Diagnosis can often be made based on the appearance of the throat with confirmation by culture. Previous infection may not prevent against future infection.
+A vaccine, known as diphtheria toxoid, is effective for prevention and available in a number of formulations. Three or four doses, given along with tetanus toxoid and acellular pertussis vaccine, are recommended during childhood. Further doses are recommended every ten years. Protection can be verified by measuring the antitoxin level in the blood. Treatment is with the antibiotic erythromycin or penicillin G. These antibiotics may also be used for prevention in those who have been exposed to the infection. A surgical procedure known as a tracheostomy is sometimes needed to open the airway in severe cases.
+In 2013, 4,700 cases were officially reported, down from nearly 100,000 in 1980. It is believed, however, that about a million cases occurred per year before the 1980s. It currently occurs most often in Sub-Saharan Africa, India, and Indonesia. In 2013, it resulted in 3,300 deaths down from 8,000 deaths in 1990. In areas where it is still common, children are most affected. It is rare in the developed world due to widespread vaccination. In the United States 57 cases were reported between 1980 and 2004. Death occurs in between 5% and 10% of those affected. The disease was first described in the 5th century BCE by Hippocrates. The bacteria was discovered in 1882 by Edwin Klebs.
+
+
+== Signs and symptomsEdit ==
+
+The symptoms of diphtheria usually begin two to seven days after infection. Symptoms of diphtheria include fever of 38 °C (100.4 °F) or above, chills, fatigue, bluish skin coloration (cyanosis), sore throat, hoarseness, cough, headache, difficulty swallowing, painful swallowing, difficulty breathing, rapid breathing, foul-smelling bloodstained nasal discharge and lymphadenopathy. Symptoms can also include cardiac arrhythmias, myocarditis, and cranial and peripheral nerve palsies.
+
+
+=== Diphtheritic croupEdit ===
+Laryngeal diphtheria can lead to a characteristic swollen neck and throat, or "bull neck". The swollen throat is often accompanied by a serious respiratory condition, characterized by a brassy or "barking" cough, stridor, hoarseness, and difficulty breathing, and historically referred to variously as "diphtheritic croup", "true croup", or sometimes simply as "croup". Diphtheritic croup is extremely rare in countries where diphtheria vaccination is customary. As a result, the term "croup" nowadays most often refers to an unrelated viral illness that produces similar but milder respiratory symptoms.
+
+
+== MechanismEdit ==
+Diphtheria toxin is produced by C. diphtheriae only when infected with a bacteriophage that integrates the toxin-encoding genetic elements into the bacteria.
+Diphtheria toxin is a single, 60kDa molecular weight protein composed of two peptide chains, fragment A and fragment B, held together by a disulfide bond. Fragment B is a recognition subunit that gains the toxin entry into the host cell by binding to the EGF-like domain of heparin-binding EGF-like growth factor (HB-EGF) on the cell surface. This signals the cell to internalize the toxin within an endosome via receptor-mediated endocytosis. Inside the endosome, the toxin is split by a trypsin-like protease into its individual A and B fragments. The acidity of the endosome causes fragment B to create pores in the endosome membrane, thereby catalyzing the release of fragment A into the cell's cytoplasm.
+Fragment A inhibits the synthesis of new proteins in the affected cell. It does this by catalyzing ADP-ribosylation of elongation factor EF-2—a protein that is essential to the translation step of protein synthesis. This ADP-ribosylation involves the transfer of an ADP-ribose from NAD+ to a diphthamide (a modified histidine) residue within the EF-2 protein. Since EF-2 is needed for the moving of tRNA from the A-site to the P-site of the ribosome during protein translation, ADP-ribosylation of EF-2 prevents protein synthesis.
+ADP-ribosylation of EF-2 is reversed by giving high doses of nicotinamide (a form of vitamin B3), since this is one of the reaction's end-products, and high amounts will drive the reaction in the opposite direction.
+
+
+== DiagnosisEdit ==
+The current clinical case definition of diphtheria used by the United States' Centers for Disease Control and Prevention (CDC) is based on both laboratory and clinical criteria.
+
+
+=== Laboratory criteriaEdit ===
+Isolation of Corynebacterium diphtheriae from a gram stain or throat culture from a clinical specimen, or
+Histopathologic diagnosis of diphtheria by a stain called "Albert's Stain".
+
+
+=== Clinical criteriaEdit ===
+Upper respiratory tract illness with sore throat
+Low-grade fever (>102 °F (39 °C) is rare)
+An adherent, dense, grey pseudomembrane covering the posterior aspect of the pharynx. In severe cases, it can extend to cover the entire tracheobronchial tree.
+
+
+=== Case classificationEdit ===
+Probable: a clinically compatible case that is not laboratory-confirmed and is not epidemiologically linked to a laboratory-confirmed case
+Confirmed: a clinically compatible case that is either laboratory-confirmed or epidemiologically linked to a laboratory-confirmed case
+Empirical treatment should generally be started in a patient in whom suspicion of diphtheria is high.
+
+
+== PreventionEdit ==
+Quinvaxem is a widely administered pentavalent vaccine, which is a combination of five vaccines in one that protect infantile children from Diphtheria, among other common child diseases. Diphtheria vaccine is usually combined at least with tetanus (Td) and often with pertussis (DTP, DTaP, TdaP) vaccines, as well.
+
+
+== TreatmentEdit ==
+The disease may remain manageable, but in more severe cases, lymph nodes in the neck may swell, and breathing and swallowing will be more difficult. People in this stage should seek immediate medical attention, as obstruction in the throat may require intubation or a tracheotomy. Abnormal cardiac rhythms can occur early in the course of the illness or weeks later, and can lead to heart failure. Diphtheria can also cause paralysis in the eye, neck, throat, or respiratory muscles. Patients with severe cases will be put in a hospital intensive care unit and be given a diphtheria antitoxin. Since antitoxin does not neutralize toxin that is already bound to tissues, delaying its administration is associated with an increase in mortality risk. Therefore, the decision to administer diphtheria antitoxin is based on clinical diagnosis, and should not await laboratory confirmation.
+Antibiotics have not been demonstrated to affect healing of local infection in diphtheria patients treated with antitoxin. Antibiotics are used in patients or carriers to eradicate C. diphtheriae and prevent its transmission to others. The CDC recommends either:
+Metronidazole
+Erythromycin (orally or by injection) for 14 days (40 mg/kg per day with a maximum of 2 g/d), or
+Procaine penicillin G given intramuscularly for 14 days (300,000 U/d for patients weighing <10 kg and 600,000 U/d for those weighing >10 kg). Patients with allergies to penicillin G or erythromycin can use rifampin or clindamycin.
+In cases that progress beyond a throat infection, diphtheria toxin spreads through the blood and can lead to potentially life-threatening complications that affect other organs, such as the heart and kidneys. The toxin can cause damage to the heart that affects its ability to pump blood or the kidneys' ability to clear wastes. It can also cause nerve damage, eventually leading to paralysis. About 40% to 50% of those left untreated can die.
+
+
+== EpidemiologyEdit ==
+
+Diphtheria is fatal in between 5% and 10% of cases. In children under five years and adults over 40 years, the fatality rate may be as much as 20%. In 2013 it resulted in 3,300 deaths down from 8,000 deaths in 1990.
+Outbreaks, though very rare, still occur worldwide, including in developed nations, such as Germany among non-vaccinated children, and Canadaneeds citation. After the breakup of the former Soviet Union in the early 1990s, vaccination rates in its constituent countries fell so low that there was an explosion of diphtheria cases. In 1991, there were 2,000 cases of diphtheria in the USSR. By 1998, according to Red Cross estimates, there were as many as 200,000 cases in the Commonwealth of Independent States, with 5,000 deaths.
+
+
+== HistoryEdit ==
+In 1613, Spain experienced an epidemic of diphtheria. The year is known as "El Año de los Garrotillos" (The Year of Strangulations) in history of Spain.
+In 1735, a diphtheria epidemic swept through New England.
+Before 1826, diphtheria was known by different names across the world. In England, it was known as Boulogne sour throat, as it spread from France. In 1826, Pierre Bretonneau gave the disease the name diphthérite (from Greek diphthera "leather") describing the appearance of pseudomembrane in the throat.
+In 1856, Victor Fourgeaud described an epidemic of diphtheria in California.
+In 1878, Queen Victoria's daughter Princess Alice and her family became infected with it, causing two deaths, Princess Marie of Hesse and by Rhine and Princess Alice herself.
+In 1883, Edwin Klebs identified the bacterium and named it Klebs-Loeffler bacterium. The club shape of bacterium helped Edwin to differentiate it from other bacteria. Over the period of time, it was called Microsporon diphtheriticum, Bacillus diphtheriae and Mycobacterium diphtheriae. Current nomenclature is Corynebacterium diphtheriae.
+Friedrich Loeffler was the first one to cultivate Corynebacterium diphtheriae in 1884. He used Koch's postulates to prove association between Corynebacterium diphtheriae and Diphtheria. He also showed that the bacillus produces an exotoxin.
+
+Joseph P. O’Dwyer introduced the O'Dwyer tube for laryngeal intubation in patients with obstructed larynx in 1885. It soon replaced tracheostomy as the emergency diphtheric intubation method.
+In 1888, Emile Roux and Alexandre Yersin showed that a substance produced by C. diphtheriae caused symptoms of diphtheria in animals.
+In 1890, Shibasaburo Kitasato and Emil von Behring immunized guinea pigs with heat-treated diphtheria toxin. The first cure of a person with diphtheria is dated to the 1891 Christmas holiday in Berlin. Von Behring won the first Nobel Prize in medicine in 1901 for his work on diphtheria.
+In 1895, H. K. Mulford Company of Philadelphia started production and testing of diphtheria antitoxin in the United States. Park and Biggs described the method for producing serum from horses for use in diphtheria treatment.
+In 1897, Paul Ehrlich developed a standardized unit of measure for diphtheria antitoxin. This was the first ever standardization of a biological product, and played an important role in future developmental work on sera and vaccines.
+In 1901, 10 out of 11 inoculated St. Louis children died from contaminated diphtheria antitoxin. The horse from which the antitoxin was derived died of tetanus. This incident coupled with a tetanus outbreak in Camden, New Jersey played an important part in initiating federal regulation of biologic products.
+On January 7, 1904, Ruth Cleveland died of diphtheria at the age of twelve years in Princeton, New Jersey. Ruth was the eldest daughter of former president Grover Cleveland and the former first lady Frances Folsom. She was the only one of the Clevelands' five children who died before adulthood.
+In 1905, Franklin Royer, from Philadelphia's Municipal Hospital, published a paper urging timely treatment for diphtheria and adequate doses of antitoxin. In the same year, Clemens Pirquet and Bela Schick described serum sickness in children receiving large quantities of horse-derived antitoxin.
+Between 1910 and 1911 Béla Schick developed the Schick test to detect preexistent immunity to diphtheria in an exposed person. Only those who were not exposed to diphtheria were preferably vaccinated. A massive five-year campaign was coordinated by Dr. Schick. As a part of the campaign, 85 million pieces of literature were distributed by the Metropolitan Life Insurance Company with an appeal to parents to "Save your child from diphtheria." A vaccine was developed in the next decade, and deaths began declining in earnest in 1924.
+
+In 1919, in Dallas, Texas, U.S.A., 10 children were killed and 60 others made seriously ill by toxic antitoxin which had passed the tests of the New York State Health Department. Mulford Company of Philadelphia (manufacturers) paid damages in every case.
+In the 1920s, there were an estimated 100,000 to 200,000 cases of diphtheria per year in the United States, causing 13,000 to 15,000 deaths per year. Children represented a large majority of these cases and fatalities. One of the most famous outbreaks of diphtheria was in Nome, Alaska; the "Great Race of Mercy" to deliver diphtheria antitoxin is now celebrated by the Iditarod Trail Sled Dog Race.
+In 1926, Alexander Thomas Glenny increased the effectiveness of diphtheria toxoid by treating it with aluminum salts.
+In 1943, diphtheria outbreaks accompanied war and disruption in Europe. There were 1 million cases in Europe, with 50,000 deaths.
+In 1949, 68 of 606 children died after diphtheria immunization due to improper manufacture of aluminum phosphate toxoid.
+In 1974, WHO included DPT vaccine in their Expanded Programme on Immunization for developing countries.
+In 1975, an outbreak of cutaneous diphtheria in Seattle, Washington was reported .
+In 1994, the Russian Federation saw 39,703 diphtheria cases. In contrast, in 1990, there had been only 1,211 cases.
+In early May 2010, a case of diphtheria was diagnosed in Port-au-Prince, Haiti after the devastating 2010 Haiti earthquake. The 15-year-old male patient died while workers searched for antitoxin.
+In 2013, 3 children died of diphtheria in Hyderabad, India.
+In early June 2015, a case of diphtheria was diagnosed at Vall d'Hebron University Hospital in Barcelona, Spain. The 6-year-old child who died of the illness had not been previously vaccinated due to parental opposition to vaccination. It was the first case of diphtheria in the country since 1986 as reported by "El Mundo" or from 1998, as reported by WHO
+
+
+== Society and cultureEdit ==
+In William Carlos Williams' short story "The Use of Force" (1938), a physician who fears his young patient has diphtheria engages in a battle of wills with the reluctant girl, who resists his efforts to examine her.
+In the Poldark (1975 TV series), diphtheria (called "the morbid sore throat"), sickens and kills many characters in the season 1 finale episode.
+
+
+== ReferencesEdit ==
+
+
+== Further readingEdit ==
+Holmes, R .K. (2005). "Diphtheria and other corynebacterial infections". In Kasper; et al. Harrison's Principles of Internal Medicine (16th ed.). New York: McGraw-Hill. ISBN 0-07-139140-1. 
+"Antitoxin dars 1735 and 1740." The William and Mary Quarterly, 3rd Ser., Vol 6, No 2. p. 338.
+Shulman, S. T. (2004). "The History of Pediatric Infectious Diseases". Pediatric Research 55 (1): 163–176. doi:10.1203/01.PDR.0000101756.93542.09. PMID 14605240. 
+
+
+== External linksEdit ==
+ Media related to Diphtheria at Wikimedia Commons

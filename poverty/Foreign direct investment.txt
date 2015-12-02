@@ -1,0 +1,136 @@
+A foreign direct investment (FDI) is a controlling ownership in a business enterprise in one country by an entity based in another country.
+Foreign direct investment is distinguished from portfolio foreign investment, a passive investment in the securities of another country such as public stocks and bonds, by the element of "control". According to the Financial Times, "Standard definitions of control use the internationally agreed 10 percent threshold of voting shares, but this is a grey area as often a smaller block of shares will give control in widely held companies. Moreover, control of technology, management, even crucial inputs can confer de facto control."
+The origin of the investment does not impact the definition as an FDI: the investment may be made either "inorganically" by buying a company in the target country or "organically" by expanding operations of an existing business in that country.
+
+
+== DefinitionsEdit ==
+Broadly, foreign direct investment includes "mergers and acquisitions, building new facilities, reinvesting profits earned from overseas operations and intra company loans". In a narrow sense, foreign direct investment refers just to building new facilities. The numerical FDI figures based on varied definitions are not easily comparable. As a part of the national accounts of a country, and in regard to the GDP equation Y=C+I+G+(X-M)[Consumption + gross Investment + Government spending +(exports - imports)], where I is domestic investment plus foreign investment, FDI is defined as the net inflows of investment (inflow minus outflow) to acquire a lasting management interest (10 percent or more of voting stock) in an enterprise operating in an economy other than that of the investor. FDI is the sum of equity capital, other long-term capital, and short-term capital as shown the balance of payments. FDI usually involves participation in management, joint-venture, transfer of technology and expertise. Stock of FDI is the net (i.e., inward FDI minus outward FDI) cumulative FDI for any given period. Direct investment excludes investment through purchase of shares. FDI is one example of international factor movements A foreign direct investment (FDI) is a controlling ownership in a business enterprise in one country by an entity based in another country.Foreign direct investment is distinguished from portfolio foreign investment, a passive investment in the securities of another country such as public stocks and bonds, by the element of "control".[1] According to the Financial Times, "Standard definitions of control use the internationally agreed 10 percent threshold of voting shares, but this is a grey area as often a smaller block of shares will give control in widely held companies. Moreover, control of technology, management, even crucial inputs can confer de facto control."
+
+
+== Theoretical backgroundEdit ==
+According to Grazia Ietto-Gillies (2012), prior to Stephen Hymer’s theory regarding direct investment in the 1960s, the reasons behind Foreign Direct Investment and Multinational Corporations were explained by neoclassical economics based on macro economic principles. These theories were based on the classical theory of trade in which the motive behind trade was a result of the difference in the costs of production of goods between two countries, focusing on the low cost of production as a motive for a firm’s foreign activity. For example, Joe S. Bain only explained the internationalization challenge through three main principles: absolute cost advantages, product differentiation advantages and economies of scale. Furthermore, the neoclassical theories were created under the assumption of the existence of perfect competition. Intrigued by the motivations behind large foreign investments made by corporations from the United States of America, Hymer developed a framework that went beyond the existing theories, explaining why this phenomenon occurred, since he considered that the previously mentioned theories could not explain foreign investment and its motivations.
+Facing the challenges of his predecessors, Hymer focused his theory on filling the gaps regarding international investment. The theory proposed by the author approaches international investment from a different and more firm-specific point of view. As opposed to traditional macroeconomics-based theories of investment, Hymer states that there is a difference between mere capital investment, otherwise known as portfolio investment, and direct investment. The difference between the two, which will become the cornerstone of his whole theoretical framework, is the issue of control, meaning that with direct investment firms are able to obtain a greater level of control than with portfolio investment. Furthermore, Hymer proceeds to criticize the neoclassical theories, stating that the theory of capital movements cannot explain international production. Moreover, he clarifies that FDI is not necessarily a movement of funds from a home country to a host country, and that it is concentrated on particular industries within many countries. In contrast, if interest rates were the main motive for international investment, FDI would include many industries within fewer countries. Another interesting observation made by Hymer went against what was maintained by the neoclassical theories: foreign direct investment is not limited to investment of excess profits abroad. In fact, foreign direct investment can be financed through loans obtained in the host country, payments in exchange for equity (patents, technology, machinery etc.), and other methods. The previous criticisms, along with assuming market imperfections, led Hymer to propose the three main determinants of foreign direct investment:
+Firm-specific advantages: Once domestic investment was exhausted, a firm could exploit its advantages linked to market imperfections, which could provide the firm with market power and competitive advantage. Further studies attempted to explain how firms could monetize these advantages in the form of licenses.
+Removal of conflicts: conflict arises if a firm is already operating in foreign market or looking to expand its operations within the same market. He proposes that the solution for this hurdle arose in the form of collusion, sharing the market with rivals or attempting to acquire a direct control of production. However, it must be taken into account that a reduction in conflict through acquisition of control of operations will increase the market imperfections.
+Propensity to formulate an internationalization strategy to mitigate risk: According to his position, firms are characterized with 3 levels of decision making: the day to day supervision, management decision coordination and long term strategy planning and decision making. The extent to which a company can mitigate risk depends on how well a firm can formulate an internationalization strategy taking these levels of decision into account.
+Hymer's importance in the field of International Business and Foreign Direct Investment stems from him being the first to theorize about the existence of Multinational Enterprises (MNE) and the reasons behind Foreign Direct Investment (FDI) beyond macroeconomic principles, his influence on later scholars and theories in International Business, such as the OLI (Ownership, Location and Internationalization) theory by John Dunning and Christos Pitelis which focuses more on transaction costs. Moreover, “the efficiency-value creation component of FDI and MNE activity was further strengthened by two other major scholarly developments in the 1990s: the resource-based (RBV) and evolutionary theories" (Dunning & Pitelis, 2008)  In addition, some of his predictions later materialized, for example the power of supranational bodies such as IMF or the World Bank that increases inequalities (Dunning & Piletis, 2008).
+
+
+== TypesEdit ==
+Horizontal FDI arises when a firm duplicates its home country-based activities at the same value chain stage in a host country through FDI.
+Platform FDI Foreign direct investment from a source country into a destination country for the purpose of exporting to a third country.
+Vertical FDI takes place when a firm through FDI moves upstream or downstream in different value chains i.e., when firms perform value-adding activities stage by stage in a vertical fashion in a host country.
+
+
+== MethodsEdit ==
+The foreign direct investor may acquire voting power of an enterprise in an economy through any of the following methods:
+by incorporating a wholly owned subsidiary or company anywhere
+by acquiring shares in an associated enterprise
+through a merger or an acquisition of an unrelated enterprise
+participating in an equity joint venture with another investor or enterprise
+
+
+=== Forms of FDI incentivesEdit ===
+Foreign direct investment incentives may take the following forms:
+low corporate tax and individual income tax rates
+tax holidays
+other types of tax concessions
+preferential tariffs
+special economic zones
+EPZ – Export Processing Zones
+Bonded warehouses
+Maquiladoras
+investment financial subsidies
+free land or land subsidies
+relocation & expatriation
+infrastructure subsidies
+R&D support
+derogation from regulations (usually for very large projects)
+Governmental Investment Promotion Agencies (IPAs) use various marketing strategies inspired by the private sector to try and attract inward FDI, including Diaspora marketing.
+by excluding the internal investment to get a profited downstream.
+
+
+== Importance and barriers to FDIEdit ==
+The rapid growth of world population since 1950 has occurred mostly in developing countries. This growth has been matched by more rapid increases in gross domestic product, and thus income per capita has increased in most countries around the world since 1950. 
+An increase in FDI may be associated with improved economic growth due to the influx of capital and increased tax revenues for the host country. Host countries often try to channel FDI investment into new infrastructure and other projects to boost development. Greater competition from new companies can lead to productivity gains and greater efficiency in the host country and it has been suggested that the application of a foreign entity’s policies to a domestic subsidiary may improve corporate governance standards. Furthermore, foreign investment can result in the transfer of soft skills through training and job creation, the availability of more advanced technology for the domestic market and access to research and development resources. The local population may benefit from the employment opportunities created by new businesses. In many instances, the investing company is simply transferring its older production capacity and machines, which might still be appealing to the host country because of technological lags or under-development, in order to avoid competition against its own products by the host country/company.
+
+
+=== Developing worldEdit ===
+A 2010 meta-analysis of the effects of foreign direct investment on local firms in developing and transition countries suggests that foreign investment robustly increases local productivity growth.  The Commitment to Development Index ranks the "development-friendliness" of rich country investment policies.
+
+
+=== ChinaEdit ===
+FDI in China, also known as RFDI (renminbi foreign direct investment), has increased considerably in the last decade, reaching $59.1 billion in the first six months of 2012, making China the largest recipient of foreign direct investment and topping the United States which had $57.4 billion of FDI. In 2013 the FDI flow into China was $64.1 billion, resulting in a 34.7% market share of FDI into the Asia-Pacific region. By contrast, FDI out of China in 2013 was $18.97 billion, 10.7% of the Asia-Pacific share.
+During the global financial crisis FDI fell by over one-third in 2009 but rebounded in 2010.
+
+
+=== IndiaEdit ===
+
+Foreign investment was introduced in 1991 under Foreign Exchange Management Act (FEMA), driven by then finance minister Manmohan Singh. As Singh subsequently became the prime minister, this has been one of his top political problems, even in the current times. India disallowed overseas corporate bodies (OCB) to invest in India. India imposes cap on equity holding by foreign investors in various sectors, current FDI in aviation and insurance sectors is limited to a maximum of 49%.
+Starting from a baseline of less than $1 billion in 1990, a 2012 UNCTAD survey projected India as the second most important FDI destination (after China) for transnational corporations during 2010–2012. As per the data, the sectors that attracted higher inflows were services, telecommunication, construction activities and computer software and hardware. Mauritius, Singapore, US and UK were among the leading sources of FDI. Based on UNCTAD data FDI flows were $10.4 billion, a drop of 43% from the first half of the last year.
+Nine from 10 largest foreign companies investing in India(from April 2000- January 2011) are based in Mauritius . List of the ten largest foreign companies investing in India(from April 2000- January 2011) are as follows  --
+TMI Mauritius Ltd. ->Rs 7294 crore/$1600 million
+Cairn UK Holding -> Rs6663 crores/$1492 million
+Oracle Global (Mauritius) Ltd. -> Rs 4805 crore/$1083 million
+Mauritius Debt Management Ltd.-> Rs 3800 crore/$956 million
+Vodafone Mauritius Ltd. – Rs 3268 crore/$801 million
+Etisalat Mauritius Ltd. – Rs 3228 crore
+CMP Asia Ltd. – Rs 2638.25 crore/$653.74 million
+Oracle Global Mauritius Ltd. – Rs 2578.88 crore / $563.94 million
+Merrill Lynch(Mauritius) Ltd. – Rs 2230.02 crore / $483.55 million
+Name of the company not given (but the Indian company which got the FDI is Dhabol Power company Ltd.)
+In 2015 India emerged as top FDI destination surpassing China and the US. In first half of the 2015 India attracted FDI of $ 31 billion compared to $ 28 billion and $ 27 billion of China and the US respectively.
+
+
+=== United StatesEdit ===
+Broadly speaking, the United States has a fundamentally "open economy" and low barriers to FDI.
+U.S. FDI totaled $19 Billion in 2010. 84% of FDI in the United States in 2010 came from or through eight countries: Switzerland, the United Kingdom, Japan, France, Germany, Luxembourg, the Netherlands, and Canada. A major source of investment is the real estate, the foreign investment in this area totaled $92.2 billion in 2013, under various forms of purchase structures (considering the U.S. taxation and residency laws).
+A 2008 study by the Federal Reserve Bank of San Francisco indicated that foreigners hold greater shares of their investment portfolios in the United States if their own countries have less developed financial markets, an effect whose magnitude decreases with income per capita. Countries with fewer capital controls and greater trade with the United States also invest more in U.S. equity and bond markets.
+White House data reported in 2011 found that a total of 5.7 million workers were employed at facilities highly dependent on foreign direct investors. Thus, about 13% of the American manufacturing workforce depended on such investments. The average pay of said jobs was found as around $70,000 per worker, over 30% higher than the average pay across the entire U.S. workforce.
+President Barack Obama said in 2012, "In a global economy, the United States faces increasing competition for the jobs and industries of the future. Taking steps to ensure that we remain the destination of choice for investors around the world will help us win that competition and bring prosperity to our people."
+In September 2013, the United States House of Representatives voted to pass the Global Investment in American Jobs Act of 2013 (H.R. 2052; 113th Congress), a bill which would direct the United States Department of Commerce to "conduct a review of the global competitiveness of the United States in attracting foreign direct investment". Supporters of the bill argued that increased foreign direct investment would help job creation in the United States.
+
+
+=== CanadaEdit ===
+Foreign direct investment by country and by industry are tracked by Statistics Canada. Foreign direct investment accounted for CAD$634 billion in 2012, eclipsing the United States in this economic measure. Global FDI inflows and outflows are tabulated by Statistics Canada.
+
+
+=== United KingdomEdit ===
+The UK has a very free market economy and is open to foreign investment. Prime Minister David Cameron has sought investment from emerging markets and from the Far East in particular and some of Britain's largest infrastructure including energy and skyscrapers such as The Shard have been built with foreign investment.
+
+
+=== Russian FederationEdit ===
+History of Foreign Investment Law
+In 1991, for the first time, Russia regulated the form, range and favorable policy of FDI in Russia.
+In 1994, a consulting council of FDI was established in Russia, which was responsible for setting tax rate and policies for exchange rate, improving investment environment, mediating relationship between central and local government, researching and improving images of FDI work, and increasing the right and responsibility of Ministry of Economic in appealing FDI and enforcing all kinds of policies.
+In 1997, Russia starts to enact policies for appealing FDI on particular industries, for example, fossil fuel, gas, woods, transportation, food reprocessing, etc.
+In 1999, Russia announced a law named FDI of Russian Federation, which aimed at providing a basic guarantee for foreign investors on investing, running business, earnings.
+In 2008, Russia banned on FDI on strategic industries, such as military defense and country safety.
+In 2014, president Putin announced that once abroad Russian investment inflows legally, it would not be checked by tax or law sector. This is a favorable policy of Putin to appeal Russian investment to come back.
+Structure of foreign investment in Russia
+Direct investment: Investing directly with cash. Basically, investment more than 10% of the item is called Direct investment.
+Portfolio investment: Investing indirectly with company loans, financial loans, stocks, etc. Basically, investment less than 10% of the item is called Portfolio investment.
+Other investment: Except for direct and portfolio investment, including international assistance and loans for original country.
+
+
+== See alsoEdit ==
+
+Investment promotion agency
+Bilateral investment treaty
+Foreign exchange controls
+List of countries by FDI abroad
+List of countries by received FDI
+
+
+== ReferencesEdit ==
+
+
+== External linksEdit ==
+FDI Magnet maintains a list of FDI resources, including a list of IPAs active on Twitter
+Ott, Mack (2002). "Foreign Investment in the United States". In David R. Henderson (ed.). Concise Encyclopedia of Economics (1st ed.). Library of Economics and Liberty.  OCLC 317650570, 50016270 and 163149563
+Foreign Direct Investment in the United States. Transactions.
+Foreign Direct Investment in the United States Department of Commerce and Council of Economic Advisers
+OECD Benchmark Definition of Foreign Direct Investment (2008)
+IMF: How Countries Measure FDI (2001)
+Tracking cross-border investments using applied onomastics
+Foreign Direct Investment

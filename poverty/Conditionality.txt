@@ -1,0 +1,39 @@
+In political economy and international relations, conditionality is the use of conditions attached to the provision of benefits such as a loan, debt relief or bilateral aid. These conditions are typically imposed by international financial institutions or regional organizations and are intended to improve economic conditions within the recipient country.
+
+
+== International financial institutionsEdit ==
+Conditionality is typically employed by the International Monetary Fund, the World Bank or a donor country with respect to loans, debt relief and financial aid. Conditionalities may involve relatively uncontroversial requirements to enhance aid effectiveness, such as anti-corruption measures, but they may involve highly controversial ones, such as austerity or the privatization of key public services, which may provoke strong political opposition in the recipient country. These conditionalities are often grouped under the label structural adjustment as they were prominent in the structural adjustment programs following the debt crisis of the 1980s.
+
+
+== Ex-ante vs. ex-postEdit ==
+Much debate in types of conditionality centers around ex-ante versus ex-post conditionality. In ex-post conditionality, the country receiving aid agrees to conditions set by the donor or lender that they will carry out after they receive the aid. Later follow-ups determine whether they might receive more aid. Ex-ante conditionality requires a country to meet certain conditions and prove it can maintain them before it will receive any aid.
+Traditionally, the IMF lends funds based on ex-post criteria, which might induce moral hazard behavior by the borrowing country. The moral hazard problem appears when a government behaves in a risky manner in the anticipation that it can turn to the IMF in the case of a crisis. Institutional reforms of the International Monetary Fund, such as the Flexible Credit Line (FCL) in 1999, attempt to reduce moral hazard by relying more on pre-set qualification criteria (i.e. ex-ante).
+
+
+== 'Tied' aidEdit ==
+Other types of conditionality that often occur are aid which is tied to be used in a specific way. For example, many countries tie aid to the purchasing of domestic products, although this practice has drastically decreased over the past 15 years. The United Nations Human Development Report in 2005 estimated that only about 8 per cent of bilateral aid is 'tied', down from 27 per cent in 1990. This however varies from country to country with the United Kingdom, Ireland and Norway giving 100 per cent of their aid untied, and Canada, Austria and Spain giving less than 60 per cent. [1]
+
+
+== European UnionEdit ==
+The European Union also employs conditionality with respect to enlargement, with membership conditional on candidate countries meeting the Copenhagen criteria and adopting the acquis communautaire.
+
+
+== See alsoEdit ==
+Development aid
+Heavily Indebted Poor Countries
+Structural adjustment
+
+
+== ReferencesEdit ==
+Stefan Koeberle, Harold Bedoya, Peter Silarsky, and Gero Verheyen (editors) (2005). Conditionality Revisited: Concepts, Experiences, and Lessons (PDF). The World Bank. ISBN 0-8213-6013-2. 
+
+
+== External linksEdit ==
+World Bank conditionality [2]
+Conditionality in IMF-supported programs - overview [3]
+David Hall and Robin de la Motte, Dogmatic Development: Privatisation and conditionalities in six countries, War on Want [4]
+"The Future of Aid Conditionality", Globalization Institute [5]
+Big Picture TV Free video clip of Martin Khor (Director, Third World Network) speaking about structural adjustment
+ActionAid, April 2004, "Money talks: How aid conditions continue to drive utility privatisation in poor countries"
+Eurodad, November 2007, [6] Untying the knots - How the World Bank is failing to deliver real change on conditionality
+European Network on Debt and Development reports, news and links on conditionality. [7]

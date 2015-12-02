@@ -1,0 +1,39 @@
+The Global Terrorism Index (GTI) is an attempt to systematically rank the nations of the world according to terrorist activity. The index combines a number of factors associated with terrorist attacks to build an explicit picture of the impact of terrorism over a 10-year period, illustrating trends, and providing a data series for analysis by researchers and policymakers. It is the product of Institute for Economics and Peace (IEP) and is based on data from the Global Terrorism Database (GTD) which is collected and collated by the National Consortium for the Study of Terrorism and Responses to Terrorism (START) at the University of Maryland. The GTD has codified over 125,000 cases of terrorism.
+The 2014 Global Terrorism Index is the second edition of the index following a 2012 edition. An interactive map highlights changes to the level of terrorism and the Global Terrorism Index.
+
+
+== Global Terrorism Index Report 2015 (Page 90) ==
+
+
+== Methodology ==
+
+
+=== GTI Scoring System ===
+The GTI score for a country in a given year is based on a unique scoring system to account for the relative impact of incidents in the year. There are four factors counted in each country's yearly score:
+Total number of terrorist incidents in a given year
+Total number of fatalities caused by terrorism in a given year
+Total number of injuries caused by terrorism in a given year
+The approximate level of total property damage from terrorist incidents in a given year
+Each of the factors is weighted differently and a five-year weighted average is applied to importantly reflect the lingering psychological effect of terrorist acts over time. The weightings shown in the table below were determined by consultation with the GPI Expert Panel:
+The greatest weighting is attributed to a fatality. The property damage measure is further disaggregated into four bands depending on the measured scope of the property damage inflicted by one incident. These bandings are shown in the table below, whereby incidents causing less than US$1 million are accorded a weight of 1, between $1 million and $1 billion, and more than $1 billion. A great majority of incidents are coded in the GTD as an 'unknown' level of property damage, thus scoring nil, with 'catastrophic' events being extremely rare.
+
+
+=== Example of a country's GTI Score ===
+To assign a relative number to how a country has been directly impacted by terrorism in any given year, for every incident recorded, the GTI calculates a weighted sum of all indicators. To illustrate, the table below depicts a hypothetical country's score for a given year:
+Given these indicator values, the country for that year would be assessed as having a raw impact of terrorism score of:
+(1 x 21) + (3 x 36) + (0.5 x 53) + (2 x 20) = 195.5.
+
+
+== See also ==
+Global Terrorism Database
+Patterns of Global Terrorism
+Global Peace Index
+United States Peace Index
+Terrorism
+
+
+== References ==
+
+
+== External links ==
+START - National Consortium for the Study of Terrorism and Responses to Terrorism, at the University of Maryland.

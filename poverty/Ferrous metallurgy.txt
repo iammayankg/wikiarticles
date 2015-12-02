@@ -1,0 +1,159 @@
+Ferrous metallurgy involves processes and alloys based on iron. It began far back in prehistory. The earliest surviving iron artifacts, from the 4th millennium BC in Egypt, were made from meteoritic iron-nickel. By the end of the 2nd millennium BC iron was being produced from iron ores from South of the Saharan Africa to China. The use of wrought iron (worked iron) was known by the 1st millennium BC. During the medieval period, means were found in Europe of producing wrought iron from cast iron (in this context known as pig iron) using finery forges. For all these processes, charcoal was required as fuel.
+Steel (with a carbon content between pig iron and wrought iron) was first produced in antiquity as an alloy. Its process of production, Wootz, was exported before the 4th century BC to ancient China, Africa, the Middle East and Europe. Archaeological evidence of cast iron appears in 5th century BC China. New methods of producing it by carburizing bars of iron in the cementation process were devised in the 17th century. During the Industrial Revolution, new methods of producing bar iron without charcoal were devised and these were later applied to produce steel. In the late 1850s, Henry Bessemer invented a new steelmaking process, that involved blowing air through molten pig iron to burn off carbon, and so to produce mild steel. This and other 19th-century and later processes have displaced the use of wrought iron. Today, wrought iron is no longer produced.
+
+
+== Meteoric iron ==
+
+Iron was extracted from iron-nickel meteorites, which comprise about 6% of all meteorites that fall on the earth. That source can often be identified with certainty because of the unique crystalline features ("Widmanstatten figures") of that material, which are preserved when the metal is worked cold or at low temperature. Those artifacts include, for example, a bead from the 5th millennium BC found in Iran and spear tips and ornaments from Ancient Egypt and Sumer around 4000 BC. Meteoric iron has been identified also in a Chinese axe head from the middle of the 2nd millennium BC.
+These early uses appear to have been largely ceremonial or ornamental. Meteoritic iron is very rare, and the metal was probably very expensive, perhaps more expensive than gold. The early Hittites are known to have bartered iron (meteoritic or smelted) for silver, at a rate of 40 times the iron's weight, with Assyria.
+Meteoric iron was also fashioned into tools in the Arctic, about the year 1000, when the Thule people of Greenland began making harpoons, knives, ulos and other edged tools from pieces of the Cape York meteorite. Typically pea-size bits of metal were cold-hammered into disks and fitted to a bone handle. These artifacts were also used as trade goods with other Arctic peoples: tools made from the Cape York meteorite have been found in archaeological sites more than 1,000 miles (1,600 km) distant. When the American polar explorer Robert Peary shipped the largest piece of the meteorite to the American Museum of Natural History in New York City in 1897, it still weighed over 33 tons. Another example of a late use of meteoritic iron is an adze from around 1000 AD found in Sweden.
+ Media related to Objects made from meteoritic iron at Wikimedia Commons
+
+
+== Native iron ==
+Native iron in the metallic state occurs rarely as small inclusions in certain basalt rocks. Besides meteoritic iron, Thule people of Greenland have used native iron from the Disko region.
+
+
+== Iron smelting and the Iron Age ==
+Iron smelting—the extraction of usable metal from oxidized iron ores—is more difficult than tin and copper smelting. While these metals and their alloys can be cold-worked or melted in relatively simple furnaces (such as the kilns used for pottery) and cast into molds, smelted iron requires hot-working and can be melted only in specially designed furnaces. Thus it is not surprising that humans only mastered the technology of smelted iron after several millennia of bronze metallurgy.
+The place and time for the discovery of iron smelting is not known, partly because of the difficulty of distinguishing metal extracted from nickel-containing ores from hot-worked meteoritic iron. The archaeological evidence seems to point to the Middle East area, during the Bronze Age in the 3rd millennium BC. However iron artifacts remained a rarity until the 12th century BC.
+The Iron Age is conventionally defined by the widespread replacement of bronze weapons and tools with those of steel. That transition happened at different times in different places, as the technology spread.. Mesopotamia was fully into the Iron Age by 900 BC. Although Egypt produced iron artifacts, bronze remained dominant until its conquest by Assyria in 663 BC. The Iron Age began in Central Europe about 500 BC, and in India and China between 1200 and 500 BC. Around 500 BC, the Nubians who had learned from the Assyrians the use of iron and were expelled from Egypt, became major manufacturers and exporters of iron.
+
+
+=== Ancient Near East ===
+
+One of the earliest smelted iron artifacts, a dagger with an iron blade found in a Hattic tomb in Anatolia, dated from 2500 BC. About 1500 BC, increasing numbers of non-meteoritic, smelted iron objects appeared in Mesopotamia, Anatolia, and Egypt. Nineteen iron objects were found in the tomb of Egyptian ruler Tutankhamun, died in 1323 BC, including an iron dagger with a golden hilt, an Eye of Horus, the mummy's head-stand and sixteen models of an artisan's tools. An Ancient Egyptian sword bearing the name of pharaoh Merneptah as well as a battle axe with an iron blade and gold-decorated bronze shaft were both found in the excavation of Ugarit.
+Although iron objects dating from the Bronze Age have been found across the Eastern Mediterranean, bronzework appears to have greatly predominated during this period. By the 12th century BC, iron smelting and forging, of weapons and tools, was common from Sub-Saharan Africa through India. As the technology spread, iron came to replace bronze as the dominant metal used for tools and weapons across the Eastern Mediterranean (the Levant, Cyprus, Greece, Crete, Anatolia, and Egypt).
+Iron was originally smelted in bloomeries, furnaces where bellows were used to force air through a pile of iron ore and burning charcoal. The carbon monoxide produced by the charcoal reduced the iron oxide from the ore to metallic iron. The bloomery, however, was not hot enough to melt the iron, so the metal collected in the bottom of the furnace as a spongy mass, or bloom. Workers filled the bloom's pores with ash and slag. Then they reheated the bloom to soften the iron and melt the slag, and then repeatedly beat and folded it to force out the molten slag. This laborious, time-consuming process produced wrought iron, a malleable but fairly soft alloy.
+Concurrent with the transition from bronze to iron was the discovery of carburization, the process of adding carbon to wrought iron. While the iron bloom contained some carbon, the subsequent hot-working oxidized most of it. Smiths in the Middle East discovered that wrought iron could be turned into a much harder product by heating the finished piece in a bed of charcoal, and then quenching it in water or oil. This procedure turned the outer layers of the piece into steel, an alloy of iron and iron carbides, with an inner core of less brittle iron.
+
+
+==== Theories on the origin of iron smelting ====
+The development of iron smelting was traditionally attributed to the Hittites of Anatolia of the Late Bronze Age. It was believed that they maintained a monopoly on iron working, and that their empire had been based on that advantage. According to that theory, the ancient Sea Peoples, who invaded the Eastern Mediterranean and destroyed the Hittite empire at the end of the Late Bronze Age, were responsible for spreading the knowledge through that region. This theory is no longer held in the mainstream of scholarship, since there is no archaeological evidence of the alleged Hittite monopoly. While there are some iron objects from Bronze Age Anatolia, the number is comparable to iron objects found in Egypt and other places of the same time period, and only a small number of those objects were weapons.
+A more recent theory claims that the development of iron technology was driven by the disruption of the copper and tin trade routes, due to the collapse of the empires at the end of the Late Bronze Age. These metals, especially tin, were not widely available and metal workers had to transport them over long distances, whereas iron ores were widely available. However, no known archaeological evidence suggests a shortage of bronze or tin in the Early Iron Age. Bronze objects remained abundant, and these objects have the same percentage of tin as those from the Late Bronze Age.
+
+
+=== Indian Sub-Continent ===
+
+The History of metallurgy in the Indian subcontinent began in the 2nd millennium BC. Archaeological sites in Gangetic plains have yielded iron implements dated between 1800 – 1200 BC. By the early 13th century BC, iron smelting was practiced on a large scale in India. In Southern India (present day Mysore) iron was in use 12th to 11th centuries BC. The technology of iron metallurgy advanced in the politically stable Maurya period. and during a period of peaceful settlements in the 1st millennium BC.
+Iron artifacts such as spikes, knives, daggers, arrow-heads, bowls, spoons, saucepans, axes, chisels, tongs, door fittings etc., dated from 600 to 200 BC, have been discovered at several archaeological sites of India. The Greek historian Herodotus wrote the first western account of the use of iron in India. The Indian mythological texts, the Upanishads, have mentions of weaving, pottery, and metallurgy as well. The Romans had high regard for the excellence of steel from India in the time of the Gupta Empire.
+
+Perhaps as early as 500 BC, although certainly by 200 AD, high quality steel was produced in southern India by the crucible technique. In this system, high-purity wrought iron, charcoal, and glass were mixed in a crucible and heated until the iron melted and absorbed the carbon. Iron chain was used in Indian suspension bridges as early as the 4th century.
+Wootz steel was produced in India and Sri Lanka from around 300 BC. Wootz steel is famous from Classical Antiquity for its durability and ability to hold an edge. When asked by King Porus to select a gift, Alexander is said to have chosen, over gold or silver, thirty pounds of steel. Wootz steel was originally a complex alloy with iron as its main component together with various trace elements. Recent studies have suggested that its qualities may have been due to the formation of carbon nanotubes in the metal. According to Will Durant, the technology passed to the Persians and from them to Arabs who spread it through the Middle East. In the 16th century, the Dutch carried the technology from South India to Europe, where it was mass-produced.
+Steel was produced in Sri Lanka from 300 BC by furnaces blown by the monsoon winds. The furnaces were dug into the crests of hills, and the wind was diverted into the air vents by long trenches. This arrangement created a zone of high pressure at the entrance, and a zone of low pressure at the top of the furnace. The flow is believed to have allowed higher temperatures than bellows-driven furnaces could produce, resulting in better-quality iron. Steel made in Sri Lanka was traded extensively within the region and in the Islamic world.See also Steel#Wootz steel and Damascus steel
+One of the world's foremost metallurgical curiosities is an iron pillar located in the Qutb complex, Delhi. The pillar is made of wrought iron (98% Fe), is almost seven meters high and weighs more than six tonnes. The pillar was erected by Chandragupta II Vikramaditya and has withstood 1,600 years of exposure to heavy rains with relatively little corrosion.
+
+
+=== Iron Age Europe ===
+
+Iron working was introduced to Greece in the late 10th century BC. The earliest marks of Iron Age in Central Europe are artifacts from the Hallstatt C culture (8th century BC). Throughout the 7th to 6th centuries BC, iron artifacts remained luxury items reserved for an elite. This changed dramatically shortly after 500 BC with the rise of the La Tène culture, from which time iron metallurgy also became common in Northern Europe and Britain. The spread of ironworking in Central and Western Europe is associated with Celtic expansion. By the 1st century BC, Noric steel was famous for its quality and sought-after by the Roman military.
+The annual iron output of the Roman Empire is estimated at 84,750 t, while the similarly populous Han China produced around 5,000 t.
+
+
+=== China ===
+
+Historians debate whether bloomery-based ironworking ever spread to China from the Middle East. One theory suggests that metallurgy was introduced through Central Asia. The earliest cast iron artifacts, dating to 5th century BC, were discovered by archaeologists in what is now modern Luhe County, Jiangsu in China. Cast iron was used in ancient China for warfare, agriculture, and architecture. Around 500 BC, metalworkers in the southern state of Wu achieved a temperature of 1130 °C. At this temperature, iron combines with 4.3% carbon and melts. The liquid iron can be cast into molds, a method far less laborious than individually forging each piece of iron from a bloom. This technology would be known in Europe from early medieval times on.
+Cast iron is rather brittle and unsuitable for striking implements. It can, however, be decarburized to steel or wrought iron by heating it in air for several days. In China, these iron working methods spread northward, and by 300 BC, iron was the material of choice throughout China for most tools and weapons. A mass grave in Hebei province, dated to the early 3rd century BC, contains several soldiers buried with their weapons and other equipment. The artifacts recovered from this grave are variously made of wrought iron, cast iron, malleabilized cast iron, and quench-hardened steel, with only a few, probably ornamental, bronze weapons.
+
+During the Han Dynasty (202 BC–220 AD), the government established ironworking as a state monopoly (repealed during the latter half of the dynasty and returned to private entrepreneurship) and built a series of large blast furnaces in Henan province, each capable of producing several tons of iron per day. By this time, Chinese metallurgists had discovered how to fine molten pig iron, stirring it in the open air until it lost its carbon and could be hammered (wrought). (In modern Mandarin-Chinese, this process is now called chao, literally, stir frying.) By the 1st century BC, Chinese metallurgists had found that wrought iron and cast iron could be melted together to yield an alloy of intermediate carbon content, that is, steel. According to legend, the sword of Liu Bang, the first Han emperor, was made in this fashion. Some texts of the era mention "harmonizing the hard and the soft" in the context of ironworking; the phrase may refer to this process. The ancient city of Wan (Nanyang) from the Han period forward was a major center of the iron and steel industry. Along with their original methods of forging steel, the Chinese had also adopted the production methods of creating Wootz steel, an idea imported from India to China by the 5th century AD. During Han Dynasty, the Chinese were also the first to apply hydraulic power (i.e. a waterwheel) in working the bellows of the blast furnace. This was recorded in the year 31 AD, as an innovation of the engineer Du Shi, Prefect of Nanyang. Although Du Shi was the first to apply water power to bellows in metallurgy, the first drawn and printed illustration of its operation with water power appeared in 1313 AD, in the Yuan Dynasty era text called the Nong Shu. In the 11th century, there is evidence of the production of steel in Song China using two techniques: a "berganesque" method that produced inferior, heterogeneous steel and a precursor to the modern Bessemer process that utilized partial decarbonization via repeated forging under a cold blast. By the 11th century, there was a large amount of deforestation in China due to the iron industry's demands for charcoal. By this time however, the Chinese had learned to use bituminous coke to replace charcoal, and with this switch in resources many acres of prime timberland in China were spared. The change of fuel resources from charcoal to coal was pioneered in Roman Britain by the 2nd century AD, although it was also practiced in the Germanic Rhineland at the time.
+
+
+=== Indigenous South of the Saharan Africa ===
+
+Inhabitants at Termit, in eastern Niger became the first iron smelting people in West Africa around 1500 BC. Iron and copper working spread southward through the continent, reaching the Cape around AD 200. The widespread use of iron revolutionized the Bantu-speaking farming communities who adopted it, driving out and absorbing the rock tool using hunter-gatherer societies they encountered as they expanded to farm wider areas of savanna. The technologically superior Bantu-speakers spread across southern Africa and became wealthy and powerful, producing iron for tools and weapons in large, industrial quantities.
+In the region of the Aïr Mountains in Niger there are signs of independent copper smelting between 2500–1500 BC. The process was not in a developed state, indicating smelting was not foreign. It became mature about the 1500 BC.
+Similarly, smelting in bloomery-type furnaces in West Africa and forging for tools appear in the Nok culture in Africa by 500 BC. The earliest records of bloomery-type furnaces in East Africa are discoveries of smelted iron and carbon in Nubia and Axum that date back between 1,000-500 BCE. Particularly in Meroe, there are known to have been ancient bloomeries that produced metal tools for the Nubians and Kushites and produced surplus for their economy.
+In the regions of Tanzania inhabited by the Haya people, carbon dating has shown that blast furnaces were as old as 2000 years, whereas steel of this calibre did not appear in Europe until several centuries later.
+
+
+=== Medieval Islamic world ===
+Iron technology was further advanced by several inventions in medieval Islam, during the so-called Islamic Golden Age. These included a variety of water-powered and wind-powered industrial mills for metal production, including geared gristmills and forges. By the 11th century, every province throughout the Muslim world had these industrial mills in operation, from Islamic Spain and North Africa in the west to the Middle East and Central Asia in the east. There are also 10th-century references to cast iron, as well as archeological evidence of blast furnaces being used in the Ayyubid and Mamluk empires from the 11th century, thus suggesting a diffusion of Chinese metal technology to the Islamic world.
+Geared gristmills were invented by Muslim engineers, and were used for crushing metallic ores before extraction. Gristmills in the Islamic world were often made from both watermills and windmills. In order to adapt water wheels for gristmilling purposes, cams were used for raising and releasing trip hammers. The first forge driven by a hydropowered water mill rather than manual labour was invented in the 12th century Islamic Spain.
+One of the most famous steels produced in the medieval Near East was Damascus steel used for swordmaking, and mostly produced in Damascus, Syria, in the period from 900 to 1750. This was produced using the crucible steel method, based on the earlier Indian wootz steel. This process was adopted in the Middle East using locally produced steels. The exact process remains unknown, but it allowed carbides to precipitate out as micro particles arranged in sheets or bands within the body of a blade. Carbides are far harder than the surrounding low carbon steel, so swordsmiths could produce an edge that cut hard materials with the precipitated carbides, while the bands of softer steel let the sword as a whole remain tough and flexible. A team of researchers based at the Technical University of Dresden that uses X-rays and electron microscopy to examine Damascus steel discovered the presence of cementite nanowires and carbon nanotubes. Peter Paufler, a member of the Dresden team, says that these nanostructures give Damascus steel its distinctive properties and are a result of the forging process.
+
+
+== Medieval and Early Modern Europe ==
+There was no fundamental change in the technology of iron production in Europe for many centuries. European metal workers continued to produce iron in bloomeries. However, the Medieval period brought two developments—the use of water power in the bloomery process in various places (outlined above), and the first European production in cast iron.
+
+
+=== Powered bloomeries ===
+
+Sometime in the medieval period, water power was applied to the bloomery process. It is possible that this was at the Cistercian Abbey of Clairvaux as early as 1135, but it was certainly in use in early 13th century France and Sweden. In England, the first clear documentary evidence for this is the accounts of a forge of the Bishop of Durham, near Bedburn in 1408, but that was certainly not the first such ironworks. In the Furness district of England, powered bloomeries were in use into the beginning of the 18th century, and near Garstang until about 1770.
+The Catalan Forge was a variety of powered bloomery. Bloomeries with hot blast were used in upstate New York in the mid-19th century.
+
+
+=== Blast furnace ===
+
+Cast iron development lagged in Europe, as the smelters could only achieve temperatures of about 1000 C; or perhaps they did not want hotter temperatures, as they were seeking to produce blooms as a precursor of wrought iron, not cast iron. Through a good portion of the Middle Ages, in Western Europe, iron was still being made by the working of iron blooms into wrought iron. Some of the earliest casting of iron in Europe occurred in Sweden, in two sites, Lapphyttan and Vinarhyttan, between 1150 and 1350. Some scholars have speculated the practice followed the Mongols across Russia to these sites, but there is no clear proof of this hypothesis, and it would certainly not explain the pre-Mongol datings of many of these iron-production centres. In any event, by the late 14th century, a market for cast iron goods began to form, as a demand developed for cast iron cannonballs.
+
+
+=== Osmond process ===
+Iron from furnaces such as Lapphyttan was refined into wrought iron by the osmond process. The pig iron from the furnace was melted in front of a blast of air and the droplets caught on a staff (which was spun). This formed a ball of iron, known as an osmond. This was probably a traded commodity by c. 1200.
+
+
+=== Finery process ===
+An alternative method of decarburising pig iron was the finery process, which seems to have been devised in the region around Namur in the 15th century. By the end of that century, this Walloon process spread to the Pay de Bray on the eastern boundary of Normandy, and then to England, where it became the main method of making wrought iron by 1600. It was introduced to Sweden by Louis de Geer in the early 17th century and was used to make the oregrounds iron favoured by English steelmakers.
+A variation on this was the German process. This became the main method of producing bar iron in Sweden.
+
+
+=== Cementation steel ===
+In the early 17th century, ironworkers in Western Europe had developed the cementation process for carburizing wrought iron. Wrought iron bars and charcoal were packed into stone boxes, then held at a red heat for up to a week. During this time, carbon diffused into the iron, producing a product called cement steel or blister steel. One of the earliest places where this was used in England was at Coalbrookdale, where Sir Basil Brooke had two cementation furnaces (recently excavated). For a time in the 1610s, he owned a patent on the process, but had to surrender this in 1619. He probably used Forest of Dean iron as his raw material, but it was soon found that oregrounds iron was more suitable. The quality of the steel could be improved by faggoting, producing the so-called shear steel.
+
+
+=== Crucible steel ===
+In the 1740s, Benjamin Huntsman found a means of melting blister steel, made by the cementation process, in crucibles. The resulting crucible steel, usually cast in ingots, was more homogeneous than blister steel.
+
+
+== Transition to coke in England ==
+
+
+=== Beginnings ===
+Early iron smelting used charcoal as both the heat source and the reducing agent. By the 18th century, the availability of wood for making charcoal was limiting the expansion of iron production, so that England became increasingly dependent for a considerable part of the iron required by its industry, on Sweden (from the mid-17th century) and then from about 1725 also on Russia.
+Smelting with coal (or its derivative coke) was a long sought objective. The production of pig iron with coke was probably achieved by Dud Dudley in the 1620s, and with a mixed fuel made from coal and wood again in the 1670s. However this was probably only a technological rather than a commercial success. Shadrach Fox may have smelted iron with coke at Coalbrookdale in Shropshire in the 1690s, but only to make cannonballs and other cast iron products such as shells. However, in the peace after the Nine Years War, there was no demand for these.
+
+
+=== Abraham Darby and his successors ===
+
+In 1707, Abraham Darby patented a method of making cast iron pots. His pots were thinner and hence cheaper than those of his rivals. Needing a larger supply of pig iron he leased the blast furnace at Coalbrookdale in 1709. There, he made iron using coke, thus establishing the first successful business in Europe to do so. His products were all of cast iron, though his immediate successors attempted (with little commercial success) to fine this to bar iron.
+Bar iron thus continued normally to be made with charcoal pig iron until the mid-1750s. In 1755 Abraham Darby II (with partners) opened a new coke-using furnace at Horsehay in Shropshire, and this was followed by others. These supplied coke pig iron to finery forges of the traditional kind for the production of bar iron. The reason for the delay remains controversial.
+
+
+=== New forge processes ===
+
+It was only after this that economically viable means of converting pig iron to bar iron began to be devised. A process known as potting and stamping was devised in the 1760s and improved in the 1770s, and seems to have been widely adopted in the West Midlands from about 1785. However, this was largely replaced by Henry Cort's puddling process, patented in 1784, but probably only made to work with grey pig iron in about 1790. These processes permitted the great expansion in the production of iron that constitutes the Industrial Revolution for the iron industry.
+In the early 19th century, Hall discovered that the addition of iron oxide to the charge of the puddling furnace caused a violent reaction, in which the pig iron was decarburised, this became known as 'wet puddling'. It was also found possible to produce steel by stopping the puddling process before decarburisation was complete.
+
+
+== Hot blast ==
+
+The efficiency of the blast furnace was improved by the change to hot blast, patented by James Beaumont Neilson in Scotland in 1828. This further reduced production costs. Within a few decades, the practice was to have a 'stove' as large as the furnace next to it into which the waste gas (containing CO) from the furnace was directed and burnt. The resultant heat was used to preheat the air blown into the furnace.
+
+
+== Industrial steelmaking ==
+
+Apart from some production of puddled steel, English steel continued to be made by the cementation process, sometimes followed by remelting to produce crucible steel. These were batch-based processes whose raw material was bar iron, particularly Swedish oregrounds iron.
+The problem of mass-producing cheap steel was solved in 1855 by Henry Bessemer, with the introduction of the Bessemer converter at his steelworks in Sheffield, England. (An early converter can still be seen at the city's Kelham Island Museum). In the Bessemer process, molten pig iron from the blast furnace was charged into a large crucible, and then air was blown through the molten iron from below, igniting the dissolved carbon from the coke. As the carbon burned off, the melting point of the mixture increased, but the heat from the burning carbon provided the extra energy needed to keep the mixture molten. After the carbon content in the melt had dropped to the desired level, the air draft was cut off: a typical Bessemer converter could convert a 25-ton batch of pig iron to steel in half an hour.
+Finally, the basic oxygen process was introduced at the Voest-Alpine works in 1952; a modification of the basic Bessemer process, it lances oxygen from above the steel (instead of bubbling air from below), reducing the amount of nitrogen uptake into the steel. The basic oxygen process is used in all modern steelworks; the last Bessemer converter in the U.S. was retired in 1968. Furthermore, the last three decades have seen a massive increase in the mini-mill business, where scrap steel only is melted with an electric arc furnace. These mills only produced bar products at first, but have since expanded into flat and heavy products, once the exclusive domain of the integrated steelworks.
+Until these 19th-century developments, steel was an expensive commodity and only used for a limited number of purposes where a particularly hard or flexible metal was needed, as in the cutting edges of tools and springs. The widespread availability of inexpensive steel powered the Second Industrial Revolution and modern society as we know it. Mild steel ultimately replaced wrought iron for almost all purposes, and wrought iron is no longer commercially produced. With minor exceptions, alloy steels only began to be made in the late 19th century. Stainless steel was developed on the eve of the First World War and was not widely used until the 1920s.
+
+
+== See also ==
+Damascus Steel
+Wootz steel
+History of steelmaking
+Iron Age
+Nok culture
+Non-ferrous extractive metallurgy
+Roman metallurgy
+
+
+== Notes ==
+
+
+== References ==
+Ebrey, Walthall, Palais, (2006). East Asia: A Cultural, Social, and Political History. Boston: Houghton Mifflin Company.
+Knowles, Anne Kelly. (2013) Mastering Iron: The Struggle to Modernize an American Industry, 1800–1868 (University of Chicago Press) 334 pages
+Needham, Joseph (1986). Science and Civilization in China: Volume 4, Part 2; Needham, Joseph (1986). Science and Civilization in China: Volume 4, Part 3.
+Pleiner, R. (2000) Iron in Archaeology. The European Bloomery Smelters, Praha, Archeologický Ústav Av Cr.
+Wagner, Donald (1996). Iron and Steel in Ancient China. Leiden: E. J. Brill.
+Woods, Michael and Mary B. Woods (2000). Ancient Machines: From Wedges to Waterwheels. Minneapolis: Twenty-First Century Books.

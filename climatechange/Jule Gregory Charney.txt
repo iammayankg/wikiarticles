@@ -1,0 +1,34 @@
+Jule Gregory Charney (January 1, 1917 – June 16, 1981) was an American meteorologist who played an important role in developing weather prediction. He developed a set of equations (The Quasi-Geostrophic Vorticity Equation) for calculating the large-scale motions of planetary-scale waves. He gave the first convincing physical explanation for the development of mid-latitude cyclones known as the Baroclinic Instability theory. He is considered the father of modern dynamical meteorology.
+
+
+== Professional life ==
+Charney studied physics at UCLA where he completed his masters in 1940 and Ph.D. in 1946.
+In the 1950s, he was involved in early research on numerical weather prediction together with John von Neumann at the Institute for Advanced Study (IAS) in Princeton, New Jersey. He and von Neumann brought over from England a recent Ph.D. in meteorological calculations, Bruce Gilchrist, to work on this task using the institute's computer, the IAS machine. Their collective work paved the way for the founding of the Geophysical Fluid Dynamics Laboratory.
+From 1956 until his death in 1981, Charney was a faculty member at the Massachusetts Institute of Technology.
+
+
+== Charney Report ==
+In 1979 Charney chaired an "ad hoc study group on carbon dioxide and climate" for the National Research Council. The resulting 22-page report, "Carbon dioxide and climate: A scientific assessment", is one of the earliest modern scientific assessments about global warming. Its main conclusion can be found on page 2: "We estimate the most probable global warming for a doubling of CO2 to be near 3°C with a probable error of ± 1.5°C." This estimate of climate sensitivity has been essentially unchanged for over three decades, e.g., the IPCC Fourth Assessment Report (2007) says that "equilibrium climate sensitivity is likely to be in the range 2°C to 4.5°C, with a best estimate value of about 3°C. It is very unlikely to be less than 1.5°C. Values substantially higher than 4.5°C cannot be excluded, but agreement with observations is not as good for those values."
+
+
+== Honors and awards ==
+1963 Awarded the Symons Gold Medal of the Royal Meteorological Society. 
+1976 The American Geophysical Union awarded Charney the William Bowie Medal.
+The American Meteorological Society presents an award named "The Jule G. Charney Award". The Award is granted to individuals "in recognition of highly significant research or development achievement in the atmospheric or hydrologic sciences".
+
+
+== See also ==
+Richard Lindzen
+Edward Norton Lorenz
+Quasi-geostrophic equations
+Geostrophic wind
+Eric Eady
+
+
+== References ==
+
+
+== External links ==
+Biography at American Geophysical Union
+The Quasi-Geostrophic Vorticity Equation
+National Academy of Sciences Biographical Memoir

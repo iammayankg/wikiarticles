@@ -1,0 +1,27 @@
+The Terrorist Screening Database or TSDB is the central terrorist watchlist consolidated by the FBI's Terrorist Screening Center and used by multiple agencies to compile their specific watchlists and for screening. The list consists of 400,000 unique names and over 1,000,000 records (some are alias or name variant) as of September 2008. 1,600 nominations are suggested daily, 600 names are removed and 4,800 records are modified by the U.S. intelligence community. Fewer than 5 percent of the people on the list are U.S. citizens or legal permanent residents.
+The TSDB is fed from two primary sources: international terrorist (IT) information from the Terrorist Identities Datamart Environment, a central database on known or suspected international terrorists maintained by the National Counterterrorism Center (NCTC) and domestic terrorist (DT) information from the Federal Bureau of Investigation (FBI). The TSDB in turn is used to compile various watchlists and screening systems:
+No-fly list – Department of Homeland Security
+Selectee list – Department of Homeland Security
+Interagency Border Inspection System (IBIS) – Department of Homeland Security
+National Automated Immigration Lookout System (NAILS) – Department of Homeland Security migrated to Treasury Enforcement Communication System (TECS)
+Consular Lookout and Support System (CLASS) – Department of State
+Criminal Justice Information Services Division Warrant Information – Department of Justice
+Violent Gang and Terrorist Organization File (VGTOF) – Department of Justice
+Interpol Terrorism Watch List – Department of Justice
+Air Force Office of Special Investigations Top Ten Fugitive List – Department of Defense
+Automated Biometric Identification System – Department of Defense
+Integrated Automated Fingerprint Identification System – Department of Justice
+The Justice Department's Office of Inspector General has criticized the list for frequent errors and slow response to complaints. An OIG audit found that 38% of a 105 record sample contained inaccuracies. The FBI has said it is redressing errors, and a 2006 review of the no-fly list reduced its size by half, from 71,872 records to 34,230 records.
+
+
+== See alsoEdit ==
+Integrated Automated Fingerprint Identification System (IAFIS)
+Travel technology
+
+
+== ReferencesEdit ==
+
+
+== External linksEdit ==
+We're All Terrorists! Watch List Makes 20k 'Matches' in '06
+Mrs Shipley's Ghost The Right to Travel and Terrorist Watchlists by Jeffrey Kahn, University of Michigan Press, 2013.

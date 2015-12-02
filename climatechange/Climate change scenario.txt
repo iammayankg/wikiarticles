@@ -1,0 +1,65 @@
+This article is about climate change scenarios. Socioeconomic scenarios are used by analysts to make projections of future greenhouse gas (GHG) emissions and to assess future vulnerability to climate change (Carter et al., 2001:151). Producing scenarios requires estimates of future population levels, economic activity, the structure of governance, social values, and patterns of technological change. Economic and energy modelling (such as via the World3 or the POLES models) can be used to analyse and quantify the effects of such drivers.
+
+
+== Emissions scenarios ==
+
+
+=== Global futures scenarios ===
+These scenarios can be thought of as stories of possible futures. They allow the description of factors that are difficult to quantify, such as governance, social structures, and institutions. Morita et al. (2001:137-142) assessed the literature on global futures scenarios. They found considerable variety among scenarios, ranging from variants of sustainable development, to the collapse of social, economic, and environmental systems. In the majority of studies, the following relationships were found:
+Rising GHGs: This was associated with scenarios having a growing, post-industrial economy with globalization, mostly with low government intervention and generally high levels of competition. Income equality declined within nations, but there was no clear pattern in social equity or international income equality.
+Falling GHGs: In some of these scenarios, GDP rose. Other scenarios showed economic activity limited at an ecologically sustainable level. Scenarios with falling emissions had a high level of government intervention in the economy. The majority of scenarios showed increased social equity and income equality within and among nations.
+Morita et al. (2001) noted that these relationships were not proof of causation.
+No strong patterns were found in the relationship between economic activity and GHG emissions. Economic growth was found to be compatible with increasing or decreasing GHG emissions. In the latter case, emissions growth is mediated by increased energy efficiency, shifts to non-fossil energy sources, and/or shifts to a post-industrial (service-based) economy.
+
+
+=== Factors affecting emissions growth ===
+Development trends: In producing scenarios, an important consideration is how social and economic development will progress in developing countries (Fisher et al., 2007:176). If, for example, developing countries were to follow a development pathway similar to the current industrialized countries, it could lead to a very large increase in emissions.
+GHG emissions and economic growth: Emissions do not only depend on the growth rate of the economy. Other factors are listed below:
+Structural changes in the production system.
+Technological patterns in sectors such as energy.
+Geographical distribution of human settlements and urban structures. This affects, for example, transportation requirements.
+Consumption patterns: e.g., housing patterns, leisure activities, etc.
+Trade patterns: the degree of protectionism and the creation of regional trading blocks can affect availability to technology.
+
+
+== Baseline scenarios ==
+A baseline scenario is used as a reference for comparison against an alternative scenario, e.g., a mitigation scenario (IPCC, 2007c:810). Fisher et al. (2007:178-194) assessed the baseline scenarios literature. They found that baseline CO2 emission projections covered a large range. In the United States, electric power plants emit about 2.4 billion tons of carbon dioxide (CO2) each year, or roughly 40 percent of the nation's total emissions. The EPA has taken important first steps by setting standards that will cut the carbon pollution from automobiles and trucks nearly in half by 2025 and by proposing standards to limit the carbon pollution from new power plants.
+Factors affecting these emission projections are described below:
+Population projections: All other factors being equal, lower population projections result in lower emissions projections.
+Economic development: Economic activity is a dominant driver of energy demand and thus of GHG emissions.
+Energy use: Future changes in energy systems are a fundamental determinant of future GHG emissions.
+Energy intensity: This is the total primary energy supply (TPES) per unit of GDP (Rogner et al., 2007:107). In all of the baseline scenarios Fisher et al. (2007) assessed, energy intensity was projected to improve significantly over the 21st century. The uncertainty range in projected energy intensity was large.
+Carbon intensity: This is the CO2 emissions per unit of TPES. Compared with other scenarios, Fisher et al. (2007) found that the carbon intensity was more constant in scenarios where no climate policy had been assumed. The uncertainty range in projected carbon intensity was large. At the high end of the range, some scenarios contained the projection that energy technologies without CO2 emissions would become competitive without climate policy. These projections were based on the assumption of increasing fossil fuel prices and rapid technological progress in carbon-free technologies. Scenarios with a low improvement in carbon intensity coincided with scenarios that had a large fossil fuel base, less resistance to coal consumption, or lower technology development rates for fossil-free technologies.
+
+Land-use change: Land-use change plays an important role in climate change, impacting on emissions, sequestration and albedo. One of the dominant drivers in land-use change is food demand. Population and economic growth are the most significant drivers of food demand.
+
+
+== Quantitative emissions projections ==
+A wide range of quantitative projections of greenhouse gas emissions have been produced. The "SRES" scenarios are "baseline" emissions scenarios (i.e., they assume that no future efforts are made to limit emissions), and have been frequently used in the scientific literature (see Special Report on Emissions Scenarios for details).  Greenhouse gas#Projections summarizes projections out to 2030, as assessed by Rogner et al. (2007). Other studies are presented here.
+
+
+=== Individual studies ===
+In the reference scenario of World Energy Outlook 2004 (IEA, 2004), the International Energy Agency projected future energy-related CO2 emissions. Emissions were projected to increase by 62% between the years 2002 and 2030. This lies between the SRES A1 and B2 scenario estimates of +101% and +55%, respectively (Sims et al., 2007). As part of the IPCC Fourth Assessment Report, Sims et al. (2007) compared several baseline and mitigation scenarios out to the year 2030. The baseline scenarios included the reference scenario of IEA's World Energy Outlook 2006 (WEO 2006), SRES A1, SRES B2, and the ABARE reference scenario. Mitigation scenarios included the WEO 2006 Alternative policy, ABARE Global Technology and ABARE Global Technology + CCS. Projected total energy-related emissions in 2030 (measured in GtCO2-eq) were 40.4 for the IEA WEO 2006 reference scenario, 58.3 for the ABARE reference scenario, 52.6 for the SRES A1 scenario, and 37.5 for the SRES B2 scenario. Emissions for the mitigation scenarios were 34.1 for the IEA WEO 2006 Alternative Policy scenario, 51.7 for the ABARE Global Technology scenario, and 49.5 for the ABARE Global Technology + CCS scenario.
+Garnaut et al. (2008) made a projection of fossil-fuel CO2 emissions for the time period 2005-2030. Their “business-as usual” annual projected growth rate was 3.1% for this period. This compares to 2.5% for the fossil-fuel intensive SRES A1FI emissions scenario, 2.0% for the SRES median scenario (defined by Garnaut et al. (2008) as the median for each variable and each decade of the four SRES marker scenarios), and 1.6% for the SRES B1 scenario. Garnaut et al. (2008) also referred to projections over the same time period of the: US Climate Change Science Program (2.7% max, and 2.0% mean), International Monetary Fund's 2007 World Economic Outlook (2.5%), Energy Modelling Forum (2.4% max, 1.7% mean), US Energy Information Administration (2.2% high, 1.8% medium, and 1.4% low), IEA's World Energy Outlook 2007 (2.1% high, 1.8 base case), and the base case from the Nordhaus model (1.3%).
+The central scenario of the International Energy Agency publication World Energy Outlook 2011 projects a continued increase in global energy-related CO
+2 emissions, with emissions reaching 36.4 Gt in the year 2035. This is a 20% increase in emissions relative to the 2010 level.
+
+
+=== UNEP 2011 synthesis report ===
+The United Nations Environment Programme (UNEP, 2011) looked at how world emissions might develop out to the year 2020 depending on different policy decisions. To produce their report, UNEP (2011) convened 55 scientists and experts from 28 scientific groups across 15 countries.
+Projections assuming no new efforts to reduce emissions, i.e., "business-as-usual", suggested global emissions in 2020 of 56 gigatonnes CO
+2-equivalent (GtCO
+2-eq), with a range of 55-59 GtCO
+2-eq. Other projections considered the effect on emissions of policies put forward by UNFCCC Parties to address climate change. Assuming more stringent efforts to limit emissions lead to projected global emissions in 2020 of between 49-52 GtCO
+2-eq, with a median estimate of 51 GtCO
+2-eq. Assuming less stringent efforts to limit emissions lead to projected global emissions in 2020 of between 53-57 GtCO
+2-eq, with a median estimate of 55 GtCO
+2-eq.
+
+
+== Notes ==
+
+
+== References ==
+IPCC TAR WG3 (2001), Metz, B.; Davidson, O.; Swart, R.; and Pan, J., ed., Climate Change 2001: Mitigation, Contribution of Working Group III to the Third Assessment Report of the Intergovernmental Panel on Climate Change, Cambridge University Press, ISBN 0-521-80769-7  (pb: 0-521-01502-2).
+IPCC AR4 WG3 (2007), Metz, B.; Davidson, O.R.; Bosch, P.R.; Dave, R.; and Meyer, L.A., ed., Climate Change 2007: Mitigation of Climate Change, Contribution of Working Group III to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change, Cambridge University Press, ISBN 978-0-521-88011-4  (pb: 978-0-521-70598-1).

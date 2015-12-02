@@ -1,0 +1,14 @@
+Colombia is a unitary republic conformed by thirty-two departments (Spanish: departamentos, sing. departamento) and a Capital District (Distrito Capital). Each department has a Governor (gobernador) and a Department Assembly (Asamblea Departamental), elected by popular vote for a four-year period. The governor cannot be re-elected consecutively.
+Departments are formed by a grouping of municipalities (Spanish: municipios, sing. municipio). Municipal government is composed by a mayor (alcalde) and a Municipal Council (concejo municipal), both of them elected by the people for a four-year period.
+The Capital District is the country's capital, Bogotá has a mayor and a council and is independent of any department
+
+
+== Postal codes ==
+The postal codes in Colombia are 6 digit numeric. The first two digits are the numbers used by DANE to encode the departments, the next two in the range of 00 to 89 encode postal zones, followed by the last two encoding up to 100 postal districts. So there can be 32 * 90 * 100 = 288 000 postal zones. [1].
+
+
+== See also ==
+Departments of Colombia
+Municipalities of Colombia
+List of cities in Colombia
+Corregimiento

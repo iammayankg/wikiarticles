@@ -1,0 +1,48 @@
+The heavily indebted poor countries (HIPC) are a group of 38 developing countries with high levels of poverty and debt overhang which are eligible for special assistance from the International Monetary Fund (IMF) and the World Bank.
+
+
+== HIPC InitiativeEdit ==
+The HIPC Initiative was initiated by the International Monetary Fund and the World Bank in 1996, following extensive lobbying by NGOs and other bodies. It provides debt relief and low-interest loans to cancel or reduce external debt repayments to sustainable levels, meaning they can repay debts in a timely fashion in the future. To be considered for the initiative, countries must face an unsustainable debt burden which cannot be managed with traditional means. Assistance is conditional on the national governments of these countries meeting a range of economic management and performance targets and undertaking economic and social reforms.
+As of January 2012, the HIPC Initiative had identified 39 countries (33 of which are in Sub-Saharan Africa) as being potentially eligible to receive debt relief. The 36 countries that have so far received full or partial debt relief are:
+(*) indicates the four countries yet to reach completion point for the HIPC program, and therefore entitled only to partial debt relief. The remaining 32 countries have completed the program and had their external debt cancelled in full.
+An additional three countries (Eritrea, Somalia and Sudan) are being considered for entry into the program.
+To receive debt relief under HIPC, a country must first meet HIPC's threshold requirements. At HIPC's inception in 1996, the primary threshold requirement was that the country's debt remains at unsustainable levels despite full application of traditional, bilateral debt relief. At the time, HIPC considered debt unsustainable when the ratio of debt-to-exports exceeded 200-250% or when the ratio of debt-to-government revenues exceeded 280%.
+
+
+=== FundingEdit ===
+The IMF estimates that the total cost of providing debt relief to the 40 countries currently eligible for the HIPC program would be around $71 billion (in 2007 dollars). Half of the funding is provided by the IMF, World Bank, and other multilateral organizations, while the other half is provided by the creditor countries. The IMF's share of the cost is currently being funded by the proceeds of gold sales by the organization in 1999, but it estimated that this will not be enough to cover the full cost, and further funding will need to be raised if additional countries such as Sudan and Somalia meet the qualification requirements for entry into the program.
+
+
+=== CriticismEdit ===
+Critics soon began to attack HIPC's scope and its structure. First, they criticized HIPC's definition of debt sustainability, arguing that the debt-to-export and debt-to-government-revenues criteria were arbitrary and too restrictive. As evidence, critics highlighted that, by 1999, only four countries had received any debt relief under HIPC. Second, the six-year program was too long and too inflexible to meet the individual needs of debtor nations. Third, the IMF and the World Bank did not cancel any debt until the completion point, leaving countries under the burden of their debt payments while they struggled to institute structural reforms. Fourth, the ESAF conditions often undermined poverty-reduction efforts. For example, privatization of utilities tended to raise the cost of services beyond the citizens' ability to pay. Finally, critics attacked HIPC as a program designed by creditors to protect creditor interests, leaving countries with unsustainable debt burdens even upon reaching the decision point.
+Inadequate debt relief for such countries means that they will need to spend more on servicing debts, rather than on actively investing in programs that can reduce poverty.
+
+
+=== Response to criticismEdit ===
+HIPC addressed its shortcomings by expanding its definition of unsustainable debts, making greater relief available to more countries, and by making relief available sooner.
+Since 1996, the IMF has modified HIPC in several ways, often in response to the shortcomings its critics have highlighted. The IMF first restructured HIPC in 1999. These revisions modified HIPC's threshold requirements. Today, HIPC defines three minimum requirements for participation in the program. First, as before, a country must show its debt is unsustainable; however, the targets for determining sustainability decreased to a debt-to-export ratio of 150% and a debt-to-government-revenues ratio of 250%. Second, the country must be sufficiently poor to qualify for loans from the World Bank's International Development Association or the IMF's Poverty Reduction and Growth Facility (PRGF, the successor to ESAF), which provide long-term, interest-free loans to the world's poorest nations. Lastly, the country must establish a track record of reforms to help prevent future debt crises.
+In addition to the modified threshold requirements, the 1999 revisions introduced several other changes. First, the six-year structure was abandoned and replaced by a "floating completion point" that allows countries to progress towards completion in less than six years. Second, the revised HIPC allows for interim debt relief so that countries begin to see partial relief before reaching the completion point. Third, the PRGF heavily modified ESAF by curtailing the number and detail of IMF conditions and by encouraging greater input from the local community into the program's design.
+One of PRGF's goals is to ensure that impoverished nations re-channel the government funds freed from debt repayment into poverty-reduction programs. To that end, each country's PRGF program is modeled around a Poverty Reduction Strategy Paper (PRSP). PRSPs describe the macroeconomic, structural, and social programs that a country will follow to promote economic growth and reduce poverty. A broad range of government, NGO, and civil-society groups must participate in the development of the PRSP to ensure the plan has local support. Under the revised HIPC, a country reaches the decision point once it has demonstrated progress in following its PRSP. The country then reaches its completion point once it has implemented and followed its PRSP for at least one year and has demonstrated macroeconomic stability.
+In 2001, the IMF introduced another tool to increase HIPC's effectiveness. Under the new practice of "topping up," countries that unexpectedly suffer economic setbacks after the decision point due to external factors, such as rising interest rates or falling commodity prices, are eligible for increased debt forgiveness above the decision-point level.
+Further progress towards debt relief was announced on December 21, 2005, when the IMF granted preliminary approval to an initial debt relief measure of US $3.3 billion for 19 of the world's poorest countries, with the World Bank expected to write off the larger debts owed to it by 17 HIPCs in mid-2006."
+As of December 2006, twenty-one countries have reached the HIPC completion point. Nine additional countries have passed the decision point and are working toward completion. Ten other countries carry unsustainable debts according to HIPC standards, but they have yet to reach the decision point. So far, the IMF and World Bank have approved $35 billion of HIPC debt relief. Five countries have received an additional $1.6 billion in "topping up" assistance since 2001.
+
+
+== See alsoEdit ==
+Central Emergency Response Fund
+Debt overhang
+Debt relief
+Millennium Development Goals
+List of countries by percentage of population living in poverty
+Odious debt
+Sovereign debt
+
+
+== ReferencesEdit ==
+
+
+== External linksEdit ==
+Oxfam
+Official HIPC Initiative website (World Bank)
+HIPC Debt Relief: Myths and Reality (Jan Joost Teunissen and Age Akkerman (eds.), Fondad, 2004, book, pdf)
+HIPC Initiative University of Iowa Center for International Finance & Development.

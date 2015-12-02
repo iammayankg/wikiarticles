@@ -1,0 +1,59 @@
+Louisiana Public Broadcasting (LPB) is a state network of PBS member stations serving the state of Louisiana. The stations are operated by the Louisiana Educational Television Authority. The network serves most of the state outside of Greater New Orleans: that market's PBS member station, WYES-TV is the only PBS station in Louisiana which is not associated with LPB; a noncommercial independent station in that market, WLAE-TV, is 50% owned by LPB and carries some of the state network's programming, primarily news and public affairs (though WLAE also carried select PBS programming until 2013). Louisiana Public Broadcasting's studio facilities and offices are located in Baton Rouge.
+
+
+== History ==
+Louisiana became one of the first states in the Deep South with an educational television station licensed to the state when KLSE signed on from Monroe on March 1, 1957. Louisiana State University professor Lucille Woodward had urged Governor Robert Kennon to create an Educational Television Commission as part of the State Department of Education, and KLSE was intended as the first station in a statewide educational television network along the lines of Alabama Educational Television (now Alabama Public Television). However, KLSE signed off the air in 1964. For the next eleven years, the only area of the state with a clear signal from a National Educational Television or PBS station was New Orleans, which was served by WYES-TV. That station had signed on one month after KLSE, but was separately owned and operated.
+Woodward continued to urge the Louisiana State Legislature not to drop the idea of educational television service in the state during the 1960s. Finally, in 1971, the recently created Louisiana Educational Television Authority approved the money to build and sign on the stations. On September 6, 1975, WLPB-TV in Baton Rouge debuted as the state's first PBS member station outside of New Orleans. Five more stations launched throughout the state, extending LPB's signal to portions of Arkansas, Mississippi and Texas: KLTM-TV in Monroe signed on in September 1976, followed by KLTS-TV in Shreveport in August 1978, KLPB-TV in Lafayette, KLTL-TV in Lake Charles in May 1981 and finally, KLPA-TV in Alexandria in July 1983.
+In 1985, Shreveport native and longtime Baton Rouge resident Beth Courtney was named president and CEO of Louisiana Public Broadcasting, a capacity she remains in to this day. LPB began broadcasting in stereo in 1990. In 2001, LPB launched a cable-only channel, LPB Kids & You, on cable channel 11 in Baton Rouge. The channel, a predecessor to LPB 2, aired children's programming during primetime (atypical for PBS stations, which normally air children's programs only during the daytime hours) and adult and creative programs during the daytime hours. When PBS U and PBS Kids ceased operations in 2005, the channel became LPB Plus and expanded its cable coverage to Lafayette. In 2008, the service changed its name to LPB 2.
+
+
+== Stations ==
+Note: 1. The Broadcasting and Cable Yearbook says KLPB-TV signed on May 2, while the Television and Cable Factbook says it signed on May 13.
+
+
+== Digital television ==
+
+
+=== Digital channels ===
+LPB multiplexes its stations' digital signals, transmitting three subchannels:
+
+
+=== Analog-to-digital conversion ===
+Louisiana Public Broadcasting's stations shut down their analog signals at 7:00 a.m. on June 12, 2009, the official date in which full-power television stations in the United States transitioned from analog to digital broadcasts under federal mandate. The station's digital channel allocations post-transition are as follows:
+WLPB-TV shut down its analog signal, over UHF channel 27; the station's digital signal remained on its pre-transition UHF channel 25. Through the use of PSIP, digital television receivers display the station's virtual channel as its former UHF analog channel 27.
+KLTM-TV shut down its analog signal, over VHF channel 13; the station's digital signal relocated from its pre-transition UHF channel 19 to VHF channel 13.
+KLTS-TV shut down its analog signal, over UHF channel 24; the station's digital signal remained on its pre-transition UHF channel 25. Through the use of PSIP, digital television receivers display the station's virtual channel as its former UHF analog channel 24.
+KLPB-TV shut down its analog signal, over UHF channel 23; the station's digital signal remained on its pre-transition UHF channel 24. Through the use of PSIP, digital television receivers display the station's virtual channel as its former UHF analog channel 23.
+KLTL-TV shut down its analog signal, over UHF channel 18; the station's digital signal remained on its pre-transition UHF channel 20. Through the use of PSIP, digital television receivers display the station's virtual channel as 18.x .
+KLPA-TV shut down its analog signal, over UHF channel 26; the station's digital signal remained on its pre-transition UHF channel 25. Through the use of PSIP, digital television receivers display the station's virtual channel as its former UHF analog channel 26.
+
+
+== Programming ==
+Louisiana Public Broadcasting's flagship news program is Louisiana: The State We're In, which debuted in 1976. For nineteen years, political consultant, raconteur, and author Gus Weill hosted the acclaimed "Louisiana Legends" program on the state network. Among the original programs that LPB has produced includes Evangeline, which was broadcast by PBS stations throughout the United States and educational stations in Canada in 2000. One of Justin Wilson's cooking series was also produced by LPB.
+
+
+=== Hurricane coverage ===
+During coverage of major hurricanes affecting the state (as has happened with Hurricanes Katrina in 2005 and Gustav in 2008), LPB's Baton Rouge facilities are used by New Orleans CBS affiliate WWL-TV (channel 4) as a backup studio to provide additional news coverage from the station inland, and act as the station's main set should WWL-TV be unable to broadcast from its Rampart Street facilities in New Orleans. As part of this agreement, WWL's coverage airs across the entire LPB network to provide a statewide conduit for news and information from a well-established news organization.
+
+
+== See also ==
+Louisiana Digital Media Archive
+
+
+== References ==
+
+
+== External links ==
+LPB official website
+Query the FCC's TV station database for WLPB
+Query the FCC's TV station database for KLTM
+Query the FCC's TV station database for KLTS
+Query the FCC's TV station database for KLPB
+Query the FCC's TV station database for KLTL
+Query the FCC's TV station database for KLPA
+BIAfn's Media Web Database -- Information on WLPB-TV
+BIAfn's Media Web Database -- Information on KLTM-TV
+BIAfn's Media Web Database -- Information on KLTS-TV
+BIAfn's Media Web Database -- Information on KLPB-TV
+BIAfn's Media Web Database -- Information on KLTL-TV
+BIAfn's Media Web Database -- Information on KLPA-TV

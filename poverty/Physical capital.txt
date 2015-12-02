@@ -1,0 +1,10 @@
+In economics, physical capital or just capital is a factor of production (or input into the process of production), consisting of machinery, buildings, computers, and the like. The production function takes the general form Y=f(K, L), where Y is the amount of output produced, K is the amount of capital stock used and L is the amount of labor used. In economic theory, physical capital is one of the three primary factors of production, also known as inputs in the production function. The others are natural resources (including land), and labor — the stock of competences embodied in the labor force. "Physical" is used to distinguish physical capital from human capital (a result of investment in the human agent)), circulating capital, and financial capital. "Physical capital" is fixed capital, any kind of real physical asset that is not used up in the production of a product. Usually the value of land is not included in physical capital as it is not a reproducible product of human activity.
+
+
+== See also ==
+Capital (economics)
+Capital good
+Organizational capital
+
+
+== Notes ==

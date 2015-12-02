@@ -1,0 +1,59 @@
+Safaricom, Ltd is a leading mobile network operator in Kenya. It was formed in 1997 as a fully owned subsidiary of Telkom Kenya. In May 2000, Vodafone Group Plc of the United Kingdom acquired a 40% stake and management responsibility for the company.
+As of May 9, 2015, Bob Collymore is the CEO; he succeeded Michael Joseph on November 1, 2010, after Joseph's ten years as Safaricom CEO. Robert Collymore has spent most of his career in the telecommunications industry starting with British Telecommunications where he held a number of marketing, purchasing and commercial roles over a 15-year period. Recent reports appearing in the cross section of the press indicate that Vodafone Plc of UK only owns 35% and the remaining 5% is owned by a little-known company, Mobitelea Ventures Limited. The reports have caused a stir which led to the summoning of its CEO Michael Joseph to appear before the PIC "Public Investment Committee", during which he denied knowing who the other shareholder is. A spokesman for Vodafone said "the PIC has no powers to investigate M&A activity (see Mergers and Acquisitions), only to ask to view company accounts of Vodafone Kenya Limited, a company registered in Kenya. Mobitelea Ventures Limited were granted an option to purchase 25% of Vodafone's shares which they completed in 2002, Vodafone bought back half of the stake in 2003 for $10m, and in the financial year ending 31 March 2009 purchased the remaining indirect equity stake of 5%, thus returning Vodafone to its original 40% stakeholding. Vodafone said that whilst it would like to disclose who owns Mobitelea it is unable to because of a confidentiality agreement.
+Safaricom employs over 1,500 people mainly stationed in Nairobi and other big cities like Mombasa, Kisumu, Nakuru and Eldoret in which it manages retail outlets. Currently, it has nationwide dealerships to ensure customers across the country have access to its products and services.
+As of January 2010, Safaricom boasts a subscriber base of approximately 12 million, most of whom are in the major cities - Nairobi, Mombasa, Kisumu and Nakuru.
+Its headquarters are located in Safaricom House, Waiyaki Way in Westlands, Nairobi. It has other offices in the city center in I&M building, Kenyatta Avenue, on Kimathi Street and at Shankardass House, next to Kenya Cinema Moi Avenue.
+Its main rival is Airtel Kenya. Other rivals include Essar's YU (which they recently purchased, in conjunction with Airtel) and Orange Wireless.
+Safaricom has charitable functions where it helps the less fortunate in the society mostly through the Safaricom Foundation.
+In November 2012, Safaricom announced it would be offering a new mobile phone banking product in conjunction with the Commercial Bank of Africa, tapping into an underdeveloped financial services market. In 2014 Safaricom partnered with Britam and Changamka Micro Health to provide insurance to Kenyans with low income. It is known as Linda Jamii.
+
+
+== History ==
+Safaricom was started in 1993 as a department of the former state-owned telecommunications operate, Kenya Post and Telecommunication Corporation. In 1997, Safaricom Limited was incorporated as a private limited liability company with 40% ownership held by Vodafone Kenya Limited. In 2002, it was converted to a public company while the government held 60% of the shares, 25% of which would be auctioned off in 2008 on the Nairobi Securities Exchange. Safaricom has introduced a number of services to Kenya and been a leading player in the mobile market and national economy.
+
+
+== Flashback service ==
+As a result of the limited income of most of Safaricom's customers, network congestion emerges from a practice called 'flashing'. Flashing is the practice of calling another mobile user, but disconnecting before the connected call is answered. It provides a method for mobile users to alert someone that they wish to be called, but either can't, or won't, pay for the call. The method is cost-free for the users; but costly in network bandwidth.
+That is why Safaricom sometime ago introduced a flashback service that gave every subscriber five free SMS messages with a single pre-defined message stating "Please call me. Thank you". Although the messages can be annoying when sent just for fun they are very useful when one is in trouble and has no airtime. It also gives parents more of a reason to get mobile phone for their children without the real need for getting them airtime. However, at this time, the flashbacks can only be sent to Safaricom subscribers due to some feuds with Airtel, Safaricom's main competitor.
+
+
+== Electronic cash service ==
+Safaricom has developed and launched nationwide a mobile banking service called M-PESA, that allows Kenyans to transfer money via SMS. The service does not require users to have bank accounts, an important aspect in a country like Kenya, where many people do not have bank accounts. With M-PESA, the user can buy digital funds at any M-PESA agent and send that electric cash to any other mobile phone user in Kenya, who can then redeem it for conventional cash at any agent. This system is remotely comparable to hawala banking or services like Western Union. An M-PESA-enabled mobile phone can also function as an electronic wallet and can hold up to 100,000 Kenyan shilling. Safaricom stakeholder Vodafone, which partnered in the development of M-PESA, has announced that it intends to roll out M-PESA internationally as well.
+
+
+== Kipokezi service ==
+Safaricom launched the Kipokezi service in May 2000 that enabled its subscribers to send and receive email and online chat through standard mobile phones. Any phone with SMS service can use Kipokezi.
+Prior to the service fewer than one in ten Kenyans had accessed the Internet but the Kipokezi launch allowed more than a third of the population to exchange email and online chat messages. The Kipokezi is provided by ForgetMeNot Africa.
+The service does not require users to have an Internet connection as it uses ForgetMeNot Africa’s Handset Initiation technology.
+
+
+== Other services ==
+Safaricom together with many other companies have come up with different services for use by the public ranging from weather updates to market prices and even entertainment updates. The company has plans to provide Wi-Fi internet connection in large malls, SMEs and government agencies in Kenya 
+With regards to customer support services, the company has chosen to reduce support via phone calls opting to use the social media especially Facebook. Customers calling the support numbers receive an automated message informing them about support via social media sites, the call then automatically disconnects with a message saying that all customer support representatives are busy. 
+
+
+== Controversy ==
+Safaricom has been accused of unfair competition and has tried to discredit its competitors in recent years.
+
+
+== Internet connectivity ==
+It was the first company in East Africa to possess 3G Internet technology with recent success of 4G / LTE connectivity currently in Nairobi and Mombasa. Safaricom use LTE (advanced)
+
+
+== Frequency band ==
+GSM and 3G 900, 1800 and 2100 MHz LTE-A (4G service with carrier aggregation) service in Nairobi and Mombasa on band 20 (800) and band 3 (1800) [2]
+
+
+== See also ==
+Mobitelea Ventures Limited
+
+
+== References ==
+
+16. http://www.businessdailyafrica.com/Corporate-News/Safaricom-gets-headstart-in-scramble-for-frequencies/-/539550/2682314/-/xohw2sz/-/index.html
+
+
+== External links ==
+Official website
+Safaricom Foundation
+Emerging Market Telecom Company Analysis (Safaricom Ltd)

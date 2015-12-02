@@ -1,0 +1,32 @@
+This is a list of countries or dependencies by income inequality metrics, including Gini coefficients. The Gini coefficient is a number between 0 and 1, where 0 corresponds with perfect equality (where everyone has the same income) and 1 corresponds with perfect inequality (where one person has all the income—and everyone else has zero income). Income distribution can vary greatly from wealth distribution in a country (see List of countries by distribution of wealth). Income from black market economic activity is not included and is the subject of current economic research.
+
+
+== UN and CIA Combined List - Income ratios and Gini (1995 - Present)Edit ==
+Click sorting buttons to sort alphabetically or numerically. Can sort in ascending or descending order. The row number column on the left sorts independently from the columns to the right of it.
+Key:R/P 10%: The ratio of the average income of the richest 10% to the poorest 10%R/P 20%: The ratio of the average income of the richest 20% to the poorest 20%Gini: Gini index, a quantified representation of a nation's Lorenz curveUN: Data from the United Nations Development Programme.CIA: Data from the Central Intelligence Agency's The World Factbook.
+
+
+== OECD countriesEdit ==
+
+
+=== Gini coefficient, before taxes and transfersEdit ===
+
+
+=== Gini coefficient, after taxes and transfersEdit ===
+
+
+== See alsoEdit ==
+List of countries by inequality-adjusted HDI
+List of countries by distribution of wealth
+
+
+== ReferencesEdit ==
+
+
+== Further readingEdit ==
+"An Overview of Growing Income Inequalities in OECD Countries: Main Findings" (PDF), Divided We Stand: Why Inequality Keeps Growing, OECD Publishing, December 2011, ISBN 978-92-64-11163-9, retrieved 6 December 2011 This book released with two titles, depending on country of publication. However, the ISBN remains the same 
+
+
+== External linksEdit ==
+Global Peace Index Map of Gini data for 2007–2010
+Shadow economies all over the world : new estimates for 162 countries from 1999 to 2007. Friedrich Schneider, Andreas Buehn, Claudio E. Montenegro. July 2010. World Bank.

@@ -1,0 +1,71 @@
+A value system is a set of consistent ethic values (more specifically the personal and cultural values) and measures used for the purpose of ethical or ideological integrity. A well defined value system is a moral code.
+
+
+== Personal and communal ==
+One or more people can hold a value system. Likewise, a value system can apply to either one person or many.
+A 'personal' value system is held by and applied to one individual only.
+A communal' or cultural value system is held by and applied to a community/group/society. Some communal value systems are reflected in the form of legal codes or law.
+
+
+== Corporate value systems ==
+Fred Wenstøp and Arild Myrmel have proposed a structure for corporate value systems that consists of three value categories. These are considered complementary and juxtaposed on the same level if illustrated graphically on for instance an organization’s web page. The first value category is Core Values, which prescribe the attitude and character of an organization, and are often found in sections on Code of conduct on its web page. The philosophical antecedents of these values are Virtue ethics, which is often attributed to Aristotle. Protected Values are protected through rules, standards and certifications. They are often concerned with areas such as health, environment and safety. The third category, Created Values, is the values that stakeholders, including the shareholders expect in return for their contributions to the firm. These values are subject to trade-off by decision-makers or bargaining processes. This process is explained further in Stakeholder theory.
+
+
+== Consistency ==
+
+As a member of a society, group or community, an individual can hold both a personal value system and a communal value system at the same time. In this case, the two value systems (one personal and one communal) are externally consistent provided they bear no contradictions or situational exceptions between them.
+A value system in its own right is internally consistent when
+its values do not contradict each other and
+its exceptions are or could be
+abstract enough to be used in all situations and
+consistently applied.
+
+Conversely, a value system by itself is internally inconsistent if:
+its values contradict each other and
+its exceptions are
+highly situational and
+inconsistently applied.
+
+One of the conditions required for consistency in any (?) logical (i.e. value-conserving) system of statements is their transitivity. (See: Intransitivity. Occurrences.) Without it, it might eventually happen that A is of greater value than B, yet B is of greater value than A—which is a case of mutual contradiction in certain statements that determine values of A and B in the system. Value system consistency can be a value in and of itself.
+
+
+== Value exceptions ==
+Abstract exceptions serve to reinforce the ranking of values. Their definitions are generalized enough to be relevant to any and all situations. Situational exceptions, on the other hand, are ad hoc and pertain only to specific situations. The presence of a type of exception determines one of two more kinds of value systems:
+An idealized value system is a listing of values that lacks exceptions. It is, therefore, absolute and can be codified as a strict set of proscriptions on behavior. Those who hold to their idealized value system and claim no exceptions (other than the default) are called absolutists.
+A realized value system contains exceptions to resolve contradictions between values in practical circumstances. This type is what people tend to use in daily life.
+The difference between these two types of systems can be seen when people state that they hold one value system yet in practice deviate from it, thus holding a different value system. For example, a religion lists an absolute set of values while the practice of that religion may include exceptions.
+Implicit exceptions bring about a third type of value system called a formal value system. Whether idealized or realized, this type contains an implicit exception associated with each value: "as long as no higher-priority value is violated". For instance, a person might feel that lying is wrong. Since preserving a life is probably more highly valued than adhering to the principle that lying is wrong, lying to save someone’s life is acceptable. Perhaps too simplistic in practice, such a hierarchical structure may warrant explicit exceptions.
+
+
+== A model system ==
+Runaround, part of a science fiction novel by Isaac Asimov, this value system exemplifies a realized value system that is internally consistent and has abstract exceptions
+Three Laws of Robotics
+A robot may not harm a human being, or, through inaction, allow a human being to come to harm.
+A robot must obey the orders given to it by human beings, except where such orders would conflict with the First Law.
+A robot must protect its own existence, as long as such protection does not conflict with the First or Second Law.
+
+
+== Conflict ==
+Although sharing a set of common values, like hockey is better than baseball or ice cream is better than fruit, two different parties might not rank those values equally. Also, two parties might disagree as to certain actions are right or wrong, both in theory and in practice, and find themselves in an ideological or physical conflict. Ethonomics, the discipline of rigorously examining and comparing value systems, enables us to understand politics and motivations more fully in order to resolve conflicts.
+An example conflict would be a value system based on individualism pitted against a value system based on collectivism. A rational value system organized to resolve the conflict between two such value systems might take the form below. Note that added exceptions can become recursive and often convoluted.
+Individuals may act freely unless their actions harm others or interfere with others' freedom or with functions of society that individuals need, provided those functions do not themselves interfere with these proscribed individual rights and were agreed to by a majority of the individuals.
+A society (or more specifically the system of order that enables the workings of a society) exists for the purpose of benefiting the lives of the individuals who are members of that society. The functions of a society in providing such benefits would be those agreed to by the majority of individuals in the society.
+A society may require contributions from its members in order for them to benefit from the services provided by the society. The failure of individuals to make such required contributions could be considered a reason to deny those benefits to them, although a society could elect to consider hardship situations in determining how much should be contributed.
+A society may restrict behavior of individuals who are members of the society only for the purpose of performing its designated functions agreed to by the majority of individuals in the society, only insofar as they violate the aforementioned values. This means that a society may abrogate the rights of any of its members who fails to uphold the aforementioned values.
+
+
+== See also ==
+Actor analysis
+Applied ethics
+Intrinsic value (ethics)
+Moral code
+Morality
+Moral values
+Anthropocentrism/Speciesism
+Value judgment
+Value pluralism
+Values
+
+
+== References ==
+Wenstøp, F. and A. Myrmel (2006). "Structuring organizational value statements " Management Research News 29(11): 673 - 683.

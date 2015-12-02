@@ -1,0 +1,30 @@
+The welfare trap (or unemployment trap or poverty trap in British English) theory asserts that taxation and welfare systems can jointly contribute to keep people on social insurance because the withdrawal of means tested benefits that comes with entering low-paid work causes there to be no significant increase in total income. An individual sees that the opportunity cost of returning to work is too great for too little a financial return, and this can create a perverse incentive to not work.
+
+
+== Different definitionsEdit ==
+The term used for this concept varies depending on country. In the United States, where government benefit payments are colloquially referred to as "welfare" (e.g. a person is "on welfare"), the welfare trap often indicates that a person is completely dependent on benefits, with little or no hope of self-sufficiency.
+The welfare trap is also known as the unemployment trap or poverty trap in the UK, with both terms frequently being used interchangeably as they often go hand-in-hand, though there are subtle differences.
+In other contexts, the terms "welfare trap" and "poverty trap" are clearly distinguished. For example, a Southern African Regional Poverty Network report on social protection clarifies: ... poverty trap to mean a structural condition from which people cannot rescue themselves despite their best efforts. A welfare trap in this context, by contrast, refers to the barrier created by means tested social grants that have in built perverse incentives. This South African definition is typically used with regard to developing countries.
+This concept may include other adverse effects of welfare, e.g., on the family structure: welfare may encourage the increase in the numbers of single-mother families and divorce rates, as individuals see a distinct benefit in this lifestyle.
+In the UK, there is a distinction between two concepts within the welfare trap:
+the unemployment trap occurs when the net income difference between low-paid work and unemployment benefits is less than work related costs, discouraging movement into work;
+the poverty trap refers to the position when Means-tested benefit payments are reduced as income rises, combined with income tax and other deductions, with the effect of discouraging higher paid work whether that involves working longer hours or acquiring skills.
+
+
+== ExamplesEdit ==
+An example of how the welfare trap works: a person on welfare finds a part-time job that will pay the minimum wage of $5 per hour, 8 hours per week. Half of the $40 earned per week, or $20, will be deducted from welfare payments leaving $20 net gain. The government will also levy a tax on their $40, say 15% ($6). There may also be extra child-care and commuting costs, now that the person is no longer able to remain at home all day, and the loss of domestic productivity. Therefore, despite performing eight hours of work productive to society (and, theoretically, themselves), the person is now worse off than before they acquired employment.
+A welfare trap is an example of the perverse incentive: the welfare recipient has an incentive to avoid raising his own productivity because the resulting income gain is not enough to compensate for the (increased) work effort.
+An incentive to get out of the welfare trap is that the return to the labour market gives a person chances of moving up the career ladder, improving old and acquiring new job skills, etc., thus eventually improving their standard of living. Policies which allow for the continued receipt of benefit payments for a period of time after entering work or up to a specific earnings ceiling may also eliminate the welfare trap. For example, for UK claimants of Incapacity Benefit or Employment Support Allowance, "permitted work" arrangements allow for paid work up to 16 hours or £95 per week without the withdrawal of the disability benefit payments, leading to a net overall increase in income. However, any earnings over £20 may be taxed, and additional earnings may affect receipt of Housing Benefit and Council Tax Benefit, which is an example of the welfare trap potentially in effect. To eliminate the welfare trap entirely would require a policy which permanently continues benefit payments regardless of any conditions, so that no income from paid work would be withdrawn. One example of this would be unconditional basic income.
+
+
+== See alsoEdit ==
+Basic income
+Criticisms of welfare
+Generational poverty
+Means test
+Poverty trap
+Welfare's effect on poverty
+Workfare
+
+
+== ReferencesEdit ==

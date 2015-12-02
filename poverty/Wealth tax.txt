@@ -1,0 +1,118 @@
+A wealth tax (also called a capital tax, equity tax, or net worth tax) is a levy on the total value of personal assets, including owner-occupied housing; cash, bank deposits, money funds, and savings in insurance and pension plans; investment in real estate and unincorporated businesses; and corporate stock, financial securities, and personal trusts. Typically liabilities (primarily mortgages and other loans) are deducted, hence it is sometimes called a net wealth tax.
+A wealth tax taxes the accumulated stock of purchasing power, in contrast to income tax, which is a tax on the flow of assets (a change in stock).
+
+
+== In practiceEdit ==
+Some jurisdictions require declaration of the tax payer's balance sheet (assets and liabilities), and from that ask for a tax on net worth (assets minus liabilities), as a percentage of the net worth, or a percentage of the net worth exceeding a certain level. Wealth taxes can be limited to natural persons or they can be extended to also cover legal persons such as corporations.
+
+
+=== Current examplesEdit ===
+ France: There is a solidarity tax on wealth on any net assets above €800,000, if your total net worth is €1,300,000 or more. Marginal rates range from 0.5% to 1.5%. In 2007, it collected €4.07 billion, accounting for 1.4% of total revenue.
+ Spain: There is a tax called Patrimonio. The tax rate is progressive, from 0.2 to 3.75% of net assets above the threshold of €700,000 after €300,000 primary residence allowance. The exact amount varies between provinces.
+ India: In February 2015, abolition of the tax from FY15-16 was announced in the Union Budget.
+ Norway: 0.7% (municipal) and 0.15% (national) a total of 0.85% levied on net assets exceeding 1,200,000 kr as of 2015. For tax purposes, the value of real estate assets are estimated to approximately 50% of the market value (25% if it is the taxpayer's primary residence). The Conservative and Progress parties in the current government and the Liberal Party have stated that they aim to reduce and eventually eliminate the wealth tax.
+  Switzerland: A progressive wealth tax that varies by residence location. Most cantons have no wealth tax for individual net worth less than CHF 100,000 and progressively raise the tax rate on net assets with a top rate ranging from 0.13% to 0.94% depending on canton and municipality of residence. Wealth tax is levied against worldwide assets of Swiss residents, but it is not levied against assets in Switzerland held by non-residents.
+ Italy: Two wealth taxes are imposed. One, IVIE, is a 0.76% tax imposed on real assets held outside of Italy. The values of such assets are determined by purchase price or current market value. Property taxes paid in the country where the real estate exists can offset IVIE. Another tax, IVAFE, is 0.15% and is levied on all financial assets located outside of the country, including,so far as the language seems to imply, individual pension schemes such as 401(k)s and IRAs in the US.
+
+
+=== Historical examplesEdit ===
+Iceland had a wealth tax until 2006 and a temporary wealth tax reintroduced in 2010, for four years. The tax was levied at a rate of 1.5% on net assets exceeding 75,000,000 kr for individuals and 100,000,000 kr for married couples.
+Some other European countries have discontinued this kind of tax in the recent years: Austria, Denmark (1995), Germany (1997), Finland (2006), Luxembourg (2006) and Sweden (2007). In the United Kingdom, property (real estate) is often a person's main asset, and has been taxed - for example the window tax of 1696, the rates, to some extent the Council Tax, and a new Mansion Tax proposed by some political parties.
+
+
+== RationaleEdit ==
+There are many lines of argument in favor of including a tax based on individual net wealth. Variations in how the details of the particular net wealth tax is implemented, including whether there are exemptions and whether other taxes are lowered or flattened will have an impact.
+
+
+=== Concentration of wealthEdit ===
+
+In 2014, French economist Thomas Piketty published a book entitled Capital In The Twenty-First Century that posits the theory that economic inequality was worsening and proposes wealth taxes as a solution. The central thesis of the book is that inequality is not an accident, but rather a feature of capitalism, and can only be reversed through state interventionism. The book thus argues that unless capitalism is reformed, the very democratic order will be threatened. At the core of this thesis is the notion that when the rate of return on capital (r) is greater than the rate of economic growth (g) over the long term, the result is concentration of wealth, and this unequal distribution of wealth causes social and economic instability. Piketty proposes a global system of progressive wealth taxes to help reduce inequality and avoid the vast majority of wealth coming under the control of a tiny minority. This analysis was hailed as a major and important work by some economists. Piketty's work is not without its critics, however. Other economists have challenged key aspects of Piketty's proposals and interpretations, stating that they are often inconsistent and/or flawed.
+
+
+=== FairnessEdit ===
+According to the "beneficiary pay" criterion of tax fairness, a tax on property rights can be seen as a use fee. Specifically, protection of property rights is a primary purpose of government. Holders of property rights enjoy the existence of government more than those who hold no property rights do and thus Capital In The Twenty-First Century argues that those who benefit the most "owe the most back to the society that permits the capitalist system to exist." This is also true of ownership interests or stock.
+
+
+=== RevenueEdit ===
+In 1999, Donald Trump proposed for the United States a one off 14.25% wealth tax on the net worth of individuals and trusts worth $10 million or more. Trump claimed that this would generate $5.7 trillion in new taxes, which could be used to eliminate the national debt. A net wealth tax may also be designed to be revenue neutral as where it is used to broaden the tax base, stabilize the economy and reduce individual income and other taxes.
+
+
+=== Economic growthEdit ===
+A wealth tax that decreases other tax burdens, such as income, capital gains, sales, value added and inheritance, increases the time horizon for investment and can increase the return on investments over that time. The increased time horizon of investment results from the competition for investment between the risk-free asset of modern portfolio theory, and commercial assets. The higher return on investment results from the removal of taxes on profits.
+
+
+=== InvestmentEdit ===
+A wealth tax serves as a negative reinforcer ("use it or lose it"), which coerces the productive use of assets. According to University of Pennsylvania Law School Professors David Shakow and Reed Shuldiner, "A wealth tax also taxes capital that is not productively employed. Thus, a wealth tax can be viewed as a tax on potential income from capital." Because a net wealth tax can be the equivalent of an annual tax on imputed income, the capital gains, estate and gift taxes are not necessary.
+
+
+=== Job creation and Social Security reformEdit ===
+In the United States a wealth tax of 2% could replace the 15% payroll taxes and enable business to have more money to hire workers and increase employee consumer spending. Millions of jobs would be created with no government spending. Using a wealth tax to fund Social Security and Medicare would also eliminate any short term need to reduce benefits.
+
+
+=== Housing and consumer debtEdit ===
+A net wealth tax permits an offset for the full principal of any mortgage, student loan, automobile loan, consumer loan, etc. Thus, even with tax reform that eliminates income tax deductions for interest, taxpayers may be better off with a full credit for the amount of the debt for the net wealth computation. In the United States, for example, the net wealth tax offset for debt would be particularly helpful to restore a healthy housing market and help college graduates with unpaid student loans.
+
+
+=== Social effectsEdit ===
+By unburdening the poor and middle class of taxation, while stimulating investment in commercial assets that create demand for labor, more financial resources in the hands of the poor and middle class would reduce their reliance on government delivery of social goods, such as improved educational opportunities for their children. That would promote social mobility, mean more citizens reach their full potential of productivity, thus improving the economy. Increased government revenue from a wealth tax could be used to promote public investment in services like education, basic science research, and transportation infrastructure, which in turn improve economic efficiency. Increased government revenue from a wealth tax coupled with restrained government spending would reduce government borrowing and so free more credit for the private sector to promote business. A strong, steadily growing economy could in turn increase tax revenues further, allowing for more deficit reduction, and so on in a virtuous cycle.
+
+
+== DisadvantagesEdit ==
+There are many arguments against the implementation of a wealth tax; including significant legal hurdles, likely negative economic results, issues with implementation, regulation, and cost, as well as adverse societal and cultural impacts.
+
+
+=== Capital flightEdit ===
+A 2006 article in The Washington Post titled "Old Money, New Money Flee France and Its Wealth Tax" pointed out some of the harm caused by France's wealth tax. The article gave examples of how the tax caused capital flight, brain drain, loss of jobs, and, ultimately, a net loss in tax revenue. Among other things, the article stated, "Éric Pichet, author of a French tax guide, estimates the wealth tax earns the government about $2.6 billion a year but has cost the country more than $125 billion in capital flight since 1998." The concern about capital flight is lessened where a country such as the United States has worldwide tax jurisdiction and assets may be taxed wherever they are located.
+
+
+=== Economic effectsEdit ===
+Wealth taxes have the net effect of pulling assets out of the free market economy, and could create recessionary effects, including job loss. A 2012 article by Forbes magazine, "A tax on wealth certainly has a negative impact on capital formation. Many family-owned businesses that are marginally profitable would find this tax to be a tremendous burden on their shareholders. While the tax may be imposed on the business owners, in many cases the only source for payment of the tax would be to take funds from (or liquidate) the business. This is why many tax policy analysts have said that a wealth tax could result in a recession by inhibiting capital formation and job creation."
+For individuals, depending on the rate of the proposed wealth tax, impacts on stock and bond asset values could also be sufficient to create larger-scale economic impacts. The two largest areas of personal investment are personal housing and pension plans. Thus, the first source to be tapped for tax liquidity would be pension plans and financial investments. If the taxes were progressive enough, there may a recessionary effect on the economy as stock and bond assets are liquidated each year to pay ongoing wealth taxes.
+
+
+=== Valuation issuesEdit ===
+In 2012, the Wall Street Journal wrote that: "the wealth tax has a fatal flaw: valuation. It has been estimated that 62% of the wealth of the top 1% is “non-financial” – i.e., vehicles, boats, real estate, and (most importantly) private business. Private businesses account for nearly 40% of their wealth and are the largest single category." A particular issue for small business owners is that they cannot accurately value their private business until it is sold. Furthermore, business owners could easily make their businesses look much less valuable that they really are, through accounting, valuations and assumptions about the future. "Even the rich don’t know what exactly what they’re worth in any given moment."
+More difficult questions arise as to the equitable valuation of homes and real estate by geographic area, where values per square foot of home and per acre of land can vary by more than 400 percent in the United States. In addition, critics claim that the inherent difficulty of evaluating personal property would create a labyrinth of bureaucracy and potential for fraud, and perhaps the emergence of a class of tax-exempt and special-consideration assets that would only further cloud and burden an already overwhelmed tax system. Analysts predict that the process of appraisal of personal property, with some items appreciating and others depreciating, would be onerous and the costs of dispute resolution with the IRS would skyrocket. Examples of such fraud and malfeasance were revealed in 2013, when French budget minister Jerome Cahuzac was discovered shifting financial assets into Swiss bank accounts in order to avoid the wealth tax. After further investigation, a French finance ministry official said, "A number of government officials minimised their wealth, by negligence or with intent, but without exceeding 5-10 per cent of their real worth ... however, there are some who have deliberately tried to deceive the authorities." Yet again, in October 2014, France's Finance Chairman and President of the National Assembly, Gilles Carrez, was found to have avoided paying the French wealth tax (ISF) for three years by applying a 30 percent tax allowance on one of his homes. However, he had previously converted the home into an SCI, a private, limited company to be used for rental purposes. The 30 percent allowance does not apply to SCI holdings. Once this was revealed, Carrez declared, "if the tax authorities think that I should pay the wealth tax, I won't argue." Carrez is one of more than 60 French parliamentarians battling with the tax offices over 'dodgy' asset declarations.
+
+
+=== Disproportionate effect on seniorsEdit ===
+A 2013 Forbes article addressed the issue of wealth taxes upon seniors, "The acquisition of wealth is a function of the ‘life cycle’ – our usual point of maximum wealth in our lifetime is just as we retire: we’ve paid off the mortgage and have housing equity, our pension plan is as full as it’s ever going to be.” Thus, for the largest segment of people subject to the wealth tax, it means taxing the accumulated savings and houses of those on the verge of retiring. Wealth taxes would impact their pension plans, 401K, IRA, and other deferred and retirement-related accounts ... as well as the accumulated value of their real estate. In addition, there may be the possibility that the tax value of life insurance policies and charitable remainder trusts could be included in these wealth calculations. Wealth taxes would have maximum impact just as retirees are shifting and adjusting to fixed-income living. Others have pointed out that a progressive wealth tax would only affect those with a net worth in excess of ten million dollars, thus making it less important at what stage of the taxpayer's life the obligation was incurred.
+
+
+=== Social effects: envy, work ethic, incentives, and property rightsEdit ===
+Opponents of wealth taxes have complained that much of the motivation to institute wealth taxes is based in an 'undercurrent' of envy and antipathy. Two Yale University/London School of Economics studies (2006, 2008) on relative income yielded results asserting that 50 percent of the public would prefer to earn less money, as long as they earned as much or more than their neighbor. These results lend credence to the theory that a prime motivator for support of a wealth tax is not economic improvement in absolute wealth for recipients.
+Many analysts and scholars assert that since wealth taxes are a form of direct asset collection, as well as double-taxation, they are antithetical to personal freedom and individual liberty. They further contend that free nations should have no business helping themselves arbitrarily to the personal belongings of any group of its citizens. Wealth taxes place the authority of the government ahead of the rights of the individual, and ultimately undermine the concept of personal sovereignty. The Daily Telegraph editor Allister Heath critically described wealth taxes as Marxian in concept and ethically destructive to the values of democracies, "Taxing already acquired property drastically alters the relationship between citizen and state: we become leaseholders, rather than freeholders, with accumulated taxes over long periods of time eventually “returning” our wealth to the state. It breaches a key principle that has made this country great: the gradual expansion of property ownership and the democratisation of wealth."
+
+
+=== Past failuresEdit ===
+In 2004, a study by the Institut de l'enterprise investigated why several European countries were eliminating wealth taxes and made the following observations: 1. Wealth taxes contributed to capital drain, promoting the flight of capital as well as discouraging investors from coming in. 2. Wealth taxes had high management cost and relatively low returns. 3. Wealth taxes distorted resource allocation, particularly involving certain exemptions and unequal valuation of assets. In its summary, the institute found that the "wealth taxes were not as equitable as they appeared".
+In a 2011 study, the London School of Economics examined wealth taxes that were being considered by the Labour party in the United Kingdom between 1974 and 1976 but were ultimately abandoned. The findings of the study revealed that the British evaluated similar programs in other countries and determined that the Spanish wealth tax may have contributed to a banking crisis and the French wealth tax had been undergoing review by its government for being unpopular and overly complex. Furthermore, there were serious internal debates at the time between moderate Socialists and more leftist Marxist politicians as to the degree of public ownership of means of production. As efforts progressed, concerns were developing over the practicality and implementation of wealth taxes as well as worry that they would undermine confidence in the British economy. Eventually plans were dropped. Former British Chancellor Denis Healey concluded that attempting to implement wealth taxes was a mistake, "We had committed ourselves to a Wealth Tax: but in five years I found it impossible to draft one which would yield enough revenue to be worth the administrative cost and political hassle." The conclusion of the study stated that there were lingering questions, such as the impacts on personal saving and small business investment, consequences of capital flight, complexity of implementation, and ability to raise predicted revenues that must be adequately addressed before further consideration of wealth taxes.
+
+
+== Legal impedimentsEdit ==
+
+
+=== GermanyEdit ===
+The Federal Constitutional Court of Germany in Karlsruhe found that wealth taxes "would need to be confiscatory in order to bring about any real redistribution" In addition, the court held that the sum of wealth tax and income tax should not be greater than half of a taxpayer’s income. "The tax thus gives rise to a dilemma: either it is ineffective in fighting inequalities, or it is confiscatory – and it is for that reason that the Germans chose to eliminate it." Thus finding such wealth taxes unconstitutional in 1995.
+
+
+=== United StatesEdit ===
+In the United States, depending upon how Article 1, Sections 2 and 9 of the United States Constitution would be interpreted, the implementation of a wealth tax not apportioned by the populations of the States would require a Constitutional amendment in order to be passed into law. The United States Constitution prohibits any federal direct tax on asset holdings (as opposed to income tax or capital gains tax) unless the revenue collected is apportioned among the states on the basis of their population. Although a federal wealth tax is prohibited unless the receipts are collected from the States by their populations, state and local government property tax amount to a wealth tax on real estate. There is sufficient question about its Constitutionality that the issue is debatable.
+
+
+== See alsoEdit ==
+Ad valorem tax
+Capital in the Twenty-First Century
+Economic inequality#Environment; addressing human overpopulation having similar effects to decrease wealth gap
+Endowment tax
+Inheritance tax
+Land value tax
+Progressive tax
+Property tax
+Redistribution of income and wealth
+Tax exporting
+Wealth concentration
+World taxation system
+
+
+== ReferencesEdit ==

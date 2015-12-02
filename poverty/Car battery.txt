@@ -1,0 +1,118 @@
+An automotive battery is a type of rechargeable battery that supplies electric energy to an automobile.
+An automotive SLI battery (starting, lighting, ignition) is an automotive battery that powers the starter motor, the lights, and the ignition system of a vehicle's engine, mainly in combustion vehicles.
+Automotive SLI batteries are usually lead-acid type, and are made of six galvanic cells connected in series to provide a nominally 12-volt system. Each cell provides 2.1 volts for a total of 12.6 volts at full charge. Heavy vehicles, such as highway trucks or tractors, often equipped with diesel engines, may have two batteries in series for a 24-volt system or may have series-parallel groups of batteries supplying 24V.
+Lead-acid batteries are made up of plates of lead and separate plates of lead dioxide, which are submerged into an electrolyte solution of about 38% sulfuric acid and 62% water. This causes a chemical reaction that releases electrons, allowing them to flow through conductors to produce electricity. As the battery discharges, the acid of the electrolyte reacts with the materials of the plates, changing their surface to lead sulfate. When the battery is recharged, the chemical reaction is reversed: the lead sulfate reforms into lead dioxide and lead with the sulfate returning to the electrolyte solution restoring the electrolyte specific gravity. With the plates restored to their original condition, the process may now be repeated.
+Battery recycling of automotive batteries reduces the need for resources required for manufacture of new batteries, diverts toxic lead from landfills, and prevents risk of improper disposal.
+
+
+== Types ==
+Lead-acid batteries for automotive use are made with slightly different construction techniques, depending on the application of the battery. The "flooded cell" type, indicating liquid electrolyte, is typically inexpensive and long-lasting, but requires more maintenance and can spill or leak. Some flooded batteries have removable caps that allow the electrolyte to be tested and electrolyte level maintained.
+More costly alternatives to flooded batteries are valve regulated lead acid (VRLA) batteries, also called "sealed" batteries. The absorbed glass mat (AGM) type uses a glass mat separator, and a "gel cell" uses fine powder to absorb and immobilize the sulfuric acid electrolyte. These batteries are not serviceable: the cells are sealed so the degree of charge cannot be measured by hydrometer and the electrolyte cannot be replenished. They are typically termed "maintenance-free" by proponents, or "unable to be maintained" by skeptics. In particular, they are not suitable for older (pre-alternator) vehicles with unsophisticated charging control systems. Both types of sealed batteries may be used in vehicular applications where leakage or ventilation for vented gasses is a concern.
+The starting (cranking) or shallow cycle type is designed to deliver large bursts of current for a short time, which is needed to start an engine. Once the engine starts, the battery is recharged by the engine-driven charging system. Starting batteries are intended to have a low depth of discharge on each use. They are constructed of many thin plates with thin separators between the plates, and may have a higher specific gravity electrolyte to reduce internal resistance.
+The deep cycle (or motive) type is designed to continuously provide power for long periods of time (for example in a trolling motor for a small boat, auxiliary power for a recreational vehicle, or traction power for a golf cart or other battery electric vehicle). They can also be used to store energy from a photovoltaic array or a small wind turbine. Deep-cycle batteries have fewer, thicker plates and are intended to have a greater depth of discharge on each cycle, but will not provide as high a current on heavy loads. The thicker plates survive a higher number of charge/discharge cycles. The specific energy is in the range of 30-40 watt-hours per kilogram.
+Some cars use more exotic starter batteries–the 2010 Porsche 911 GT3 RS offers a lithium-ion battery as an option to save weight over a conventional lead-acid battery.
+
+
+== Use and maintenance ==
+
+
+=== Fluid level ===
+
+Car batteries using lead-antimony plates require regular topping-up with pure water to replace water lost due to electrolysis and evaporation on each charging cycle. By changing the alloying element to calcium, more recent designs have reduced the rate of water loss, unless the battery is overcharged. Modern car batteries have reduced maintenance requirements, and may not provide caps for addition of water to the cells. Such batteries include extra electrolyte above the plates to allow for losses during the battery life. If the battery has easily detachable caps then a top-up with distilled water may be required from time to time. Prolonged overcharging or charging at excessively high voltage causes some of the water in the electrolyte to be broken up into hydrogen and oxygen gases, which escape from the cells; this is called out gassing. If the electrolyte liquid level drops too low, the plates are exposed to air, the cells lose capacity, the electrolyte acid concentration rises and the plates are damaged. The sulfuric acid in the battery normally does not require replacement since it is not consumed in battery operation or under an overcharge condition. Using non-distilled water to top up the battery cells will expose the battery to impurities in the water that may reduce the service life and performance of the battery. Manufacturers usually recommend use of demineralized or distilled water, since even potable tap water can contain high levels of minerals.
+
+
+=== Charge and discharge ===
+In normal automotive service, the vehicle's charging system powers the vehicle's electrical systems and restores the current that was used from the battery during engine cranking. When installing a new battery or recharging a battery that has been accidentally discharged, one of several different methods can be used to charge it. The most gentle of these is called trickle charging. Other methods include slow-charging and quick-charging, the latter being the harshest. Batteries that are new should not be quick charged as plate damage can occur. Discharged batteries that have been subjected to freezing will become un-serviceable requiring replacement.
+The voltage regulator of the charging system does not measure the relative currents charging the battery. The charging system maintains a fixed voltage of between 13.8 to 14.4 V, this value is adjusted to ambient temperature to minimize electrolyte loss in hot environments. A discharged battery draws a high charge current of typically 20 to 40 Amperes. As the battery becomes charged, the charge current decreases to 2–5 amperes. A high load is when multiple high-power systems such as ignition, radiator fan, heater blowers, lights and entertainment system are running at the same time.
+Some battery manufacturers include a built-in hydrometer to show the state of charge of the battery, the hydrometer consists of a transparent tube with a float immersed in the electrolyte visible through a window on top of the battery case. When the battery is charged, the specific gravity of the electrolyte increases (since all the sulfate ions are in the electrolyte, not combined with the plates), causes the float to rise and the colored top of the float is visible in the window. When the battery is discharged, or the electrolyte level is too low, the float sinks and the window appears yellow (or black). The built-in hydrometer only checks the state of charge of one cell and will not show faults in the other cells. In a non-sealed battery, each of the cells can be checked with a portable or hand-held hydrometer.
+
+A vehicle with a flat battery can be jump started by the battery of another vehicle or by a portable battery booster, after which a running engine will continue to charge the battery. Recharging can be enhanced by turning off accessories so the greatest amount of power is available to recharge the battery, as well as by moderately revving the engine, or driving in lower gears as that leads to higher RPMs, and producing higher alternator output than at idle speed.
+However, it is preferable to use a battery charger whenever possible, because the above method will shorten the lifespan of the alternator and gasoline is much more expensive than wall outlet electricity. Simple chargers do not regulate the charge current, and the user needs to stop the process or lower the charge current to prevent excessive gassing of the battery. More elaborate chargers, in particular those implementing the 3-step charge profile, also referred to as IUoU, charge the battery fully and safely in a short time without requiring user intervention. Desulfating chargers are also commercially available for charging all types of lead-acid batteries.
+
+
+=== Storage ===
+Unlike lithium based batteries, automotive batteries last longer when stored in a charged state. Leaving an automotive battery discharged will shorten its life, or make it unusable if left for a long time (usually over years); sulfation eventually becomes sulphide and cannot be restored by normal charging. Batteries in storage must be monitored and periodically charged, or attached to a "float" charger to retain their capacity. One practical method is to use an inexpensive 24 hour timer that turns a charger on for 30 minutes per day. Batteries are prepared for storage by charging and cleaning deposits from the posts. Batteries are stored in a cool, dry environment for best results, since high temperatures increase the self discharge rate and plate corrosion.
+In the past, storing lead-acid batteries on the ground, or on concrete or cement floors, was believed to cause batteries to discharge or be otherwise damaged, but this is no longer a concern. In spite of this, the advice to never leave a battery on a concrete floor persists. Modern batteries use tough polypropylene cases that do not conduct current or allow moisture to pass, and "maintenance free" batteries are the norm, so large amounts of leaking acid are rarely seen, providing no route for current to flow. One battery manufacturer even prefers storing new batteries on concrete in the summer to keep them cooler, decreasing the natural discharge rate. Early batteries had wooden cases, and could absorb moisture from wet concrete, giving current a route to discharge. Another explanation for the admonition to avoid concrete is that wooden cases in the earliest batteries encased a glass jar, which could be broken by swelling wood if the wood casing became damp. Later hard rubber cases were porous and had a high carbon content, leaving another route for current leakage, but modern polypropylene cases are at least five times more effective insulators than rubber, and the terminal seals typically do not leak as they once did.
+
+
+=== Freshness ===
+Because of self discharge rates inherent in lead acid batteries, lead-acid batteries stored with electrolyte slowly deteriorate (e.g. after a year or more of storage). Car batteries are date coded to allow identification of old, possibly deteriorated batteries. In the United States, the manufacturing date is printed on a sticker. The date can be written in plain text or using an alphanumeric code. The first character is a letter that specifies the month (A for January, B for February and so on). The letter "I" is skipped due to its potential to be mistaken for the number 1. The second character is a single digit that indicates the year of manufacturing (for example, 6 for 2006). When first installing a newly purchased battery, a "top up" charge at a low rate with an external battery charger (available at auto parts stores) will maximize battery life and minimize the load on the vehicle charging system.
+
+
+== Failure ==
+Common battery faults include:
+Shorted cell due to failure of the separator between the positive and negative plates
+Shorted cell or cells due to buildup of shed plate material below the plates of the cell
+Broken internal connections due to corrosion
+Broken plates due to vibration and corrosion
+Low electrolyte level
+Cracked or broken case
+Broken terminals
+Sulfation after prolonged disuse in a low or zero charged state
+Frequent and continuous overcharge
+Corrosion at the battery terminals can prevent a car from starting due to electrical resistance. The white powder sometimes found around the battery terminals is usually lead sulfate which is toxic by inhalation, ingestion and skin contact. The corrosion is caused by an imperfect seal between the plastic battery case and lead battery post allowing sulfuric acid to react with the lead battery posts. The corrosion process is also expedited by over-charging. Corrosion can also be caused by factors such as salt water, dirt, heat, humidity, cracks in the battery casing or loose battery terminals. Inspection, cleaning and protection with a light coating of dielectric grease are measures used to prevent corrosion of battery terminals.
+Sulfation occurs when a battery is not fully charged. The longer it remains in a discharged state, the harder it is to reverse sulfation. This may be overcome with slow, low-current (trickle) charging. Sulfation is the formation of large, non-conductive lead sulfate crystals on the plates; lead sulfate formation is part of each cycle, but in the discharged condition, the crystals become sulphide and block passage of current through the electrolyte.
+The primary wear-out mechanism is the shedding of active material from the battery plates, which accumulates at the bottom of the cells and which may eventually short-circuit the plates.
+Early automotive batteries could sometimes be repaired by dismantling and replacing damaged separators, plates, inter cell connectors and other repairs. Modern battery cases do not facilitate such repairs; an internal fault generally requires replacement of the entire unit.
+
+
+== Exploding batteries ==
+
+Any lead-acid battery system, when overcharged (>14.34 V), will produce hydrogen gas (gassing voltage) by electrolysis of water. If the rate of overcharge is small, the vents of each cell allow the dissipation of the gas. However, on severe overcharge or if ventilation is inadequate, or the battery is faulty, a flammable concentration of hydrogen may remain in the cell or in the battery enclosure. An internal spark can cause a hydrogen and oxygen explosion, which will damage the battery and its surroundings and which will disperse acid into the surroundings. Anyone close to the battery at the time of the explosion may be injured.
+Sometimes, the ends of a battery will be severely swollen, and when accompanied by the case being too hot to touch, this usually indicates a malfunction in the charging system of the car. When severely overcharged, a lead-acid battery produces high levels of heat, warping the plates as indicated by swollen ends. An unregulated alternator can quickly ruin a battery by excessive voltage. A swollen, hot battery is dangerous.
+Another potential cause of explosion is when the battery terminals are short-circuited via a very low resistance path (like a wrench or other tool dropped or lying across the terminals). Apart from the sparks which usually occur in a short circuit, heating due to the internal resistance of the battery can cause the electrolyte to boil, also leading to explosion due to buildup of water vapor pressure (unrelated to electrolysis).
+Persons handling car batteries should wear protective equipment (goggles, overalls, gloves) to avoid injury by acid spills. Any open flame or electric spark including lit smoking materials like cigarettes, cigars, or pipes in the area also present a danger of igniting any hydrogen gas escaping from a battery. Also, for this reason, the final connection (or disconnection) of a jumper cable should be to the car's frame rather than the grounded terminal of the battery; doing this keeps any potential sparks further from the battery.
+
+
+== Terms and ratings ==
+Ampere-hours (A·h) is a measure of electrical charge that a battery can deliver. This quantity is one indicator of the total amount of charge that a battery is able to store and deliver at its rated voltage. Its value is the product of the discharge current (in amperes), multiplied by the duration (in hours) for which this discharge current can be sustained by the battery. Generally, this value (or rating) varies widely with the duration of the discharge period (see: Peukert's Law), therefore the value is typically only meaningful when the duration is specified. This rating is rarely stated for automotive batteries, except in Europe where it is required by law. Nominal capacity (A·h) by EN 60095-1 is rated at a fixed discharge current of I/20, within 20 hours until final discharge voltage of 10.5 V at 25 °C is reached.
+Cranking amperes (CA), also sometimes referred to as marine cranking amperes (MCA), is the amount of current a battery can provide at 32 °F (0 °C). The rating is defined as the number of amperes a lead-acid battery at that temperature can deliver for 30 seconds and maintain at least 1.2 volts per cell (7.2 volts for a 12 volt battery).
+Cold cranking amperes (CCA) is the amount of current a battery can provide at 0 °F (−18 °C). The rating is defined as the current a lead-acid battery at that temperature can deliver for 30 seconds and maintain at least 1.2 volts per cell (7.2 volts for a 12-volt battery). It is a more demanding test than those at higher temperatures. This is the most widely used cranking measurement for comparison purposes.
+Hot cranking amperes (HCA) is the amount of current a battery can provide at 80 °F (26.7 °C). The rating is defined as the current a lead-acid battery at that temperature can deliver for 30 seconds and maintain at least 1.2 volts per cell (7.2 volts for a 12-volt battery).
+Reserve capacity minutes (RCM), also referred to as reserve capacity (RC), is a battery's ability to sustain a minimum stated electrical load; it is defined as the time (in minutes) that a lead-acid battery at 80 °F (27 °C) will continuously deliver 25 amperes before its voltage drops below 10.5 volts.
+Battery Council International group size (BCI) specifies a battery's physical dimensions, such as length, width, and height. These groups are determined by the Battery Council International organization.
+Peukert's Law states that the capacity available from a battery varies according to how rapidly it is discharged. A battery discharged at high rate will give fewer ampere-hours than one discharged more slowly.
+The hydrometer measures the density, and therefore indirectly the amount of sulfuric acid in the electrolyte. A low reading means that sulfate is bound to the battery plates and that the battery is discharged. Upon recharge of the battery, the sulfate returns to the electrolyte.
+
+
+== Terminal voltage ==
+The open-circuit voltage is measured when the engine is off and no loads are connected. It can be approximately related to the charge of the battery:
+Open-circuit voltage is also affected by temperature and the specific gravity of the electrolyte at full charge.
+The following is common for a six-cell automotive lead-acid battery at room temperature:
+After full charge, the terminal voltage will drop quickly to 13.2 V and then slowly to 12.6 V
+Open-circuit voltage is measured 12 hours after charging to allow surface charge to dissipate and enable a more accurate reading.
+Charge with 13.2–14.4 V
+Gassing voltage: 14.4 V
+Continuous-preservation charge with max. 13.2 V
+Depending on the plate chemistry, the open circuit voltage can range from 12.22 to 13.00 for a fully charged wet "Low Maintenance" (Pb-Sb/Pb-Ca) battery.
+Depending on the plate chemistry, the open circuit voltage can range from 12.60 to 13.10 for a fully charged wet "Maintenance Free" (Pb-Ca/Pb-Ca) battery.
+All voltages above are at 20 °C (68 °F), and must be adjusted for temperature changes. The open-circuit voltage cannot be adjusted with a simple temperature coefficient because it is non-linear (coefficient varies with temperature).
+Example of Open Circuit Voltage (OCV) vs. temperature at various States of Charge (SoC) for a "low maintenance" (Pb-Sb/Pb-Ca) battery:
+
+
+== See also ==
+42-volt electrical system
+AD-X2
+Battery electric vehicle
+Car adapter
+Gigafactory
+Car charging system
+Vehicle-to-grid
+Voltage Sensitive Relay
+Lead–acid battery
+Silver calcium battery
+
+
+== References ==
+
+
+== External links ==
+Battery Council International (BCI) - not-for-profit trade association for the lead-acid battery industry
+Batteries at DMOZ
+Battery manufacturers and distributors at DMOZ
+Car battery maintenance on Popular Mechanics
+Car battery FAQ
+Le, Thi Meagan (2001). "Voltage of a Car Battery". The Physics Factbook. 
+Autobatteries.com Frequently Asked Questions
+Description of automotive charge systems
+Project Gutenberg eBook The Automobile Storage Battery by Otto A. Witte, 1922: Here [1].

@@ -1,0 +1,107 @@
+Tax evasion is the illegal evasion of taxes by individuals, corporations, and trusts. Tax evasion often entails taxpayers deliberately misrepresenting the true state of their affairs to the tax authorities to reduce their tax liability and includes dishonest tax reporting, such as declaring less income, profits or gains than the amounts actually earned, or overstating deductions.
+Tax evasion is an activity commonly associated with the informal economy. One measure of the extent of tax evasion (the "tax gap") is the amount of unreported income, which is the difference between the amount of income that should be reported to the tax authorities and the actual amount reported.
+In contrast, tax avoidance is the legal use of tax laws to reduce one's tax burden. Both tax evasion and avoidance can be viewed as forms of tax noncompliance, as they describe a range of activities that intend to subvert a state's tax system, although such classification of tax avoidance is not indisputable, given that avoidance is lawful, within self-creating systems.
+
+
+== Economics of tax evasionEdit ==
+
+In 1968, Nobel laureate economist Gary Becker first theorized the economics of crime, on the basis of which authors M.G. Allingham and A. Sandmo produced, in 1972, an economic model of tax evasion. This model deals with the evasion of income tax, the main source of tax revenue in developed countries. According to the authors, the level of evasion of income tax depends on the level of punishment provided by law.
+The literature's theoretical models are elegant in their effort to identify the variables likely to affect non-compliance. Alternative specifications, however, yield conflicting results concerning both the signs and magnitudes of variables believed to affect tax evasion. Empirical work is required to resolve the theoretical ambiguities. Income tax evasion appears to be positively influenced by the tax rate, the unemployment rate, the level of income and dissatisfaction with government. The U.S. Tax Reform Act of 1986 appears to have reduced tax evasion in the United States.
+
+
+== Evasion of customs dutyEdit ==
+Customs duties are an important source of revenue in developing countries. Importers purport to evade customs duty by (a) under-invoicing and (b) misdeclaration of quantity and product-description. When there is ad valorem import duty, the tax base can be reduced through underinvoicing. Misdeclaration of quantity is more relevant for products with specific duty. Production description is changed to match a H. S. Code commensurate with a lower rate of duty.
+
+
+=== SmugglingEdit ===
+Smuggling is importation or exportation of foreign products by illegal means. Smuggling is resorted to for total evasion of customs duties, as well as for the importation of contraband. A smuggler does not have to pay any customs duty since smuggled products are not routed through customs-tax compliant customs ports, and are therefore not subjected to declaration and, by extension, to the payment of duties and taxes.
+
+
+== Evasion of value added tax (VAT) and sales taxesEdit ==
+
+During the second half of the 20th century, value added tax (VAT) emerged as a modern form of consumption tax throughout the world, with the notable exception of the United States. Producers who collect VAT from consumers may evade tax by under-reporting the amount of sales. The US has no broad-based consumption tax at the federal level, and no state currently collects VAT; the overwhelming majority of states instead collect sales taxes. Canada uses both a VAT at the federal level (the Goods and Services Tax) and sales taxes at the provincial level; some provinces have a single tax combining both forms.
+In addition, most jurisdictions which levy a VAT or sales tax also legally require their residents to report and pay the tax on items purchased in another jurisdiction. This means that consumers who purchase something in a lower-taxed or untaxed jurisdiction with the intention of avoiding VAT or sales tax in their home jurisdiction are technically breaking the law in most cases.
+This is especially prevalent in federal countries like Nigeria, US and Canada where sub-national jurisdictions charge varying rates of VAT or sales tax. In Nigeria, for example, some federated states enforce VAT on each item of goods sold by traders. The price must be clearly stated and the VAT shown separately from the basic price. If the trader does not comply (e.g. by including the VAT in the price of the goods) this is punishable as an attempt to siphon the VAT.
+In liberal democracies, a fundamental problem with inhibiting evasion of local sales taxes is that liberal democracies, by their very nature, have few (if any) border controls between their internal jurisdictions. Therefore, it is not generally cost-effective to enforce tax collection on low-value goods carried in private vehicles from one jurisdiction to another with a different tax rate. However, sub-national governments will normally seek to collect sales tax on high-value items such as cars.
+Dennis Kozlowski is a particularly notable figure for his alleged evasion of sales tax. What started as an investigation into Kozlowski's failure to declare art purchases for the purpose of evading New York state sales taxes eventually led to Kozlowski's conviction and incarceration on more serious charges related to the misappropriation of funds during his tenure as CEO of Tyco International.
+
+
+== Government responseEdit ==
+
+The level of evasion depends on a number of factors, including the amount of money a person or a corporation possesses. Efforts to evade income tax decline when the amounts involved are lower. The level of evasion also depends on the efficiency of the tax administration. Corruption by tax officials make it difficult to control evasion. Tax administrations use various means to reduce evasion and increase the level of enforcement: for example, privatization of tax enforcement, tax farming,
+In 2011 in the UK, the HMRC stated that it would continue to crack down on tax evasion, with the goal of collecting £18 billion in revenue before 2015. In 2010, HMRC began a voluntary amnesty program that targeted middle-class professionals and raised £500 million.
+
+
+=== Corruption by tax officialsEdit ===
+Corrupt tax officials co-operate with the taxpayers who intend to evade taxes. When they detect an instance of evasion, they refrain from reporting it in return for bribes. Corruption by tax officials is a serious problem for the tax administration in many less developed countries.
+
+
+=== Level of evasion and punishmentEdit ===
+Tax evasion is a crime in almost all developed countries, and the guilty party is liable to fines and/or imprisonment. In Switzerland, many acts that would amount to criminal tax evasion in other countries are treated as civil matters. Dishonestly misreporting income in a tax return is not necessarily considered a crime. Such matters are handled in the Swiss tax courts, not the criminal courts.
+In Switzerland, however, some tax misconduct is criminal, for example, the deliberate falsification of records. Moreover, civil tax transgressions may give rise to penalties. It is often considered that the extent of evasion depends on the severity of punishment for evasion.
+
+
+=== Privatization of tax enforcementEdit ===
+
+Professor Christopher Hood first suggested privatization of tax enforcement to control tax evasion more efficiently than a government department would., and some governments have adopted this approach. In Bangladesh, customs administration was partly privatized in 1991.
+Abuse by private tax collectors (see tax farming below) has on occasion led to revolutionary overthrow of governments who have outsourced tax administration.
+
+
+=== Tax farmingEdit ===
+
+Tax farming is an historical means of collection of revenue. Governments received a lump sum in advance from a private entity, which then collects and retains the revenue and bears the risk of evasion by the taxpayers. It has been suggested that tax farming may reduce tax evasion in less developed countries.
+This system may be liable to abuse by the "tax-farmers" seeking to make a profit, without being subject to political constraints. Abuses by tax farmers (together with a tax system that exempted the aristocracy) were a primary reason for the French Revolution that toppled Louis XVI.
+
+
+=== PSI agenciesEdit ===
+Pre-shipment inspection agencies like Societe Generals De Surveillance S. A. and its subsidiary Cotecna etc. are in business to prevent evasion of customs duty through under-invoicing and misdeclaration.
+However, PSI agencies have cooperated with importers in evading customs duties. Bangladeshi authorities found Cotecna guilty of complicity with importers for evasion of customs duties on a huge scale. In August 2005, Bangladesh had hired four PSI companies -Cotecna Inspection SA, SGS (Bangladesh) Limited, Bureau Veritas BIVAC (Bangladesh) Limited and INtertek Testing Limited- for three years to certify price, quality and quantity of imported goods. In March 2008, the Bangladeshi National Board of Revenue cancelled Cotecna's certificate for serious irregularities, while importers complaints about the other three PSI companies mounted. Bangladesh planned to have its customs department train its officials in "WTO valuation, trade policy, ASYCUDA system, risk management" to take over the inspections.
+Cotecna was also found to have bribed Pakistan's prime minister Benazir Bhutto to secure a PSI contract by Pakistani importers. She and her husband were sentenced both in Pakistan and Switzerland.
+
+
+== By countryEdit ==
+
+
+=== United StatesEdit ===
+
+In the United States, tax evasion is defined as the purposeful, illegal attempt to evade the assessment or the payment of a tax imposed by federal law. Conviction of tax evasion may result in fines and imprisonment.
+The Internal Revenue Service (IRS) has identified small businesses and sole proprietors as the largest contributors to the tax gap between what Americans owe in federal taxes and what the federal government receives. Small businesses and sole proprietorships contribute to the tax gap because there are few ways for the government to know about skimming or non-reporting of income without mounting significant investigations.
+As of 2007 the most common means of tax evasion was overstatement of charitable contributions, particularly church donations.
+
+
+==== Estimates of lost government revenueEdit ====
+The IRS estimate of the 2001 tax gap was $345 billion and for 2006 it was $450 billion. A study of the 2008 tax gap found a range of $450–$500 billion, and unreported income to be about $2 trillion, concluding 18-19 percent of total reportable income not being properly reported to the IRS.
+
+
+=== United KingdomEdit ===
+HMRC estimated that in the tax year 2012-13, tax evasion cost the government £4.4 billion. This compared to a wider tax gap (the difference between the amount of tax that should, in theory, be collected by HMRC, against what is actually collected) of £34 billion in the same year.
+In 2013, the Coalition government announced a crackdown on economic crime. It created a new criminal offence for aiding tax evasion and removed the requirement for tax investigation authorities to prove "intent to evade tax" to prosecute offenders.
+In 2015, Chancellor George Osborne promised to collect £5bn by "waging war" on tax evaders by announcing new powers for HMRC to target people with offshore bank accounts.
+
+
+== See alsoEdit ==
+Global Forum on Transparency and Exchange of Information for Tax Purposes
+History of tax resistance
+Informal sector
+Land value tax
+Tax amnesty
+Tax avoidance
+Tax haven
+Tax information exchange agreements
+Tax noncompliance
+Tax resistance
+Taxation as slavery
+Taxation as theft
+U.S. taxation of illegal income
+
+
+== ReferencesEdit ==
+
+
+== External linksEdit ==
+Tax Evasion and Fraud collected news and commentary at The Economist
+Tax Evasion collected news and commentary at The New York Times
+Tax Evasion collected news and commentary at The Wall Street Journal
+United States
+US Justice Dept press release on Jeffrey Chernick, UBS tax evader
+US Justice Tax Division and its enforcement efforts

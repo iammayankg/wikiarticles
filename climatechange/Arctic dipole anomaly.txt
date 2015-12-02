@@ -1,0 +1,39 @@
+The Arctic dipole anomaly is a pressure pattern characterized by high pressure on the arctic regions of North America, and a low pressure on the Eurasia region. This pattern sometimes replaces the Arctic oscillation and the North Atlantic Oscillation. It was observed for the first time in the first decade of 2000s and is perhaps linked to recent climate change. The Arctic dipole lets more southern winds into the Arctic ocean resulting in more ice melting. The summer 2007 event played an important role in the record low sea ice extent which was recorded in September. The Arctic dipole has also been linked to changes in arctic circulation patterns that cause drier winters in Northern Europe, but much wetter winters in Southern Europe and colder winters in East Asia, Europe and the eastern half of North America.
+
+
+== Description ==
+In the 1990s and early 2000s, many studies of Arctic sea ice export focused on the Arctic Oscillation and North Atlantic Oscillation as the primary drivers of export. However, other studies, such as those by Watanabe and Hasumi and Vinje, suggested that the Arctic Oscillation and North Atlantic Oscillation did not always explain the variability in sea ice export.
+In 2006, the Arctic dipole anomaly was formally proposed by Bingyi Wu, Jia Wang, and John Walsh, using the NCEP/NCAR reanalysis datasets spanning 1960-2002. It is defined as the spatial distribution of the second leading EOF mode of monthly mean sea level pressure north of 70°N, where the first leading mode corresponds to the Arctic Oscillation. When defined for the winter season (October through March), the first leading mode (Arctic Oscillation) accounts for 61% of the total variance, while the second leading mode (Arctic dipole anomaly) accounts for 13%.
+While the Arctic Oscillation has an annular structure centered over and covering the entire Arctic, the Arctic dipole anomaly has two poles of opposite sign: one over the Canadian Arctic Archipelago and northern Greenland, the other over the Kara and Laptev Seas. This dipole structure leads to a pressure gradient with a zero isopleth oriented from the Bering Strait, across the Arctic to the Greenland and Barents Seas. As a result, anomalous winds are generally directed parallel to the zero isopleth either towards the Greenland and Barents Seas (positive Arctic dipole anomaly) or toward the Bering Strait (negative Arctic dipole anomaly).
+
+
+== Impacts on Arctic Sea Ice ==
+Although the Arctic Oscillation is responsible for more of the total variance in mean sea level pressure over the Arctic, the meridional winds anomalies that arise as a result of the spatial structure of the Arctic dipole anomaly make it the primary driver of Arctic sea ice export variability. During the positive phase of the Arctic dipole anomaly, anomalous winds drive sea ice from the central Arctic out the Fram Strait and into the Greenland Sea via the transpolar drift stream. In contrast, during the negative phase, anomalous winds reduce the removal of sea ice through the Fram Strait. This is supported by Watanabe et al., as well as Wang et al., which show that sea ice export is enhanced during the positive phase of the Arctic dipole anomaly, while export is reduced during the negative phase.
+However, the Arctic Oscillation cannot be ignored when considering sea ice export from the Arctic. By itself, circulation associated with a positive phase Arctic Oscillation results in an increase in sea ice export, while the negative phase of the Arctic Oscillation is associated with reduced Arctic sea ice export. When considering sea ice export in connection with the Arctic dipole anomaly, the Arctic Oscillation determines the sign of the dominant mean sea level pressure anomaly, while the Arctic dipole anomaly determines the location of the dominant mean sea level pressure anomaly (over the Canadian Arctic Archipelago and northern Greenland, or over the Kara and Laptev Seas). Therefore, while the Arctic dipole anomaly determines whether the overall export of sea ice will be promoted or restricted, the Arctic Oscillation will either enhance or diminish the influence of the Arctic dipole anomaly.
+
+
+=== Connection to Extreme Summer Sea Ice Minima ===
+The Arctic dipole anomaly has also been suggested to play an important role in the occurrence of several extreme sea ice minima that have occurred since the mid-1990s, including the minima in 2007. Wang et al. suggest that in addition to anomalous winds driving sea ice out of the Arctic through the Fram Strait, the positive phase of the Arctic dipole anomalies may also increase the flow of relatively warm waters from the North Pacific through the Bering Strait into the Arctic Ocean. Warmer waters, in addition to increased sea ice export, could result in reduced sea ice areal extent. Additionally, “preconditioning” of sea ice from the previous winter and summer seasons, as well as multidecadal trends, plays a role in determining the minimum sea ice extent for a given year.
+
+
+== See also ==
+Abrupt climate change
+Arctic oscillation
+Atlantic Multidecadal Oscillation
+Beaufort Gyre
+Climate of Europe
+Gulf Stream
+Indian Ocean Dipole
+North Atlantic Oscillation
+Pacific Decadal Oscillation
+Pacific-North American teleconnection pattern
+Polar vortex
+Siberian High
+
+
+== References ==
+
+
+== External links ==
+Arctic Sea Ice News & Analysis - July 6, 2010
+Warm Arctic-Cold Continents PDF (13.11 MB)

@@ -1,0 +1,55 @@
+As part of its attempts to reduce the incidences of fraud and corruption, as well as to deliver more efficient services to its citizens, the South African government is embarking on a program of employing biometric identification systems in certain of its programs. Some instances where the South African government has started implementing a biometrics program are in the following departments.
+
+
+== Department of Agriculture ==
+The Department of Agriculture Head Office in Pretoria identified a need to implement more stringent system control mechanisms, including the financial system, logging onto secure applications and logging onto staff members' personal workstations. The Department applied a strict password management policy, but it had different systems for finance, Persal (the Government standard salary payment system), leave and performance management etc. The regulated constant changing of passwords resulted in forgotten passwords, lock-outs and employees sitting next to each other having access to one another's passwords.
+This resulted in downtime, an administrative burden on IT staff who had more pressing concerns, and increased opportunity costs. It was also noticed that unauthorised individuals had after-hours access to the facilities.
+The Department then implemented a fingerprint biometric reader to computers, which eliminated passwords altogether. Furthermore, the readers were also installed at key access control points which meant that staff couldn't log on to machines if they didn't first gain access at these control points.
+This also meant that staff could be regulated as to which hours they were supposed to be working or were allowed to work. The system automatically logged you off of a computer when you 'clocked out' of the work area, which meant less wastage and stricter security.
+Thus the implementation of the biometric system ensures superior security measures, ease of use, a centralised databank of access control information, and the fact that staff didn't need to carry any access control instruments to work except for their fingers.
+
+
+== Department of Correctional Services ==
+As part of its strive to increase security and reduce corruption within its facilities, the Department of Correctional Services launched its Biometric Security System in August 2006. The system included fingerprint access, closed circuit television systems and turnstile gates.
+The Department recognised that the system on its own would not be effective and that staff members would have to be fully committed to and well-trained in operating the system. This included being proactive in monitoring any form of risk as well as acting promptly should a breach of security take place.
+The system was grounded in the principle of fail-over and in case of power loss or other unforeseen circumstances would switch over to a fully functioning secondary site.
+Future foreseen improvements to the system include closed circuit television monitoring of each individual cell, amongst others.
+
+
+== Department of Home Affairs ==
+South Africa has approximately 48 million citizens, and each one of them requires a government-issued, official identification booklet, as proof of identity. This document is not only needed for public services, but also everyday actions such as renting a DVD or opening a bank or store account. This document is based on the most secure form of identification, being the individual's fingerprint. The need is undeniable; the process is time consuming and paper based and resulted in government archives that contain over 45 million paper files.
+The Home Affairs National Identification System Project, known as HANIS, was implemented to move away from the paper system. Not only would HANIS replace the existing system with a world class digital database, but it will also ensure real time processing, verification and accessibility for every new and existing fingerprint.
+NEC's Automatic Fingerprint Identification System or AFIS was selected to offer the solution that the South African government needed. Their fingerprint recognition technologies host an accuracy rate of more than 99.9%. The system works fast and process as many as 70,000 searches in one day. It allows HANIS to produce the largest citizen identification database in the world.
+The Department of Home Affairs however faced quite a number of challenges to ensure successful and complete implementation of the project.
+The data integrity is compromised by duplicated and/or missing data elements and data inconsistency; a lack of security around the data stores has led to fraud and corruption, which furthers contaminated data integrity; relational linkages are not formalised between different data-stores (NPR, HANIS, EDMS) and shows little relational integrity; Immigration data stores are based on expired light-weight PC based technologies; The immigration and visitor data shows no integrated and cohesive structure, and are in segmented data stores such as Refugees and Deportation, Asylum Seekers, Visitors and Visas and Movement Control. The department is working to address these issues.
+The benefits in sight, however, will be a paperless environment with shorter queues, a reduction in bureaucratic delays and the accuracy of the system will dramatically reduce the possibility of identity theft and fraud.
+
+
+== South African Police Service ==
+The South African Police Service (SAPS) implemented a biometric system in 2001 to secure the Integrated Justice System (IJS). Finger- and palm prints of convicted criminals have been captured in their Automated Fingerprint Identification System (AFIS) – this database is used for Identity Management (IDM) and is used to monitor criminals as well as to track down wanted criminals. Portable readers (powered by Sagem's MorphoTouch and RapID technology) are used at roadblocks around the country to identify wanted criminals and bring them to justice.
+The AFIS was implemented by the Ideco Group, who also completed the HANIS system discussed above.
+Additional uses of biometrics in the police services are fingerprint readers (with fake fingerprint detection functionality) for access control in departments with secure and sensitive information (e.g. forensic laboratories, stolen vehicle departments etc.).
+Fingerprints are also being used as the sole method for doing criminal record background checks for commercial purposes – as the use of a name, surname or identification number has too much potential for abuse, and this system failure has led to much fraud. A full set of fingerprints is required for a criminal record check to be done on an individual. Companies who want to make use of this service (called AFISwitch) have to be enrolled with AFIS. This service has a significantly faster turnaround time (48 hours as opposed to weeks) than the traditional system for checking criminal records.
+
+
+== SASSA ==
+South Africa's Social Assistance Program is the government's largest poverty alleviation intervention. It has a budget allocation of approximately R100 billion, and provides social grants to 15,8 million beneficiaries to reduce their levels of deprivation and enable them to participate in the economy.
+In her budget vote speech on 2 May 2012, the Minister of Social Development, Ms Bathabile Dlamini, conceded that the South African Social Security Agency ("SASSA") has incomplete information on beneficiary details, and that the social grant system is prone to fraud and misappropriation of funds. In a country where social assistance touches such a high proportion of citizens and incorporates dealing with enormous monetary amounts, such fraud and misappropriation of funds is a slap in the face of those truly in need, and cannot be tolerated.
+As part of its strategy to address this problem SASSA has announced that all social assistance beneficiaries will be re-registered through a biometric enrolment system. Following enrolment, a biometric system will analyse physical or behavioural traits, such as fingerprints, iris, face, voice and hand geometry, to verify the identity of a beneficiary. This system will allow for effective authentication of beneficiaries, and drastically reduce the opportunities for fraud. SASSA is in the process of implementing this system, with Phase 1 having already been completed.
+Biometric identification systems are however not fool proof. Accurately functioning systems rely on two fundamental premises – the permanence and uniqueness of the relevant biometric trait, both of which are not certain. Furthermore, there may be problems with extracting the biometric traits – for example system or environmental problems. In recent years there has been significant growth in biometric research, and this has resulted in advancements in the field. More accurate, cost effective, secure and robust biometric systems have been developed – it is hoped that this will allow for an effective implementation of a system by SASSA.
+
+
+== Conclusion ==
+The main reasons for implementing a biometrics system by the South African government seem to be the eradication of crime and corruption, and enhancing service delivery to the citizens of the country. The problems faced are to be expected, being poor infrastructure and a lack of funds.
+With perseverance however, the government should be able to succeed with its efforts in becoming more effective in the use of biometrics.
+
+
+== See also ==
+National Forensic DNA Database of South Africa
+South African passport (not biometric)
+Automated fingerprint identification
+Countries applying biometrics
+Fingerprint recognition
+
+
+== References ==

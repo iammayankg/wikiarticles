@@ -1,0 +1,57 @@
+Congressional hearings are the principal formal method by which committees collect and analyze information in the early stages of legislative policymaking.
+Whether confirmation hearings — a procedure unique to the Senate — legislative, oversight, investigative, or a combination of these, all hearings share common elements of preparation and conduct. Hearings usually include oral testimony from witnesses and questioning of the witnesses by members of Congress. George B. Galloway termed congressional hearings a goldmine of information for all the public problems of the United States. A leading authority on U.S. government publications has referred to the published hearings as "the most important publications originating within Congress." The Senate Library in a similar vein noted "Hearings are among the most important publications originating in Congress."  Hearings were not published generally until the latter part of the 19th Century, except some early hearings (generally of special investigative committees) were published in the series that are part of the Serial Set. Published hearings did not become available for purchase from the United States Government Printing Office until 1924 and were not distributed to depository libraries until 1938. Unlike the documents and reports that are compiled in the Serial Set "hearings do not constitute a real series" although in the modern era a trend toward uniformity of numbering has resulted in all Senate hearings and prints for each Congressional Session (commencing with the 98th Congress in 1983) being assigned a unique numerical designation (in the style of what one scholar dubbed a "combination code") published on the cover and title page (e.g. S. HRG. 110-113; S. PRT. 110-13). A growing number of House Committees are assigning numerical or alphabetical designations for their publications (e.g. 110-35, 110-AA).
+The Law Library of Congress in a collaborative pilot project with Google is undertaking the digitizing of the Library's entire collection of printed hearings (constituting approximately 75,000 volumes). As of 2010 three collections (on the decennial Census, FOIA and Immigration) have been selectively compiled as a test. It is hoped the project will eventually provide full-text access of the entire collection which will be posted online by Google and the Library. ProQuest offers subscriptions to a database of digitized hearings (published and unpublished) covering 1824 to the present.
+
+
+== Types of hearings ==
+
+
+=== Legislative hearings ===
+Committees hold legislative hearings on measures or policy issues that may become public law. Sometimes a committee holds hearings on multiple measures before ultimately choosing one vehicle for further committee and chamber action. Hearings provide a forum where facts and opinions can be presented from witnesses with varied backgrounds, including Members of Congress and other government officials, interest groups, and academics, as well as citizens likely to be directly or indirectly affected by the proposal.
+
+
+=== Oversight hearings ===
+Oversight hearings review or study a law, issue, or an activity, often focusing on the quality of federal programs and the performance of government officials. Hearings also ensure that the executive branch's execution goes with legislative intent, while administrative policies reflect the public interest. Oversight hearings often seek to improve the efficiency, economy, and effectiveness of government operations. A significant part of a committee’s hearings workload is dedicated to oversight. For example, on a single day, May 8, 1996, the Senate Committee on Energy and Natural Resources held an oversight hearing to look into a recent increase in gasoline prices; the Committee on Governmental Affairs held an oversight hearing on the Internal Revenue Service; the Committee on Health, Education, Labor and Pensions held an oversight hearing on the implementation of the Family and Medical Leave Act; and the Committee on Indian Affairs held an oversight hearing on the impact of a recent Supreme Court case involving Indian gaming. Many committees oversee existing programs in the context of hearings on related legislation, or routinely perform oversight when it is time to reauthorize a program, so oversight hearings may be combined with legislative hearings.
+
+
+=== Investigative hearings ===
+Investigative hearings share some of the characteristics of legislative and oversight hearings. The difference lies in Congress’s stated determination to investigate, usually when there is a suspicion of wrongdoing on the part of public officials acting in their official capacity, or private citizens whose activities suggest the need for a legislative remedy. Congress’s authority to investigate is broad and it has exercised this authority since the earliest days of the republic. Its most famous inquiries are benchmarks in American history: Credit Mobilier, Teapot Dome, Army-McCarthy, Watergate, and Iran-Contra. Investigative hearings often lead to legislation to address the problems uncovered. Judicial activities in the same area of Congress’s investigation may precede, run simultaneously with, or follow such inquiries.
+
+
+=== Confirmation hearings ===
+Confirmation hearings on presidential nominations are held in fulfillment of the Senate’s constitutional "advice and consent" responsibilities. Each Senate committee holds confirmation hearings on presidential nominations to executive and judicial positions within its jurisdiction. These hearings often offer an opportunity for oversight into the activities of the nominee’s department or agency. While the vast majority of confirmation hearings are routine, some are controversial. Similarly, the Senate, as required by the Constitution, must consent to the ratification of treaties negotiated by the executive branch with foreign governments. In October 1999, for example, the Committee on Foreign Relations and the Committee on Armed Services held hearings on the Comprehensive Nuclear Test Ban Treaty. Also that year the Committee on Foreign Relations held hearings on ratifying tax treaties with Estonia, Venezuela, Denmark, and other nations. Although not as numerous as confirmation hearings, these hearings also allow the Senate to meet its constitutional responsibilities in an important area of public policy.
+
+
+=== Field hearings ===
+Field hearings are Congressional hearings held outside Washington. The formal authority for field hearings is found implicitly in the chamber rules. Senate Rule XXVI, paragraph 1 states that a committee "is authorized to hold hearings … at such times and places during the sessions, recesses, and adjourned periods of the Senate" as it sees fit. Otherwise, there is no distinction between field hearings and those held in Washington. In the 106th Congress, for example, the Committee on Commerce held a field hearing in Bellingham, Washington, on a liquid pipeline explosion in that city, and the Committee on Energy and Natural Resources held a field hearing in Albuquerque, New Mexico, on a bill to review the ability of the National Laboratories to meet Department of Energy standards. While field hearings involve some matters different from Washington hearings, most of the procedural requirements are the same. However, funding for committee travel must meet regulations established by the Senate Committee on Rules and Administration.
+
+
+== Subpoenas and depositions ==
+Most individuals respond favorably to an invitation to testify, believing it to be a valuable opportunity to communicate and publicize their views on a question of public policy. However, if a person will not come by invitation alone, a committee or subcommittee may require an appearance through the issuance of a subpoena (Rule XXVI, paragraph 1). Committees also may subpoena correspondence, books, papers, and other documents. Subpoenas are issued infrequently, and most often in the course of investigative hearings.
+
+
+== Closing a hearing ==
+The vast majority of committee hearings are open to the public, as required under Senate rules. But a hearing, like other committee meetings, may be closed for specific reasons stated in Senate rules (Rule XXVI, paragraph 5(b)). A committee may close a hearing if it
+involves national security information;
+concerns committee personnel, management, or procedures;
+invades the personal privacy of an individual, damages an individual’s reputation or professional standing, or charges an individual with a crime or misconduct;
+reveals identities or damages operations relating to law enforcement activities;
+discloses certain kinds of confidential financial or commercial information; or
+divulges information that other laws or regulations require to be kept confidential.
+The Senate rules also contain a specific procedure for closing a hearing. By motion of any Senator, if seconded, a committee may close a session temporarily to discuss whether there is a need to close a hearing for any of the reasons stated above. If so, the committee can close the hearing by majority roll call vote in open session. By this procedure, a committee can close a hearing or a series of sessions on a particular subject for no more than 14 calendar days.
+
+
+== Source ==
+CRS Report RL30548, Hearings in the U.S. Senate: A Guide for Preparation and Procedure, by Richard C. Sachs.
+CRS Report RL30539, Hearings in the House of Representatives: A Guide for Preparation and Procedure by Thomas P. Carr
+
+
+== References ==
+
+
+== External links ==
+selected Congressional hearings digitized by Law Library of Congress
+Congressional hearings and prints digitized by Rutgers – Camden School of Law (1970s-1998)
+Quick Links to House and Senate Committee Hearings and Other Publications
+white paper by Andrea Sevetson on the history of hearings and their publication
+C-SPAN

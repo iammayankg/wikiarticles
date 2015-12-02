@@ -1,0 +1,61 @@
+A vulture fund is a hedge fund or private equity fund that invests in debt considered to be very weak or in imminent default, known as distressed securities. Investors in the fund profit by buying debt at a discounted price on a secondary market and then using numerous methods to gain a larger amount than the purchasing price. Debtors include companies, countries, or individuals.
+Vulture funds have had success in bringing attachment and recovery actions against sovereign debtor governments, usually settling with them before realizing the attachments in forced sales. Settlements typically are made at a discount in hard or local currency or in the form of new debt issuance. In one instance involving Peru, such a seizure threatened payments to other creditors of the sovereign obliger.
+
+
+== History ==
+Sovereign debt collection was rare until the 1950s when sovereign immunity of government issuers was restricted. This trend developed from the long history of sovereign defaulting on commercial creditors with impunity. Accordingly, sovereign debt collection actions began in the 1950s. One example was the freezing of Brazil's gold reserves held by the Federal Reserve.
+Investment in sovereign debt with the intent to recover was also restricted due to the laws of champerty and maintenance and by the fact that most sovereign debt was syndicated. Under the Doctrines of Champerty, it was illegal in England and the United States to purchase a debt with the sole intent of litigating it. The distinction was made that if the debt was purchased to effect a recovery or facilitate investment, the doctrine was not a bar. Most jurisdictions have now eliminated the doctrine as archaic.
+Similarly, sovereign debt owed to commercial creditors in the late 1980s was principally held by bank syndicates. This was the result of the petrodollar crisis of the 1970s when oil earnings were recycled into bank loans. The syndication of debt among banks made recovery impractical, as a fund intending to litigate had to buy out the entire syndicate of holders or risk having the proceeds of litigation attached pursuant to sharing clauses in the loan agreements.
+As the 1980s progressed, debt rescheduling efforts in Latin America created many new and easily traded instruments such as Brady bonds that brought new players into the market, including banks and hedge funds. The original creditors then wrote down their positions and sold the debt into the secondary market, which is a market consisting of banks and investment funds focused on buying at discounts to achieve above market returns on their investment.
+In this process, much debt was repurchased and converted into local currency by the sovereign country issuers in official debt conversion programs designed to attract investment, and in severely indebted countries through World Bank funded buy-backs. The result is that the old syndicates were broken up and many unreconstructed syndicate "tails" were available for purchase at discounts exceeding 80% of the principal face value. That pricing encouraged funds to invest in recovery actions, which would not otherwise make financial sense due to their length and cost.
+
+
+== Corporation law and theory of finance ==
+Corporations are legally fictional people invented by the state. Businesses which need more capital than generally their founders can raise by personal contacts are enabled by this legal method of attracting investors to buy a portion of the business. Owners would invest capital and obtain common stock or equity in exchange for invested cash or other property like machines, factories, warehouses, patents or other interests. Then the owners would raise additional capital by borrowing from lenders in capital markets by selling bonds. In Corporation Law, the owners of these bonds come first in line for repayment so that if there is not sufficient funds to repay the debt-holders, the stock-holders get wiped out. The bond-holders step into the shoes of the former share-holders. The share-holders own nothing because they, the owners could not fully repay all the contractual promises or loans. So like a bank (mortgager) that has lent cash to a home buyer (mortgagee) takes possession of the security (the home) when mortgage payments are not made (foreclosure), the bondholders of a corporation take possession of the business from the former owners (the shareholders) when the corporation falls into bankruptcy. Thus, when shareholders cannot repay bondholders, in principle, bondholders become the new shareholders. In practice, it is more complicated.
+In financial markets, the bonds of troubled public companies trade in a manner similar to common stock of solvent companies.
+
+
+== Viewpoints ==
+
+
+=== Term "vulture fund" ===
+The term "vulture fund" is a metaphor, which can be considered a pejorative term, used to compare hedge funds to the behavior of vulture birds “preying” on debtors in financial distress by purchasing the now-cheap credit on a secondary market to make a large monetary gain, in many cases leaving the debtor in a worse state. The term is often used to criticize the fund for strategically profiting off of debtors that are in financial distress, and thus is frequently considered derogatory. However financiers dealing with vulture funds argue that "their lawsuits force accountability for national borrowing, without which credit markets would shrivel, and that their pursuit of unpaid commercial debt uncovers public corruption." A related term is "vulture investing", where certain stocks in near bankrupt companies are purchased upon anticipation of asset divestiture or successful reorganization.
+The term has gained wide acceptance from governments, newspapers, academics and international organizations such as the World Bank, Group of 77, Organisation of American States and Council on Foreign Relations, among others.
+
+
+=== Legislation ===
+In 2009, bipartisan legislation in the US Congress was introduced aimed to prevent Vulture funds from profiting on defaulted sovereign debt by capping the amount of profit that a secondary creditor can win through litigation based on those debts. The Stop VULTURE Funds Act was introduced, but not passed, in the United States. A non-profit financial reform organization, Jubilee USA Network, supported the legislation citing the impact that vulture funds have on poor countries. Similar legislation was passed in the United Kingdom, Belgium, Jersey, the Isle of Man, Australia. The States of Guernsey debated legislation in 2012.
+
+
+=== International financial institutions ===
+
+The International Monetary Fund and World Bank noted that Vulture funds endanger the gains made by debt relief to poorest countries. "The Bank has already delivered more than $40 billion in debt relief to 30 of these countries...thanks to this, countries like Ghana can provide micro-credit to farmers, build classrooms for their children, and fund water and sanitation projects for the poor," wrote World Bank Vice President Danny Leipziger in 2007. "Yet the activities of vulture funds threaten to undermine such efforts... the strategies adopted by vulture funds divert much needed debt relief away from the poorest countries on earth and into the bank accounts of the wealthy."
+
+
+=== International Governmental and non-Governmental Organisations ===
+The conduct of the vulture funds blocking payments to other creditors to Argentina was denounced by the Organisation of American States, with the exception of the United States and Canada. The G77+China also criticised the funds and stated: "Some recent examples of the actions by vulture funds before international courts show their highly speculative nature. These funds pose a danger for all the future process of debt swaps, for developing countries and for developed nations as well".
+The US-based Council on Foreign Relations questioned the US Supreme Court for rejecting Argentina’s appeal in its legal dispute with the so-called vulture funds. The organization claimed that such actions make it "more difficult for countries to free themselves from the burden of over-indebtedness" and are " very bad for international capital markets", as well as being a huge blow to national sovereignty. The organization described Thomas Griesa's ruling against Argentina in favour of vulture funds as "punishing the innocent" and "turning the natural order of debt on its head".
+
+
+=== United Kingdom ===
+In 2002, the British Chancellor (and later Prime Minister) Gordon Brown told the United Nations that when Vulture funds purchase debt at a reduced price, and make a profit from suing the debtor country to recover the full amount owed, the outcome is "morally outrageous". Legislation passed in 2010 removed the ability of vulture funds to use UK courts to enforce contested debts.
+
+
+=== United Nations ===
+On September 9, 2014, the United Nations General Assembly voted to support a new bankruptcy process for sovereign nations, which would promote debt restructuring by excluding so-called "vulture funds" from the process. The vote was 124-11 in favor, with 41 abstentions. The United States voted against the measure.
+
+
+== References ==
+
+
+== External links ==
+Complicating the Morality Play on Vulture Funds (Corrected Story), Christopher Faille, Senior Financial Correspondent, Hedgeworld News, Monday, February 4, 2008
+Distressed Debt Returns to the Spotlight FTfm, July 30, 2007
+Cerebral Fund
+Africa Action Campaign to Stop Vulture Funds US
+Jubilee Debt Campaign action on vulture funds
+Investopedia: vulture fund
+Should Countries like Argentina be able to Declare Themselves Bankrupt?, by Anne Krueger
+Economics of Vulture Funds -Ft.com
+August 2003, Manmohan Singh, IMF Working Paper WP/03/161; "Recovery Rates from Distressed Debt - Empirical Evidence from Chapter 11 Filings, International Litigation and Recent Sovereign Debt Restructurings"
+Investigative Journalist Greg Palast Tracks Vulture Funds Preying on African Debt - video report by Democracy Now!

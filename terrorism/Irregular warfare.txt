@@ -1,0 +1,121 @@
+Irregular warfare is warfare in which one or more combatants are irregular military rather than regular forces. Guerrilla warfare is a form of irregular warfare, and so is asymmetric warfare.
+Irregular warfare favors indirect and asymmetric warfare approaches, though it may employ the full range of military and other capabilities, in order to erode the adversary’s power, influence, and will. It is inherently a protracted struggle that will test the resolve of a state and its strategic partners. Concepts associated with irregular warfare are older than the term itself.
+
+
+== HistoryEdit ==
+
+
+=== Regular vs. irregularEdit ===
+The word "regular" is used in the term "regular armed forces" which comes from the Third Geneva Convention of 1949. The International Committee of the Red Cross (ICRC) is a non-governmental organization primarily responsible for, and most closely associated with, the drafting and successful completion of the Third Geneva Convention Relative to the Treatment of Prisoners of War (“GPW”). The ICRC provided commentary saying that "regular armed forces" satisfy four Hague Conventions (1899 and 1907) (Hague IV) conditions. In other words, "regular forces" must satisfy the following criteria:
+being commanded by a person responsible for his subordinates to a party of conflict
+having a fixed distinctive emblem recognizable at a distance
+carrying arms openly
+conducting operations in accordance with the laws and customs of war
+On the other hand, "irregular forces" is a term in international humanitarian law referring to a category of combatants consisting of individuals forming part of the armed forces of a party to an armed conflict, international or non-international, but not belonging to that party's regular forces and operating in or outside of their own territory even if the territory is under occupation. As such, it is implicit that irregular warfare is warfare where a major party in the conflict is a part of irregular forces.
+
+
+=== Early useEdit ===
+One of the earliest known uses of the term irregular warfare is in the 1986 English edition of "Modern Irregular Warfare in Defense Policy and as a Military Phenomenon" by Friedrich August Freiherr von der Heydte. The original 1972 German edition of the book is titled "Der Moderne Kleinkrieg als Wehrpolitisches und Militarisches Phänomen". The German word "Kleinkrieg" is literally translated as "Small War". The word "Irregular", used in the title of the English translation of the book, seems to be a reference non "regular armed forces" as per the aforementioned Third Geneva Convention.
+
+
+=== US DoD useEdit ===
+Within United States Department of Defense, one of the earliest known uses of the term IW is in a 1996 Central Intelligence Agency document by Jeffrey B. White. Major military doctrine developments related to IW were done between 2004 to 2007 as a result of the September 11 attacks on the United States. A key proponent of IW within US DoD is Michael G. Vickers, a former paramilitary officer in the CIA.
+
+
+=== US CIA useEdit ===
+The CIA's Special Activities Division (SAD) is the premiere unit for unconventional warfare, both for creating and for combating irregular warfare units. For example, SAD paramilitary officers created and led successful irregular units from the Hmong tribe during the war in Laos in the 1960s from the Northern Alliance against the Taliban during the war in Afghanistan in 2001 and from the Kurdish Peshmerga against Ansar al-Islam and the forces of Saddam Hussein during the war in Iraq in 2003.
+
+
+== ActivitiesEdit ==
+Activities and types of conflict included in IW are:
+Insurgency/Counter-insurgency (COIN)
+Terrorism/Counter-terrorism
+Stabilization, Security, Transition, and Reconstruction Operations (SSTRO)
+Unconventional warfare (UW)
+Foreign internal defense (FID)
+Civil-military operations (CMO)
+Military Intelligence and counter-intelligence activities
+Transnational criminal activities that support or sustain IW:
+narco-trafficking
+Illicit arms trafficking
+illegal financial transactions
+
+Law enforcement activities focused on countering irregular adversaries
+
+
+== Irregular warsEdit ==
+Some conflicts considered to be within the scope of irregular warfare are:
+Afghan Civil War
+American Indian Wars
+American Revolutionary War
+Arab Revolt
+Chinese Civil War
+Cuban Revolution
+First Chechen War
+First Sudanese Civil War
+Iraq War
+Kosovo War
+Lebanese Civil War
+Portuguese Colonial War
+Rwanda Civil War
+Second Boer War
+Second Chechen War
+Second Sudanese Civil War
+Somali Civil War
+Philippines War
+Vietnam War
+While sometimes portrayed as an "irregular war" the American Revolutionary War was in fact fought by regular forces using regular methods for most of its duration.
+
+
+== Wargames and exercisesEdit ==
+There have been at least two key military wargames and military exercises associated with IW:
+Unified Action [21]
+Unified Quest [22]
+
+
+== Modeling and simulationEdit ==
+As a result of DoD Directive 3000.07, United States armed forces are studying irregular warfare concepts using modeling and simulation.
+
+
+== Other definitionsEdit ==
+IW is a form of warfare that has as its objective the credibility and/or legitimacy of the relevant political authority with the goal of undermining or supporting that authority. IW favors indirect approaches, though it may employ the full range of military and other capabilities to seek asymmetric approaches, in order to erode an adversary’s power, influence, and will.
+IW is defined as a violent struggle among state and non-state actors for legitimacy and influence over the relevant population(s)
+IW involves conflicts in which enemy combatants are not regular military forces of nation-states.
+IW is "war among the people" as opposed to "industrial war" (i.e. regular war).
+
+
+== See alsoEdit ==
+Individuals:
+George W. Bush
+Che Guevara
+Clarence Ransom Edwards
+François Géré
+Friedrich August Freiherr von der Heydte
+John R. M. Taylor
+T. E. Lawrence
+Michael G. Vickers
+Robert Rogers' 28 "Rules of Ranging"
+
+
+== NotesEdit ==
+^ According to the definition of "regular forces", which came much after the American Revolutionary War (ARW), the American forces did not meet the following criteria at all times during the ARW:
+having a fixed distinctive emblem recognizable at a distance
+carrying arms openly
+conducting operations in accordance with the laws and customs of war
+
+Notwithstanding, in terms of modern international humanitarian law which was also developed much later than the ARW, the American forces formed part of the armed forces of a party to an armed conflict but not belonging to that party's regular forces (since the United States of America did not exist and hence could not have had regular forces; the American forces were an insurgency at least until 1776) and operating in or outside of their own territory even if the territory is under occupation. American forces did become regular forces but cannot be considered regular forces during the entire period of the ARW. For example, the American flag got established (1777) 2 years after the ARW started (1775). Also, there were great disparities between the American and British forces. It was not until France started to assist American forces (1778) that the disparity started to be narrowed. Conflict during the disparity surely counts as Asymmetric warfare. Also, the Boston Tea Party (1773) can be viewed as guerrilla tactics. At the very least, a good portion of the ARW should be counted as IW although the entire ARW being counted as IW is controversial. However, since more than 1/2 of the ARW was fought as ARW then it is thought that it is safe to classify it as IW even though that the American forces acted in all respects as regular forces towards the end of the conflict.
+
+
+== ReferencesEdit ==
+
+
+== External linksEdit ==
+Military Art and Science Major - Irregular Warfare Specialty Track [23]
+Pincus, Walter, "Irregular Warfare, Both Future and Present", The Washington Post, 7 April 2008 [24]
+Phillips, Joan T., Fairchild, Muir S.,"Irregular Warfare", Maxwell Air Force Base, March 2007 [25]
+Gustafson, Michael, "Modern Irregular Warfare & Counterinsurgency", Swedish National Defence College, 2009 [26]
+Coons, Kenneth C. Jr., Harned, Glenn M., "Irregular Warfare is Warfare", Joint Force Quarterly, National Defense University, 2009 [27]
+Naval Postgraduate School (NPS) Center on Terrorism and Irregular Warfare (CTIW) [28]
+United States Joint Forces Command (USJFCOM) Joint Irregular Warfare Center (JIWC) [29]
+Armed Groups and Irregular Warfare; Adapting Professional Military Education, Richard H. Shultz, Jr., Roy Godson, and Querine Hanlon (Washington, DC: National Strategy Information Center, 2009). [30]
+Tomkins, Paul, Irregular Warfare: Annotated Bibliography. Fort Bragg, NC: United States Army Special Operations Command, 2011.

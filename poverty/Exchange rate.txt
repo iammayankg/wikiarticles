@@ -1,0 +1,89 @@
+In finance, an exchange rate (also known as a foreign-exchange rate, forex rate, FX rate or Agio) between two currencies is the rate at which one currency will be exchanged for another. It is also regarded as the value of one country’s currency in terms of another currency. For example, an interbank exchange rate of 119 Japanese yen (JPY, ¥) to the United States dollar (US$) means that ¥119 will be exchanged for each US$1 or that US$1 will be exchanged for each ¥119. In this case it is said that the price of a dollar in terms of yen is ¥119, or equivalently that the price of a yen in terms of dollars is $1/119.
+Exchange rates are determined in the foreign exchange market, which is open to a wide range of different types of buyers and sellers where currency trading is continuous: 24 hours a day except weekends, i.e. trading from 20:15 GMT on Sunday until 22:00 GMT Friday. The spot exchange rate refers to the current exchange rate. The forward exchange rate refers to an exchange rate that is quoted and traded today but for delivery and payment on a specific future date.
+In the retail currency exchange market, a different buying rate and selling rate will be quoted by money dealers. Most trades are to or from the local currency. The buying rate is the rate at which money dealers will buy foreign currency, and the selling rate is the rate at which they will sell the currency. The quoted rates will incorporate an allowance for a dealer's margin (or profit) in trading, or else the margin may be recovered in the form of a commission or in some other way. Different rates may also be quoted for cash (usually notes only), a documentary form (such as traveler's cheques) or electronically (such as a credit card purchase). The higher rate on documentary transactions has been justified to compensate for the additional time and cost of clearing the document, while the cash is available for resale immediately. Some dealers on the other hand prefer documentary transactions because of the security concerns with cash.
+
+
+== Retail exchange market ==
+Currency for international travel and cross-border payments is predominantly purchased from banks, foreign exchange brokerages and various forms of Bureau de change. These retail outlets source currency off the inter-bank markets which are valued by the Bank for International Settlements at $5.3 trillion-dollar-per-day [1]. The purchase price is conducted at the spot contract rate. The process of selling currency on to retail clients will involve the charge of commission to cover processing costs while also deriving profit. Additional gains are realised by the quotation of an exchange rate that differs to the original spot rate. This difference is referred to as the bid-ask spread. In determining their own bid and ask price the retail provider is therefore the Market maker of the retail currency market which confirms this market as being determined on discretion.
+
+
+== Quotations ==
+
+A currency pair is the quotation of the relative value of a currency unit against the unit of another currency in the foreign exchange market. The quotation EUR/USD 1.11 means that 1 Euro is able to buy 1.11 US dollar. In other words, this is the price of a unit of Euro in US dollar. Here, EUR is called the "Fixed currency", while USD is called the "Variable currency".
+There is a market convention that determines which is the fixed currency and which is the variable currency. In most parts of the world, the order is: EUR – GBP – AUD – NZD – USD – others. Accordingly, a conversion from EUR to AUD, EUR is the fixed currency, AUD is the variable currency and the exchange rate indicates how many Australian dollars would be paid or received for 1 Euro. Cyprus and Malta which were quoted as the base to the USD and others were recently removed from this list when they joined the Eurozone.
+In some areas of Europe and in the non-professional market in the UK, EUR and GBP are reversed so that GBP is quoted as the base currency to the euro. In order to determine which is the base currency where both currencies are not listed (i.e. both are "other"), market convention is to use the base currency which gives an exchange rate greater than 1.000. This avoids rounding issues and exchange rates being quoted to more than four decimal places. There are some exceptions to this rule, for example, the Japanese often quote their currency as the base to other currencies.
+Quotes using a country's home currency as the price currency (for example, EUR 0.9009 = USD 1.00 in the Eurozone) are known as direct quotation or price quotation (from that country's perspective) and are used by most countries.
+Quotes using a country's home currency as the unit currency (for example, USD 1.11 = EUR 1.00 in the Eurozone) are known as indirect quotation or quantity quotation and are used in British newspapers and are also common in Australia, New Zealand and the Eurozone.
+Using direct quotation, if the home currency is strengthening (that is, appreciating, or becoming more valuable) then the exchange rate number decreases. Conversely, if the foreign currency is strengthening, the exchange rate number increases and the home currency is depreciating.
+Market convention from the early 1980s to 2006 was that most currency pairs were quoted to four decimal places for spot transactions and up to six decimal places for forward outrights or swaps. (The fourth decimal place is usually referred to as a "pip"). An exception to this was exchange rates with a value of less than 1.000 which were usually quoted to five or six decimal places. Although there is not any fixed rule, exchange rates with a value greater than around 20 were usually quoted to three decimal places and currencies with a value greater than 80 were quoted to two decimal places. Currencies over 5000 were usually quoted with no decimal places (for example, the former Turkish Lira). e.g. (GBPOMR : 0.765432 -  : 1.4436 - EURJPY : 165.29). In other words, quotes are given with five digits. Where rates are below 1, quotes frequently include five decimal places.
+In 2005, Barclays Capital broke with convention by offering spot exchange rates with five or six decimal places on their electronic dealing platform. The contraction of spreads (the difference between the bid and ask rates) arguably necessitated finer pricing and gave the banks the ability to try and win transaction on multibank trading platforms where all banks may otherwise have been quoting the same price. A number of other banks have now followed this system.
+
+
+== Exchange rate regime ==
+
+Each country, through varying mechanisms, manages the value of its currency. As part of this function, it determines the exchange rate regime that will apply to its currency. For example, the currency may be free-floating, pegged or fixed, or a hybrid.
+If a currency is free-floating, its exchange rate is allowed to vary against that of other currencies and is determined by the market forces of supply and demand. Exchange rates for such currencies are likely to change almost constantly as quoted on financial markets, mainly by banks, around the world.
+A movable or adjustable peg system is a system of fixed exchange rates, but with a provision for the revaluation (usually devaluation) of a currency. For example, between 1994 and 2005, the Chinese yuan renminbi (RMB) was pegged to the United States dollar at RMB 8.2768 to $1. China was not the only country to do this; from the end of World War II until 1967, Western European countries all maintained fixed exchange rates with the US dollar based on the Bretton Woods system. [2] But that system had to be abandoned in favor of floating, market-based regimes due to market pressures and speculations in the 1970s.
+Still, some governments strive to keep their currency within a narrow range. As a result, currencies become over-valued or under-valued, leading to excessive trade deficits or surpluses.
+
+
+== Fluctuations in exchange rates ==
+A market-based exchange rate will change whenever the values of either of the two component currencies change. A currency will tend to become more valuable whenever demand for it is greater than the available supply. It will become less valuable whenever demand is less than available supply (this does not mean people no longer want money, it just means they prefer holding their wealth in some other form, possibly another currency).
+Increased demand for a currency can be due to either an increased transaction demand for money or an increased speculative demand for money. The transaction demand is highly correlated to a country's level of business activity, gross domestic product (GDP), and employment levels. The more people that are unemployed, the less the public as a whole will spend on goods and services. Central banks typically have little difficulty adjusting the available money supply to accommodate changes in the demand for money due to business transactions.
+Speculative demand is much harder for central banks to accommodate, which they influence by adjusting interest rates. A speculator may buy a currency if the return (that is the interest rate) is high enough. In general, the higher a country's interest rates, the greater will be the demand for that currency. It has been argued that such speculation can undermine real economic growth, in particular since large currency speculators may deliberately create downward pressure on a currency by shorting in order to force that central bank to buy their own currency to keep it stable. (When that happens, the speculator can buy the currency back after it depreciates, close out their position, and thereby take a profit.)
+For carrier companies shipping goods from one nation to another, exchange rates can often impact them severely. Therefore, most carriers have a CAF charge to account for these fluctuations.
+
+
+== Purchasing power of currency ==
+The real exchange rate (RER) is the purchasing power of a currency relative to another at current exchange rates and prices. It is the ratio of the number of units of a given country's currency necessary to buy a market basket of goods in the other country, after acquiring the other country's currency in the foreign exchange market, to the number of units of the given country's currency that would be necessary to buy that market basket directly in the given country . There are different kind of measurement for RER.
+Thus the real exchange rate is the exchange rate times the relative prices of a market basket of goods in the two countries. For example, the purchasing power of the US dollar relative to that of the euro is the dollar price of a euro (dollars per euro) times the euro price of one unit of the market basket (euros/goods unit) divided by the dollar price of the market basket (dollars per goods unit), and hence is dimensionless. This is the exchange rate (expressed as dollars per euro) times the relative price of the two currencies in terms of their ability to purchase units of the market basket (euros per goods unit divided by dollars per goods unit). If all goods were freely tradable, and foreign and domestic residents purchased identical baskets of goods, purchasing power parity (PPP) would hold for the exchange rate and GDP deflators (price levels) of the two countries, and the real exchange rate would always equal 1.
+The rate of change of the real exchange rate over time for the euro versus the dollar equals the rate of appreciation of the euro (the positive or negative percentage rate of change of the dollars-per-euro exchange rate) plus the inflation rate of the euro minus the inflation rate of the dollar.
+
+
+== Bilateral vs. effective exchange rate ==
+
+Bilateral exchange rate involves a currency pair, while an effective exchange rate is a weighted average of a basket of foreign currencies, and it can be viewed as an overall measure of the country's external competitiveness. A nominal effective exchange rate (NEER) is weighted with the inverse of the asymptotic trade weights. A real effective exchange rate (REER) adjusts NEER by appropriate foreign price level and deflates by the home country price level. Compared to NEER, a GDP weighted effective exchange rate might be more appropriate considering the global investment phenomenon.
+
+
+== Uncovered interest rate parity ==
+
+Uncovered interest rate parity (UIRP) states that an appreciation or depreciation of one currency against another currency might be neutralized by a change in the interest rate differential. If US interest rates increase while Japanese interest rates remain unchanged then the US dollar should depreciate against the Japanese yen by an amount that prevents arbitrage (in reality the opposite, appreciation, quite frequently happens in the short-term, as explained below). The future exchange rate is reflected into the forward exchange rate stated today. In our example, the forward exchange rate of the dollar is said to be at a discount because it buys fewer Japanese yen in the forward rate than it does in the spot rate. The yen is said to be at a premium.
+UIRP showed no proof of working after the 1990s. Contrary to the theory, currencies with high interest rates characteristically appreciated rather than depreciated on the reward of the containment of inflation and a higher-yielding currency.
+
+
+== Balance of payments model ==
+The balance of payments model holds that foreign exchange rates are at an equilibrium level if they produce a stable current account balance. A nation with a trade deficit will experience a reduction in its foreign exchange reserves, which ultimately lowers (depreciates) the value of its currency. A cheaper (undervalued) currency renders the nation's goods (exports) more affordable in the global market while making imports more expensive. After an intermediate period, imports will be forced down and exports to rise, thus stabilizing the trade balance and bring the currency towards equilibrium.
+Like purchasing power parity, the balance of payments model focuses largely on trade-able goods and services, ignoring the increasing role of global capital flows. In other words, money is not only chasing goods and services, but to a larger extent, financial assets such as stocks and bonds. Their flows go into the capital account item of the balance of payments, thus balancing the deficit in the current account. The increase in capital flows has given rise to the asset market model effectively.
+
+
+== Asset market model ==
+
+The increasing volume of trading of financial assets (stocks and bonds) has required a rethink of its impact on exchange rates. Economic variables such as economic growth, inflation and productivity are no longer the only drivers of currency movements. The proportion of foreign exchange transactions stemming from cross border-trading of financial assets has dwarfed the extent of currency transactions generated from trading in goods and services.
+The asset market approach views currencies as asset prices traded in an efficient financial market. Consequently, currencies are increasingly demonstrating a strong correlation with other markets, particularly equities.
+Like the stock exchange, money can be made (or lost) on trading by investors and speculators in the foreign exchange market. Currencies can be traded at spot and foreign exchange options markets. The spot market represents current exchange rates, whereas options are derivatives of exchange rates.
+
+
+== Manipulation of exchange rates ==
+A country may gain an advantage in international trade if it controls the market for its currency to keep its value low, typically by the national central bank engaging in open market operations. In the early twenty-first century it was widely asserted that the People's Republic of China had been doing this over a long period of time.
+Other nations, including Iceland, Japan, Brazil, and so on also devalue their currencies in the hopes of reducing the cost of exports and thus bolstering their economies. A lower exchange rate lowers the price of a country's goods for consumers in other countries, but raises the price of imported goods and services, for consumers in the low value currency country.
+In general, a country that exports goods and services will prefer a lower value on their currencies, while a country that imports goods and services will prefer a higher value on their currencies.
+
+
+== See also ==
+
+Bureau de change
+Current account
+Currency strength
+Dynamic currency conversion
+Effective exchange rate
+Euro calculator
+Foreign exchange market
+Foreign exchange fraud
+Functional currency
+Tables of historical exchange rates to the USD
+Telegraphic transfer
+USD Index
+Black Wednesday
+
+
+== References ==
