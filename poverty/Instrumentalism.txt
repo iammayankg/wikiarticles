@@ -1,0 +1,113 @@
+Instrumentalism is one of a multitude of modern schools of thought created by scientists and philosophers throughout the 20th century. Its premises and practices were most clearly and persuasively stated by two philosophers—John Dewey (1859-1952) and Karl Popper (1902-1994). Independently, they defined the school quite similarly, but their judgments of it were irreconcilable.
+Dewey was a practitioner of instrumentalism who, while fearing that the name was easily misunderstood, adopted it for his modernization of tools of induction and his denial of reality behind experience. Popper was a critic who judged its insistence on induction and its denial of reality behind experience to be hopelessly flawed. These contrary judgments endowed the school with the legacy of confusion and ambiguity described below.
+This article reports the definition of instrumentalism accepted by these two philosophers. It explains the grounds of their irreconcilable judgments, now embedded in popular understanding of the school. And it describes the practice of followers of each philosopher, demonstrating that neither philosopher's judgments have achieved universal assent, leaving the school's meaning and legitimacy in modern scientific inquiry indeterminate.
+
+
+== Instrumentalism defined ==
+In 1925, John Dewey published an article entitled "The Development of American Pragmatism," in which he defined instrumentalism to distinguish it from schools known as "pragmatism" and "experimentalism." In 1956, Karl Popper published an article entitled "Three Views Concerning Human Knowledge," in which he defined instrumentalism to distinguish it from "essentialism" and a "third view"—his own-which he came to call "critical rationalism."
+Dewey's article was republished in 1984 in John Dewey: The Later Works. Popper's article was republished in 1962 in Conjectures and Refutations. The following four premises defining instrumentalism are taken from these sources. Premises 1 and 2 were accepted by both philosophers and the general public. Premises 3 and 4 were and remain controversial, and will be analyzed in the next section.
+1) Theories are instruments, tools-of-the-trade of thinking.
+Dewey:
+
+Popper:
+
+2) Theories are tested by consequences, applying the instrumental criterion of judgment.
+Dewey:
+
+Popper:
+
+3) Theory-development requires inductive reasoning, basing general statements on limited observations.
+Dewey:
+
+Popper:
+
+4) There are no realities beyond what can be known using instrumental theories.
+Dewey:
+
+Popper:
+
+Instrumentalism is often identified with other schools which share some of these premises: positivism, pragmatism, operationalism, behaviorism, anti-realism, empiricism, consequentialism.
+
+
+== Instrumentalism judged ==
+Dewey and Popper disagreed on premises 3 and 4. The primary grounds of their disagreement were expounded in the 1930s. In 1935, Popper published Logic of Scientific Discovery, in which he used traditional logical forms to criticize modern schools of thought, including instrumentalism. In 1938, Dewey published Logic: the Theory of Inquiry, in which he reconstructed traditional logical forms to make them usable by modern schools of thought. Neither of these volumes used the name instrumentalism, but both discussed and judged the premises above.
+
+
+=== Popper's critique ===
+The opening paragraph of Popper's The Logic of Scientific Discovery observed that all modern empirical schools accept premises 1 and 2, which he later identified with Instrumentalism:
+
+Several paragraphs later, he admitted the popularity of induction—premise 3—but denied its capacity to generate logically true theories:
+
+Popper's reference to swans recalls a famous historic error: the inductively-derived belief that all swans are white. He labelled the practice illogical: "Now in my view there is no such thing as induction. Thus, inference to theories, from singular statements which are 'verified by experience' (whatever that may mean), is logically inadmissible."
+Popper rejected inductive reasoning in favor of deductive reasoning because he maintained that the former could not achieve logical form. Deduction can move from a self-evident universal statement, such as "All men are mortal", to true singular statements that every individual human is mortal, because the universal statement already embraces all singulars. But there can be no principle by which a singular statement can justify a universal, because no singular statement can report observing "all" of any kind.
+
+Popper rejected induction—premise 3–-but not premise 2—the criterion of instrumental efficiency. He argued that deduction could serve modern science, not by assuming general statements to be true, but by providing general statements testable by their consequences. Falsification "works" when experience contradicts a theory's predictions: "it must be possible for an empirical scientific system to be refuted by experience."
+
+Popper rejected premise 4 because it denies the distinction between pure and applied science. He granted that science might be viewed from an empirical or instrumental point of view, but asserted that an epistemological or reality point-of-view was equally valid, meaning logical truths can be found independently of experience. His evidence was that pure sciences such as mathematics and logic can make true statements without observing facts-of-the-case.
+Logically true theories don't require establishing facts-of-the-case; they can be conjectural myths, derived from inspiration or chance, which are "... psychologically or genetically a priori, i.e., prior to all observational experience." They can also precede observation or recognition of similarities and differences.
+
+Instrumentalism's denial of logically-certain deductive truths—premise 4—threatens "... the idea of the objectivity of knowledge and of common standards of criticism or rationality." Because Instrumentalists claim that "truth" is always situational, they forfeit their capacity to explain sciences in which the instrumental criterion of judgment cannot be applied. In pure sciences, the criterion is logically-established truth, not what works or is useful given temporary conditions.
+
+
+=== Dewey's reconstruction ===
+Dewey's Logic of 1938 was very different from Popper's Logic of 1935. While Popper used traditional logical forms to criticize modern practices such as induction, Dewey revised those forms. He addressed the problem of whether scientific inquiry "can develop in its own ongoing course the logical standards and forms to which further inquiry shall submit." His affirmative answer is the substance of premise 4, which traditional logic led Popper to deny.
+Dewey's Logic did not name instrumentalism or pragmatism, but asserted that both schools treat theories as tools for producing consequences. Consequences are "necessary tests of the validity of propositions, provided these consequences are operationally instituted and are such as to resolve the specific problem evoking the operations, ..."
+When Dewey analyzed induction—premise 3—he accepted its standard meaning of processes for developing general propositions from particular cases. He explained why Aristotle's understanding of these methods was no longer acceptable.
+Popper partially repudiated Aristotle's belief that superior intellects can "intuit the essence" of eternal forms by observing physically changing forms: each observed swan is an imperfect sample of universal-but-unobservable swan-ness. But he provided no rational means to carry out induction's necessary function of establishing the facts-of-the-case by relating singular observations of kinds to general statements about kinds. Dewey's instrumental analysis did provide such means by reconstructing both induction and deduction.
+One may think of a singular observation, i.e., "this swan is white", as an isolated fact without general reference. But Dewey insisted that such an observation necessarily involves the general meaning of "swan" as a particular kind of "bird". If one were not familiar with a kind of animal having numerous well-established characteristics, one could not name it either "bird" or "swan". Kinds, including species, do not exist apart from experience. They are created by inquiries which—contrary to Popper—use induction to distinguish stable characteristics of experience from accidental or irrelevant characteristics.
+Dewey argued that modern science does not treat particular observations as knowledge of what is real: one does not assume, after a few observations, that whiteness is a defining characteristic of swans. Particular observations "are selectively discriminated so as to determine a problem whose nature is such as to indicate possible modes of solution." Observations become facts-of-the-case only after being causally related to a problem.
+Dewey supported this theoretical generalization with an example of medical knowledge. The case of malaria shows how modern induction avoids Popper's charge of requiring endless observations.
+After certain "singular" symptoms came to be recognized as constituting a disease, it was named malaria—literally "bad air"—as a common-sense conjecture about its cause—premise 1. Popper might have considered that conjecture to be testable by predicting that the disease would be absent in environments with "good air." But testing a prediction about air quality could not have led to new insights. It was an insignificant fact-of-the-case.
+When further observations—applying premise 3—identified the conjunction of parasites with the disease, experiments revealed the life-history of particular parasites and their relation to a particular kind of mosquito: anopheles. At each stage of inquiry, particular observations [inductions] led to general hypotheses [deductions] guiding further observations to establish logically-warranted particular and general propositions. Multiple theories generated by induction were used throughout the process of inquiry. They evolved from quite conjectural to quite confirmed generalizations, but never from "conjectural myths" to "truths" independent of observable life processes.
+The result of this hypothetical-deductive sequence was to establish malaria as a specific kind of disease with a determinate etiology. Dewey affirmed the logical force of this demonstration. It provides the logical principle justifying induction, the possibility of which Popper denied.
+
+With this logical principle, Dewey validated induction—premise 3—as well as his rejection of realms such as pure science capable of establishing objective truths unknowable by applied science—premise 4. He argued that warranted generalizations never exist apart from experience. They arise only in the process of inquiry, making invalid any claim to truths "logically prior to observation or recognition of similarities and differences."
+But the dependence of warranted theories on situational factors—induction—does not eliminate objective standards of judgment, as Popper feared. Both ends and means have consequences that can be judged more or less instrumentally efficient—premise 2.
+
+In summary, Dewey's reconstruction of logic directly refuted Popper's argument for rejecting induction and for maintaining the distinction between pure and applied science. His instrumentalism requires hypothetical-deductive operations to establish warranted assertions to solve problems—employing all four premises.
+
+
+== Instrumentalism practiced ==
+Dewey and Popper never confronted their differences. Consequently, the advocate's and the critic's irreconcilable patterns of thought remain identified with the school. Current use of the name embraces this incoherent legacy.
+To exemplify this continuing ambiguity, this article examines recent practice by significant people influenced by each philosopher's view of instrumentalism. Economist Milton Friedman identified himself with the theory and practice of Popper, while philosopher Larry Hickman and economist John Fagg Foster identified themselves with Dewey. Should any of them be called adherents of instrumentalism?
+
+
+=== Milton Friedman's practice of Instrumentalism ===
+Milton Friedman (1912-2006) was a Nobel laureate in economics who contributed to the two branches into which economics is often divided: a pure value-free science—positive economics—and an applied normative science—political economy. He participated in the Mount Pelerin Society to which Karl Popper belonged. In 1953 he published an essay—"The Methodology of Positive Economics"—which came to identify him with instrumentalism despite never mentioning that school, or Popper, or Dewey.
+Friedman explicitly embraced premises 1 and 2 when he identified the task of positive economics as providing "a system of generalizations or conjectures that can be used to make correct predictions about the consequences of any change in circumstances." But his position on premises 3 and 4 was ambiguous. Contrary to Popper, he appeared to approve of basing theoretical conjectures on facts-of-the-case provided by inductive observations—premise 3:
+
+But he joined Popper in rejecting premise 4—that conjectures must derive from descriptively true assumptions. This rejection appears to make irrelevant the practice of relating theories to facts by induction.
+
+In words close to Popper's praise of false conjectures, Friedman praised purely mental hypotheses derived from inaccurate assumptions:
+
+Friedman's 1953 essay provoked extensive criticism from both orthodox and heterodox economists. In 1959, economist Lawrence Boland published "A Critique of Friedman's Critics", in which he asserted that all critics were wrong because they failed to understand that Friedman was an Instrumentalist.
+
+The "coherent philosophy" which Boland identified with approval as instrumentalism included premises 1 and 2, acceptable to both Popper and Dewey—using theories as instruments to generate successful predictions. But Boland left out of his definition premises 3 and 4—the premises Popper rejected along with the name. Because Friedman downplayed inductive operations and praised unrealistic hypotheses, Boland felt justified in praising him as an instrumentalist, although the same logic would justify praising Popper as an instrumentalist.
+Boland's paper generated further debate over the meaning of instrumentalism and whether the school Popper rejected could be made acceptable. In 1989, economists Abraham Hirsch and Neil De Marchi published a detailed analysis of Friedman's professional work, which found Friedman's practice inconsistent and Boland's interpretation misleading.
+
+After analyzing Friedman's theoretical and practical writings, Hirsch and De Marchi reached convoluted conclusions. They agreed that Friedman sometimes practiced what Boland called instrumentalism, applying premises 1 and 2. But they also found much of his work compatible with Dewey's instrumentalism but not Popper's—applying premises 3 and 4.
+Hirsch and De Marchi recognized the irreconcilability of Popper's "notions of deductive explanations" which avoid induction and Dewey's "process-view of inquiry" which requires both induction and deduction. They concluded that these represent "two types of instrumentalism." While Boland placed Friedman—with approval—in the tradition of Popper, they placed Friedman—with approval but contrary to Boland—more in the tradition of Dewey.
+But rather than claim that a divided Instrumentalism embraces irreconcilable premises, Hirsch and De Marchi yielded the Institutionalist title to the more widely recognized interpretation of Popper. Still disagreeing with Boland's interpretation, they considered it less ambiguous to call Friedman a pragmatist in the tradition of Dewey.
+
+This decision leaves unresolved the meaning and scientific legitimacy of both instrumentalism and pragmatism. Boland found instrumentalism acceptable as long as it rejects premises 3 and 4, while Hirsch and De Marchi found it unacceptable so defined.
+
+
+=== Larry Hickman's practice of Instrumentalism ===
+Larry Hickman (1942- ), a professor of philosophy, became Director of the Center for Dewey Studies at Southern Illinois University in 1993. In 1990, he published John Dewey's Pragmatic Technology, expressing the current meaning and relevance of Dewey's instrumentalism, despite his decision not to use that label in his title.
+Hickman's study places Dewey's pattern of thought in current philosophical context. He argues that it is best understood as a "philosophy of technology" and a modern version of pragmatism.
+
+Hickman's first chapter confirms Hirsch and De Marchi's finding that multiple and irreconcilable meaning of Instrumentalism are common. He labels meanings incompatible with Dewey's thinking "naïve" and "straight-line" instrumentalism.
+
+Straight-line instrumentalism separates means from ends by treating theories as tools "in the mind;" as purely mental conjectures. This meaning affects all four premises of instrumentalism.
+If theories are simply "in the mind", then applying and testing them can likewise be "in the mind", accomplished by symbol manipulation rather than by observable actions. This interpretation makes premises 3 and 4 unnecessary, leaving premises 1 and 2, which were acceptable to Popper.
+Hickman follows Dewey in arguing that theories are not "in the mind" but are statements of potential ways of acting that are tested by application in concrete situations. Competent inquiry starts by judging a situation to be undesirable and seeks an "end" judged more desirable. It creates theoretical and physical tools as "means" to that end. Both mental and physical tools, when they work, become technological artifacts, available for further inquiries and knowings.
+This sequence of competent inquiry expresses Dewey's endorsement of all four premises of Instrumentalism as a technological enterprise.
+
+Hickman defends Dewey's theory and practice against other philosophers claiming the name instrumentalism, but does not himself adopt that name. Whether "pragmatic technology" used in his title is a satisfactory new name for this school remains doubtful, since neither of these words has a well-established meaning in philosophy.
+
+
+== Current status of Instrumentalism ==
+Popper's theoretical destruction of premises 3 and 4 is widely accepted and none of the men above chose to call himself an instrumentalist, but the few scholars who endorse Dewey's defense of premises 3 and 4--here represented by Larry Hickman- integrate his theory with their practice.
+
+
+== References ==

@@ -1,0 +1,18 @@
+Nomothetic and idiographic are terms used by Kantian philosopher Wilhelm Windelband to describe two distinct approaches to knowledge, each one corresponding to a different intellectual tendency, and each one corresponding to a different branch of academe.
+Nomothetic is based on what Kant described as a tendency to generalize, and is typical for the natural sciences. It describes the effort to derive laws that explain objective phenomena in general.
+Idiographic is based on what Kant described as a tendency to specify, and is typical for the humanities. It describes the effort to understand the meaning of contingent, unique, and often subjective phenomena.
+
+
+== Use in the social sciences ==
+The problem of whether to use nomothetic or idiographic approaches is most sharply felt in the social sciences, whose subject are unique individuals (idiographic perspective), but who have certain general properties or behave according to general rules (nomothetic perspective).
+Often, nomothetic approaches are quantitative, and idiographic approaches are qualitative, although the "Personal Questionnaire" developed by M.B. Shapiro, and its further developments (e.g. Discan scale) are both quantitative and idiographic. Personal cognition (D.A. Booth) is idiographic, qualitative and quantitative, using the individual's own narrative of action within situation to scale the ongoing biosocial cognitive processes in units of discrimination from norm (with M.T. Conner 1986, R.P.J. Freeman 1993 and O. Sharpe 2005).
+In psychology, idiographic describes the study of the individual, who is seen as a unique agent with a unique life history, with properties setting him/her apart from other individuals (see idiographic image). A common method to study these unique characteristics is an (auto)biography, i.e. a narrative that recounts the unique sequence of events that made the person who she is. Nomothetic describes the study of classes or cohorts of individuals. Here the subject is seen as an exemplar of a population and their corresponding personality traits and behaviours. The terms idiographic and nomothetic were introduced to American psychology by Gordon Allport in 1937.
+Theodore Millon (1995) states that when spotting and diagnosing personality disorders, first we start with the nomothetic perspective and look for various general scientific laws; then when you believe you have a disorder, you switch your view to the idiographic perspective to focus on the specific individual and his or her unique traits.
+In sociology, the nomothetic model tries to find independent variables that account for the variations in a given phenomenon (e.g. What is the relationship between timing/frequency of childbirth and education). Nomothetic explanations are probabilistic and usually incomplete. The idiographic model focuses on a complete, in-depth understanding of a single case (e.g. Why do I not have any children).
+In anthropology, idiographic describes the study of a group, seen as an entity, with specific properties that set it apart from other groups. Nomothetic refers to the use of generalization rather than specific properties in the same context.
+
+
+== References ==
+Cone, J. D. (1986). "Idiographic, nomothetic, and related perspectives in behavioral assessment." In: R. O. Nelson & S. C. Hayes (eds.): Conceptual foundations of behavioral assessment (pp. 111–128). New York: Guilford.
+Millon, Theodore, with Roger D. Davis. (1995). Disorders of Personality: DSM-IV and Beyond, 2nd ed. New York: John Wiley & Sons. ISBN 978-0471011866
+Thomae, H. (1999). "The nomothetic-idiographic issue: Some roots and recent trends." International Journal of Group Tensions, 28(1), 187–215.

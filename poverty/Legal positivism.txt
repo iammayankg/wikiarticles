@@ -1,0 +1,75 @@
+Legal positivism is a school of thought of philosophy of law and jurisprudence, largely developed by eighteenth and nineteenth-century legal thinkers such as Jeremy Bentham and John Austin. However, the most prominent figure in the history of legal positivism is H. L. A. Hart, whose work The Concept of Law caused a fundamental re-thinking of the positivist doctrine and its relationship with the other principal theories of law. In more recent years the central claims of legal positivism have come under attack from Ronald Dworkin.
+Although the positivist position is complex, the central claim of legal positivism is the following:
+"In any legal system, whether a given norm is legally valid, and hence whether it forms part of the law of that system, depends on its sources, not its merits."
+
+
+== Legal validity and the sources of law ==
+In the positivist view, the "source" of a law is the establishment of that law by some socially recognized legal authority. The "merits" of a law are a separate issue: it may be a "bad law" by some standard, but if it was added to the system by a legitimate authority, it is still a law.
+The Stanford Encyclopedia of Philosophy summarizes the distinction between merit and source like so: "The fact that a policy would be just, wise, efficient, or prudent is never sufficient reason for thinking that it is actually the law, and the fact that it is unjust, unwise, inefficient or imprudent is never sufficient reason for doubting it. According to positivism, law is a matter of what has been posited (ordered, decided, practiced, tolerated, etc.); as we might say in a more modern idiom, positivism is the view that law is a social construction."
+Legal positivism does not claim that the laws so identified should be followed or obeyed or that there is value in having clear, identifiable rules (although some positivists may also make these claims). Indeed, the laws of a legal system may be quite unjust, and the state may be quite illegitimate. As a result, there may be no obligation to obey them. Moreover, the fact that a law has been identified by a court as valid provides no guidance as to whether the court should apply it in a particular case. As John Gardner has said, legal positivism is 'normatively inert'; it is a theory of law, not a theory of legal practice, adjudication, or political obligation. Legal positivists believe that intellectual clarity is best achieved by leaving these questions to a separate investigation.
+
+
+== Legal positivism and legal realism ==
+Legal positivism should be distinguished from legal realism and such legal realists. The differences are both analytically and normatively important. Both systems consider that law is a human construct. Unlike the American realists, positivists believe that in many instances the law provides reasonably determinate guidance to its subjects and to judges, at least in trial courts.
+Niklas Luhmann asserts "We can reduce... positive law to a formula, that law is not only posited (that is, selected) through decision, but also is valid by the power of decision (thus contingent and changeable)." However, no positivist has ever asserted that law is made valid by anyone's decision. In Hart's opinion, the validity of law is a matter of the customary and collective practices of the courts. As for the moral validity of law, both positivists and realists maintain that this is a matter of moral principles. 'The power of decision' has no essential role in either, since individual decision rarely suffices to create a social practice of recognition, and it would be implausible to suppose that moral principles are made so by anyone's decision.
+
+
+== History ==
+
+
+=== Jeremy Bentham ===
+
+In English-language philosophy, legal positivism begins with the work of Jeremy Bentham, the utilitarian philosopher. Bentham made a sharp distinction between people he called:
+Expositors - those who explained what the law in practice was; and
+Censors - those who criticised the law in practice and compared it to their notions of what it ought to be.
+The philosophy of law, considered strictly, was to explain the real laws of the expositors, rather than the criticisms of the censors.
+Bentham was also noted for calling natural law "nonsense upon stilts."
+
+
+=== John Austin ===
+
+The distinguishing feature of a legal system is the existence of a sovereign whose authority is recognized by most members of a society, the authority of which is enforced by the use of sanctions, but which is not bound by any human superior. The criterion for validity of a legal rule in such a society is that it has the warrant of the sovereign and will be enforced by the sovereign power and its agents.
+The three basic tenets of Austin's positivism are:
+laws are commands issued by the uncommanded commander, i.e. the sovereign;
+such commands are enforced by sanctions; and
+a sovereign is one who is obeyed by the majority.
+Austin considered the law as commands from a sovereign that are enforced by threat of sanction. In determining 'a sovereign', Austin recognized it is one whom society obeys habitually. This sovereign can be a single person or a collective sovereign such as Parliament, with a number of individuals, with each having various authoritative powers. Austin's theory is also somewhat brief in his explanations of Constitutions, International Law, non-sanctioned rules, or law that gives rights. Insofar as non-sanctioned rules and laws that allow persons to do things, such as contract law, Austin said that failure to obey the rules does result in sanctions; however, such sanctions are in the form of "the sanction of nullity."
+Austin was greatly influenced in his philosophy by Jeremy Bentham.
+
+
+=== Hans Kelsen ===
+
+Kelsen's is considered a very strict and scientifically understood type of legal positivism. It is based on the idea of a Grundnorm, a hypothetical norm on which all subsequent levels of a legal system such as constitutional law and "simple" law are based. For Kelsen, "sovereignty" was a loaded concept: "We can derive from the concept of sovereignty nothing else other than what we have purposely put into its definition."
+His theory has disciples among scholars of public law worldwide. His disciples developed "schools" of thought to extend his theories, such as the Vienna School in Austria and the Brno School in Czechoslovakia. In English-speaking countries, H. L. A. Hart and Joseph Raz are perhaps the most well-known authors who were influenced by Kelsen, though both differed from Kelsen's theories in several respects.
+
+
+=== H. L. A. Hart ===
+
+H. L. A. Hart later addressed Austin. Hart liked Austin's theory of a sovereign, but claimed that Austin's Command Theory failed in several important respects. In the book The Concept of Law, Hart outlined several key points: Among the many ideas developed in this book are:
+A critique of John Austin's theory that law is the command of the sovereign enforced by the threat of punishment.
+A distinction between the internal and external considerations of law and rules, close to (and influenced by) Max Weber's distinction between the sociological and the legal perspectives of law.
+A distinction between primary and secondary legal rules, such that a primary rule governs conduct, such as criminal law and a secondary rules govern the procedural methods by which primary rules are enforced, prosecuted and so on. Hart specifically enumerates three secondary rules; they are:
+
+The Rule of Recognition, the rule by which any member of society may check to discover what the primary rules of the society are. In a simple society, Hart states, the recognition rule might only be what is written in a sacred book or what is said by a ruler. Hart claimed the concept of rule of recognition as an evolution from Hans Kelsen's "Grundnorm", or "basic norm."
+The Rule of Change, the rule by which existing primary rules might be created, altered or deleted.
+The Rule of Adjudication, the rule by which the society might determine when a rule has been violated and prescribe a remedy.
+
+A late reply (1994 Edition) to Ronald Dworkin, who criticized legal positivism in general and especially Hart's account of law in Taking Rights Seriously (1977), A Matter of Principle (1985) and Law's Empire (1986).
+
+
+=== Joseph Raz ===
+
+A pupil of H. L. A. Hart, Raz has been important in continuing Hart's arguments of legal positivism since Hart's death. This included editing a second edition of Hart's 'The Concept of Law', with an additional section including Hart's responses to other philosophers' criticisms of his work.
+Raz has also argued, contrary to Hart, that the validity of a law can never depend on its morality.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==
+Internet Encyclopedia of Philosophy entry by Kenneth Einar Himma
+Stanford Encyclopedia of Philosophy entry by Leslie Green
+Daniel Z. Epstein (2007). SSRN.com, Law's 'I'

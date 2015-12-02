@@ -1,0 +1,33 @@
+In criminology, the Positivist School has attempted to find scientific objectivity for the measurement and quantification of criminal behavior. As the scientific method became the major paradigm in the search for knowledge, the Classical School's social philosophy was replaced by the quest for scientific laws that would be discovered by experts. It is divided into Biological, Psychological and Social.
+
+
+== Biological positivism ==
+If Charles Darwin's Theory of evolution was scientific as applied to animals, the same approach should be applied to "man" as an "animal".
+
+
+=== Physical characteristics ===
+Historically, medicine became interested in the problem of crime, producing studies of physiognomy (see Johann Kaspar Lavater and Franz Joseph Gall) and the science of phrenology which linked attributes of the mind to the shape of the brain as reveal through the skull. These theories were popular because they absolved society and any failures of its government of responsibility for criminal behavior. The problem lay in the propensities of individual offenders who were biologically distinguishable from law-abiding citizens. This theme was amplified by the Italian School and through the writings of Cesare Lombroso (see L'Uomo Delinquente, The Criminal Man and Anthropological criminology) which identified physical characteristics associated with degeneracy demonstrating that criminals were atavistic throwbacks to an earlier evolutionary form. Charles Goring (1913) failed to corroborate the characteristics but did find criminals shorter, lighter and less intelligent, i.e. he found criminality to be "normal" rather than "pathological" (cf the work of Hooton found evidence of biological inferiority). William Sheldon identified three basic body or somatotypes (i.e. endomorphs, mesomorphs, and ectomorphs), and introduced a scale to measure where each individual was placed. He concluded that delinquents tended to mesomorphy. Modern research might link physical size and athleticism and aggression because physically stronger people have the capacity to use violence with less chance of being hurt in any retaliation. Otherwise, such early research is no longer considered valid. The development of genetics has produced another potential inherent cause of criminality, with chromosome and other genetic factors variously identified as significant to select heredity rather than environment as the cause of crime (see: nature versus nurture). However, the evidence from family, twin, and adoption studies shows no conclusive empirical evidence to prefer either cause.
+
+
+=== Intelligence ===
+There are a number of reputable studies that demonstrate a link between lower intelligence and criminality. But the evidence is equivocal because studies among the prison population simply test those criminals actually caught, which might be because they failed to plan the crimes properly or because they were unable to resist interrogation techniques and admitted their crimes. If their intelligence is poor, they are also less likely to be deterred.
+
+
+=== Other medical factors ===
+Testosterone and adrenaline have been associated with aggression and violence, and the arousal and excited state associated with them. The excessive consumption of alcohol can lower blood sugar levels and lead to aggressiveness, and the use of chemicals in foods and drinks has been associated with hyper-activity and some criminal behaviour.
+
+
+== Psychological positivism ==
+Sigmund Freud divided the personality into the id, the primitive biological drives, the superego, the internalised values, and the ego, memory, perception, and cognition. He proposed that criminal behaviour is either the result of mental illness or a weak conscience. John Bowlby proposed an attachment theory in which maternal deprivation was a factor that might lead to delinquency. This has been discounted in favour of general privation (Michael Rutter: 1981) or "broken homes" (Glueck: 1950) in which absentee or uncaring parents tend to produce badly behaved children.
+Hans Eysenck (1987) stated that, "... certain types of personality may be more prone to react with anti-social or criminal behaviour to environmental factors of one kind or another." He proposed three dimensions of personality: introversion/extroversion, neuroticism, and psychoticism. For these purposes, personality is the settled framework of reference within which a person addresses the current situation and decides how to behave. Some traits will be dominant at times and then in a balanced relationship to other traits, but each person's traits will be reasonably stable and predictable (see Marshall: 1990 and Seidman: 1994). Hence, once conditioned into a criminal lifestyle, the relevant personality traits are likely to persist until a countervailing conditioning force re-establishes normal social inhibitions. Some forms of criminal behavior such as sexual offences, have been medicalised with treatment offered alongside punishment.
+
+
+== Social positivism ==
+In general terms, positivism rejected the Classical Theory's reliance on free will and sought to identify positive causes that determined the propensity for criminal behaviour. Rather than biological or psychological causes, this branch of the School identifies "society" as the cause. Hence, environmental criminology and other sub-schools study the spatial distribution of crimes and offenders (see Adolphe Quetelet, who discovered that crimes rates are relatively constant, and the Chicago School which, under the leadership of Robert E. Park, viewed the city as a form of superorganism, zoned into areas engaged in a continuous process of invasion, dominance, and succession). Meanwhile, Émile Durkheim identified society as a social phenomenon, external to individuals, with crime a normal part of a healthy society. Deviancy was nothing more than "boundary setting," pushing to determine the current limits of morality and acceptability.
+
+
+== References ==
+Goring, Charles. (1913). The English Convict: A Statistical Study. London: HMSO.
+Hooton, Earnest A. The American Criminal
+Marshall, W. L.; Laws, D. R. & Barbaree, H. E. (eds.), (1990). Handbook of Sexual Assault: Issues, Theories, and Treatment of the Offender, New York, NY: Plenum Press.
+Seidman, B. T., Marshall, W. L., Hudson, S., & Robertson, P. J. (1994). "An examination of intimacy and loneliness in sex offenders". Journal of Interpersonal Violence, 9, 518-534.

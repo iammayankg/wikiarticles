@@ -1,0 +1,33 @@
+The McCloskey critique refers to a critique of post-1940s "official modernist" methodology in economics, inherited from logical positivism in philosophy. The critique maintains that the methodology neglects how economics can be done, is done, and should be done to advance the subject. Its recommendations include use of good rhetorical devices for "disciplined conversation."
+
+
+== Substance ==
+Deirdre McCloskey's 1986 book The Rhetoric of Economics argues that "The Mathematization of Economics Was a Good Idea", but that "economic modernism" took equilibrium model-building and econometrics (especially "existence-theorem" mathematics, and statistical significance) "absurdly" far. Roughly speaking McCloskey wants economics to make interesting, new, and true statements about the real world, and argues that proving the hypothetical possibility of an effect within an analytical framework is not a constructive way of doing this. Although the conventional way of connecting the economic model with the world is through econometric analysis, she cites many examples in which professors of econometrics were able to use the same data to both prove and disprove the applicability of a model's conclusions. She argues that the vast efforts expended by economists on analytical equations is essentially wasted effort.
+In "Ask what the boys in the Sandbox Will Have", McCloskey identified the economists whom she accuses of leading economics astray in the 1940s:
+Paul Samuelson: In her view, Samuelson wanted economics to resemble more closely the hard sciences (especially physics), and elevated the "vice" of "blackboard proofs" and other mathematical (but not necessarily scientific) values to accomplish this.
+Lawrence Klein was the econometrician she says is responsible for the modern "mistake" of confusing statistical significance with scientific significance.
+Jan Tinbergen she considers responsible for the third vice of social engineering, which is based on the other two. McCloskey says that this presumes to know more than it can, and raised the prestige of the mathematical "modernist methodology" above other ways of performing economics.
+Her complaint against the modern profession, and against the Bank of Sweden Prize in Economic Sciences in Memory of Alfred Nobel winners above, has provoked a strong defense from the economic mainstream. It has led to debates with such figures as Kenneth Arrow, who vigorously support the "Samuelson" approach, and argue that the quantity of analytical mathematical models in modern economics is a critical requirement for progress. However, McCloskey acknowledges the virtues as being born from each man's "genius", and rather blames the vices as being created not by these three Nobel economists, but by their students and their students' students, including herself.
+
+
+== The diagnosis and solution ==
+McCloskey says that most economists when they write are "tendentious", assuming that they know already, and concentrating on a high standard of mathematical proof rather than a "scholarly" accumulation of relevant, documented facts about the real world. The advice she offers colleagues here is to spend more time in the archives, and write more heavily researched papers from specific observations in the real world (she argues that this is the norm in the natural sciences on which economics believes it is modelling itself, but that most economics practitioners actually base their methodology more closely on pure mathematics).
+Since she says: "No one really believes a scientific assertion in economics based on statistical significance" the solution she proposes to establishing cause and effect in economics is "calibrated simulation". Calibrated simulation relies on measurement and numerical techniques (such as Monte Carlo methods) to test the robustness of its predictions, without requiring a closed-form solution proving that the postulated relationship will always hold (or will be reached in "equilibrium", or be impossible). As an illustration, she contrasts the Babylonian and Greek "rhetoric" used to back up the claim that the square on the long side of every right angle triangle has the same area as the sum of squares on the other two sides: While Greek geometry found a 'universal proof', the Babylonian engineers simply measured the sides of a thousand right triangular stones, and applied the heuristic that since all of these obeyed the relationship so would the rest. McCloskey believes that the Babylonian approach is more applicable to economics, and that Moore's Law and advances in modeling software will soon make it easier to use and understand than the Greek approach.
+In Calibrated Simulation is Storytelling she writes that one way to describe scientific theories is how mechanically mathematical they are: at the one end lie such hypotheses as Newtonian celestial mechanics which can be reduced entirely to equations - at the other are important works such as The Origin of Species which are "entirely historical and devoid of mathematical models". McCloskey says that economics would benefit from recalibrating its output within that spectrum to the more historical, "narrative" analysis.
+
+
+== See also ==
+Epistemological anarchism, Paul Feyerabend's cricism of fixed methodology in the natural sciences, is often compared with McCloskey's
+Economic history
+
+
+== Notes ==
+
+
+== References ==
+1983. McCloskey, D.N. "The Rhetoric of Economics," Journal of Economic Literature 21(2), pp. 481–517. PDF enlargeable by pressing + button. Also via JSTOR.
+1986 McCloskey, D.N. The Rhetoric of Economics, University of Wisconsin Press; 2nd ed. (1998) ISBN 0-299-15814-4 (First ed. written as Donald McCloskey, leading to occasional confusion in pronouns.) 2nd ed. preview.
+1995 Mäki, U. Diagnosing McCloskey, and McCloskey, D.N. Modern Epistemology Against Analytic Philosophy: A Reply to Mäki, Journal of Economic Literature, XXXIII(3) September (1300-1323)
+1995 McCloskey, D.N. Calibrated Simulation is Storytelling Scientific American (reprinted as Simulate, Simulate; Calibrate, Calibrate in How to be Human*)
+1996 McCloskey, D.N. Ask what the boys in the Sandbox Will Have, Times Higher Education Supplement (London), reprinted in the introduction to The Vices of Economists-The Virtues of the Bourgeoisie
+2000 McCloskey, D.N. How to be Human* : *Though an Economist, University of Michigan Press, ISBN 0-472-06744-3 (essays for the economic layman on many subjects from Eastern Economic Journal, and her analysis of the profession's treatment of her critique.)

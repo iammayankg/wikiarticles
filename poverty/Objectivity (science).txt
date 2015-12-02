@@ -1,0 +1,60 @@
+Objectivity in science is a value that informs how science is practiced and how scientific truths are discovered. It is the idea that scientists, in attempting to uncover truths about the natural world, must aspire to eliminate personal biases, a priori commitments, emotional involvement, etc. Objectivity is often attributed to the property of scientific measurement, as the accuracy of a measurement can be tested independent from the individual scientist who first reports it. It is thus intimately related to the aim of testability and reproducibility. To be properly considered objective, the results of measurement must be communicated from person to person, and then demonstrated for third parties, as an advance in understanding of the objective world. Such demonstrable knowledge would ordinarily confer demonstrable powers of prediction or technological construction.
+Problems arise from not understanding the limits of objectivity in scientific research, especially when results are generalized. Given that the object selection and measurement process are typically subjective, when results of that subjective process are generalized to the larger system from which the object was selected, the stated conclusions are necessarily biased.
+Objectivity should not be confused with scientific consensus. Scientists may agree at one point in time but later discover that this consensus represented a subjective point of view.
+
+
+== History ==
+Objectivity in science appeared in the mid-nineteenth century. In the early eighteenth century, before objectivity, there existed an epistemic virtue in science which Lorraine Daston and Peter Galison have called truth-to-nature. This ideal was practiced by Enlightenment naturalists and scientific atlas-makers and involved active attempts to eliminate any idiosyncrasies in their representations of nature in order to create images thought best to represent “what truly is.” Judgment and skill were deemed necessary in order to determine the “typical,” “characteristic,” “ideal” or “average.” In practicing truth-to-nature naturalists did not seek to depict exactly what was seen; rather, they sought a reasoned image.
+In the latter half of the nineteenth century objectivity in science was born when a new practice of mechanical objectivity appeared. “‘Let nature speak for itself’ became the watchword of a new brand of scientific objectivity.” It was at this time that idealized representations of nature, which were previously seen as a virtue, were now seen as a vice. Scientists began to see it as their duty to actively restrain themselves from imposing their own projections onto nature. The aim was to liberate representations of nature from subjective, human interference and in order to achieve this scientists began using self-registering instruments, cameras, wax molds and other technological devices.
+In the twentieth century trained judgment supplemented mechanical objectivity as scientists began to recognize that, in order for images or data to be of any use, scientists needed to be able to see scientifically; that is, to interpret images or data and identify and group them according to particular professional training, rather than to simply depict them mechanically. Objectivity now came to involve a combination of trained judgment and mechanical objectivity.
+
+
+== Objectivity in measurement ==
+
+
+== Objectivity in experimental set-up and interpretation ==
+Another methodological aspect is the avoidance of bias, which can involve cognitive bias, cultural bias, or sampling bias. Methods for avoiding or overcoming such biases include random sampling and double-blind trials.
+
+
+== Deliberate misrepresentation ==
+Next to unintentional but possibly systematic error, there is always the possibility of deliberate misrepresentation of scientific results, whether for gain, fame, or ideological motives. When such cases of scientific fraud come to light, they usually give rise to an academic scandal, but it is unknown how much fraud goes undiscovered. However, for important results, other groups will try to repeat the experiment. If they consistently fail, they will bring these negative results into the scientific debate.
+
+
+== The role of the scientific community ==
+Various scientific processes, such as peer reviews, the discussions at scientific conferences, and other meetings where scientific results are presented, are part of a social process whose purpose is to strengthen the objective aspect of the scientific method.
+
+
+== Critiques of scientific objectivity ==
+A critical argument on scientific objectivity and positivism is that all science has a degree of interpretivism. In the 1920s, Percy Bridgman's operationalism was centered in such recognition.
+
+
+=== Thomas Kuhn's The Structure of Scientific Revolutions ===
+Based on a historical review of the development of certain scientific theories in his book, The Structure of Scientific Revolutions, scientist and historian Thomas Kuhn raised some philosophical objections to claims of the possibility of scientific understanding being truly objective. In Kuhn's analysis, scientists in different disciplines organise themselves into de facto paradigms, within which scientific research is done, junior scientists are educated, and scientific problems are determined.
+When observational data arises which appears to contradict or falsify a given scientific paradigm, scientists within that paradigm have not, historically, immediately rejected the paradigm in question (as Sir Karl Popper's philosophical theory of falsificationism would have them do), but instead they have gone to considerable lengths to resolve the apparent conflict without rejecting the paradigm. Through ad hoc variations to the theory and sympathetic interpretation of the data, supporting scientists will resolve the apparent conundrum. In extreme cases, they may even ignore the data altogether.
+Thus, Kuhn argues, the failure of a scientific revolution is not an objectively measurable, deterministic event, but a far more contingent shift in social order. A paradigm will go into a crisis when a significant portion of the scientists working in the field lose confidence in the paradigm, regardless of their reasons for doing so. The corollary of this observation is that the primacy of a given paradigm is similarly contingent on the social order amongst scientists at the time it gains ascendancy.
+Kuhn's theory has been criticised by scientists such as Richard Dawkins and Alan Sokal as presenting a profoundly relativist view of scientific progress. In a postscript to the third edition of his book, Kuhn denied being a relativist.
+
+
+=== Donna Haraway's "situated knowledges" ===
+In "Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective" (1988) Donna Haraway argues that when we talk about objectivity in science and philosophy, traditionally we understand it as a kind of disembodied, transcendent "conquering gaze from nowhere," in which the subject is split apart, distanced from and set above the object of inquiry. She argues that this kind of objectivity is impossible to achieve; it is "an illusion, a god trick," and instead demands a re-thinking of objectivity in such a way that, while still striving for "faithful accounts of the real world," we must also acknowledge and make explicit our perspective and positioning within the world. She calls this new kind of knowledge-making "situated knowledges." Objectivity, she argues, "turns out to be about particular and specific embodiment and definitely not about the false vision promising transcendence of all limits and responsibility." This new objectivity, then, "allows us to become answerable for what we learn how to see." Thus Haraway is not only critiquing the idea that objectivity, as we have long understood it, is possible; she is also arguing that if we continue to approach knowledge-making in this way then we wash our hands of any responsibility for our truth claims. In contrast, she is arguing, approaching knowledge-making from an embodied perspective forces us to take responsibility for our truth claims.
+
+
+== Footnotes ==
+
+
+== References ==
+Dawkins, Richard. (2003). A Devil's Chaplain: Selected essays. Phoenix.
+Kuhn, Thomas. (1962). The structure of scientific revolutions. University of Chicago Press, 3rd Ed., 1996.
+Latour, Bruno. (1987). Science in Action. Cambridge, Mass: Harvard University Press.
+Polanyi, M. (1958). Personal knowledge, towards a post-critical philosophy. London: Routledge.
+Sokal, Alan & Bricmont, Jean. (1999). Intellectual Impostures: Postmodern philosophers’ abuse of science. London: Profile Books.
+
+
+== Further reading ==
+Gaukroger, S. (2001). Objectivity, History of. IN: Smelser, N. J. & Baltes, P. B. (eds.) International Encyclopedia of the Social and Behavioral Sciences. Oxford. (pp. 10785– 10789).
+Porter, Theodore M. (1995). Trust in Numbers: The Pursuit of Objectivity in Science and Public Life. Princeton University Press.
+Restivo, Sal. (20XX). Science, Society, and Values: Toward a Sociology of Objectivity. Lehigh University Press.
+
+
+== External links ==
+Scientific Objectivity — entry by Julian Reiss and Jan Sprenger in The Stanford Encyclopedia of Philosophy.

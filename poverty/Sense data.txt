@@ -1,0 +1,38 @@
+In the philosophy of perception, the theory of sense data was a popular view held in the early 20th century by philosophers such as Bertrand Russell, C. D. Broad, H. H. Price, A.J. Ayer, and G.E. Moore. Sense data are supposedly mind-dependent objects whose existence and properties are known directly to us in perception. They are supposed to be unanalyzed experiences inside the mind, which appear to subsequent more advanced mental operations exactly as they are.
+Sense data are often placed in a time and/or causality series such that they occur after the potential unreliability of our perceptual systems, but before the possibility of errors during higher-level conceptual analysis, so are incorrigible. They are thus distinct from the 'real' objects in the world outside the mind, about whose existence and properties we often can be mistaken.
+Talk of sense-data has since been largely replaced by talk of the closely related qualia. The formulation the given is also closely related. None of these terms has a single coherent and widely agreed-upon definition, so their exact relationships are unclear. One of the greatest troubling aspects to 20th century theories of sense data is its unclear rubric nature.
+
+
+== ExamplesEdit ==
+Bertrand Russell heard the sound of his knuckles rapping his writing table, felt the table's hardness and saw its apparent colour (which he knew 'really' to be the brown of wood) change significantly under shifting lighting conditions.
+H. H. Price found that although he was able to doubt the presence of a tomato before him, he was unable to doubt the existence of his red, round and 'somewhat bulgy' sense-datum and his consciousness of this sense-datum.
+When we twist a coin it 'appears' to us as elliptical. This elliptical 'appearance' cannot be identical with the coin (for the coin is perfectly round), and is therefore a sense datum, which somehow represents the round coin to us.
+Consider a reflection which appears to us in a mirror. There is nothing corresponding to the reflection in the world external to the mind (for our reflection appears to us as the image of a human being apparently located inside a wall, or a wardrobe). The appearance is therefore a mental object, a sense datum.
+
+
+== The nature of sense dataEdit ==
+The idea that our perceptions are based on sense data is supported by a number of arguments. The first is popularly known as the Argument From Illusion. From a subjective experience of perceiving something, it is theoretically impossible to distinguish perceiving something which exists independently of oneself from an hallucination or mirage. Thus, we do not have any direct access to the outside world that would allow us to reliably distinguish it from an illusion that caused identical experiences. Since (the argument claims) we must have direct access to some specific experiential entity in order to have the percepts that we do, and since this entity is not identical to the real object itself, there must be some sort of internal mental entity somehow correlated to the real world, about which we afterwards have perceptions, make judgments, etc. This entity is a sense-datum.
+
+
+== Abstract sense dataEdit ==
+Abstract sense data is sense data without human judgment, sense data without human conception and yet evident to the senses, found in aesthetic experience. As opposed to; imaginary sense data which is more like a quasi substance and does not really exist; Imaginary sense data is abstract sense data as presented from the aestheticized senses to consciousness; i.e. imagination, power of reason and inner subjective states of self-awareness including: emotion, self-reflection, ego, and theory. The theory of abstract and imaginary sense data operates on the tacit definition of imagination as “a power mediating between the senses and the reason by virtue of representing perceptual objects without their presence”. Imaginary sense data are ‘imaginary’ per Immanuel Kant's analysis that imagination is the primary faculty of mind capable of synthesizing input from the senses into a world of objects.     Abstract and imaginary sense data are key to understanding abstract art's relationship with the conscious and unconscious mind.
+
+
+== CriticismsEdit ==
+Sense data theories have been criticised by philosophers such as J.L. Austin and Wilfrid Sellars (Sellars diagnosing in them The Myth of the Given), and more recently by Kevin O'Regan, Alva Noë and Daniel Dennett. Much of the early criticism may arise from a claim about sense data that was held by philosophers such as A.J. Ayer. This was that sense data really do have the properties they appear to have. Thus, in this account of sense data, the sense data that are responsible for the experience of a red tomato really "are red".
+In one sense this is ridiculous, since there is nothing red in a brain to act as a sense datum. However, in another sense it is perfectly consistent—in the sense that the data "are red" when experienced directly, even though the physical processes of perception may not appear red if they were experienced in a contrived and inappropriately indirect way, such as by examining the brain of the experiencer with scientific instruments.
+On some theories, the tomato itself is not red except in the eyes of a red-seeing being. Thus when one says that a neural state is or is not 'red' without referring the judgement of redness to the owner of the neurons concerned, there is an assumption that things can have innate appearances without reference to perceivers—which is implicitly denied by the sense data theory. Thus the criticism that sense data cannot really be red is made from a position of presupposition inconsistent with a theory of sense data—so it is bound to seem to make the theory seem wrong. More recent opposition to the existence of sense data appears to be simply regression to naïve realism.
+By objectifying and partially externalising a Subject's basic experiences of the world as 'sense-data', positing their necessity for perception and higher order thinking and installing them permanently between the perceiving Subject and the 'real world', sense-data theories tend towards Solipsism. Attempts to repair this must avoid both obscurantism and over-dependence on psychology (and therefore empiricism, and potentially circularity).
+
+
+== See alsoEdit ==
+Logical positivism
+Phenomenalism
+Empirical evidence
+
+
+== ReferencesEdit ==
+
+
+== External linksEdit ==
+Sense data entry in the Internet Encyclopedia of Philosophy

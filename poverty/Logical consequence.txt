@@ -1,0 +1,98 @@
+Logical consequence (also entailment) is one of the most fundamental concepts in logic. It is the relationship between statements that holds true when one logically "follows from" one or more others. A valid logical argument is one in which the conclusions follow from its premises, and its conclusions are consequences of its premises. The philosophical analysis of logical consequence involves asking, 'in what sense does a conclusion follow from its premises?' and 'what does it mean for a conclusion to be a consequence of premises?' All of philosophical logic can be thought of as providing accounts of the nature of logical consequence, as well as logical truth.
+Logical consequence is taken to be both necessary and formal with examples explicated using models and proofs. A sentence is said to be a logical consequence of a set of sentences, for a given language, if and only if, using logic alone (i.e. without regard to any interpretations of the sentences) the sentence must be true if every sentence in the set were to be true.
+Logicians make precise accounts of logical consequence with respect to a given language  by constructing a deductive system for , or by formalizing the intended semantics for . Alfred Tarski highlighted three salient features for which any adequate characterization of logical consequence needs to account: 1) that the logical consequence relation relies on the logical form of the sentences involved, 2) that the relation is a priori, i.e. it can be determined whether or not it holds without regard to sense experience, and 3) that the relation has a modal component.
+
+
+== Formal accounts ==
+The most widely prevailing view on how to best account for logical consequence is to appeal to formality. This is to say that whether statements follow from one another logically depends on the structure or logical form of the statements without regard to the contents of that form.
+Syntactic accounts of logical consequence rely on schemes using inference rules. For instance, we can express the logical form of a valid argument as "All  are . All  are . Therefore, All  are ." This argument is formally valid, because every instance of arguments constructed using this scheme are valid.
+This is in contrast to an argument like "Fred is Mike's brother's son. Therefore Fred is Mike's nephew." Since this argument depends on the meanings of the words "brother", "son", and "nephew", the statement "Fred is Mike's nephew" is a so-called material consequence of "Fred is Mike's brother's son," not a formal consequence. A formal consequence must be true in all cases, however this is an incomplete definition of formal consequence, since even the argument " is 's brother's son, therefore  is 's nephew" is valid in all cases, but is not a formal argument.
+
+
+== A priori property of logical consequence ==
+If you know that  follows logically from  no information about the possible interpretations of  or  will affect that knowledge. Our knowledge that  is a logical consequence of  cannot be influenced by empirical knowledge. Deductively valid arguments can be known to be so without recourse to experience, so they must be knowable a priori. However, formality alone does not guarantee that logical consequence is not influenced by empirical knowledge. So the a priori property of logical consequence is considered to be independent of formality.
+
+
+== Proofs and models ==
+The two prevailing techniques for providing accounts of logical consequence involve expressing the concept in terms of proofs and via models. The study of the syntactic consequence (of a logic) is called (its) proof theory whereas the study of (its) semantic consequence is called (its) model theory.
+
+
+=== Syntactic consequence ===
+
+A formula  is a syntactic consequence within some formal system  of a set  of formulas if there is a formal proof in  of  from the set .
+
+Syntactic consequence does not depend on any interpretation of the formal system.
+
+
+=== Semantic consequence ===
+
+A formula  is a semantic consequence within some formal system  of a set of statements 
+
+if and only if there is no model  in which all members of  are true and  is false. Or, in other words, the set of the interpretations that make all members of  true is a subset of the set of the interpretations that make  true.
+
+
+== Modal accounts ==
+Modal accounts of logical consequence are variations on the following basic idea:
+   is true if and only if it is necessary that if all of the elements of  are true, then  is true.
+Alternatively (and, most would say, equivalently):
+   is true if and only if it is impossible for all of the elements of  to be true and  false.
+Such accounts are called "modal" because they appeal to the modal notions of logical necessity and logical possibility. 'It is necessary that' is often expressed as a universal quantifier over possible worlds, so that the accounts above translate as:
+   is true if and only if there is no possible world at which all of the elements of  are true and  is false (untrue).
+Consider the modal account in terms of the argument given as an example above:
+All frogs are green.
+Kermit is a frog.
+Therefore, Kermit is green.
+The conclusion is a logical consequence of the premises because we can't imagine a possible world where (a) all frogs are green; (b) Kermit is a frog; and (c) Kermit is not green.
+
+
+=== Modal-formal accounts ===
+Modal-formal accounts of logical consequence combine the modal and formal accounts above, yielding variations on the following basic idea:
+   if and only if it is impossible for an argument with the same logical form as / to have true premises and a false conclusion.
+
+
+=== Warrant-based accounts ===
+The accounts considered above are all "truth-preservational," in that they all assume that the characteristic feature of a good inference is that it never allows one to move from true premises to an untrue conclusion. As an alternative, some have proposed "warrant-preservational" accounts, according to which the characteristic feature of a good inference is that it never allows one to move from justifiably assertible premises to a conclusion that is not justifiably assertible. This is (roughly) the account favored by intuitionists such as Michael Dummett.
+
+
+=== Non-monotonic logical consequence ===
+
+The accounts discussed above all yield monotonic consequence relations, i.e. ones such that if  is a consequence of , then  is a consequence of any superset of . It is also possible to specify non-monotonic consequence relations to capture the idea that, e.g., 'Tweety can fly' is a logical consequence of
+{Birds can typically fly, Tweety is a bird}
+but not of
+{Birds can typically fly, Tweety is a bird, Tweety is a penguin}.
+For more on this, see Belief revision#Non-monotonic inference relation.
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== Resources ==
+Anderson, A.R.; Belnap, N.D., Jr. (1975), Entailment 1, Princeton, NJ: Princeton .
+Barwise, Jon; Etchemendy, John (2008), Language, Proof and Logic, Stanford: CSLI Publications .
+Brown, Frank Markham (2003), Boolean Reasoning: The Logic of Boolean Equations  1st edition, Kluwer Academic Publishers, Norwell, MA. 2nd edition, Dover Publications, Mineola, NY, 2003.
+Davis, Martin, (editor) (1965), The Undecidable, Basic Papers on Undecidable Propositions, Unsolvable Problems And Computable Functions, New York: Raven Press . Papers include those by Gödel, Church, Rosser, Kleene, and Post.
+Dummett, Michael (1991), The Logical Basis of Metaphysics, Harvard University Press .
+Edgington, Dorothy (2001), Conditionals, Blackwell  in Lou Goble (ed.), The Blackwell Guide to Philosophical Logic.
+Edgington, Dorothy (2006), Conditionals  in Edward N. Zalta (ed.), The Stanford Encyclopedia of Philosophy.
+Etchemendy, John (1990), The Concept of Logical Consequence, Harvard University Press .
+Goble, Lou, ed. (2001), The Blackwell Guide to Philosophical Logic, Blackwell .
+Hanson, William H (1997), "The concept of logical consequence", The Philosophical Review 106  365–409.
+Hendricks, Vincent F. (2005), Thought 2 Talk: A Crash Course in Reflection and Expression, New York: Automatic Press / VIP, ISBN 87-991013-7-8 
+Planchette, P. A. (2001), Logical Consequence  in Goble, Lou, ed., The Blackwell Guide to Philosophical Logic. Blackwell.
+Quine, W.V. (1982), Methods of Logic, Cambridge, MA: Harvard University Press  (1st ed. 1950), (2nd ed. 1959), (3rd ed. 1972), (4th edition, 1982).
+Shapiro, Stewart (2002), Necessity, meaning, and rationality: the notion of logical consequence  in D. Jacquette, ed., A Companion to Philosophical Logic. Blackwell.
+Tarski, Alfred (1936), On the concept of logical consequence  Reprinted in Tarski, A., 1983. Logic, Semantics, Metamathematics, 2nd ed. Oxford University Press. Originally published in Polish and German.
+A paper on 'implication' from math.niu.edu, Implication
+A definition of 'implicant' AllWords
+Ryszard Wójcicki (1988). Theory of Logical Calculi: Basic Theory of Consequence Operations. Springer. ISBN 978-90-277-2785-5. 
+
+
+== External links ==
+Logical consequence entry in the Stanford Encyclopedia of Philosophy
+Logical consequence at the Indiana Philosophy Ontology Project
+Logical consequence entry in the Internet Encyclopedia of Philosophy
+Logical consequence at PhilPapers
+Hazewinkel, Michiel, ed. (2001), "Implication", Encyclopedia of Mathematics, Springer, ISBN 978-1-55608-010-4
