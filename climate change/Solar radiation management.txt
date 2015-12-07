@@ -1,0 +1,105 @@
+Solar radiation management (SRM) projects (proposed and theoretical) are a type of climate engineering which seek to reflect sunlight and thus reduce global warming. Proposed examples include the creation of stratospheric sulfate aerosols. Their principal advantages as an approach to climate engineering is the speed with which they can be deployed and become fully active, their potential low financial cost, and the reversibility of their direct climatic effects. Solar radiation management projects could, for example, be used as a temporary response while levels of greenhouse gases can be brought under control by greenhouse gas remediation techniques. They would not reduce greenhouse gas concentrations in the atmosphere, and thus do not address problems such as ocean acidification caused by excess carbon dioxide (CO2). By comparison, other climate engineering techniques based on greenhouse gas remediation, such as ocean iron fertilization, need to sequester the anthropogenic carbon excess before any reversal of global warming would occur.
+
+
+== BackgroundEdit ==
+Climate engineering projects have been proposed in order to reduce global warming. The effect of rising greenhouse gas concentrations in the atmosphere on global climate is a warming effect on the planet. By modifying the albedo of the Earth's surface, or by preventing sunlight reaching the Earth by using a solar shade, this warming effect can be cancelled out — although the cancellation is imperfect, with regional discrepancies remaining.
+Therefore, solar radiation management, or albedo modification, is considered to be a potential option for addressing climate change. As the National Academy of Sciences states in its 2015 report: “The two main options for responding to the risks of climate change involve mitigation—reducing and eventually eliminating human-caused emissions of CO2 and other greenhouse gases (GHGs)—and adaptation—reducing the vulnerability of human and natural systems to changes in climate. A third potentially viable option, currently under development but not yet widely deployed, is carbon dioxide removal (CDR) from the atmosphere accompanied by reliable sequestration. A fourth, more speculative family of approaches called albedo modification seeks to offset climate warming by greenhouse gases by increasing the amount of sunlight reflected back to space.” In this context, solar radiation management is widely viewed as a complement, not a substitute, to climate change mitigation and adaptation efforts. As The Royal Society concluded in its 2009 report: “Geoengineering methods are not a substitute for climate change mitigation, and should only be considered as part of a wider package of options for addressing climate change.” Or put another way: “The safest and most predictable method of moderating climate change is to take early and effective action to reduce emissions of greenhouse gases. No geoengineering method can provide an easy or readily acceptable alternative solution to the problem of climate change. Geoengineering methods could however potentially be useful in future to augment continuing efforts to mitigate climate change by reducing emissions, and so should be subject to more detailed research and analysis.”
+The phenomenon of global dimming is widely known, and is not necessarily a climate engineering technique. It already occurs under current conditions, due to aerosols caused by pollution, or caused naturally as a result of volcanoes and major forest fires. However, its deliberate manipulation is a tool of the geoengineer.
+By intentionally changing the Earth's albedo, or reflectivity, scientists propose that we could reflect more heat back out into space, or intercept sunlight before it reaches the Earth through a literal shade built in space. A 2% albedo increase would roughly halve the effect of CO2 doubling.
+The National Academy of Sciences describes several of the potential benefits and risks of solar radiation management: “Modeling studies have shown that large amounts of cooling, equivalent in scale to the predicted warming due to doubling the CO2 concentration in the atmosphere, can be produced by the introduction of tens of millions of tons of aerosols into the stratosphere. …Preliminary modeling results suggest that albedo modification may be able to counter many of the damaging effects of high greenhouse gas concentrations on temperature and the hydrological cycle and reduce some impacts to sea ice. Models also strongly suggest that the benefits and risks will not be uniformly distributed around the globe.”
+The applicability of many techniques listed here has not been comprehensively tested. Even if the effects in computer simulation models or of small-scale interventions are known, there may be cumulative problems such as ozone depletion, which become apparent only from large scale experiments.
+Various small-scale experiments have been carried out on techniques such as cloud seeding, increasing the volume of stratospheric sulfate aerosols and implementing cool roof technology.
+As early as 1974, Russian expert Mikhail Budyko suggested that if global warming became a problem, we could cool down the planet by burning sulfur in the stratosphere, which would create a haze. Paul Crutzen suggested that this would cost 25 to 50 billion dollars per year.
+A preliminary study by Edward Teller and others in 1997 presented the pros and cons of various relatively "low-tech" proposals to mitigate global warming through scattering/reflecting sunlight away from the Earth via insertion of various materials in the upper stratosphere, low earth orbit, and L1 locations.
+
+
+== LimitationsEdit ==
+As well as the imperfect cancellation of the climatic effect of greenhouse gases, there are other significant problems with solar radiation management as a form of climate engineering; not least of these are effects on the global hydrological cycle and the inability of such techniques to reduce ocean acidification.
+Particular to solar radiation management, a risk of abrupt cessation exists. If SRM were to abruptly stop while masking a high degree of warming, the climate would rapidly warm. This would cause a sudden rise in global temperatures towards levels which would have existed without the use of the climate engineering technique. The rapid rise in temperature may lead to more severe consequences than a gradual rise of the same magnitude.
+SRM has been suggested to control regional climate, but precise control over the geographical boundaries of the effect is not possible.
+SRM is temporary in its effect, and thus and long-term restoration of the climate would rely on long-term SRM, unless carbon dioxide removal was subsequently used. However, short-term SRM programs are potentially beneficial.
+Most of the information on solar radiation management is from models and computer simulations. The actual results may differ from the predicted effect.
+
+
+== Atmospheric projectsEdit ==
+These projects seek to modify the atmosphere, either by enhancing naturally occurring stratospheric aerosols, or by using artificial techniques such as reflective balloons.
+
+
+=== Stratospheric aerosolsEdit ===
+
+Injecting reflective aerosols into the stratosphere is is the proposed solar radiation management method that has received the most sustained attention. This technique could more much more than 3.7 W/m2 of globally averaged negative forcing, which is sufficient to entirely offset the warming caused by a doubling of CO2, which is a common benchmark for assessing future climate scenarios Sulfate is the most commonly proposed aerosol for climate engineering, since there is a good natural analogue with (and evidence from) volcanic eruptions. Explosive volcanic eruptions inject large amounts of sulfur dioxide gas into the stratosphere, which form sulfate aerosol and cool the planet. Alternative materials such as using photophoretic particles, titaniun dioxide, and diamond have been proposed. Delivery could be achieved using artillery, aircraft (such as the high-flying F15-C) or balloons. Broadly speaking, stratospheric aerosol injection is seen as a relatively more credible climate engineering technique, although one with potential major risks and challenges for its implementation. Risks include changes in precipitation and, in the case of sulfur, possible ozone depletion.
+
+
+=== Cloud reflectivity enhancementEdit ===
+
+Various schemes have been suggested, such as that proposed by John Latham and Stephen Salter, which works by spraying seawater in the atmosphere to increase the reflectiveness of clouds. The extra condensation nuclei created by the spray will change the size distribution of the drops in existing clouds to make them whiter. The sprayers would use fleets of unmanned rotor ships known as Flettner vessels to spray mist created from seawater into the air to thicken clouds and thus reflect more radiation from the Earth. The whitening effect is created by using very small cloud condensation nuclei, which whiten the clouds due to the Twomey effect.
+This technique can give more than 3.7 W/m2 of globally averaged negative forcing, which is sufficient to reverse the warming effect of a doubling of CO2.
+
+
+=== Ocean sulfur cycle enhancementEdit ===
+
+Enhancing the natural marine sulfur cycle by fertilizing a small portion with iron--typically considered to be a greenhouse gas remediation method--may also increase the reflection of sunlight. Such fertilization, especially in the Southern Ocean, would enhance dimethyl sulfide production and consequently cloud reflectivity. This could potentially be used as regional solar radiation management, to slow Antarctic ice from melting. Such techniques also tend to sequester carbon, but the enhancement of cloud albedo appears also to be a likely effect.
+
+
+=== Reflective balloonsEdit ===
+Placing billions of aluminized, hydrogen-filled balloons in the stratosphere to provide a reflective screen was proposed at various points in the past, but it was not considered a serious enough idea to be included in the reports on geoengineering from either the Royal Society or the US National Research Council.
+These reflectors would be placed at a high enough altitude so that they do not interfere with air traffic. The cost estimate is about 20 times as much as the distribution of dust in the stratosphere, making these schemes economically nonviable. The large number of reflectors and the trash problem posed by their fall make the system unattractive.
+
+
+=== Cloud seedingEdit ===
+
+Cloud seeding has been proposed using various methods to distribute the cloud-seeding materials, including airliners and ships or power plants. Reck (1978) studied the effect of increases in cloud cover and, using a radiative-convective atmospheric model, found that a 4 to 5 percent increase in low-level cloud cover would be sufficient to offset the warming predicted from a doubling of preindustrial CO2. "This value is in reasonable agreement with Randall et al. (1984), who estimated that a 4 percent increase was required in the amount of marine stratocumulus, which comprises the bulk of the low clouds on a global basis."
+
+
+== Terrestrial albedo modificationEdit ==
+
+
+=== Cool roofEdit ===
+
+Painting roof materials in white or pale colours to reflect solar radiation, known as 'cool roof' technology, is encouraged by legislation in some areas (notably California). This technique is limited in its ultimate effectiveness by the constrained surface area available for treatment. This technique can give between 0.01-0.19 W/m2 of globally averaged negative forcing, depending on whether cities or all settlements are so treated. This is small relative to the 3.7 W/m2 of positive forcing from a doubling of CO2. Moreover, while in small cases it can be achieved at little or no cost by simply selecting different materials, it can be costly if implemented on a larger scale. A 2009 Royal Society report states that, “the overall cost of a ‘white roof method’ covering an area of 1% of the land surface (about 1012 m2) would be about $300 billion/yr, making this one of the least effective and most expensive methods considered.” However, it can reduce the need for air conditioning, which causes CO2 emissions which worsen global warming.
+
+
+=== Reflective sheetingEdit ===
+Adding reflective plastic sheets covering 67,000 square miles (170,000 km2) of desert every year between 2010 and 2070 to reflect the Sun’s energy. may be able give globally averaged 1.74 W/m2 of negative forcing. Although insufficient to fully offset the 3.7 W/m2 of positive forcing from a doubling of CO2, this would still be a significant contribution thereto, and would offset the current level of warming (approx. 1.7 W/m2). However, the effect would be strongly regional, and would not be ideal for controlling Arctic shrinkage, which is one of the most significant problems resulting from global warming. Furthermore, desert albedo modification would be expensive, would compete with other land uses, and would have strongly negative ecological consequences. Finally, the total area required during 2010-70 is larger than all non-polar deserts combined.
+
+
+=== Ocean changesEdit ===
+An early geoengineering idea was to use pale coloured floating litter within certain stable oceanic gyres. This litter would tend to group into large and stable areas, such as the Great Pacific Garbage Patch.
+Oceanic foams have also been suggested, using microscopic bubbles suspended in the upper layers of the photic zone.
+
+
+== Farming, forestry, and land managementEdit ==
+Forestry:Reforestation in tropical areas has a cooling effect. Deforestation of high-latitude and high-altitude forests exposes snow and this increases albedo.
+Grassland management:
+Changes to grassland have been proposed to increase albedo. This technique can give 0.64 W/m2 of globally averaged negative forcing, which is insufficient to offset the 3.7 W/m2 of positive forcing from a doubling of CO2, but could make a minor contribution.
+High-albedo crop varieties:
+Selecting or genetically modifying commercial crops with high albedo has been suggested. This has the advantage of being relatively simple to implement, with farmers simply switching from one variety to another. Temperate areas may experience a 1 °C cooling as a result of this technique. This technique is an example of bio-geoengineering. This technique can give 0.44 W/m2 of globally averaged negative forcing, which is insufficient to offset the 3.7 W/m2 of positive forcing from a doubling of CO2, but could make a minor contribution.
+
+
+== Space projectsEdit ==
+
+Space-based climate engineering projects are seen by many commentators and scientists as being very expensive and technically difficult, with the Royal Society suggesting that "the costs of setting in place such a space-based armada for the relatively short period that SRM geoengineering may be considered applicable (decades rather than centuries) would likely make it uncompetitive with other SRM approaches."
+Space mirrors:Mirrors in space: proposed by Roger Angel with the purpose to deflect a percentage of solar sunlight into space, using mirrors orbiting around the Earth.
+Moon dust:
+Mining moon dust to create a shielding cloud was proposed by Curtis Struck at Iowa State University in Ames.
+Dispersive solutions:
+
+Several authors have proposed dispersing light before it reaches the Earth by putting a very large diffraction grating (thin wire mesh) or lens in space, perhaps at the L1 point between the Earth and the Sun. Using a Fresnel lens in this manner was proposed in 1989 by J. T. Early. Using a diffraction grating was proposed in 1997 by Edward Teller, Lowell Wood, and Roderick Hyde. In 2004, physicist and science fiction author Gregory Benford calculated that a concave rotating Fresnel lens 1000 kilometres across, yet only a few millimeters thick, floating in space at the L1 point, would reduce the solar energy reaching the Earth by approximately 0.5% to 1%. He estimated that this would cost around US$10 billion up front, and another $10 billion in supportive cost during its lifespan. One issue with implementing such a solution is the need to counteract the effects of the solar wind moving such megastructures out of position.
+
+
+== Public attitudesEdit ==
+There have been a limited number of studies into attitudes to solar radiation management. However, a study into the 'public understanding of solar radiation management' was published by Mercer et al. in 2011.
+One cited objection to implementing a short-term temperature fix is that there might then be less incentive to reduce carbon dioxide emissions until it caused some other environmental catastrophe, such as a chemical change in ocean water that could be disastrous to ocean life.
+
+
+== See alsoEdit ==
+
+Hydrological geoengineering
+
+
+== ReferencesEdit ==
+
+
+== Further readingEdit ==
+Granger Morgan, Katharine Ricke (2010). An Opinion Piece for the International Risk Governance Council. Cooling the Earth Through Solar Radiation Management: The need for research and an approach to its governance. ISBN 978-2-9700672-8-3
+National Research Council. Climate Intervention: Reflecting Sunlight to Cool Earth. Washington, DC: The National Academies Press, 2015. ISBNs: Prepublication: 978-0-309-36821-6; Paperback (forthcoming): 978-0-309-31482-4

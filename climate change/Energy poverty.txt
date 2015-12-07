@@ -1,0 +1,82 @@
+Energy poverty is lack of access to modern energy services. It refers to the situation of large numbers of people in developing countries whose well-being is negatively affected by very low consumption of energy, use of dirty or polluting fuels, and excessive time spent collecting fuel to meet basic needs. It is inversely related to access to modern energy services, although improving access is only one factor in efforts to reduce energy poverty. Energy poverty is distinct from fuel poverty, which focuses solely on the issue of affordability.
+According to the Energy Poverty Action initiative of the World Economic Forum, "Access to energy is fundamental to improving quality of life and is a key imperative for economic development. In the developing world, energy poverty is still rife. Nearly 1.6 billion people still have no access to electricity, according to the International Energy Agency (IEA).". As a result of this situation, a new UN initiative has been launched to coincide with the designation of 2012 as the International Year for Sustainable Energy for All, which has a major focus on reducing energy poverty. Duke University has launched a research project on Household Energy and Health where work on energy poverty in India is listed. 
+
+
+== Domestic energy poverty ==
+Domestic energy poverty refers to a situation where a household does not have access or cannot afford to have the basic energy or energy services to achieve day to day living requirements. These requirements can change from country to country and region to region. The most common needs are lighting, cooking energy, domestic heating or cooling.
+There is little information available on specific measure on the basic energy requirement, but many countries have identified that provision of 1 unit of electricity per day per household as a basic energy requirement., thus it is seen that in many developing countries the 30 units of electricity per month category is provided at a very concessionary rate.
+Other authors consider different categories of energy needs from "fundamental energy needs" associated to human survival and extremely poor situations. "Basic energy needs" required for attaining basic living standards, which includes all the functions in the previous (cooking, heating and lighting) and, in addition energy to provide basic services linked to health, education and communications. "Energy needs for productive uses” when additionally basic energy needs the user requires energy to make a living; and finally "Energy for recreation", when the user has fulfilled the previous categories and needs energy for enjoyment."
+Until recently energy poverty definitions took only the minimum energy quantity required into consideration when defining energy poverty, but a different school of thought is that not only energy quantity but the quality and cleanliness of the energy used should be taken into consideration when defining energy poverty.
+One such definition reads as:
+"A person is in 'energy poverty' if they do not have access to at least:
+(a) the equivalent of 35 kg LPG for cooking per capita per year from liquid and/or gas fuels or from improved supply of solid fuel sources and improved (efficient and clean) cook stoves
+and
+(b) 120kWh electricity per capita per year for lighting, access to most basic services (drinking water, communication, improved health services, education improved services and others) plus some added value to local production
+An 'improved energy source' for cooking is one which requires less than 4 hours person per week per household to collect fuel, meets the recommendations WHO for air quality (maximum concentration of CO of 30 mg/M3 for 24 hours periods and less than 10 mg/ M3 for periods 8 hours of exposure), and the overall conversion efficiency in higher than 25%. ”
+
+
+== Major energy sources ==
+Rural areas are predominant in developing countries, and the rural areas in the countries do not have modern energy infrastructure. They have heavily relied on traditional biomass such as fuelwood, charcoal, crop residual, pellets and the likes. Because lack of modern energy infrastructure like power plants, transmission lines, underground pipelines to deliver energy resources such as natural gas, petroleum that need high or cutting edge technologies and extremely high upfront costs, which are beyond their financial and technological capacity. Although some developing countries like BRICs have reached close to the energy-related technological level of developed countries and have financial power, still most developing countries are dominated by traditional biomass. According to the International Energy Agency IEA, "use of traditional biomass will decrease in many countries, but is likely to increase in South Asia and sub-Saharan Africa alongside population growth."
+Energy poverty projects involving renewable sources can also make a positive contribution to low-carbon development strategies.
+
+
+== Energy ladder ==
+An energy ladder shows the improvement of energy use corresponding to an increase in the household income. Basically, as income increases, the energy types used by households would be cleaner and more efficient, but more expensive as moving from traditional biomasses to electricity. "Households at lower levels of income and development tend to be at the bottom of the energy ladder, using fuel that is cheap and locally available but not very clean nor efficient. According to the World Health Organization, over three billion people worldwide are at these lower rungs, depending on biomass fuels—crop waste, dung, wood, leaves, etc.—and coal to meet their energy needs. A disproportionate number of these individuals reside in Asia and Africa: 95% of the population in Afghanistan uses these fuels, 95% in Chad, 87% in Ghana, 82% in India, 80% in China, and so forth. As incomes rise, we would expect that households would substitute to higher quality fuel choices. However, this process has been quite slow. In fact, the World Bank reports that the use of biomass for all energy sources had remained constant at about 25% since 1975."
+
+
+== Health issues ==
+Usually, gathering energy resources in the developing countries in particular sub Saharan countries is undertaken by women. And women spend much time on cooking in a kitchen. They spend much time on harvesting energy resources and thus correspondingly consume their physical energy, which bring chronic fatigue to women. Moreover, the women and children, who spend much time in their kitchens to serve their families and stick around their moms to help moms' house chores, respectively, are in danger of long-term exposure to indoor air pollution caused by burning the traditional biomass. During the combustion, carbon monoxide, particles, benzene, and the likes threat their health. Expected diseases are acute respiratory infections, lung cancer, asthma, and other diseases. "The health consequences of using biomass in an unsustainable way are staggering. According to the World Health Organization, exposure to indoor air pollution is responsible for the nearly two million excess deaths, primarily women and children, from cancer, respiratory infections and lung diseases and for four percent of the global burden of disease. In relative terms, deaths related to biomass pollution kill more people than malaria (1.2 million) and tuberculosis (1.6 million) each year around the world."
+
+
+== Energy and Education ==
+There is a clear link between energy poverty and education. 90 percent of children in sub-Saharan Africa go to primary schools that lack electricity. In Burundi and Guinea only 2% of schools are electrified, while in DR Congo there is only 8% school electrification for a population of 75.5 million (43% of whom are under 14 years). In the DRC alone, by these statistics, there are almost 30 million children attending school without power. In September 2013 a Lifeline Energy intern undertook research in Lusaka, Zambia to discover if there was a link between energy access and education.
+
+
+== Energy and development ==
+“Energy provides services to meet many basic human needs, particularly heat, motive power (e.g. water pumps and transport) and light. Business, industry, commerce and public services such as modern healthcare, education and communication are highly dependent on access to energy services. Indeed, there is a direct relationship between the absence of adequate energy services and many poverty indicators such as infant mortality, illiteracy, life expectancy and total fertility rate. Inadequate access to energy also exacerbates rapid urbanization in developing countries, by driving people to seek better living conditions. Increasing energy consumption has long been tied directly to economic growth and improvement in human welfare. However it is unclear whether increasing energy consumption is a necessary precondition for economic growth, or vice versa. Although developed countries are now beginning to decouple their energy consumption from economic growth (through structural changes and increases in energy efficiency), there remains a strong direct relationship between energy consumption and economic development in developing countries."
+
+
+== Government intervention and difficulties ==
+Energy is important for not only economic development but also health. In the developing countries, governments should make efforts on reducing energy poverty that have negative impacts on economic development and public health. The number of people who currently uses modern energy should increase as the developing world governments take actions to reduce social costs and to increase social benefits by gradually spreading modern energy to their people in rural areas. However, the developing world governments have been experiencing difficulties in promoting the distributions of modern energy like electricity. In order to build energy infrastructure that generate and deliver electricity to each household, astronomical amount of money are first invested. And lack of high technologies needed for modern energy development have kept the developing countries from accessing modern energy. Such circumstances are huge hurdles; as a result, it is difficult that the developing countries governments participate in effective development of energy without external aids. International cooperation is necessary for framing developing countries' stable future energy infrastructure and institutions. Although their energy situation have not been improved much over the past decades, current international aids are playing an important role in reducing the gap between developing and developed countries associated with the use of modern energy. With the international aids, it will take less time to reduce the gap when comparing to nonexistence of international cooperation.
+
+
+== International cooperation ==
+China and India which account for about one third of global population are growing fast economically and other developing countries would grow economically and in population too. As a result, their energy demand increases much more than now. As the dissemination of modern energy sources in the nations is not effectively progressing, but population in the developing world is growing rapidly. Without a new approach, more people in the developing countries will have difficult to access modern energy services. International development agencies have experienced that many of international society’s attempts have not been entirely successful. “International cooperation needs to be shaped around a small number of key elements that are all familiar to energy policy, such as institutional support, capacity development, support for national and local energy plans, and strong links to utility/public sector leadership. Africa has all the human and material resources to end poverty but is poor in using those resources for the benefit of its people. This includes national and international institutions as well as the ability to deploy technologies, absorb and disseminate financing, provide transparent regulation, introduce systems of peer review, and share and monitor relevant information and data.”
+
+
+=== Global Environmental Facility ===
+"In 1991, the Work Bank Group, international financial institution that provides loans to developing countries for capital programs, established the Global Environmental Facility (GEF) to address global environmental issues in partnership with international institutions, private sector, etc., especially by providing funds to developing countries’ all kinds of projects. The GEF provides grants to developing countries and countries with economies in transition for projects related to biodiversity, climate change, international waters, land degradation, the ozone layer, and persistent organic pollutants. These projects benefit the global environment, linking local, national, and global environmental challenges and promoting sustainable livelihoods. GEF has allocated $10 billion, supplemented by more than $47 billion in cofinancing, for more than 2,800 projects in more than 168 developing countries and countries with economies in transition. Through its Small Grants Programme (SGP), the GEF has also made more than 13,000 small grants directly to civil society and community-based organizations, totalling $634 million. The GEF partnership includes 10 agencies: the UN Development Programme; the UN Environment Programme; the World Bank; the UN Food and Agriculture Organization; the UN Industrial Development Organization; the African Development Bank; the Asian Development Bank; the European Bank for Reconstruction and Development; the Inter-American Development Bank; and the International Fund for Agricultural Development. The Scientific and Technical Advisory Panel provides technical and scientific advice on the GEF’s policies and projects."
+
+
+=== Climate Investment Funds ===
+"The Climate Investment Funds (CIF) comprises two Trust Funds, each with a specific scope and objective and its own governance structure: the Clean Technology Fund (CTF) and the Strategic Climate Fund (SCF). The CTF promotes investments to initiate a shift towards clean technologies. The CTF seeks to fill a gap in the international architecture for development finance available at more concessional rates than standard terms used by the Multilateral Development Banks (MDBs) and at a scale necessary to help provide incentives to developing countries to integrate nationally appropriate mitigation actions into sustainable development plans and investment decisions. The SCF serves as an overarching fund to support targeted programs with dedicated funding to pilot new approaches with potential for scaled-up, transformational action aimed at a specific climate change challenge or sectoral response. One of SCF target programs is the Program for Scaling-Up Renewable Energy in Low Income Countries (SREP), approved in May 2009, and is aimed at demonstrating the economic, social and environmental viability of low carbon development pathways in the energy sector by creating new economic opportunities and increasing energy access through the use of renewable energy."
+
+
+== See also ==
+
+Agency for Non-conventional Energy and Rural Technology
+Ashden Awards for Sustainable Energy
+Energy for All
+Indian Solar Loan Programme
+International Renewable Energy Agency
+Renewable energy in Africa
+Renewable energy in China
+Renewable energy in developing countries
+Solar for All
+Solar power in South Asia
+Solar powered refrigerator
+SolarAid
+UN-Energy
+Wind power in Asia
+Gaspar Makale
+
+
+== References ==
+
+
+== External links ==
+Alliance for Rural Electrification - a not-for-profit business association which promotes access to energy in developing countries
+Energypedia - a wiki about renewable energies in the context of development cooperation
+Household Energy Network (HEDON) - NGO promoting household energy solutions in developing countries
+Lifeline Energy - a not-for-profit organisation that provides renewable energy alternatives to those most in need in sub-Saharan Africa
+[9]- Paper on energy poverty of the poor in India

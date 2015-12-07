@@ -1,0 +1,31 @@
+In environmental law, the polluter pays principle is enacted to make the party responsible for producing pollution responsible for paying for the damage done to the natural environment. It is regarded as a regional custom because of the strong support it has received in most Organisation for Economic Co-operation and Development (OECD) and European Community (EC) countries.
+The polluter pays principle underpins environmental policy such as an ecotax, which, if enacted by government, deters and essentially reduces greenhouse gas emissions. Some eco-taxes underpinned by the polluter pays principle include: the Gas Guzzler Tax, in US, Corporate Average Fuel Economy (CAFE)- a "polluter pays" fine. The U.S. Superfund law requires polluters to pay for cleanup of hazardous waste sites, when the polluters can be identified.
+The Polluter pays principle is also known as extended producer responsibility (EPR). This is a concept that was probably first described by Thomas Lindhqvist for the Swedish government in 1990. EPR seeks to shift the responsibility of dealing with waste from governments (and thus, taxpayers and society at large) to the entities producing it. In effect, it internalised the cost of waste disposal into the cost of the product, theoretically meaning that the producers will improve the waste profile of their products, thus decreasing waste and increasing possibilities for reuse and recycling.
+OECD defines EPR as:
+
+a concept where manufacturers and importers of products should bear a significant degree of responsibility for the environmental impacts of their products throughout the product life-cycle, including upstream impacts inherent in the selection of materials for the products, impacts from manufacturers’ production process itself, and downstream impacts from the use and disposal of the products. Producers accept their responsibility when designing their products to minimise life-cycle environmental impacts, and when accepting legal, physical or socio-economic responsibility for environmental impacts that cannot be eliminated by design.
+
+
+== In international environmental law ==
+In international environmental law it is mentioned in Principle 16 of the Rio Declaration on Environment and Development.
+
+
+== Inclusion in national laws ==
+The state of New South Wales in Australia has included the polluter pay principle with the other principles of ecologically sustainable development in the objectives of the Environment Protection Authority. 
+
+
+== Limitations of polluter pays principle ==
+The U.S. Environmental Protection Agency (EPA) has observed that the polluter pays principle has typically not been fully implemented in U.S. laws and programs. For example, drinking water and sewage treatment services are subsidized and there are limited mechanisms in place to fully assess polluters for treatment costs.
+
+
+== See also ==
+Carbon tax
+Ecotax
+Environmental Principles and Policies
+Externality
+Feebate
+Pigovian tax
+Public good
+
+
+== References ==

@@ -1,0 +1,47 @@
+Skeptical Science (occasionally abbreviated SkS) is a climate science blog and information resource created in 2007 by Australian blogger and author John Cook. In addition to publishing articles on current events relating to climate science and climate policy, the site maintains a large database of articles analyzing the merit of arguments commonly put forth by those involved in the global warming controversy who oppose the mainstream scientific opinion on climate change.
+
+
+== Concept ==
+
+After reading a 2007 speech by US Senator James Inhofe who claimed that global warming is a hoax, John Cook created Skeptical Science to be an internet resource that examined the scientific support of the most common arguments against mainstream scientific opinion. The site currently maintains over 160 articles addressing the merit of common criticisms of the scientific consensus on global warming, such as the claim that solar activity (rather than greenhouse gases) is responsible for most 20th-century global warming. Each article, referred to as an "argument", first presents a quotation from a prominent figure who made a direct claim regarding global warming, then follows with a summary of "what the science says".
+Rather than fully qualifying each claim, the site focuses mainly on challenging it by citing counterexamples for why it is incorrect, and structuring these examples into an overall rebuttal of the original claim. The site primarily gains the content for these articles from relevant peer reviewed scientific papers. Many articles have been translated into several languages, and are split into up to three levels of technical depth. Rather than active advertising or media relationships, Cook has focused on structuring the site primarily for optimization in search engine results.
+The home page of the site also features blog posts by a number of regular and guest contributors, which may be new rebuttals of a certain argument or simply the blogger's view on a relevant climate news item. Like the rebuttals, the blog entries tend to hold a consistent tone that the scientific opinion on anthropogenic global warming is generally accurate.
+
+
+=== Smartphone app ===
+
+Along with software development company Shine Technologies, in February 2010 the site launched a free smartphone application that includes condensed summaries of most rebuttals featured on the site. Shine Technologies offered to develop the application completely free of charge for Cook.
+The app is available for Android, iPhone, and Nokia systems. It is fully contained, meaning it does not need internet connection to be used, although some features, such as news articles or the ability to tweet which arguments the user found most useful, do need a data or internet connection.
+After 8 months on the market, the app had received 60,000 downloads. The app was entered into the 2010 Calling All Innovators competition, finishing in the Top 10.
+
+
+== Projects ==
+In addition to uncategorized blog posts, the site has published many multi-week features that serve to give a more in-depth analysis of a particular topic. Topics which have received special attention include a feature describing "climate 'myths" promoted by many US politicians, a feature examining the accuracy of past predictions made by scientists studying global warming, as well as individual features to evaluate the claims made by the most prominent individuals who criticise evidence that supports man-made global warming, including Richard Lindzen, John Christy, and Christopher Monckton.
+In 2010, a comprehensive report called The Scientific Guide to Global Warming Skepticism was made available for download from the site homepage. Written by Cook and other authors on the site, the report draws from many of the rebuttals published and summarizes the evidence for global warming and what it calls the flaws in many of the criticisms of anthropogenic global warming theory.
+In 2011 the book Climate Change Denial: Heads in the Sand, co-authored by Cook and Haydn Washington, was published by UK publisher Earthscan. The book serves to examine the ways in which denial of anthropogenic global warming is manifested through governments and the public.
+In May 2013, Cook and other contributors jointly published a paper in the journal Environmental Research Letters (ERL) examining the scientific consensus on global warming in peer reviewed papers published between 1991–2011. The paper was the most downloaded paper for that week across all Institute of Physics' journals, and was widely cited across hundreds of newspapers, magazines, blog posts, and scientific papers from around the world. It also ranked as the 11th most-discussed scientific paper of 2013. The paper was awarded the 'Best article of 2013' prize by the editorial board of ERL.
+In May 2013 Skeptical Science established a sister website; The Consensus Project. The purpose of this website was to promote a public awareness of the reported high degree of scientific consensus around global warming, in contrast with a public perception of still widespread debate; this has been called the Consensus Gap. The website was created pro-bono by design and advertising firm SJI Associates.
+In November 2013 Skeptical Science released a 'software widget' to highlight the accumulation of heat within the earth's climate systems. The widget counts up the added heat from a user definable start date using several different real-world scales of measurement - Hiroshima bombs of equivalent heat, Hurricane Sandy's, 6.0 Richter scale earthquakes, 'Big Ben's full of dynamite or millions of Lightning bolts. The widget can be hosted on a range of web platforms. For each 'measure' of heat the widget 'flips' to provide a description of how the count is calculated. An associated website, 4hiroshimas.com, provides background information including references to the scientific papers the count is based on. The widget was created pro-bono by Bob Lacatena.
+In 2015 the team from Skeptical Science launched a massive open online course on EdX called "Making Sense of Climate Science Denial".
+
+
+== Reception and motivation ==
+Skeptical Science has become a well-known resource for people seeking to understand or debate climate change, and has been praised for its straightforwardness. Marine biologist Ove Hoegh-Guldberg has described it as "the most prominent knowledge-based website dealing with climate change in the world", and The Washington Post has praised it as the "most prominent and detailed" website to counter arguments by global warming skeptics. In September 2011, the site won the 2011 Eureka Prize from the Australian Museum in the category of Advancement of Climate Change Knowledge.
+Cook is trained as a solar physicist and says he is motivated by his Christian beliefs. He is one of a number of Christians publicly arguing for scientific findings on anthropogenic global warming, and is an evangelical Christian.
+
+
+== Funding ==
+Skeptical Science is affiliated with no political, business, or charitable entity. The site does not contain banner ads and is funded entirely by Cook himself, with reader donations. All regular and guest authors contribute strictly voluntarily.
+
+
+== See also ==
+RealClimate
+
+
+== References ==
+
+
+== External links ==
+Official website
+Making Sense of Climate Science Denial (Online course by John Cook)
+Android and Apple Skeptical Science apps

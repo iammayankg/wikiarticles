@@ -1,0 +1,17 @@
+
+== UnitsEdit ==
+Production – TWh
+Emission – Mt CO2
+CO2/MWh – kg
+
+
+== See alsoEdit ==
+Fuel mix disclosure
+
+
+== NotesEdit ==
+
+
+== SourceEdit ==
+http://www.pwc.fr/assets/files/pdf/2010/11/pwc_ad_carbon_factor_uk_11_2010_v2.pdf
+http://www.pwc.fr/assets/files/pdf/2008/12/pwc_carbon_factor_2008_uk.pdf

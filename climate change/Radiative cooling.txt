@@ -1,0 +1,49 @@
+Radiative cooling is the process by which a body loses heat by thermal radiation.
+
+
+== Terrestrial radiative cooling ==
+
+
+=== Earth's energy budget ===
+
+In the case of the earth-atmosphere system it refers to the process by which long-wave (infrared) radiation is emitted to balance the absorption of short-wave (visible) energy from the sun.
+The exact process by which the earth loses heat is rather more complex than often portrayed. In particular, convective transport of heat, and evaporative transport of latent heat are both important in removing heat from the surface and redistributing it in the atmosphere. Pure radiative transport is more important higher up. Diurnal and geographical variation further complicate the picture.
+The large-scale circulation of the Earth's atmosphere is driven by the difference in absorbed solar radiation per square meter, as the sun heats the Earth more in the Tropics, mostly because of geometrical factors. The atmospheric and oceanic circulation redistributes some of this energy as sensible heat and latent heat partly via the mean flow and partly via eddies, known as cyclones in the atmosphere. Thus the tropics radiate less to space than they would if there were no circulation, and the poles radiate more; however in absolute terms the tropics radiate more energy to space.
+
+
+=== Radiative cooling on Earth's surface at night ===
+Radiative cooling is commonly experienced on cloudless nights, when heat is radiated into space from the surface of the Earth, or from the skin of a human observer. The effect is well-known among amateur astronomers, and can personally be felt on the skin of an observer on a cloudless night. To feel the effect, one compares the difference between looking straight up into a cloudless night sky for several seconds, to that of placing a sheet of paper between one's face and the sky. Since outer space radiates at about a temperature of 3 kelvins (-270 degrees Celsius or -450 degrees Fahrenheit), and the sheet of paper radiates at about 300 kelvins (room temperature), the sheet of paper radiates more heat to one's face than does the darkened cosmos. The effect is blunted by Earth's surrounding atmosphere, and particularly the water vapor it contains, so the apparent temperature of the sky is far warmer than outer space. Note that it is not correct to say that the sheet "blocks the cold" of the night sky; instead, the sheet is radiating heat to your face, just like a camp fire warms your face; the only difference is that a campfire is several hundred degrees warmer than a sheet of paper, just like a sheet of paper (at approximately air temperature) is warmer than the deep night sky.
+The same radiative cooling mechanism can sometimes cause frost or black ice to form on surfaces exposed to the clear night sky, even when the ambient temperature does not fall below freezing.
+
+
+=== Kelvin's estimate of the age of the Earth ===
+
+The term radiative cooling is generally used for contemporary processes, though the same general principles apply to the cooling of the planet over geological time, which was first used by Kelvin to estimate the age of the Earth (though you cannot neglect the fission heat source for this purpose, so his answer was wrong).
+
+
+== Applications ==
+
+
+=== Architecture ===
+Cool roofs combine high optical reflectance with high infrared emissivity, thereby simultaneously reducing heat transfer from the sun and increasing heat removal through radiation.
+
+
+=== Nocturnal ice making ===
+In India before the invention of artificial refrigeration technology, ice making by nocturnal cooling was common. The apparatus consisted of a shallow ceramic tray with a thin layer of water, placed outdoors with a clear exposure to the night sky. The bottom and sides were insulated with a thick layer of hay. On a clear night the water would lose heat by radiation upwards. Provided the air was calm and not too far above freezing, heat gain from the surrounding air by convection would be low enough to allow the water to freeze by dawn.
+
+
+=== Spacecraft ===
+Spacecraft travel through vacuum, and therefore have to shed any excess heat by radiation.
+
+
+== See also ==
+Optical solar reflector, used for thermal control of spacecraft
+Passive cooling
+Radiative forcing
+Stefan-Boltzmann law
+Terrestrial albedo effect
+Urban heat island
+Urban thermal plume
+
+
+== References ==

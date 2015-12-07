@@ -1,0 +1,93 @@
+The IPCC Third Assessment Report, Climate Change 2001, is an assessment of available scientific and socio-economic information on climate change by the IPCC. The IPCC was established in 1988 by the United Nations Environment Programme (UNEP) and the UN's World Meteorological Organization (WMO) "... to assess scientific, technical and socio-economic information relevant for the understanding of climate change, its potential impacts and options for adaptation and mitigation."[IPCC website] The Third Assessment Report (TAR) is the third of a series of assessments; it has been superseded by the IPCC Fourth Assessment Report (AR4), released in 2007.
+Statements of the IPCC or information from the TAR are often used as a reference showing a scientific consensus on the subject of global warming, although a small minority of scientists take issue with the UN assessments (see also Global warming controversy and Politics of global warming).
+
+
+== Working groups ==
+The IPCC is organized as three working groups (WG) and a task force [1]:
+WGI: Scientific aspects of climate (see IPCC TAR WG1 2001).
+WGII: Vulnerability, consequences, and options (see IPCC TAR WG2 2001).
+WGIII: Limitation and mitigation options (see IPCC TAR WG3 2001).
+Task Force: National Greenhouse Gas Inventories Programme [2]
+WG I covers the same areas as the Second Assessment Report (SAR) of 1995, but WG II & III cover slightly different areas in the TAR.
+
+
+== Conclusions ==
+
+
+=== Working Group I ===
+The key conclusions of Working Group I (The Scientific Basis, Summary for Policymakers, in IPCC AR3 WG1 2001) were:
+An increasing body of observations gives a collective picture of a warming world and other changes in the climate system (The global average surface temperature has increased over the 20th century by about 0.6°C; Temperatures have risen during the past four decades in the lowest 8 kilometres of the atmosphere; Snow cover and ice extent have decreased)
+Emissions of greenhouse gases and aerosols due to human activities continue to alter the atmosphere in ways that are expected to affect the climate (Anthropogenic aerosols (i.e., human emitted aerosols) are short-lived and mostly produce negative radiative forcing; Natural factors have made small contributions to radiative forcing over the past century)
+Confidence in the ability of models to project future climate has increased (Complex physically based climate models are required to provide detailed estimates of feedbacks and of regional features. Such models cannot yet simulate all aspects of climate (e.g., they still cannot account fully for the observed trend in the surface-troposphere temperature difference since 1979) and there are particular uncertainties associated with clouds and their interaction with radiation and aerosols. Nevertheless, confidence in the ability of these models to provide useful projections of future climate has improved due to their demonstrated performance on a range of space and time-scales [3].)
+There is new and stronger evidence that most of the warming observed over the last 50 years is attributable to human activities
+Human influences will continue to change atmospheric composition throughout the 21st century
+Global average temperature and sea level are projected to rise under all IPCC SRES scenarios.
+The TAR estimate for the climate sensitivity is 1.5 to 4.5 °C; and the average surface temperature is projected to increase by 1.4 to 5.8 Celsius degrees over the period 1990 to 2100, and the sea level is projected to rise by 0.1 to 0.9 metres over the same period. The wide range in projections is based upon several different scenarios that assume different levels of future CO2 emissions (see the section below on Projections in the TAR).
+
+
+=== Synthesis Report ===
+The TAR Synthesis Report includes a summary of the TAR's main findings and uncertainties. "Robust findings" of the TAR include:
+Observed warming of the Earth's surface, attribution of observed warming to human activities, projected increases in future global mean temperature, rising sea levels, and increased frequency of heat waves.
+Future warming will have both beneficial and adverse effects, but for higher levels of warming, adverse effects will predominate.
+Developing countries and poor persons are most vulnerable to climate change.
+"Key uncertainties" in the TAR include:
+Estimated climate forcings of natural climatic factors and anthropogenic aerosols (e.g., sulfate, which is produced when sulfur-rich coal is burnt), future changes in greenhouse gas (GHG) emissions, and the role of climate feedbacks, which may amplify or reduce the magnitude of future climate change;
+Assigning probabilities to projections of changes in sea level and temperature, as well as uncertainties related to regional projections of climate change.
+
+
+== Projections ==
+Projections are used in the TAR as a guide to the possible future effects of climate change, e.g., changes in global mean temperature and sea level. In the TAR, the word "projection" is favoured over "prediction". This is because many future changes related to climate are highly uncertain. For example, climate change projections are affected by highly uncertain changes in future GHG emissions.
+The TAR projects impacts according to possible future changes in global mean temperature. Other projections are based on scenarios that the IPCC has developed. In 2000, the IPCC published 40 different scenarios (the "SRES" scenarios) which contain estimates of future changes in anthropogenic emissions of greenhouse gases and aerosols. The SRES scenarios project a wide range of possible changes in future social and economic development, and projected climate change impacts vary according to the scenario considered. The IPCC has not assigned probabilities to the 40 SRES scenarios. Some authors have argued that some SRES scenarios are more likely to occur than others.
+
+
+== Scientific opinion ==
+
+The IPCC is backed by the scientific community. For example, a joint statement of support was issued in May 2001 by the science academies of Australia, Belgium, Brazil, Canada, the Caribbean, China, France, Germany, India, Indonesia, Ireland, Italy, Malaysia, New Zealand, Sweden and the UK. It states: "We recognise the IPCC as the world's most reliable source of information on climate change and its causes, and we endorse its method of achieving consensus."
+In 2001, the executive branch of the US federal government asked the US National Research Council (US NRC, 2001) to produce an assessment of climate change science. Part of the assessment by US NRC (2001) looks at the report produced by Working Group I (WG I) in the TAR. Working Group I's contribution to the TAR assesses the physical scientific aspects of the climate system and climate change. US NRC (2001) generally agrees with findings of the WG I report, for example, US NRC (2001) state that "[the] IPCC’s conclusion that most of the observed warming of the last 50 years is likely to have been due to the increase in greenhouse gas concentrations accurately reflects the current thinking of the scientific community on this issue."
+US NRC (2001) emphasize the need for governments to have a good understanding of uncertainties in climate change science. The example cited by US NRC (2001) is the uncertainty over future changes in GHG emissions, which may be less or more than that projected by the TAR. US NRC (2001) also state:
+
+The most valuable contribution U.S. scientists can make is to continually question basic assumptions and conclusions, promote clear and careful appraisal and presentation of the uncertainties about climate change as well as those areas in which science is leading to robust conclusions, and work toward a significant improvement in the ability to project the future.
+
+
+=== Criticism ===
+
+The IPCC's work has been the subject of criticism, and there are small number of climate scientists who disagree with aspects of the IPCC's work. Perhaps the best known is Richard Lindzen, professor of meteorology at the Massachusetts Institute of Technology. The Royal Society, the UK's national academy of science, has argued that "[there] are some individuals and organisations, some of which are funded by the US oil industry, that seek to undermine the science of climate change and the work of the IPCC."
+
+
+==== IPCC process ====
+A report by the UK Parliament's House of Lords Economic Affairs Select Committee (EAC, 2005) contains criticisms of the IPCC's work, including the "SRES" greenhouse gas emissions scenarios, which are used in the TAR. The Economic Affairs Select Committee is made up of members of the House of Lords, which scrutinizes and votes on government legislation. One of the criticisms made by the EAC (2005) is an apparent inconsistency between the Working Group II Summary for Policymakers and a statement made in the full WGII report: "The IPCC Summary for policy makers says that economic studies underestimate damage, whereas the chapter says the direction of the bias is not known."
+The UK Government issued a response to the report by EAC (2005). The UK Government acknowledged the discrepancy between the WGII SPM and full WGII report which was referred to by the EAC (2005), but remained generally supportive of the IPCC's procedures. The UK Government rebutted a number of other criticisms of the TAR which were made by the EAC (2005).
+
+
+== See also ==
+
+Attribution of recent climate change
+Avoiding Dangerous Climate Change, and an international conference on the topic.
+Climate change
+Carbon dioxide equivalent
+Effects of global warming
+Energy conservation
+Energy policy
+Global warming controversy
+Global climate model
+World energy resources and consumption
+
+
+== Notes ==
+
+
+== References ==
+The Third Assessment Report consists of the following reports from each of the three Working Groups, and a Synthesis Report. On-line text and PDFs are available at GRID-Arendal (a collaborating centre of the United Nations Environment Programme (UNEP)). Additional reports and documents can be found at the IPCC's documents web page.
+Economic Affairs Committee (2005), The Economics of Climate Change, the Second Report of the 2005–2006 session, produced by the UK Parliament House of Lords Economics Affairs Select Committee, London, UK: The Stationery Office Ltd., by order of the House of Lords 
+IPCC TAR WG1 (2001), Houghton, J.T.; Ding, Y.; Griggs, D.J.; Noguer, M.; van der Linden, P.J.; Dai, X.; Maskell, K.; and Johnson, C.A., ed., Climate Change 2001: The Scientific Basis, Contribution of Working Group I to the Third Assessment Report of the Intergovernmental Panel on Climate Change, Cambridge University Press, ISBN 0-521-80767-0  (pb: 0-521-01495-6).
+IPCC TAR WG2 (2001), McCarthy, J. J.; Canziani, O. F.; Leary, N. A.; Dokken, D. J.; and White, K. S., ed., Climate Change 2001: Impacts, Adaptation and Vulnerability, Contribution of Working Group II to the Third Assessment Report of the Intergovernmental Panel on Climate Change, Cambridge University Press, ISBN 0-521-80768-9  (pb: 0-521-01500-6).
+IPCC TAR WG3 (2001), Metz, B.; Davidson, O.; Swart, R.; and Pan, J., ed., Climate Change 2001: Mitigation, Contribution of Working Group III to the Third Assessment Report of the Intergovernmental Panel on Climate Change, Cambridge University Press, ISBN 0-521-80769-7  (pb: 0-521-01502-2).
+IPCC TAR SYR (2001), Watson, R. T.; and the Core Writing Team, ed., Climate Change 2001: Synthesis Report, Contribution of Working Groups I, II, and III to the Third Assessment Report of the Intergovernmental Panel on Climate Change, Cambridge University Press, ISBN 0-521-80770-0  (pb: 0-521-01507-3).
+UK Government (28 November 2005), 3rd Report of the 2005–2006 session: Government Response to the Economics of Climate Change (the 2nd Report of the 2005–2006 session, produced by the UK Parliament House of Lords Economics Affairs Select Committee), London, UK: The Stationery Office Ltd . Also available as a high-resolution PDF.
+US NRC (2001), Climate Change Science: An Analysis of Some Key Questions. A report produced by the Committee on the Science of Climate Change, US National Research Council (US NRC), Washington, D.C., USA: National Academy Press  
+
+
+== External links ==
+Climate Change 2001, IPCC Third Assessment Report (TAR)
+IPCC Assessment & Special Reports (including TAR)
+A summary of the Third Assessment Report by GreenFacts.

@@ -1,0 +1,119 @@
+An emission inventory is an accounting of the amount of pollutants discharged into the atmosphere. An emission inventory usually contains the total emissions for one or more specific greenhouse gases or air pollutants, originating from all source categories in a certain geographical area and within a specified time span, usually a specific year.
+An emission inventory is generally characterized by the following aspects:
+Why: The types of activities that cause emissions,
+What: The chemical or physical identity of the pollutants included,
+Where: The geographic area covered,
+When: The time period over which emissions are estimated,
+How: The methodology to use.
+Emission inventories are compiled for both scientific applications and for use in policy processes.
+
+
+== Use ==
+Emissions and releases to the environment are the starting point of every environmental pollution problem. Information on emissions therefore is an absolute requirement in understanding environmental problems and in monitoring progress towards solving these. Emission inventories provide this type of information.
+Emission inventories are developed for a variety of purposes:
+Policy use: by policy makers to
+track progress towards emission reduction targets,
+develop strategies and policies or;
+
+Scientific use: Inventories of natural and anthropogenic emissions are used by scientists as inputs to air quality models.
+
+
+=== Policy use ===
+Two more or less independent types of emission reporting schemes have been developed:
+Annual reporting of national total emissions of greenhouse gases and air pollutants in response to obligations under international conventions and protocols; this type of emissions reporting aims at monitoring the progress towards agreed national emission reduction targets;
+Regular emission reporting by individual industrial facilities in response to legal obligations; this type of emission reporting is developed to support public participation in decision-making.
+Examples of the first are the annual emission inventories as reported to the United Nations Framework Convention on Climate Change (UNFCCC) for greenhouse gases and to the UNECE Convention on Long-Range Transboundary Air Pollution (LRTAP) for air pollutants.
+Examples of the second are the so-called Pollutant Release and Transfer Registers.
+Policy users typically are interested in annual total emission only.
+
+
+=== Scientific use ===
+Air quality models need input to describe all air pollution sources in the study area. Air emission inventories provide this type of information. Depending on the spatial and temporal resolution of the models, the spatial and temporal resolution of the inventories frequently has to be increased beyond what is available from national emission inventories as repoprted to the international conventions and protocols.
+
+
+== Compilation ==
+For each of the pollutants in the inventory emissions are typically estimated by multiplying the intensity of each relevant activity ('activity rate') in the geographical area and time span with a pollutant dependent proportionality constant ('emission factor').
+
+
+=== Why: the source categories ===
+To compile an emission inventory, all sources of the pollutants must be identified and quantified. Frequently used source categorisations are
+those defined by the Intergovernmental Panel on Climate Change (IPCC) in the Revised 1996 IPCC Guidelines for National Greenhouse Gas Inventories, IPCC Good practice guidance and uncertainty management in national greenhouse gas inventories, IPCC Good practice guidance for land use, land use change and forestry and more recently the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+those defined in the UNECE Convention on Long-Range Transboundary Air Pollution (LRTAP); recently the LRTAP Convention adopted a source categorisation that is largely consistent with those of IPCC, to replace the more technology oriented Standardized Nomenclature for Air Pollutants (SNAP) used until 2005.
+Both source categorisations make a clear distinction between sources related to the combustion of (fossil) fuels and those that are not caused by combustion. In most cases the specific fuel combusted in the former is added to the source definition. Source categories include:
+Energy
+Fuel combustion
+Stationary combustion
+Industrial combustion
+Residential heating
+
+Mobile combustion (transport)
+
+Fugitive emissions from (fossil) fuel use
+
+Industrial Processes
+Solvent and other product use
+Agriculture
+LULUCF (Land Use, Land Use Change and Forestry)
+Waste
+Many researchers and research projects use their own source classifications, sometimes based on either the IPCC or the SNAP source categories, but in most cases the source categories listed above will be included.
+
+
+=== What: the pollutants ===
+Emission inventories have been developed and still are being developed for two major groups of pollutants:
+Greenhouse gases:
+Carbon dioxide (CO2),
+Methane (CH4),
+Nitrous oxide (N2O) and
+A number of fluorinated gaseous compounds (HFCs, PFCs, SF6)
+Other greenhouse gases, not included in the United Nations Framework Convention on Climate Change (UNFCCC)
+
+Air pollutants:
+Acidifying pollutants: sulphur dioxide (SO2), nitrogen oxides (NOx, a combination of nitrogen monoxide, NO and nitrogen dioxide, NO2) and ammonia (NH3),
+Photochemical smog precursors: again nitrogen oxides and non-methane volatile organic compounds (NMVOCs)
+Particulates and particulate precursors
+Toxic pollutants like heavy metals and persistent organic pollutants
+Carbon monoxide (CO)
+
+
+=== Where: geographical resolution ===
+Typically national inventories provide data summed at the national territory only. In some cases additional information on major industrial stacks ('point sources') is available. Stacks are also called release points, because not all emissions come from stacks. Other industrial sources include fugitive emissions, which cannot be attributed to any single release point.
+Some inventories are compiled from sub-national entities such as states and counties (in the U.S.), which can provide additional spatial resolution.
+In scientific applications, where higher resolutions are needed, geographical information such as population densities, land use or other data can provide tools to disaggregate the national level emissions to the required resolution, matching the geographical resolution of the model.
+
+
+=== When: temporal resolution ===
+Similarly, national emission inventories provide total emissions in a specific year, based on national statistics. In some model applications higher temporal resolutions are needed, for instance when modelling air quality problems related to road transport. In such cases data on time dependent traffic intensities (rush hours, weekends and working days, summer and winter driving patterns, etc.) can be used to establish the required higher temporal resolution.
+Inventories compiled from Continuous Emissions Monitors (CEMs) can provide hourly emissions data.
+
+
+=== How: methodology to compile an emission inventory ===
+The European Environment Agency updated in 2007 the third edition of the inventory guidebook. The guidebook is prepared by the UNECE/EMEP Task Force on Emission Inventories and Projections and provides a detailed guide to the atmospheric emissions inventory methodology. Especially for Road Transport the European Environment Agency finances COPERT 4, a software program to calculate emissions which will be included in official annual national inventories.
+
+
+== Quality ==
+The quality of an emission inventory depends on its use. In policy applications, the inventory should comply with all what has been decided under the relevant convention. Both the UNFCCC and LRTAP conventions require an inventory to follow the quality criteria below (see ):
+A well constructed inventory should include enough documentation and other data to allow readers and users to understand the underlying assumptions and to assess its usability in an intended application.
+
+
+== See also ==
+Emission factor
+Emissions & Generation Resource Integrated Database
+Greenhouse gas inventory
+
+
+== Notes ==
+^ UNECE Arhus Convention
+^ Greenhouse gas emission inventories can be found at the UNFCCC website at [1]
+^ Guidelines for the preparation of national communications by Parties included in Annex I to the Convention, Part I: UNFCCC reporting guidelines on annual inventories (following incorporation of the provisions of decision 13/CP.9)
+
+
+== Sources and further reading ==
+United Nations Framework Convention on Climate Change
+Intergovernmental Panel on Climate Change
+U.S. Environmental Protection Agency: Clearinghouse for Inventories and Emissions Factors
+U.S. Environmental Protection Agency: National Greenhouse Gas Emissions Data
+U.S. Environmental Protection Agency: Toxics Release Inventory
+European Environment Agency EMEP/CORINAIR Emission Inventory Guidebook 2009
+U.S. Toxic Air Emissions Map
+COPERT 4 - Computer Programme to Calculate Emissions from Road Transport
+Methodology for the calculation of exhaust emissions - Road Transport

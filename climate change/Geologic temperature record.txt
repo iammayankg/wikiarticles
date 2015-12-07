@@ -1,0 +1,60 @@
+The Geologic temperature record are changes in Earth's environment as determined from geologic evidence on multi-million to billion (109) year time scales. The study of past temperatures provides an important paleoenvironmental insight because it is a crucial component of the climate and oceanography of the time.
+
+
+== Evidence for past temperatures ==
+
+Our evidence for past temperatures comes mainly from isotopic considerations (especially δ18O); the Mg/Ca ratio of foram tests, and alkenones, are also useful. Often, many are used in conjunction to get a multi-proxy estimate for the temperature. This has proved crucial in studies on glacial/interglacial temperature.
+
+
+== Description of the temperature record ==
+
+
+=== Recent past ===
+
+The last 3 million years have been characterized by cycles of glacials and interglacials within a gradually deepening ice age. These cycles involve the growth and retreat of continental ice sheets in the Northern Hemisphere and involve fluctuations on 40,000 and 100,000 year time scales. Such cycles are usually interpreted as being driven by predictable changes in the Earth orbit known as Milankovitch cycles. The gradual intensification of this ice age over the last 3 million years has been associated with declining concentrations of the greenhouse gas carbon dioxide, though it remains unclear if this change is sufficiently large to have caused the changes in temperatures. Decreased temperatures can cause a decrease in carbon dioxide as, by Henry's Law, carbon dioxide is more soluble in colder waters, which may account for 30ppmv of the 100ppmv decrease in carbon dioxide concentration during the last glacial maximum. [1]
+Similarly, the initiation of this deepening phase also corresponds roughly to the closure of the Isthmus of Panama by the action of plate tectonics. This prevented direct ocean flow between the Pacific and Atlantic, which would have had significant effects on ocean circulation and the distribution of heat. However, modeling studies have been ambiguous as to whether this could be the direct cause of the intensification of the present ice age.
+This recent period of cycling climate is part of the more extended ice age that began about 40 million years ago with the glaciation of Antarctica.
+
+
+=== Initial Eocene thermal maxima ===
+
+In the earliest part of the Eocene period, a series of abrupt thermal spikes have been observed, lasting no more than a few hundred thousand years. The most pronounced of these, the Paleocene-Eocene Thermal Maximum (PETM) is visible in the figure at right. These are usually interpreted as caused by abrupt releases of methane from clathrates (frozen methane ices that accumulate at the bottom of the ocean), though some scientists dispute that methane would be sufficient to cause the observed changes. During these events, temperatures in the Arctic Ocean may have reached levels more typically associated with modern temperate (i.e. mid-latitude) oceans. During the PETM, the global mean temperature seems to have risen by as much as 5-8°C (9-14°F) to an average temperature as high as 23°C (73°F), in contrast to the global average temperature of today at just under 15°C (60°F). Geologists and paleontologists think that during much of the Paleocene and early Eocene, the poles were free of ice caps, and palm trees and crocodiles lived above the Arctic Circle, while much of the continental United States had a sub-tropical environment.
+
+
+=== Cretaceous thermal optimum ===
+
+During the later portion of the Cretaceous, from 65 to 100 million years ago, average global temperatures reached their highest level during the last ~200 million years. This is likely the result of a favorable configuration of the continents during this period that allowed for improved circulation in the oceans and discouraged the formation of large scale ice sheet. Perhaps the visible anecdotal evidence of high temperatures during this period was the occurrence of deciduous forests extending all the way to the poles.
+
+
+=== Fluctuations during the remainder of the Phanerozoic ===
+
+The Phanerozoic eon, encompassing the last 542 million years and almost the entire time since the origination of complex multi-cellular life, has more generally been a period of fluctuating temperature between ice ages, such as the current age, and "climate optima", similar to what occurred in the Cretaceous. Roughly 4 such cycles have occurred during this time with an approximately 140 million year separation between climate optima. In addition to the present, ice ages have occurred during the Permian-Carboniferous interval and the late Ordovician-early Silurian. There is also a "cooler" interval during the Jurassic and early Cretaceous, with evidence of increased sea ice, but the lack of continents at either pole during this interval prevented the formation of continental ice sheets and consequently this is usually not regarded as a full-fledged ice age. In between these cold period, warmer conditions were present and often referred to as climate optima. However, it has been difficult to determine whether these warmer intervals were actually hotter or colder than occurred during the Cretaceous optima.
+
+
+=== Late Proterozoic ice ages ===
+The Neoproterozoic era (1,000 to 541 million years ago), provides evidence of at least two and possibly more major glaciations. The more recent of these ice ages, encompassing the Marinoan & Varangian glacial maxima (about 560 to 650 million years ago), has been proposed as a snowball Earth event with continuous sea ice reaching nearly to the equator. This is significantly more severe than the ice age during the Phanerozoic. Because this ice age terminated only slightly before the rapid diversification of life during the Cambrian explosion, it has been proposed that this ice age (or at least its end) created conditions favorable to evolution. The earlier Sturtian glacial maxima (~730 million years) may also have been a snowball Earth event though this is unproven.
+The changes that lead to the initiation of snowball Earth events are not well known, but it has been argued that they necessarily lead to their own end. The widespread sea ice prevents the deposition of fresh carbonates in ocean sediment. Since such carbonates are part of the natural process for recycling carbon dioxide, short-circuiting this process allows carbon dioxide to accumulate in the atmosphere. This increases the greenhouse effect and eventually leads to higher temperatures and the retreat of sea ice.
+
+
+=== Overall view ===
+Direct combination of these interpreted geological temperature records is not necessarily valid, nor is their combination with other more recent temperature records, which may use different definitions. Nevertheless, an overall perspective is useful even when imprecise. In this view time is plotted backwards from the present, taken as 2015 CE. It is scaled linear in five separate segments, expanding by about an order of magnitude at each vertical break. Temperatures in the left-hand panel are very approximate, and best viewed as a qualitative indication only. Further information is given on the graph description page.
+
+
+=== Other temperature changes in Earth's past ===
+Prior to the Neoproterozoic, evidence of temperature changes and glaciation is usually too scattered and sporadic to draw firm conclusions though it seems likely that temperature fluctuations were also substantial during this period.
+Some evidence does exist however that the period of 2,000 to 3,000 million years ago was very generally colder and more glaciated than the last 500 million years. This is thought to be the result of solar radiation approximately 20% lower than today. Solar luminosity was 30% dimmer when the sun formed 4.5 billion years ago, and it is expected to increase in luminosity approximately 10% per billion years in the future.
+On very long time scales, the evolution of the sun is also an important factor in determining Earth's climate. According to standard solar theories, the sun will gradually have increased in brightness as a natural part of its evolution after having started with an intensity approximately 70% of its modern value. The initially low solar radiation, if combined with modern values of greenhouse gases, would not have been sufficient to allow for liquid oceans on the surface of the Earth. However, evidence of liquid water at the surface has been demonstrated as far back as 3,500 million years ago. This is known as the faint young sun paradox and is usually explained by invoking much larger greenhouse gas concentrations in Earth's early history, though such proposals are poorly constrained by existing experimental evidence.
+
+
+== See also ==
+Climate state
+Satellite temperature measurements
+Instrumental temperature record
+Global warming
+Global cooling
+Milankovitch cycles
+Ocean heat content
+Sea surface temperature
+
+
+== References ==

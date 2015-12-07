@@ -1,0 +1,43 @@
+The environmental impact of biodiesel is diverse.
+
+
+== Greenhouse gas emissions ==
+
+An often mentioned incentive for using biodiesel is its capacity to lower greenhouse gas emissions compared to those of fossil fuels. Whether this is true or not depends on many factors. Especially the effects from land use change have potential to cause even more emissions than what would be caused by using fossil fuels alone.
+Carbon dioxide is one of the major greenhouse gases. Although the burning of biodiesel produces carbon dioxide emissions similar to those from ordinary fossil fuels, the plant feedstock used in the production absorbs carbon dioxide from the atmosphere when it grows. Plants absorb carbon dioxide through a process known as photosynthesis which allows it to store energy from sunlight in the form of sugars and starches. After the biomass is converted into biodiesel and burned as fuel the energy and carbon is released again. Some of that energy can be used to power an engine while the carbon dioxide is released back into the atmosphere.
+When considering the total amount of greenhouse gas emissions it is therefore important to consider the whole production process and what indirect effects such production might cause. The effect on carbon dioxide emissions is highly dependent on production methods and the type of feedstock used. Calculating the carbon intensity of biofuels is a complex and inexact process, and is highly dependent on the assumptions made in the calculation. A calculation usually includes:
+Emissions from growing the feedstock (e.g. Petrochemicals used in fertilizers)
+Emissions from transporting the feedstock to the factory
+Emissions from processing the feedstock into biodiesel
+Other factors can be very significant but are sometimes not considered. These include:
+Emissions from the change in land use of the area where the fuel feedstock is grown.
+Emissions from transportation of the biodiesel from the factory to its point of use
+The efficiency of the biodiesel compared with standard diesel
+The amount of Carbon Dioxide produced at the tail pipe. (Biodiesel can produce 4.7% more)
+The benefits due to the production of useful by-products, such as cattle feed or glycerine
+If land use change is not considered and assuming today's production methods, biodiesel from rapeseed and sunflower oil produce 45%-65% lower greenhouse gas emissions than petrodiesel. However, there is ongoing research to improve the efficiency of the production process. Biodiesel produced from used cooking oil or other waste fat could reduce CO2 emissions by as much as 85%. As long as the feedstock is grown on existing cropland, land use change has little or no effect on greenhouse gas emissions. However, there is concern that increased feedstock production directly affects the rate of deforestation. Such clearcutting cause carbon stored in the forest, soil and peat layers to be released. The amount of greenhouse gas emissions from deforestation is so large that the benefits from lower emissions (caused by biodiesel use alone) would be negligible for hundreds of years. Biofuel produced from feedstock such as palm oil could therefore cause much higher carbon dioxide emissions than some types of fossil fuels.
+
+
+== Pollution ==
+In the United States, biodiesel is the only alternative fuel to have successfully completed the Health Effects Testing requirements (Tier I and Tier II) of the Clean Air Act (1990).
+Biodiesel can reduce the direct tailpipe-emission of particulates, small particles of solid combustion products, on vehicles with particulate filters by as much as 20 percent compared with low-sulfur (< 50 ppm) diesel. Particulate emissions as the result of production are reduced by around 50 percent compared with fossil-sourced diesel. (Beer et al., 2004). Biodiesel has a higher cetane rating than petrodiesel, which can improve performance and clean up emissions compared to crude petro-diesel (with cetane lower than 40). Biodiesel contains fewer aromatic hydrocarbons: benzofluoranthene: 56% reduction; Benzopyrenes: 71% reduction.
+
+
+== Biodegradation ==
+A University of Idaho study compared biodegradation rates of biodiesel, neat vegetable oils, biodiesel and petroleum diesel blends, and neat 2-D diesel fuel. Using low concentrations of the product to be degraded (10 ppm) in nutrient and sewage sludge amended solutions, they demonstrated that biodiesel degraded at the same rate as a dextrose control and 5 times as quickly as petroleum diesel over a period of 28 days, and that biodiesel blends doubled the rate of petroleum diesel degradation through co-metabolism. The same study examined soil degradation using 10 000 ppm of biodiesel and petroleum diesel, and found biodiesel degraded at twice the rate of petroleum diesel in soil. In all cases, it was determined biodiesel also degraded more completely than petroleum diesel, which produced poorly degradable undetermined intermediates. Toxicity studies for the same project demonstrated no mortalities and few toxic effects on rats and rabbits with up to 5000 mg/kg of biodiesel. Petroleum diesel showed no mortalities at the same concentration either, however toxic effects such as hair loss and urinary discolouring were noted with concentrations of >2000 mg/l in rabbits.:
+
+
+== Biodegradation in Aquatic Environments ==
+As biodiesel becomes more widely used, it is important to consider how consumption affects water quality and aquatic ecosystems. Research examining the biodegradability of different biodiesel fuels found that all of the biofuels studied (including Neat Rapeseed oil, Neat Soybean oil, and their modified ester products) were “readily biodegradable” compounds, and had a relatively high biodegradation rate in water. Additionally, the presence of biodiesel can increase the rate of diesel biodegradation via co-metabolism. As the ratio of biodiesel is increased in biodiesel/diesel mixtures, the faster the diesel is degraded. Another study using controlled experimental conditions also showed that fatty acid methyl esters, the primary molecules in biodiesel, degraded much faster than petroleum diesel in sea water.
+
+
+== Carbonyl Emissions ==
+When considering the emissions from fossil fuel and biofuel use, research typically focuses on major pollutants such as hydrocarbons. It is generally recognized that using biodiesel in place of diesel results in a substantial reduction in regulated gas emissions, but there has been a lack of information in research literature about the non-regulated compounds which also play a role in air pollution. One study focused on the emissions of non-criteria carbonyl compounds from the burning of pure diesel and biodiesel blends in heavy-duty diesel engines. The results found that carbonyl emissions of formaldehyde, acetaldehyde, acrolein, acetone, propionaldehyde and butyraldehyde, were higher in biodiesel mixtures than emissions from pure diesel. Biodiesel use results in higher carbonyl emissions but lower total hydrocarbon emissions, which may be better as an alternative fuel source. Other studies have been done which conflict with these results, but comparisons are difficult to make due to various factors that differ between studies (such as types of fuel and engines used). In a paper which compared 12 research articles on carbonyl emissions from biodiesel fuel use, it found that 8 of the papers reported increased carbonyl compound emissions while 4 showed the opposite. This is evidence that there is still much research required on these compounds.
+
+
+== See also ==
+Sustainable biofuel
+Issues relating to biofuels
+
+
+== References ==

@@ -1,0 +1,72 @@
+Bio-energy with carbon capture and storage (BECCS) is a greenhouse gas mitigation technology which produces negative carbon dioxide emissions by combining bioenergy (energy from biomass) use with geologic carbon capture and storage. The concept of BECCS is drawn from the integration of trees and crops, which extract carbon dioxide (CO2) from the atmosphere as they grow, the use of this biomass in processing industries or power plants, and the application of carbon capture and storage via CO2 injection into geological formations. There are other non-BECCS forms of carbon dioxide removal and storage that include technologies such as biochar, carbon dioxide air capture and biomass burial.
+According to a recent Biorecro report, there is 550 000 tonnes CO2/year in total BECCS capacity currently operating, divided between three different facilities (as of January 2012).
+It was pointed out in the IPCC Fourth Assessment Report by the Intergovernmental Panel on Climate Change (IPCC) as a key technology for reaching low carbon dioxide atmospheric concentration targets. The negative emissions that can be produced by BECCS has been estimated by the Royal Society to be equivalent to a 50 to 150 ppm decrease in global atmospheric carbon dioxide concentrations and according to the International Energy Agency, the BLUE map climate change mitigation scenario calls for more than 2 gigatonnes of negative CO2 emissions per year with BECCS in 2050. According to Stanford University, 10 gigatonnes is achievable by this date.
+The Imperial College London, the UK Met Office Hadley Centre for Climate Prediction and Research, the Tyndall Centre for Climate Change Research, the Walker Institute for Climate System Research, and the Grantham Institute for Climate Change issued a joint report on carbon dioxide removal technologies as part of the AVOID: Avoiding dangerous climate change research program, stating that "Overall, of the technologies studied in this report, BECCS has the greatest maturity and there are no major practical barriers to its introduction into today’s energy system. The presence of a primary product will support early deployment."
+According to the OECD, "Achieving lower concentration targets (450 ppm) depends significantly on the use of BECCS".
+
+
+== Negative emissionEdit ==
+
+The main appeal of BECCS is in its ability to result in negative emissions of CO2. The capture of carbon dioxide from bioenergy sources effectively removes CO2 from the atmosphere.
+Bio-energy is derived from biomass which is a renewable energy source and serves as a carbon sink during its growth. During industrial processes, the biomass combusted or processed re-releases the CO2 into the atmosphere. The process thus results in a net zero emission of CO2, though this may be positively or negatively altered depending on the carbon emissions associated with biomass growth, transport and processing, see below under environmental considerations. Carbon capture and storage (CCS) technology serves to intercept the release of CO2 into the atmosphere and redirect it into geological storage locations. CO2 with a biomass origin is not only released from biomass fuelled power plants, but also during the production of pulp used to make paper and in the production of biofuels such as biogas and bioethanol. The BECCS technology can also be employed on such industrial processes.
+It is argued that through the BECCS technology, carbon dioxide is trapped in geologic formations for very long periods of time, whereas for example a tree only stores its carbon during its lifetime. In its report on the CCS technology, IPCC projects that more than 99% of carbon dioxide which is stored through geologic sequestration is likely to stay in place for more than 1000 years. While other types of carbon sinks such as the ocean, trees and soil may involve the risk of negative feedback loops at increased temperatures, BECCS technology is likely to provide a better permanence by storing CO2 in geological formations.
+The amount of CO2 that has been released to date is believed to be too much to be able to be absorbed by conventional sinks such as trees and soil in order to reach low emission targets. In addition to the presently accumulated emissions, there will be significant additional emissions during this century, even in the most ambitious low-emission scenarios. BECCS has therefore been suggested as a technology to reverse the emission trend and create a global system of net negative emissions. This implies that the emissions would not only be zero, but negative, so that not only the emissions, but the absolute amount of CO2 in the atmosphere would be reduced.
+
+
+== ApplicationEdit ==
+
+
+== TechnologyEdit ==
+
+The main technology for CO2 capture from biotic sources generally employs the same technology as carbon dioxide capture from conventional fossil fuel sources. Broadly, three different types of technologies exist: post-combustion, pre-combustion, and oxy-fuel combustion.
+However, on the critical subject of "upstream large-scale provision of the biomass" (IPCC WG3 Summary for Policymakers) cultivation/refinery technology, marine based BECCS (i.e. MBECS) operations, within the sub-tropical convergence zones (STCZ), offers a unique combination of stable oceanic environmental conditions which can physically accommodate vast MBECS operations while avoiding the long list of limiting factors found within terrestrial BECCS. The STCZs are marine deserts with no practical levels of biological activity within the surface or nutricline waters and which also offers vast amounts of renewable energy for cultivation/processing of the biomass.
+The raw nutrients found within the nutricline can be used to support vast scale biomass production with only mineral importation. The cultivation of both micro and macro algal species can be augmented with terrestrial species such as halophytes (for oil) and bamboo (for Cellulosic ethanol) grown through aquaponic sub-systems. The use of non-photosynthesis dependent cultivation methods, such as described in the paper: "Reduction of Carbon Dioxide Coupled with the Oxyhydrogen Reaction in Algae, expands micro algal cultivation into all three dimensions. Farming down the water column to 50+ meters is possible. Also, a broad spectrum of critical (non-fuel) commodities, such as food/feed/fertilizer/plastic and vast volumes of freshwater production, can economically subsidize MBECS biofuel production at sub fossil fuel prices.
+Based upon reasonable assumptions concerning biofuel production output for 1 km2 under the MBECS scenario, the total global replacement of fossil fuels can be achieved at <1.5M km2 of MBECS operations. Global replacement of fossil fuels is achievable within 20 years, while within that same time frame, all energy importing nations can achieve energy independence through involvement in the IMBECS Protocol.
+The coordination of an internationally collaborative MBECS effort is the focus of the Intergovernmental Marine Bio-Energy and Carbon Sequestration (IMBECS) Protocol (developed by Michael Hayes).
+
+
+== CostEdit ==
+The sustainable technical potential for net negative emissions with BECCS has been estimated to 10 Gt of CO2 equivalent annually, with an economic potential of up to 3.5 Gt of CO2 equivalent annually at a cost of less than 50 €/tonne, and up to 3.9 Gt of CO2 equivalent annually at a cost of less than 100 €/tonne.
+
+
+== PolicyEdit ==
+Based on the current Kyoto Protocol agreement, carbon capture and storage projects are not applicable as an emission reduction tool to be used for the Clean Development Mechanism (CDM) or for Joint Implementation (JI) projects. Recognising CCS technologies as an emission reduction tool is vital for the implementation of such plants as there is no other financial motivation for the implementation of such systems. There has been growing support to have fossil CCS and BECCS included in the protocol. Accounting studies on how this can be implemented, including BECCS, have also been done.
+
+
+== Techno-economics of BECCS and the TESBiC ProjectEdit ==
+The largest and most detailed techno-economic assessment of BECCS was carried out by cmcl innovations and the TESBiC group (Techno-Economic Study of Biomass to CCS) in 2012. This project recommended the post promising set of biomass fuelled power generation technologies coupled with carbon capture and storage (CCS). The project outcomes lead to a detailed “biomass CCS roadmap” for the U.K..
+
+
+== Environmental considerationsEdit ==
+
+Some of the environmental considerations and other concerns about the widespread implementation of BECCS are similar to those of CCS. However, much of the critique towards CCS is that it may strengthen the dependency on depletable fossil fuels and environmentally invasive coal mining. This is not the case with BECCS, as it relies on renewable biomass. There are however other considerations which involve BECCS and these concerns are related to the possible increased use of biofuels.
+Biomass production is subject to a range of sustainability constraints, such as: scarcity of arable land and fresh water, loss of biodiversity, competition with food production, deforestation and scarcity of phosphorus. It is important to make sure that biomass is used in a way that maximizes both energy and climate benefits. There has been criticism to some suggested BECCS deployment scenarios, where there would be a very heavy reliance on increased biomass input.
+These systems may have other negative side effects. There is however presently no need to expand the use of biofuels in energy or industry applications to allow for BECCS deployment. There is already today considerable emissions from point sources of biomass derived CO2, which could be utilized for BECCS. Though, in possible future bio-energy system upscaling scenarios, this may be an important consideration.
+The BECCS process allows CO2 to be collected and stored directly from the atmosphere, rather than from a fossil source. This implies that any eventual emissions from storage may be recollected and restored simply by reiterating the BECCS-process. This is not possible with CCS alone, as CO2 emitted to the atmosphere cannot be restored by burning more fossil fuel with CCS.
+
+
+== See alsoEdit ==
+
+Bioenergy
+Carbon dioxide removal
+Carbon negative
+Climate change mitigation scenarios
+Climate engineering
+List of emerging technologies
+Low-carbon economy
+United Nations Environment Programme
+Virgin Earth Challenge
+
+
+== ReferencesEdit ==
+
+
+== External linksEdit ==
+Biorecro
+IEA Greenhouse Gas Programme
+Grantham Institute at the Imperial College, London
+The Natural Step Intl.
+Tyndall Center
+UNIDO
+University of Edinburgh/Tyndall Center
+Zero Emission Resource Organisation(ZERO)

@@ -1,0 +1,68 @@
+In radiometry (measurement of electromagnetic radiation), irradiance is the radiant flux (power) received by a surface per unit area, and spectral irradiance is the irradiance of a surface per unit frequency or wavelength, depending on whether the spectrum is taken as a function of frequency or of wavelength. The SI unit of irradiance is the watt per square metre (W/m2), while that of spectral irradiance is the watt per square metre per hertz (W·m−2·Hz−1) or the watt per square metre per metre (W·m−3)—commonly the watt per square metre per nanometre (W·m−2·nm−1). The CGS unit erg per square centimetre per second (erg·cm−2·s−1) is often used in astronomy. Irradiance is often called "intensity" in branches of physics other than radiometry, but in radiometry this usage leads to confusion with radiant intensity.
+
+
+== Mathematical definitions ==
+
+
+=== Irradiance ===
+Irradiance of a surface, denoted Ee ("e" for "energetic", to avoid confusion with photometric quantities), is defined as
+
+where
+∂ is the partial derivative symbol;
+Φe is the radiant flux received;
+A is the area.
+If we want to talk about the radiant flux emitted by a surface, we speak of radiant exitance.
+
+
+=== Spectral irradiance ===
+Spectral irradiance in frequency of a surface, denoted Ee,ν, is defined as
+
+where ν is the frequency.
+Spectral irradiance in wavelength of a surface, denoted Ee,λ, is defined as
+
+where λ is the wavelength.
+
+
+== Property ==
+Irradiance of a surface is also, according to the definition of radiant flux, equal to the time-average of the component of the Poynting vector perpendicular to the surface:
+
+where
+< • > is the time-average;
+S is the Poynting vector;
+n is a unit vector normal to that surface;
+α is the angle between n and S.
+For a propagating sinusoidal linearly polarized electromagnetic plane wave, the Poynting vector always points to the direction of propagation while oscillating in magnitude. The irradiance of a surface is then given by
+
+where
+Em is the amplitude of the wave's electric field;
+n is the refractive index of the medium of propagation;
+c is the speed of light in vacuum;
+μ0 is the vacuum permeability;
+ε0 is the vacuum permittivity.
+This formula assumes that the magnetic susceptibility is negligible, i.e. that μr ≈ 1 where μr is the magnetic permeability of the propagation medium. This assumption is typically valid in transparent media in the optical frequency range.
+
+
+== Solar energy ==
+The global irradiance on a horizontal surface on Earth consists of the direct irradiance Ee,dir and diffuse irradiance Ee,diff. On a tilted plane, there is another irradiance component, Ee,refl, which is the component that is reflected from the ground. The average ground reflection is about 20% of the global irradiance. Hence, the irradiance Ee on a tilted plane consists of three components:
+
+The integral of solar irradiance over a time period is called "solar exposure" or "insolation".
+
+
+== SI radiometry units ==
+
+
+== See also ==
+Illuminance
+Spectral flux density
+Albedo
+Fluence
+Insolation
+Light diffusion
+PI curve (photosynthesis-irradiance curve)
+Solar azimuth angle
+Solar irradiation
+Solar noon
+Stefan–Boltzmann law
+
+
+== References ==

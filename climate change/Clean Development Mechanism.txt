@@ -1,0 +1,230 @@
+The Clean Development Mechanism (CDM) is one of the Flexible Mechanisms defined in the Kyoto Protocol (IPCC, 2007) that provides for emissions reduction projects which generate Certified Emission Reduction units which may be traded in emissions trading schemes.
+The CDM is defined in Article 12 of the Protocol, and is intended to meet two objectives: (1) to assist parties not included in Annex I in achieving sustainable development and in contributing to the ultimate objective of the United Nations Framework Convention on Climate Change (UNFCCC), which is to prevent dangerous climate change; and (2) to assist parties included in Annex I in achieving compliance with their quantified emission limitation and reduction commitments (greenhouse gas (GHG) emission caps). "Annex I" parties are those countries that are listed in Annex I of the treaty, and are the industrialized countries. Non-Annex I parties are developing countries.
+The CDM addresses the second objective by allowing the Annex I countries to meet part of their emission reduction commitments under the Kyoto Protocol by buying Certified Emission Reduction units from CDM emission reduction projects in developing countries (Carbon Trust, 2009, p. 14). The projects and the issue of CERs is subject to approval to ensure that these emission reductions are real and "additional." The CDM is supervised by the CDM Executive Board (CDM EB) and is under the guidance of the Conference of the Parties (COP/MOP) of the United Nations Framework Convention on Climate Change (UNFCCC).
+The CDM allows industrialized countries to buy CERs and to invest in emission reductions where it is cheapest globally (Grubb, 2003, p. 159). Between 2001, which was the first year CDM projects could be registered and 7 September 2012, the CDM issued 1 billion Certified Emission Reduction units. As of 1 June 2013, 57% of all CERs had been issued for projects based on destroying either HFC-23 (38%) or N2O (19%). Carbon capture and storage (CCS) was included in the CDM carbon offsetting scheme in December 2011.
+However, a number of weaknesses of the CDM have been identified (World Bank, 2010, p. 265-267). Several of these issues were addressed by the new Program of Activities (PoA) that moves to approving 'bundles' of projects instead of accrediting each project individually. In 2012, the report Climate change, carbon markets and the CDM: A call to action said governments urgently needed to address the future of the CDM. It suggested the CDM was in danger of collapse because of the low price of carbon and the failure of governments to guarantee its existence into the future. Writing on the website of the Climate & Development Knowledge Network, Yolanda Kakabadse, a member of the investigating panel for the report and founder of Fundacion Futuro Latinamericano, said a strong CDM is needed to support the political consensus essential for future climate progress. "Therefore we must do everything in our hands to keep it working," she said.
+
+
+== History ==
+The CDM is one of the "flexibility mechanisms" that is defined in the Kyoto Protocol. The flexibility mechanisms are designed to allow Annex B countries to meet their emission reduction commitments with reduced impact on their economies (IPCC, 2007). The flexibility mechanisms were introduced to the Kyoto Protocol by the US government. Developing countries were highly skeptical and fiercely opposed to the flexibility mechanisms (Carbon Trust, 2009, p. 6). However, in the international negotiations over the follow-up to the Kyoto Protocol, it has been agreed that the mechanisms will continue.
+
+
+== Purpose ==
+The purpose of the CDM is to promote clean development in developing countries, i.e., the "non-Annex I" countries (countries that aren't listed in Annex I of the Framework Convention). The CDM is one of the Protocol's "project-based" mechanisms, in that the CDM is designed to promote projects that reduce emissions. The CDM is based on the idea of emission reduction "production" (Toth et al., 2001, p. 660). These reductions are "produced" and then subtracted against a hypothetical "baseline" of emissions. The emissions baseline are the emissions that are predicted to occur in the absence of a particular CDM project. CDM projects are "credited" against this baseline, in the sense that developing countries gain credit for producing these emission cuts.
+The economic basis for including developing countries in efforts to reduce emissions is that emission cuts are thought to be less expensive in developing countries than developed countries (Goldemberg et al., 1996, p. 30; Grubb, 2003, p. 159). For example, in developing countries, environmental regulation is generally weaker than it is in developed countries (Sathaye et al., 2001, p. 387-389). Thus, it is widely thought that there is greater potential for developing countries to reduce their emissions than developed countries.
+From the viewpoint of bringing about a global reduction in emissions, emissions from developing countries are projected to increase substantially over this century (Goldemberg et al., 1996, p. 29). Infrastructure decisions made in developing countries could therefore have a very large influence on future efforts to limit total global emissions (Fisher et al., 2007). The CDM is designed to start off developing countries on a path towards less pollution, with industrialised (Annex B) countries paying for these reductions.
+There were two main concerns about the CDM (Carbon Trust, 2009, pp. 14–15). One was over the additionality of emission reductions produced by the CDM (see the section on additionality). The other was whether it would allow rich, northern countries, and in particular, companies, to impose projects that were contrary to the development interests of host countries. To alleviate this concern, the CDM requires host countries to confirm that CDM projects contribute to their own sustainable development. International rules also prohibit credits for some kind of activities, notably from nuclear power and avoided deforestation.
+To prevent industrialised countries from making unlimited use of CDM, the framework has a provision that use of CDM be ‘supplemental’ to domestic actions to reduce emissions. This wording has led to a wide range of interpretations - the Netherlands for example aims to achieve half of its required emission reductions (from a BAU baseline) by CDM. It treats Dutch companies' purchases of European Emissions Trading Scheme allowances from companies in other countries as part of its domestic actions.
+The CDM gained momentum in 2005 after the entry into force of the Kyoto Protocol. Before the Protocol entered into force, investors considered this a key risk factor. The initial years of operation yielded fewer CDM credits than supporters had hoped for, as Parties did not provide sufficient funding to the EB. This left it understaffed.
+The Adaptation Fund was established to finance concrete adaptation projects and programmes in developing countries that are Parties to the Kyoto Protocol. The Fund is to be financed with a share of proceeds from clean development mechanism (CDM) project activities and receive funds from other sources.
+
+
+== CDM project process ==
+
+
+=== Outline ===
+An industrialised country that wishes to get credits from a CDM project must obtain the consent of the developing country hosting the project that the project will contribute to sustainable development. Then, using methodologies approved by the CDM Executive Board (EB), the applicant (the industrialised country) must make the case that the carbon project would not have happened anyway (establishing additionality), and must establish a baseline estimating the future emissions in absence of the registered project. The case is then validated by a third party agency, called a Designated Operational Entity (DOE), to ensure the project results in real, measurable, and long-term emission reductions. The EB then decides whether or not to register (approve) the project. If a project is registered and implemented, the EB issues credits, called Certified Emission Reductions (CERs, commonly known as carbon credits, where each unit is equivalent to the reduction of one metric tonne of CO2e, e.g. CO2 or its equivalent), to project participants based on the monitored difference between the baseline and the actual emissions, verified by the DOE.
+
+
+=== Additionality ===
+To avoid giving credits to projects that would have happened anyway ("freeriders"), rules have been specified to ensure additionality of the proposed project, that is, to ensure the project reduces emissions more than would have occurred in the absence of the intervention created by the CDM. At present, the CDM Executive Board deems a project additional if its proponents can document that realistic alternative scenarios to the proposed project would be more economically attractive or that the project faces barriers that CDM helps it overcome. Current Guidance from the EB is available at the UNFCCC website.
+
+
+=== Baseline ===
+The determination of additionality and the calculation of emission reductions depends on the emissions that would have occurred without the project minus the emissions of the project. Accordingly, the CDM process requires an established baseline or comparative emission estimate. The construction of a project baseline often depends on hypothetical scenario modeling, and may be estimated through reference to emissions from similar activities and technologies in the same country or other countries, or to actual emissions prior to project implementation. The partners involved in the project could have an interest in establishing a baseline with high emissions, which would yield a risk of awarding spurious credits. Independent third party verification is meant to avoid this potential problem.
+
+
+=== Methodologies ===
+Any proposed CDM project has to use an approved baseline and monitoring methodology to be validated, approved and registered. Baseline Methodology will set steps to determine the baseline within certain applicability conditions whilst monitoring methodology will set specific steps to determine monitoring parameters, quality assurance, equipment to be used, in order to obtain data to calculate the emission reductions. Those approved methodologies are all coded:
+AM - Approved Methodology
+ACM - Approved Consolidated Methodology
+AMS - Approved Methodology for Small Scale Projects
+ARAM - Aforestation and Reforestation Approved Methodologies
+All baseline methodologies approved by Executive Board are publicly available along with relevant guidance on the UNFCCC CDM website. If a DOE determines that a proposed project activity intends to use a new baseline methodology, it shall, prior to the submission for registration of this project activity, forward the proposed methodology to the EB for review, i.e. consideration and approval, if appropriate.
+
+
+== Economics ==
+According to Burniaux et al., 2009, p. 37, crediting mechanisms like the CDM could play three important roles in climate change mitigation :
+Improve the cost-effectiveness of GHG mitigation policies in developed countries
+Help to reduce "leakage" (carbon leakage) of emissions from developed to developing countries. Leakage is where mitigation actions in one country or economic sector result in another country's or sector's emissions increasing, e.g., through relocation of polluting industries from Annex I to non-Annex I countries (Barker et al., 2007).
+Boost transfers of clean, less polluting technologies to developing countries.
+According to Burniaux et al. (2009, p. 37), the cost-saving potential of a well-functioning crediting mechanism appears to be very large. Compared to baseline costs (i.e., costs where emission reductions only take place in Annex I countries), if the cap on offset use was set at 20%, one estimate suggests mitigation costs could be halved. This cost saving, however, should be viewed as an upper bound: it assumes no transaction costs and no uncertainty on the delivery of emission savings. Annex I countries who stand to gain most from crediting include Australia, New Zealand, and Canada. In this economic model, non-Annex I countries enjoy a slight income gain from exploiting low cost emission reductions. Actual transaction cost in the CDM are rather high, which is problematic for smaller projects. This issue is addressed by the Program of Activities (PoA) modality.
+
+
+=== Difficulties with the CDM ===
+Carbon leakage
+In theory, leakage may be reduced by crediting mechanisms (Burniaux et al., 2009, p. 38). In practice, the amount of leakage partly depends on the definition of the baseline against which credits are granted. The current CDM approach already incorporates some leakage. Thus, reductions in leakage due to the CDM may, in fact, be small or even non-existent.
+Additionality, transaction costs and bottlenecks
+In order to maintain the environmental effectiveness of the Kyoto Protocol, emission savings from the CDM must be additional (World Bank, 2010, p. 265). Without additionality, the CDM amounts to an income transfer to non-Annex I countries (Burniaux et al., 2009, p. 40). Additionality is, however, difficult to prove, and is the subject of vigorous debate.
+Burniaux et al. (2009) commented on the large transaction costs of establishing additionality. Assessing additionality has created delays (bottlenecks) in approving CDM projects. According to World Bank (2010), there are significant constraints to the continued growth of the CDM to support mitigation in developing countries.
+Incentives
+The CDM rewards emissions reductions, but does not penalize emission increases (Burniaux et al., 2009, p. 41). It therefore comes close to being an emissions reduction subsidy. This can create a perverse incentive for firms to raise their emissions in the short-term, with the aim of getting credits for reducing emissions in the long-term.
+Another difficulty is that the CDM might reduce the incentive for non-Annex I countries to cap their emissions. This is because most developing countries benefit more from a well-functioning crediting mechanism than from a world emissions trading scheme (ETS), where their emissions are capped. This is true except in cases where the allocation of emissions rights (i.e., the amount of emissions that each country is allowed to emit) in the ETS is particularly favourable to developing countries.
+Local resistance
+While the C in CDM stands for Clean, most projects might be better defined with the B from Big, from large hydropower to HFC or waste to energy and clean coal projects (which all together make the majority of credits generated through CDM). The argument in favor of the CDM is that it brings development to the South. However, in all continents the mainly Big Development it stands for is resisted by local people in those countries. A global coalition of researchers published a large report on African civil society resistance to CDM projects all over the continent. In New Delhi, India, a grassroots movement of wastepickers is resisting another CDM project on what the makers call 'the waste war' in Delhi. In Panama, a CDM project is blocking peace talks between the Panamanian government and the indigenous Ngöbe-Buglé people. Civil society groups and researchers in both North and South have complained for years that most CDM projects benefit big industries, while doing harm to excluded people. As local protests against CDM projects are arising on every continent, the notion that CDM 'brings development to the South' is contested.
+Market deflation
+Most of the demand for CERs from the CDM comes from the European Union Emissions Trading Scheme which is the largest carbon market. In July 2012, the market price for CERs fell to new record low of 2.67 euros a tonne. This represented a change in price of about 70 percent in a year. Analysts attributed the low CER price to lower prices paid for European Union emissions allowances, the over supply of EU emissions allowances and the slowing European economy.
+In September 2012, The Economist described the CDM as a "complete disaster in the making" and "in need of a radical overhaul". This was because carbon prices, including prices for CERs, had collapsed, from $20 a tonne in August 2008 to below $5 in response to the Eurozone debt crisis reducing industrial activity and the over-allocation of emission allowances under the European Union Emissions Trading Scheme. The Guardian reported that the CDM has "essentially collapsed", due to the prolonged downward trend in the price of CERs, which had been traded for as much as $20 (£12.50) a tonne before the global financial crisis to less than $3. With such low CER prices, potential projects were not commercially viable. In October 2012, CER prices fell to a new low of 1.36 euros a metric tonne on the London ICE Futures Europe exchange. In October 2012 Thomson Reuters Point Carbon calculated that the oversupply of units from the Clean Development Mechanism and Joint Implementation would be 1,400 million units for the period up to 2020 and Point Carbon predicted that Certified Emission Reduction (CER) prices would to drop from €2 to 50 cents. On 12 December 2012 CER prices reached another record low of 31 cents. Bloomberg reported that Certified Emission Reduction prices had declined by 92 percent to 39 each cents in the 2012 year.
+
+
+== Financial issues ==
+With costs of emission reduction typically much lower in developing countries than in industrialised countries, industrialised countries can comply with their emission reduction targets at much lower cost by receiving credits for emissions reduced in developing countries as long as administration costs are low.
+The IPCC has projected GDP losses for OECD Europe with full use of CDM and Joint Implementation to between 0.13% and 0.81% of GDP versus 0.31% to 1.50% with only domestic action.
+While there would always be some cheap domestic emission reductions available in Europe, the cost of switching from coal to gas could be in the order of €40-50 per tonne CO2 equivalent. Certified Emission Reductions from CDM projects were in 2006 traded on a forward basis for between €5 and €20 per tonne CO2 equivalent. The price depends on the distribution of risk between seller and buyer. The seller could get a very good price if it agrees to bear the risk that the project's baseline and monitoring methodology is rejected; that the host country rejects the project; that the CDM Executive Board rejects the project; that the project for some reason produces fewer credits than planned; or that the buyer doesn't get CERs at the agreed time if the international transaction log (the technical infrastructure ensuring international transfer of carbon credits) is not in place by then. The seller can usually only take these risks if the counterparty is deemed very reliable, as rated by international rating agencies.
+
+
+=== Mitigation finance ===
+The revenues of the CDM constitutes the largest source of mitigation finance to developing countries to date (World Bank, 2010, p. 261-262). Over the 2001 to 2012 period, CDM projects could raise $18 billion ($15 billion to $24 billion) in direct carbon revenues for developing countries. Actual revenues will depend on the price of carbon. It is estimated that some $95 billion in clean energy investment benefitted from the CDM over the 2002-08 period.
+
+
+=== Adaptation finance ===
+The CDM is the main source of income for the UNFCCC Adaptation Fund, which was established in 2007 to finance concrete adaptation projects and programmes in developing countries that are parties to the Kyoto Protocol (World Bank, 2010, p. 262-263). The CDM is subject to a 2% levy, which could raise between $300 million and $600 million over the 2008-12 period. The actual amount raised will depend on the carbon price.
+
+
+== CDM projects ==
+
+Since 2000, the CDM has allowed crediting of project-based emission reductions in developing countries (Gupta et al., 2007). By 1 January 2005, projects submitted to the CDM amounted to less than 100 MtCO2e of projected savings by 2012 (Carbon Trust, 2009, p. 18-19). The EU ETS started in January 2005, and the following month saw the Kyoto Protocol enter into force. The EU ETS allowed firms to comply with their commitments by buying offset credits, and thus created a perceived value to projects. The Kyoto Protocol set the CDM on a firm legal footing.
+By the end of 2008, over 4,000 CDM projects had been submitted for validation, and of those, over 1,000 were registered by the CDM Executive Board, and were therefore entitled to be issued CERs (Carbon Trust, 2009, p. 19). In 2010, the World Bank estimated that in 2012, the largest potential for production of CERs would be from China (52% of total CERs) and India (16%) (World Bank, 2010, p. 262). CERs produced in Latin America and the Caribbean would make up 15% of the potential total, with Brazil as the largest producer in the region (7%).
+By 14 September 2012, 4626 projects had been registered by the CDM Executive Board as CDM projects. These projects are expected to result in the issue of 648,232,798 certified emissions reductions. By 14 September 2012, the CDM Board had issued 1 billion CERs, 60% of which originated from projects in China. India, the Republic of Korea, and Brazil were issued with 15%, 9% and 7% of the total CERs.
+The Himachal Pradesh Reforestation Project is claimed to be the world's largest CDM.
+
+
+=== Transportation ===
+There are currently 29 transportation projects registered, the last was registered on February 25, 2013 and is hosted in China. 
+
+
+=== Destruction of HFC-23 ===
+Some CDM projects remove or destroy industrial gases, such as hydrofluorocarbon-23 (HFC-23) and nitrous oxide (N2O). HFC-23 is a potent greenhouse gas (GHG) and is a byproduct from the production of the refrigerant gas chlorodifluoromethane (HCFC-22). The gas HFC-23 is estimated to have a global warming effect 11,000 times greater than carbon dioxide, so destroying a tonne of HFC-23 earns the refrigerant manufacturer 11,000 certified emissions reduction units.
+In 2009, the Carbon Trust estimated that industrial gas projects such as those limiting HFC-23 emissions, would contribute about 20% of the CERs issued by the CDM in 2012. The Carbon Trust expressed the concern that projects for destroying HFC-23 were so profitable that coolant manufacturers could be building new factories to produce the coolant gas. (Carbon Trust, 2009, p. 60). In September 2010, Sandbag estimated that in 2009 59% of the CERs used as offsets in the European Union Emissions Trading Scheme originated from HFC-23 projects.
+An example is the Plascon, Plasma arc plant that was installed by Quimobásicos S.A. de C.V in Monterrey, Mexico to eliminate of HCFC-23, a byproduct of the production of R-22 refrigerant gas.
+From 2005 to June 2012, 19 manufacturers of refrigerants (11 in China, 5 in India, and one each in Argentina, Mexico and South Korea), were issued with 46% of all the certified emissions reduction units from the CDM. David Hanrahan, the technical director of IDEAcarbon believes each plant would probably have earned an average of $20 million to $40 million a year from the CDM. The payments also incentivise the increased production of the ozone-depleting refrigerant HCFC-22, and discourage substitution of HCFC-22 with less harmful refrigerants.
+In 2007 the CDM stopped accepting new refrigerant manufacturers into the CDM. In 2011, the CDM renewed contracts with the nineteen manufacturers on the condition that claims for HFC-23 destruction would be limited to 1 percent of their coolant production. However, in 2012, 18 percent of all CERs issued are expected to go to the 19 coolant plants, compared with 12 percent to 2,372 wind power plants and 0.2 percent to 312 solar projects.
+In January 2011, the European Union Climate Change Committee banned the use of HFC-23 CERs in the European Union Emissions Trading Scheme from 1 May 2013. The ban includes nitrous oxide (N2O) from adipic acid production. The reasons given were the perverse incentives, the lack of additionality, the lack of environmental integrity,the under-mining of the Montreal Protocol, costs and ineffectiveness and the distorting effect of a few projects in advanced developing countries getting too many CERs. From 23 December 2011, CERs from HFC-23 and N2O destruction projects were banned from use in the New Zealand Emissions Trading Scheme, unless they had been purchased under future delivery contracts entered into prior to 23 December 2011. The use of the future delivery contracts ends in June 2013.
+As of 1 June 2013, the CDM had issued 505,125 CERs, or 38% of all CERs issued, to 23 HFC-23 destruction projects. A further 19% (or 255,666 CERs) had been issued to 108 N2O destruction projects.
+
+
+== Barriers ==
+World Bank (n.d., p. 12) described a number of barriers to the use of the CDM in least developed countries (LDCs). LDCs have experienced lower participation in the CDM to date. Four CDM decisions were highlighted as having a disproportionate negative impact on LDCs:
+Suppressed demand: Baseline calculations for LDCs are low, meaning that projects cannot generate sufficient carbon finance to have an impact.
+Treatment of projects that replace non-renewable biomass: A decision taken led to essentially a halving in the emission reduction potential of these projects. This has particularly affected Sub-Saharan Africa and projects in poor communities, where firewood, often from non-renewable sources, is frequently used as a fuel for cooking and heating.
+Treatment of forestry projects and exclusion of agriculture under the CDM: These sectors are more important for LDCs than for middle-income countries. Credits from forestry projects are penalized under the CDM, leading to depressed demand and price.
+Transaction costs and CDM process requirements: These are geared more towards the most advanced developing countries, and do not work well for the projects most often found in LDCs.
+
+
+== Views on the CDM ==
+
+
+=== Additionality ===
+
+
+==== Emissions ====
+One of the difficulties of the CDM is in judging whether or not projects truly make additional savings in GHG emissions (Carbon Trust, 2009, p. 54-56). The baseline which is used in making this comparison is not observable. According to the Carbon Trust (2009), some projects have been clearly additional: the fitting of equipment to remove HFCs and N2O. Some low-carbon electricity supply projects were also thought to have displaced coal-powered generation. Carbon Trust (2009) reviewed some approved projects. In their view, some of these projects had debatable points in their additionality assessments. They compared establishing additionality to the balance of evidence in a legal system. Certainty in additionality is rare, and the higher the proof of additionality, the greater the risk of rejecting good projects to reduce emissions.
+
+
+==== Types ====
+Additionality is much contested. There are many rival interpretations of additionality:
+What is often labelled ‘environmental additionality’ has that a project is additional if the emissions from the project are lower than the baseline. It generally looks at what would have happened without the project.
+Another interpretation, sometimes termed ‘project additionality’, the project must not have happened without the CDM.
+A number of terms for different kinds of additionality have been discussed, leading to some confusion, particularly over the terms 'financial additionality' and 'investment additionality' which are sometimes used as synonyms. 'Investment additionality', however, was a concept discussed and ultimately rejected during negotiation of the Marrakech Accords. Investment additionality carried the idea that any project that surpasses a certain risk-adjusted profitability threshold would automatically be deemed non-additional. 'Financial additionality' is often defined as an economically non-viable project becoming viable as a direct result of CDM revenues.
+Many investors argue that the environmental additionality interpretation would make the CDM simpler. Environmental NGOs have argued that this interpretation would open the CDM to free-riders, permitting developed countries to emit more CO2e, while failing to produce emission reductions in the CDM host countries.
+Gillenwater (2011) evaluated the various definitions of additionality used within the CDM community and provided a synthesis definition that rejects the notion of there being different types of additionality.
+Schneider (2007) produced a report on the CDM for the WWF. The findings of the report were based on a systematic evaluation of 93 randomly chosen registered CDM projects, as well as interviews and a literature survey (p. 5). According to Schneider (2007, p. 72), the additionality of a significant number of projects over the 2004-2007 period seemed to be either unlikely or questionable.
+It is never possible to establish with certainty what would have happened without the CDM or in absence of a particular project, which is one common objection to the CDM. Nevertheless, official guidelines have been designed to facilitate uniform assessment, set by the CDM Executive Board for assessing additionality.
+
+
+==== Views on additionality ====
+An argument against additionality is based on the fact that developing countries are not subject to emission caps in the Kyoto Protocol (Müller, 2009, pp. iv, 9-10). On these basis, "business-as-usual" (BAU) emissions (i.e., emissions that would occur without any efforts to reduce them) in developing countries should be allowed. By setting a BAU baseline, this can be interpreted as being a target for developing countries. Thus, it is, in effect, a restriction on their right to emit without a cap. This can be used as an argument against having additionality, in the sense that non-additional (i.e., emission reductions that would have taken place under BAU) emission reductions should be credited.
+Müller (2009) argued that compromise was necessary between having additionality and not having it. In his view, additionality should sometimes be used, but other times, it shouldn't.
+According to World Bank (n.d., pp. 16–17), additionality is crucial in maintaining the environmental integrity of the carbon market. To maintain this integrity, it was suggested that projects meeting or exceeding ambitious policy objectives or technical standards could be deemed additional.
+
+
+=== Concerns ===
+
+
+==== Overall efficiency ====
+Pioneering research has suggested that an average of approximately 30% of the money spent on the open market buying CDM credits goes directly to project operating and capital expenditure costs. Other significant costs include the broker's premium (about 30%, understood to represent the risk of a project not delivering) and the project shareholders' dividend (another 30%). The researchers noted that the sample of projects studied was small, the range of figures was wide and that their methodology of estimating values slightly overstated the average broker's premium.
+
+
+==== The risk of fraud ====
+One of the main problems concerning CDM-projects is the risk of fraud. The most common practices are covering up the fact that the projects are financially viable by themselves and that the emission reductions acquired through the CDM-project aren’t additional. Exaggerating the carbon benefits is also a common practice, just as carbon leakage. Sometimes a company even produces more to receive more CERs.
+Most of the doubtful projects are Industrial gas projects. Even though only 1.7% of all CDM-projects can be qualified as such, extraordinarily they account for half to 69% of all CERs that have been issued, contributing to a collapse in the global market for all CERs. Since the cost of dismantling these gases is very low compared to the market price of the CERs, very large profits can be made by companies setting up these projects. In this way, the CDM has become a stimulus for carbon leakage, or even to simply produce more.
+Hydro-projects are also quite problematic. Barbara Haye calculated that more than a third of all hydro-projects recognized as a CDM-project ‘were already completed at the time of registration and almost all were already under construction’, which means that CERs are issued for projects that aren’t additional, which again indirectly leads to higher emissions. Moreover, most of the proposed carbon benefits of these projects are exaggerated.
+Why are these projects approved by the Clean_Development_Mechanism Executive Board (EB)?’, one might wonder. One of the main problems is that the EB is a highly politicized body. People taking a place in the board aren’t independent technocrats, but are elected as representatives of their respective countries. They face pressure from their own & other (powerful) countries, the World Bank (that subsidizes certain projects), and other lobbying organisations. This, combined with a lack of transparency regarding the decisions of the board leads to the members favouring political-economical over technical or scientific considerations. It seems clear that the CDM isn’t governed according to the rules of ‘good governance’. Solving this problem might require a genuine democratization in the election of the EB-members and thus a shift in thinking from government to governance. In practice this would mean that all the stakeholders should get a voice in who can have a seat in the EB.
+Another important factor in the dysfunctionality of the EB is the lack of time, staff and financial resources it has to fully evaluate a project proposal. Moreover, the verification of a project is often outsourced to companies that also deliver services (such as accounting or consultancy) to enterprises setting up these same projects. In this way, the verifiers have serious incentives to deliver a positive report to the EB. This indicates that implementation is the place where the shoe pinches, as usually happens in environmental issues (mostly due to a lack of funds).
+Finally, it should be noted though that there have been indications in recent years that the EB is becoming more strict in its decisions, due to the huge criticism and the board getting more experience.
+
+
+==== Exclusion of forest conservation/avoided deforestation from the CDM ====
+The first commitment period of the Kyoto Protocol excluded forest conservation as well as avoided deforestation from the CDM for a variety of political, practical and ethical reasons. However, carbon emissions from deforestation represent 18-25% of all emissions, and will account for more carbon emissions in the next five years than all emissions from all aircraft since the Wright Brothers until at least 2025. This means that there have been growing calls for the inclusion of forests in CDM schemes for the second commitment period from a variety of sectors, under the leadership of the Coalition for Rainforest Nations, and brought together under the Forests Now Declaration, which has been signed by over 300 NGOs, business leaders, and policy makers. There is so far no international agreement about whether projects avoiding deforestation or conserving forests should be initiated through separate policies and measures or stimulated through the carbon market. One major concern is the enormous monitoring effort needed in order to make sure projects are indeed leading to increased carbon storage. There is also local opposition. For example, May 2, 2008, at the United Nations Permanent Forum on Indigenous Issues (UNPFII), Indigenous leaders from around the world protested against the Clean Energy Mechanisms, especially against Reducing emissions from deforestation and forest degradation.
+
+
+==== Reasons for including avoided deforestation projects in the CDM ====
+Combating global warming has broadly two components: decreasing the release of greenhouse gases and sequestering greenhouse gases from the atmosphere. Greenhouse gas emitters, such as coal-fired power plants, are known as "sources", and places where carbon and other greenhouse gases, such as methane, can be sequestered, i.e. kept out of the atmosphere, are known as "sinks".
+The world's forests, particularly rain forests, are important carbon sinks, both because of their uptake of CO2 through photosynthesis and because of the amount of carbon stored in their woody biomass and the soil. When rain forests are logged and burned, not only do we lose the forests' capacity to take up CO2 from the atmosphere, but also the carbon stored in that biomass and soil is released into the atmosphere through release of roots from the soil and the burning of the woody plant matter.
+An emerging proposal, Reduced Emissions from Avoided Deforestation and Degradation (REDD), would allow rain forest preservation to qualify for CDM project status. REDD has gained support through recent meetings of the COP, and will be examined at Copenhagen.
+
+
+==== Coal thermal power generation in India and China ====
+In July 2011, Reuters reported that a 4,000 MW coal thermal electricity generation plant in Krishnapatnam in Andhra Pradesh had been registered with the CDM. CDM Watch and the Sierra Club criticised the plant's registration and its eligibility for certified emission reduction units as clearly not additional. A CDM spokesperson dismissed these claims. According to information provided to Reuters, there are total of five coal-fired electricity plants registered with the CDM, four in India with a capacity of 10,640 MW and one 2,000 MW plant in China. The five plants are eligible to receive 68.2 million CERs over a 10-year period with an estimated value of 661 million euros ($919 million) at a CER price of 9.70 euros.
+In September 2012, the Executive Board of the Clean Development Mechanism adopted rules confirming that new coal thermal power generation plants could be registered as CDM projects and could use the simplified rules called 'Programmes of Activities'. The organisation CDM-Watch described the decision as inconsistent with the objective of the CDM as it subsidised the construction of new coal power plants. CDM-Watch described the CERs that would be issued as "non-additional dirty carbon credits".
+
+
+==== Industrial gas projects ====
+Some CERs are produced from CDM projects at refrigerant-producing factories in non-Annex I countries that generate the powerful greenhouse gas HFC 23 as a by-product. These projects dominated the CDM's early growth, and are expected to generate 20% of all credited emission reductions by 2012 (Carbon Trust, 2009, p. 60). Paying for facilities to destroy HFC-23 can cost only 0.2-0.5 €/tCO2. Industrialized countries were, however, paying around 20 €/tCO2 for reductions that cost below 1 €/tCO2. This provoked strong criticism.
+The scale of profits generated by HFC-23 projects threatened distortions in competitiveness with plants in industrialized countries that had already cleaned up their emissions (p. 60). In an attempt to address concerns over HFC-23 projects, the CDM Executive Board made changes in how these projects are credited. According to the Carbon Trust (2009, p. 60), these changes effectively ensure that:
+the potential to capture emissions from these plants is exploited;
+distortions are reduced;
+and the risk of perverse incentives is capped.
+Carbon Trust (2009, p. 60) argued that criticizing the CDM for finding low-cost reductions seemed perverse. They also argued that addressing the problem with targeted funding was easy with hindsight, and that before the CDM, these emission reduction opportunities were not taken.
+
+
+==== Hydropower ====
+NGOs have criticized the inclusion of large hydropower projects, which they consider unsustainable, as CDM projects. Lately, both the CDM EB and investors have become concerned about such projects for potential lack of additionality. One reason was that many of these projects had started well before applying for CDM status. In June 2008, third party validator TÜV SÜD Group rejected a hydropower project in China because the project proponents could not document that they had seriously considered CDM at the time the project was started. In July 2008, third party validators agreed that projects applying for CDM status more than one year after having taken their investment decision should not qualify for CDM status. Currently, the largest power plant to receive CDM registration is the Jirau Hydroelectric Plant in Brazil.
+Hydropower projects larger than 20 MW must document that they follow World Commission on Dams guidelines or similar guidelines in order to qualify for the European Union's Emissions Trading Scheme. As of 21 July 2008, CERs from hydropower projects are not listed on European carbon exchanges, because different member states interpret these limitations differently.
+Organisation seeking to measure the degree of compliance of individual projects with WCD principles can use the Hydropower Sustainability Assessment Protocol, recommended as the most practical currently available evaluation tool.
+
+
+==== Other concerns ====
+Renewable energy
+In the initial phase of the CDM, policy makers and NGOs were concerned about the lack of renewable energy CDM projects. As the new CDM projects are now predominantly renewables and energy efficiency projects, this is now less of an issue.
+Sinks
+NGOs, as well as several governments, have consistently been sceptical towards the inclusion of sinks as CDM projects. The main reasons were fear of oversupply, that such projects cannot guarantee permanent storage of carbon, and that the methods of accounting for carbon storage in biomass are complex and still under development. Consequently, two separate carbon currencies (temporary CERs and long-term CERs) were created for such projects. Such credits cannot be imported to the European Union's Emission Trading Scheme. The lack of demand for such projects have resulted in very limited supply: Currently (21 July 2008), only one sinks project has been registered under CDM.
+Windfarms in Western Sahara
+In 2012, it was announced, that a windfarm complex is going to be located near Laayoune, the capital city of the disputed territory of Western Sahara. Since this project is to be established under tight collaboration between the UN (which itself recognizes Western Sahara's status of a non-autonomous country) and the Moroccan government, it has been questioned by many parties supporting Western Sahara independence, including the Polisario.
+
+
+==== Suggestions ====
+In response to concerns of unsustainable projects or spurious credits, the World Wide Fund for Nature and other NGOs devised a ‘Gold Standard’ methodology to certify projects that uses much stricter criteria than required, such as allowing only renewable energy projects.
+For example, a South African brick kiln was faced with a business decision; replace its depleted energy supply with coal from a new mine, or build a difficult but cleaner natural gas pipeline to another country. They chose to build the pipeline with SASOL. SASOL claimed the difference in GHG emissions as a CDM credit, comparing emissions from the pipeline to the contemplated coal mine. During its approval process, the validators noted that changing the supply from coal to gas met the CDM's 'additionality' criteria and was the least cost-effective option. However, there were unofficial reports that the fuel change was going to take place anyway, although this was later denied by the company's press office.
+
+
+=== Successes ===
+Schneider (2007, p. 73) commented on the success of the CDM in reducing emissions from industrial plants and landfills. Schneider (2007) concluded by stating that if concerns over the CDM are properly addressed, it would continue to be an "important instrument in the fight against climate change."
+
+
+== See also ==
+Certified Emission Reduction
+Fossil fuel subsidies for developing countries
+Obtaining ownership of land by productive use
+Climate, Community & Biodiversity Alliance
+China Carbon Forum (CCF)
+Verified Carbon Standard
+Additionality
+
+
+== References ==
+
+
+== Further reading ==
+Boyd, E.; et al. (October 2007). "The Clean Development Mechanism: An assessment of current practice and future approaches for policy". Tyndall Centre for Climate Change Research. Retrieved September 18, 2012. 
+Hepburn, C. (November 2007). "Carbon Trading: A Review of the Kyoto Mechanisms". Annual Review of Environment and Resources 32: 375–393. doi:10.1146/annurev.energy.32.053006.141203. Retrieved May 20, 2009. 
+The ultimate climate change FAQ (July 26, 2011). "What is the Clean Development Mechanism (CDM)?". The Guardian. Retrieved September 20, 2012. 
+
+
+== External links ==
+Home page of United Nations website on Clean Development Mechanisms
+Capacity development for the CDM
+Spreadsheet of Hydro Projects in the CDM Project Pipeline, International Rivers
+Clean Development Mechanism projects in & around India
+Designated National Authority of India for CDM Projects
+UN Clean Development Mechanism profile on database of market governance mechanisms

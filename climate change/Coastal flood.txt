@@ -1,0 +1,104 @@
+Coastal flooding occurs when normally dry, low-lying land is flooded by sea water. The extent of coastal flooding is a function of the elevation inland flood waters penetrate which is controlled by the topography of the coastal land exposed to flooding. The sea water can inundate the land via several different paths:
+Direct inundation — where the sea height exceeds the elevation of the land, often where waves have not built up a natural barrier such as a dune system
+Overtopping of a barrier — the barrier may be natural or human engineered and overtopping occurs due to swell conditions during storm or high tides often on open stretches of the coast. The height of the waves exceeds the height of the barrier and water flows over the top of the barrier to flood the land behind it. Overtopping can result in high velocity flows that can erode significant amounts of the land surface which can undermine defense structures.
+Breaching of a barrier — again the barrier may be natural or human engineered, and breaching occurs on open coasts exposed to large waves. Breaching is where the barrier is broken down by waves allowing the sea water to extend inland.
+Coastal flooding is largely a natural event, however human influence on the coastal environment can exacerbate coastal flooding. Extraction of water from groundwater reservoirs in the coastal zone can enhance subsidence of the land increasing the risk of flooding. Engineered protection structures along the coast such as sea walls alter the natural processes of the beach, often leading to erosion on adjacent stretches of the coast which also increases the risk of flooding.
+
+
+== Causes ==
+Coastal flooding can result from a variety of different causes including storm surges created by storms like hurricanes and tropical cyclones, rising sea levels due to climate change and by tsunamis.
+
+
+=== Storms and storm surges ===
+Storms can cause flooding through storm surges which are waves significantly larger than normal  and if a storm event corresponds with the high astronomical tide extensive flooding can occur. Storm surges occur during storm events, including hurricanes and tropical cyclones due to three processes:
+wind setup
+barometric setup
+wave setup
+Winds blowing in an onshore direction (from the sea towards the land) can cause the water to 'pile up' against the coast. This is known as wind set up. Low atmospheric pressure is associated with storm systems and this tends to increase the surface sea level, this is barometric set up. Finally increased wave break height results in a higher water level in the surf zone which is wave set up. Theses three processes interact to create waves that can overtop natural and engineered coastal protection structures thus penetrating sea water further inland than normal.
+
+
+=== Sea level rise ===
+The Intergovernmental Panel on Climate Change (IPCC) estimate global mean sea-level rise from 1990 to 2100 to be between nine and eighty eight centimetres. It is also predicted that with climate change there will be an increase in the intensity and frequency of storm events such as hurricanes. This suggests that coastal flooding from storm surges will become more frequent with sea level rise. A rise in sea level alone threatens increased levels of flooding and permanent inundation of low-lying land as sea level simply may exceed the land elevation. This therefore indicates that coastal flooding associated with sea level rise will become a significant issue into the next 100 years especially as human populations continue to grow and occupy the coastal zone.
+
+
+=== Tsunami ===
+Coastal areas can be significantly flooded as the result of tsunami waves  Tsunamis are waves which propagate through the ocean as the result of the displacement of a significant body of water through earthquakes, landslides, volcanic eruptions and glacier calvings. There is also evidence to suggest that significant tsunami have been caused in the past by meteor impact into the ocean. Tsunami waves are so destructive due to the velocity of the approaching waves, the height of the waves when they reach land and the debris the water entrains as it flows over land can cause further damage.
+
+
+== Preventative Measures ==
+It has been said that one way to prevent significant flooding of coastal areas now and into the future is by reducing global sea level rise. This could be minimised by further reducing greenhouse gas emissions. However, even if significant emission decreases are achieved there is already a substantial commitment to sea level rise into the future. International climate change policies such as the Kyoto Protocol are seeking to mitigate the future effects of climate change, including sea level rise.
+In addition to this, more immediate measures of engineered and natural defences are put in place to prevent coastal flooding.
+
+
+=== Engineered defences ===
+
+There are a variety of ways in which humans are trying to prevent the flooding of coastal environments. Typically this is through so called hard engineering structures such as seawalls and levees. This armouring of the coast is typically to protect towns and cities which have developed right up to the beachfront. Enhancing depositional processes along the coast can also help prevent coastal flooding. Structures such as groynes (Fig. 1), breakwaters and artificial headlands promote the deposition of sediment on the beach thus helping to buffer against storm waves and surges as the wave energy is spent on moving the sediments in the beach than on moving water inland.
+
+
+=== Natural defences ===
+
+The coast does provide natural protective structures to guard against coastal flooding. These include physical features like gravel bars and sand dune systems but also ecosystems such as salt marshes and mangrove forests (Fig. 2) have a buffering function. Mangroves and wetlands are often considered to provide significant protection against storm waves, tsunamis and shoreline erosion through their ability to attenuate wave energy. Therefore, to protect the coastal zone from flooding, these natural defences should be protected and maintained.
+
+
+== Responses ==
+As coastal flooding is typically a natural process, it is inherently difficult to prevent flood occurrence. If human systems are affected by flooding, an adaption to how that system operates on the coast through behavioural and institutional changes is required, these changes are the so-called non-structural mechanisms of coastal flooding response. Building regulations, coastal hazard zoning, urban development planning, spreading the risk through insurance and enhancing public awareness are some ways of achieving this. Adapting to the risk of flood occurrence, can be the best option if the cost of building defence structures outweighs any benefits or if the natural processes in that stretch of coastline add to its natural character and attractiveness. A more extreme and often difficult to accept response to coastal flooding is abandoning the area (also known as managed retreat) prone to flooding. This however raises issues for where the people and infrastructure affected would go and what sort of compensation should/could be paid.
+
+
+== Social and economic impacts ==
+The coastal zone (the area both within 100 kilometres distance of the coast and 100 metres elevation of sea level) is home to a large and growing proportion of the global population. Over 50 percent of the global population and 65 percent of cities with populations over five million people are in the coastal zone. In addition to the significant number of people at risk of coastal flooding, these coastal urban centres are producing a considerable amount of the global Gross Domestic Product (GDP). People's lives, homes, businesses and city infrastructure like roads, railways and industrial plants are all at risk of coastal flooding with massive potential social and economic costs. The recent earthquakes and tsunami in Indonesia in 2004 and in Japan in March 2011 clearly illustrate the devastation coastal flooding can produce. Indirect economic costs can be incurred if economically important sandy beaches are eroded away resulting in a loss of tourism in areas dependent on the attractiveness of those beaches.
+
+
+== Environmental impacts ==
+Coastal flooding can result in a wide variety of environmental impacts on different spatial and temporal scales. Flooding can destroy coastal habitats such as coastal wetlands and estuaries and can erode dune systems. These places are characterised by their high biological diversity therefore coastal flooding can cause significant biodiversity loss and potentially species extinctions. In addition to this, these coastal features are the coasts natural buffering system against storm waves; consistent coastal flooding and sea level rise can cause this natural protection to be reduced allowing waves to penetrate greater distances inland exacerbating erosion and furthering coastal flooding. Prolonged inundation of seawater after flooding can also cause salination of agriculturally productive soils thus resulting in a loss of productivity for long periods of time. Food crops and forests can be completely killed off by salination of soils or wiped out by the movement of flood waters. Coastal freshwater bodies including lakes, lagoons and coastal freshwater aquifers can also be affected by saltwater intrusion. This can destroy these water bodies as habitats for freshwater organisms and sources of drinking water for towns and cities.
+
+
+== Examples ==
+
+Examples of existing coastal flooding issues include:
+
+
+=== London and the Thames Barrier ===
+The Thames Barrier (Fig. 3) is one of the world's largest flood barriers and serves to protect London from flooding during exceptionally high tides and storm surges. The Barrier can be lifted at high tide to prevent sea waters flooding London and can be lowered to release storm water runoff from the Thames catchment (for more information see Thames Barrier)
+
+
+=== South Canterbury Plains in New Zealand ===
+Flooding of this low-lying coastal zone can result in prolonged inundation, which can affect the productivity of the affected pastoral agriculture for several years.
+
+
+=== Hurricane Katrina in New Orleans ===
+Hurricane Katrina was a category 3 cyclone on the Saffir–Simpson hurricane wind scale indicating that it was only a moderate level storm. However the catastrophic damage caused by the extensive flooding (Fig. 4) was the result of the highest recorded storm surges in North America. For several days prior to landfall of Katrina, wave set up was generated by the persistent winds of the cyclonic rotation of the system. This prolonged wave set up coupled with the very low central pressure level meant massive storm surges were generated. Storm surges overtopped and breached the levees and flood walls intended to protect the city from inundation. Unfortunately New Orleans is inherently prone to coastal flooding for a number of factors. Firstly, much of New Orleans is below sea level and is boarded by the Mississippi River therefore protection against flooding from both the sea and the river has become dependent on engineered structures. Land use change and modification to natural systems in the Mississippi River have rendered the natural defences for the city less effective. Wetland loss has been calculated to be around 1,900 square miles (4,920 square kilometres) since 1930. This is a significant amount as four miles of wetland are estimated to reduce the height of a storm surge by one foot (30 centimetres).
+
+
+=== Indonesia and Japan post earthquake and tsunamis ===
+An earthquake of approximately magnitude 9.0 struck off the coast of Sumatra, Indonesia causing the propagation of a massive tsunami throughout the Indian Ocean. This tsunami caused significant loss of human life, an estimate of 280,000 – 300,000 people has been reported  and caused extensive damage to villages, towns and cities (Fig. 5) and to the physical environment. The natural structures and habitats destroyed or damaged included coral reefs, mangroves, beaches and seagrass beds. The more recent earthquake and tsunami in Japan in March 2012 also clearly illustrates the destructive power of tsunamis and the turmoil of coastal flooding.
+
+
+== Future research ==
+There is a need for future research into:
+Management strategies for dealing with the forced abandonment of coastal settlements
+Quantifying the effectiveness of natural buffering systems, such as mangroves, against coastal flooding
+Better engineering design and practices or alternative mitigation strategies to engineering
+
+
+== See also ==
+2004 Indian Ocean Earthquake and Tsunami
+Coastal flood advisory, watch, warning (U.S.)
+Coastal Management
+Current sea level rise
+Canterbury Bight
+Flash flood
+Hurricane Katrina
+Intergovernmental Panel on Climate Change
+Thames Barrier
+Tsunami
+Saltwater intrusion
+
+
+== References ==
+
+
+== Sources ==
+
+
+== External links ==
+Global floodmap

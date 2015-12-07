@@ -1,0 +1,120 @@
+Fisheries management draws on fisheries science in order to find ways to protect fishery resources so sustainable exploitation is possible. Modern fisheries management is often referred to as a governmental system of appropriate management rules based on defined objectives and a mix of management means to implement the rules, which are put in place by a system of monitoring control and surveillance. According to the Food and Agriculture Organization of the United Nations (FAO), there are "no clear and generally accepted definitions of fisheries management". However, the working definition used by the FAO and much cited elsewhere is:
+
+The integrated process of information gathering, analysis, planning, consultation, decision-making, allocation of resources and formulation and implementation, with enforcement as necessary, of regulations or rules which govern fisheries activities in order to ensure the continued productivity of the resources and the accomplishment of other fisheries objectives.
+
+
+== History ==
+Fisheries have been explicitly managed in some places for hundreds of years. For example, the Māori people, New Zealand residents for about 700 years, had prohibitions against taking more than could be eaten and about giving back the first fish caught as an offering to sea god Tangaroa. Starting in the 18th century attempts were made to regulate fishing in the North Norwegian fishery. This resulted in the enactment of a law in 1816 on the Lofoten fishery, which established in some measure what has come to be known as territorial use rights.
+
+"The fishing banks were divided into areas belonging to the nearest fishing base on land and further subdivided into fields where the boats were allowed to fish. The allocation of the fishing fields was in the hands of local governing committees, usually headed by the owner of the onshore facilities which the fishermen had to rent for accommodation and for drying the fish."
+
+Governmental resource protection-based fisheries management is a relatively new idea, first developed for North European fisheries after the first Overfishing Conference held in London in 1936. In 1957 British fisheries researchers Ray Beverton and Sidney Holt published a seminal work on North Sea commercial fisheries dynamics. In the 1960s the work became the theoretical platform for North European management schemes.
+After some years away from the field of fisheries management, Beverton criticized his earlier work in a paper given at the first World Fisheries Congress in Athens in 1992. "The Dynamics of Exploited Fish Populations" expressed his concerns, including the way his and Sidney Holt's work had been misinterpreted and misused by fishery biologists and managers during the previous 30 years. Nevertheless, the institutional foundation for modern fishery management had been laid.
+A report by Prince Charles' International Sustainability Unit, the New York-based Environmental Defense Fund and 50in10 published in July 2014 estimated global fisheries were adding $270 billion a year to global GDP, but by full implementation of sustainable fishing, that figure could rise by an extra amount of as much as $50 billion.
+
+
+== Political objectives ==
+According to the FAO, fisheries management should be based explicitly on political objectives, ideally with transparent priorities. Typical political objectives when exploiting a fish resource are to:
+maximize sustainable biomass yield
+maximize sustainable economic yield
+secure and increase employment
+secure protein production and food supplies
+increase export income
+Such political goals can also be a weak part of fisheries management, since the objectives can conflict with each other.
+
+
+== International objectives ==
+Fisheries objectives need to be expressed in concrete management rules. In most countries fisheries management rules should be based on the internationally agreed, though non-binding, Code of Conduct for Responsible Fisheries, agreed at a meeting of the U.N.'s Food and Agriculture Organization FAO session in 1995. The precautionary approach it prescribes is typically implemented in concrete management rules as minimum spawning biomass, maximum fishing mortality rates, etc. In 2005 the UBC Fisheries Centre at the University of British Columbia comprehensively reviewed the performance of the world's major fishing nations against the Code.
+International agreements are required in order to regulate fisheries in international waters. The desire for agreement on this and other maritime issues led to three conferences on the Law of the Sea, and ultimately to the treaty known as the United Nations Convention on the Law of the Sea (UNCLOS). Concepts such as exclusive economic zones (EEZ, extending 200 nautical miles (370 km) from a nation's coasts) allocate certain sovereign rights and responsibilities for resource management to individual countries.
+Other situations need additional intergovernmental coordination. For example, in the Mediterranean Sea and other relatively narrow bodies of water, EEZ of 200 nautical miles (370 km) are irrelevant. International waters beyond 12-nautical-mile (22 km) from shore require explicit agreements.
+Straddling fish stocks, which migrate through more than one EEZ also present challenges. Here sovereign responsibility must be agreed with neighbouring coastal states and fishing entities. Usually this is done through the medium of a regional organisation set up for the purpose of coordinating the management of that stock.
+UNCLOS does not prescribe precisely how fisheries confined only to international waters should be managed. Several new fisheries (such as high seas bottom trawling fisheries) are not (yet) subject to international agreement across their entire range. In November 2004 the UN General Assembly issued a resolution on Fisheries that prepared for further development of international fisheries management law.
+
+
+== Management mechanisms ==
+Many countries have set up Ministries/Government Departments, named "Ministry of Fisheries" or similar, controlling aspects of fisheries within their exclusive economic zones. Four categories of management means have been devised, regulating either input/investment, or output, and operating either directly or indirectly:
+Technical means may include:
+prohibiting devices such as bows and arrows, and spears, or firearms
+prohibiting nets
+setting minimum mesh sizes
+limiting the average potential catch of a vessel in the fleet (vessel and crew size, gear, electronic gear and other physical "inputs".
+prohibiting bait
+snagging
+limits on fish traps
+limiting the number of poles or lines per fisherman
+restricting the number of simultaneous fishing vessels
+limiting a vessel's average operational intensity per unit time at sea
+limiting average time at sea
+
+
+== Catch quotas ==
+
+Systems that use individual transferable quotas (ITQ), also called individual fishing quota limit the total catch and allocate shares of that quota among the fishers who work that fishery. Fishers can buy/sell/trade shares as they choose.
+A large scale study in 2008 provided strong evidence that ITQ's can help to prevent fishery collapse and even restore fisheries that appear to be in decline. Other studies have shown negative socio-economic consequences of ITQs, especially on small-sclale fisheries. These consequences include concentration of quota in that hands of few fishers; increased number of inactive fishers leasing their quotas to others (a phenomena known as armchair fishermen); and detrimental effects on coastal communities.
+
+
+== Precautionary principle ==
+The Fishery Manager's Guidebook issued in 2009 by the FAO of the United Nations, advises that the precautionary approach or principle should be applied when "ecosystem resilience and human impact (including reversibility) are difficult to forecast and hard to distinguish from natural changes." The precautionary principle suggests that when an action risks harm, it should not be proceeded with until it can be scientifically proven to be safe. Historically fishery managers have applied this principle the other way round; fishing activities have not been curtailed until it has been proven that they have already damaged existing ecosystems. In a paper published in 2007, Shertzer and Prager suggested that there can be significant benefits to stock biomass and fishery yield if management is stricter and more prompt.
+
+
+== Fisheries law ==
+
+Fisheries law is an emerging and specialized area of law which includes the study and analysis of different fisheries management approaches, including seafood safety regulations and aquaculture regulations. Despite its importance, this area is rarely taught at law schools around the world, which leaves a vacuum of advocacy and research.
+
+
+== Climate change ==
+
+In the past, changing climate has affected inland and offshore fisheries and such changes are likely to continue. From a fisheries perspective, the specific driving factors of climate change include rising water temperature, alterations in the hydrologic cycle, changes in nutrient fluxes, and relocation of spawning and nursery habitat. Further, changes in such factors would affect resources at all levels of biological organization, including the genetic, organism, population, and ecosystem levels.
+
+
+== Population dynamics ==
+
+Population dynamics describes the growth and decline of a given fishery stock over time, as controlled by birth, death and migration. It is the basis for understanding changing fishery patterns and issues such as habitat destruction, predation and optimal harvesting rates. The population dynamics of fisheries has been traditionally used by fisheries scientists to determine sustainable yields.
+The basic accounting relation for population dynamics is the BIDE model:
+N1 = N0 + B − D + I − E
+where N1 is the number of individuals at time 1, N0 is the number of individuals at time 0, B is the number of individuals born, D the number that died, I the number that immigrated, and E the number that emigrated between time 0 and time 1. While immigration and emigration can be present in wild fisheries, they are usually not measured.
+Care is needed when applying population dynamics to real world fisheries. In the past, over-simplistic modelling, such as ignoring the size, age and reproductive status of the fish, focusing solely on a single species, ignoring bycatch and physical damage to the ecosystem, has accelerated the collapse of key stocks.
+
+
+== Ecosystem based fisheries ==
+
+According to marine ecologist Chris Frid, the fishing industry points to pollution and global warming as the causes of unprecedentedly low fish stocks in recent years, writing, "Everybody would like to see the rebuilding of fish stocks and this can only be achieved if we understand all of the influences, human and natural, on fish dynamics." Overfishing has also had an effect. Frid adds, “Fish communities can be altered in a number of ways, for example they can decrease if particular sized individuals of a species are targeted, as this affects predator and prey dynamics. Fishing, however, is not the sole perpetrator of changes to marine life - pollution is another example [...] No one factor operates in isolation and components of the ecosystem respond differently to each individual factor."
+In contrast to the traditional approach of focusing on a single species, the ecosystem-based approach is organized in terms of ecosystem services. Ecosystem-based fishery concepts have been implemented in some regions. In 2007 a group of scientists offered the following ten commandments
+Report to Congress (2009): The State of Science to Support an Ecosystem Approach to Regional Fishery Management National Marine Fisheries Service, NOAA Technical Memorandum NMFS-F/SPO-96.
+
+
+== Elderly maternal fish ==
+
+Traditional management practices aim to reduce the number of old, slow-growing fish, leaving more room and resources for younger, faster-growing fish. Most marine fish produce huge numbers of eggs. The assumption was that younger spawners would produce plenty of viable larvae.
+However, 2005 research on rockfish shows that large, elderly females are far more important than younger fish in maintaining productive fisheries. The larvae produced by these older maternal fish grow faster, survive starvation better, and are much more likely to survive than the offspring of younger fish. Failure to account for the role of older fish may help explain recent collapses of some major US West Coast fisheries. Recovery of some stocks is expected to take decades. One way to prevent such collapses is to establish marine reserves, where fishing is not allowed and fish populations age naturally.
+
+
+== Data quality ==
+According to fisheries scientist Milo Adkison, the primary limitation in fisheries management decisions is the absence of quality data. Fisheries management decisions are often based on population models, but the models need quality data to be effective. He asserts that scientists and fishery managers would be better served with simpler models and improved data.
+The most reliable source for summary statistics is the FAO Fisheries Department.
+
+
+== Ecopath ==
+Ecopath, with Ecosim (EwE), is an ecosystem modelling software suite. It was initially a NOAA initiative led by Jeffrey Polovina, later primarily developed at the UBC Fisheries Centre of the University of British Columbia. In 2007, it was named as one of the ten biggest scientific breakthroughs in NOAA’s 200-year history. The citation states that Ecopath "revolutionized scientists’ ability worldwide to understand complex marine ecosystems". Behind this lies two decades of development work by Villy Christensen, Carl Walters, Daniel Pauly, and other fisheries scientists. As of 2010 there are 6000 registered users in 155 countries. Ecopath is widely used in fisheries management as a tool for modelling and visualising the complex relationships that exist in real world marine ecosystems.
+
+
+== Human factors ==
+Managing fisheries is about managing people and businesses, and not about managing fish. Fish populations are managed by regulating the actions of people. If fisheries management is to be successful, then associated human factors, such as the reactions of fishermen, are of key importance, and need to be understood.
+Management regulations must also consider the implications for stakeholders. Commercial fishermen rely on catches to provide for their families just as farmers rely on crops. Commercial fishing can be a traditional trade passed down from generation to generation. Most commercial fishing is based in towns built around the fishing industry; regulation changes can impact an entire town’s economy. Cuts in harvest quotas can have adverse effects on the ability of fishermen to compete with the tourism industry.
+
+
+== Performance ==
+The biomass of global fish stocks has been allowed to run down. This biomass is now diminished to the point where it is no longer possible to sustainably catch the amount of fish that could be caught. According to a 2008 UN report, titled The Sunken Billions: The Economic Justification for Fisheries Reform, the world's fishing fleets incur a "$US 50 billion annual economic loss" through depleted stocks and poor fisheries management. The report, produced jointly by the World Bank and the UN Food and Agriculture Organization (FAO), asserts that half the world's fishing fleet could be scrapped with no change in catch.
+
+"By improving governance of marine fisheries, society could capture a substantial part of this $50 billion annual economic loss. Through comprehensive reform, the fisheries sector could become a basis for economic growth and the creation of alternative livelihoods in many countries. At the same time, a nation’s natural capital in the form of fish stocks could be greatly increased and the negative impacts of the fisheries on the marine environment reduced."
+
+The most prominent failure of fisheries management in recent times has perhaps been the events that lead to the collapse of the northern cod fisheries. More recently, the International Consortium of Investigative Journalists produced a series of journalistic investigations called Looting the seas. These detail investigations into the black market for bluefin tuna, the subsidies propping up the Spanish fishing industry, and the overfishing of the Chilean jack mackerel.
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== References ==

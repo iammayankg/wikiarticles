@@ -1,0 +1,46 @@
+Paleotempestology is the study of past tropical cyclone activity by means of geological proxies as well as historical documentary records. The term was coined by Kerry Emanuel.
+
+
+== Methods ==
+
+
+=== Sedimentary proxy records ===
+Examples of proxies include overwash deposits preserved in the sediments of coastal lakes and marshes, microfossils such as foraminifera, pollen, diatoms, dinoflagellates, phytoliths contained in coastal sediments, wave-generated or flood-generated sedimentary structures or deposits (called tempestites) in marine or lagoonal sediments, storm wave deposited coral shingle, shell, sand and shell and pure sand shore parallel ridges.
+The method of using overwash deposits preserved in coastal lake and marsh sediments is adopted from earlier studies of paleotsunami deposits. Both storms and tsunamis leave very similar if not identical sedimentary deposits in coastal lakes and marshes and differentiating between the two in a sedimentary record can be difficult. The first studies to examine prehistoric records of tropical cyclones occurred in Australia and the South Pacific during the late 1970s and early 1980s. These studies examined multiple shore parallel ridges of coral shingle or sand and marine shells. As many as 50 ridges can be deposited at a site with each representing a past severe tropical cyclone over the previous 6,000 years. Tsunamis are not known to deposit multiple sedimentary ridges and therefore these features can be more easily attributed to a past storm at any given site.
+Coastal sedimentary analyses have been done at the U.S. Gulf coast, the Atlantic coast from South Carolina up to New Jersey and New England, and the Caribbean Sea. Also, studies on pre-historic tropical cyclones hitting Australia have been made. A study covering the South China Sea coast has also been published.
+
+
+=== Markers in coral ===
+Rocks contain certain isotopes of elements, known as natural tracers, which describe the conditions under which they formed. By studying the calcium carbonate in coral rock, past sea surface temperature and hurricane information can be revealed. Heavier oxygen isotopes (18O) decrease in relation to lighter oxygen isotopes (16O) in coral during periods of very heavy rainfall. Since hurricanes are the main source of extreme rainfall in the tropical oceans, past hurricane events can be dated to the days of their impact on the coral by looking at the decreased 18O concentration within the coral.
+
+
+=== Speleothems and tree rings ===
+Isotope studies in speleothems and tree rings (dendrochronology) offers a means by which higher resolution records of long-term tropical cyclone histories can be attained. Unlike the isotope records, the sedimentary records are too coarse in their resolution to register quasi-cyclic activity at decadal to centennial scales. These higher resolution records therefore offer a means for possibly differentiating between the natural variability of tropical cyclone behaviour and the effects of anthropogenically induced global climate change. Recent studies with stalagmites in Belize shows that events can be determined on a week-by-week basis.
+
+
+=== Historical records ===
+
+Before the invention of the telegraph in the early to mid-19th century, news was as fast as the fastest horse or stagecoach or ship. Normally, there was no advance warning of a tropical cyclone impact. However, the situation changed in the 19th century as seafaring people and land-based researchers, such as Father Viñes in Cuba, came up with systematic methods of reading the sky's appearance or the sea state, which could foretell a tropical cyclone's approach up to a couple days in advance.
+One of the best documented storms is the Royal Charter Storm of 1859 which caused over 800 deaths in the UK alone. It led directly to the formation of the Meteorological Office under Robert Fitzroy. However, wind speed could not be measured accurately at the time, methods only becoming available after the Tay Bridge disaster of 1879. One of the better sources for storms in and around Britain is the shipwreck statistics compiled annually by the Board of Trade, but which have yet to be analysed in detail.
+Michael Chenoweth used 18th century journals to reconstruct the climate of Jamaica. Together with Dmitry Divine, he also created a 318-year (1690–2007) record of tropical cyclones in the Lesser Antilles, using newspaper accounts, ships' logbooks, meteorological journals, and other document sources.
+In China, the abundance of historical documentary records in the form of Fang Zhi (semiofficial local gazettes) offers an extraordinary opportunity for providing a high-resolution historical dataset for the frequency of typhoon strikes.
+
+
+== See also ==
+Tropical cyclone
+Tropical cyclone observation
+
+
+== References ==
+
+
+== Further reading ==
+Elsner, James B.; Kara, A. Birol (1999). Hurricanes of the North Atlantic: Climate and Society. New York: Oxford University Press. pp. 49–51, 378. ISBN 0-19-512508-8. 
+Liu, Kam-biu (2004). "Paleotempestology: Principles, Methods, and Examples from Gulf Coast Lake Sediments". In Murnane, R. J.; Liu, Kam-biu (eds.). Hurricanes and Typhoons: Past, Present, and Future. New York: Columbia University Press. pp. 13–57. ISBN 0-231-12388-4. 
+Liu, Kam-biu (2007). "Paleotempestology". In Elias, Scott A. Encyclopedia of Quaternary Science 3. Amsterdam: Elsevier. pp. 1978–1986. ISBN 978-0-444-51922-1. 
+Nott, Jonathan (2004). "Palaeotempestology: the study of prehistoric tropical cyclones—a review and implications for hazard assessment". Environment International 30 (3): 433–447. doi:10.1016/j.envint.2003.09.010. PMID 14987874. 
+Revkin, Andrew C. (July 24, 2001). "Experts Unearth a Stormy Past". New York Times. 
+
+
+== External links ==
+Paleotempestology Resource Center

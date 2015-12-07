@@ -1,0 +1,50 @@
+Environmental mitigation, compensatory mitigation, or mitigation banking, are terms used primarily by the United States government and the related environmental industry to describe projects or programs intended to offset known impacts to an existing historic or natural resource such as a stream, wetland, endangered species, archeological site or historic structure. To "mitigate" means to make less harsh or hostile. Environmental mitigation is typically a part of an environmental crediting system established by governing bodies which involves allocating debits and credits. Debits occur in situations where a natural resource has been destroyed or severely impaired and credits are given in situations where a natural resource has been deemed to be improved or preserved. Therefore, when an entity such as a business or individual has a "debit" they are required to purchase a "credit". In some cases credits are bought from "mitigation banks" which are large mitigation projects established to provide credit to multiple parties in advance of development when such compensation cannot be achieved at the development site or is not seen as beneficial to the environment. Crediting systems can allow credit to be generated in different ways. For example, in the United States, projects are valued based on what the intentions of the project are which may be to preserve, enhance, restore or create (PERC) a natural resource.
+
+
+== AdvantagesEdit ==
+Environmental mitigation and crediting systems are often praised for the following reasons:
+
+
+=== Development friendlyEdit ===
+Mitigation is a more development-friendly alternative to strict environmental laws because it allows development to occur where environmental laws might prohibit it.
+
+
+=== Mitigation industryEdit ===
+Mitigation inevitably creates a "mitigation industry". By requiring those who impact natural resources to purchase credits, a demand for mitigation credit is formed. Businesses related to environmental work typically benefit from such a system.
+
+
+=== Targeting ecological valueEdit ===
+Mitigation has the potential to save and restore the most valuable environmental resources at the least cost, assuming that regulation 1) protects health and welfare as defined by the National Environmental Policy Act (NEPA) and 2) assures that a credit accurately represents measurable ecological value. Buyers are typically looking for mitigation credits that are both cheap and the most likely to meet regulatory requirements for compensatory mitigation. Regulators must therefore find a balance between protecting the long term public interest and ensuring that buyers have the proper incentives to participate in the environmental marketplace.
+
+
+=== Cost burdenEdit ===
+Mitigation systems place the environmental costs of development mostly on the individuals or entities that are impacting the environment. Without environmental mitigation, costs of alleviating environmental damage caused by development could be placed in the hands of the government which would in turn pass costs on to taxpayers not responsible for environmental impacts.
+
+
+=== Benefit to landownersEdit ===
+Land previously unused or impractical for development is given greater monetary value under a mitigation system. For instance, land in floodplains may be impractical for commercial or residential development but conductive for mitigation activities. Land in rural areas with very little potential for growth are more valuable when given the opportunity to be used for mitigation credits.
+
+
+== DisadvantagesEdit ==
+The following are criticisms of environmental mitigation and crediting systems:
+
+
+=== Incorrect allocation and valuation of credits and debitsEdit ===
+Mitigation regulations may not properly take into account the total ecological losses and gains associated with environmental impacts or mitigation when allocating debits and credits. Governing bodies are primarily responsible for prescribing the ecological criteria required to attain credits for mitigation. They are also responsible for valuation of credit. Therefore, it is evident that problems with the allocation and valuation of credits and debits might stem from the complexity of assessing the current comparative value of ecological resources (aka ecosystem services), ecosystem change over time, and/or a lack of understanding about what is beneficial or harmful to the environment overall. To address these uncertainties regulators often assign 'coverage ratios' to compensatory mitigation agreements. Coverage ratios of, for example, 3:1 require 3 compensatory mitigation credits for every 1 unit of ecological disturbance.
+
+
+=== Effects on land cost and availabilityEdit ===
+Mitigation could be seen as contributing to the increasing cost of land because some mitigation work requires that large amounts of land be purchased or put into conservation easements. Mitigation can therefore compete with other rural land uses such as agriculture and residential development. This suggests that land owners must be alert to find the highest and best use for their properties given the potential market value that mitigation credits represent.
+
+
+=== Problems with 'in perpetuity' commitments of landEdit ===
+Commitment of lands to compensatory mitigation must be done 'in perpetuity', meaning permanently into the future. Otherwise, the long term public interest could not be served via compensatory mitigation programs. This means that properties must continue to be managed with ecosystem values in mind, sometimes preventing landowners from transforming the landscape to meet changing needs. For example, future large scale development projects would not likely be permitted on previously dedicated mitigation properties.
+
+
+== NotesEdit ==
+
+
+== External linksEdit ==
+United States EPA Compensatory Mitigation website
+National Mitigation Banking Association
+Endangered Species and Threatened Wildlife and Plants; Recovery Crediting Guidance

@@ -1,0 +1,30 @@
+Ship tracks are clouds that form around the exhaust released by ships into the still ocean air. Water molecules collect around the tiny particles (aerosols) from exhaust to form a cloud seed. More and more water accumulates on the seed until a visible cloud is formed. In the case of ship tracks, the cloud seeds are stretched over a long narrow path where the wind has blown the ship's exhaust, so the resulting clouds resemble long strings over the ocean.
+
+
+== Ship tracks study ==
+In 1965, the first "anomalous cloud lines" were observed in images from the TIROS VII satellite. It was hypothesized that the most likely cause was from the exhaust from ships. Many studies since have confirmed the cause, and they are now referred to as ship tracks. Scientists soon realized that the climatic impacts from aerosols could have a large effect on climate through the indirect effect, and that ship tracks provided an excellent laboratory for their studies.
+Scientists who study how human-produced aerosols affect cloud formation observe ship tracks because in most urban areas, they are unable to discern exactly how pollutants contribute to forming clouds because the atmosphere over the land is too tumultuous. In contrast, ships release their exhaust into the relatively clean and still marine air, where the scientists have an easier time of measuring the effects of fossil fuel emissions on cloud formation.
+In general, the air above the oceans suffers from less turbulence and convection than the air above land. The lower atmosphere is especially calm over the eastern Pacific in the summertime due to a layer of hot air that settles in 500 to 700 meters above that region of the ocean. This effect creates a temperature inversion, placing a cap on the cooler air below, trapping pollutants and water vapor. While the inversion is responsible for the smog that reduces air quality in Los Angeles, it also allows for the formation of long lasting ship tracks. The particles billowing from ships' smokestacks enter the air above the eastern Pacific and create long, thin clouds that remain there for days.
+
+
+== Findings ==
+It is theorised that sulfur dioxide released from ships' smokestacks could be forming sulfate aerosol particles in the atmosphere, which cause the clouds to be more reflective, carry more water and possibly stop precipitating. This is regarded as proof that humans have been creating and modifying clouds for generations through the combustion of fossil fuels.
+Although ship tracks can sometimes be visible, researchers usually scan the near-infrared light coming off the clouds. At this wavelength many ship tracks appear as bright lines that can be distinguished from the surrounding, uncontaminated clouds. On average, polluted clouds reflect more sunlight than their unaffected counterparts.
+When compared to normal clouds, the number of water droplets per volume of air in ship tracks are more than doubled, the radius of the drops is decreased by roughly six percent and the total volume of liquid water per volume of air is increased twofold. In other words, this excessive cloud seeding from the ship causes the clouds to retain more water. Normally, rain forms when cloud drops coagulate and reach a size where gravity can pull them to the ground. Yet, in ship tracks, the cloud seeding made the drops so small that they could no longer easily merge to reach the size needed to escape. Since no drizzle comes out of the seeded clouds, the liquid water just keeps building in the cloud. This makes the cloud brighter and more reflective to incoming sunlight, especially in the near-infrared part of the spectrum.
+Surprising discoveries from recent satellite observations of several hundred ship tracks revealed that approximately 25% had a lower cloud albedo (reflectivity) than the surrounding unpolluted clouds. These dimmer ship tracks tended to have significantly less water despite the strong suppression of precipitation by the aerosol plume.  Dimmer ship tracks are hypothesized to occur when the air above the cloud tops is sufficiently dry. Smaller droplets in polluted clouds enhance cloud-top evaporation and entrainment. The polluted clouds thus engulf more of the overlying dry air causing them to rigorously evaporate and thin under dry meteorological conditions. Under a moist/unstable atmosphere the entrainment effect is smaller and the pollutants from the ship cause the clouds to thicken and the albedo to increase. 
+
+
+== See also ==
+Contrail
+Global dimming
+Wake
+
+
+== References ==
+^ "Ship Tracks over the Atlantic". NASA Earth Observatory. Retrieved 2006-05-11. 
+^ Conover, J.H. (1966). "Anomalous cloud lines". J. Atmos. Sci. 23 (6): 778–785. Bibcode:1966JAtS...23..778C. doi:10.1175/1520-0469(1966)023<0778:ACL>2.0.CO;2. ISSN 1520-0469. 
+^ Twomey, S. (1977). "The Influence of Pollution on the Shortwave Albedo of Clouds". J. Atmos. Sci. 34 (7): 1149–1152. Bibcode:1977JAtS...34.1149T. doi:10.1175/1520-0469(1977)034<1149:TIOPOT>2.0.CO;2. ISSN 1520-0469. 
+^ Albrecht, B.A. (1989). "Aerosols, Cloud Microphysics, and Fractional Cloudiness". Science 245 (4923): 1227–1230. Bibcode:1989Sci...245.1227A. doi:10.1126/science.245.4923.1227. PMID 17747885. 
+^ Chen, Y.C. (2012). "Occurrence of lower cloud albedo in ship tracks". Atmospheric Chemistry and Physics 12: 8223–8235. Bibcode:2012ACP....12.8223C. doi:10.5194/acp-12-8223-2012. 
+^ Christensen, M. W. (2012). "Microphysical and macrophysical responses of marine stratocumulus polluted by underlying ships: 2. Impacts of haze on precipitating clouds". JGR 117. Bibcode:2012JGRD..11711203C. doi:10.1029/2011JD017125. 
+^ Christensen, M. W. (2011). "Microphysical and macrophysical responses of marine stratocumulus polluted by underlying ships: Evidence of cloud deepening". JGR 116. Bibcode:2011JGRD..116.3201C. doi:10.1029/2010JD014638.

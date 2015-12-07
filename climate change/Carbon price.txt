@@ -1,0 +1,148 @@
+Carbon pricing — the method favored by many economists for reducing global-warming emissions — charges those who emit carbon dioxide (CO2) for their emissions. That charge, called a carbon price, is the amount that must be paid for the right to emit one tonne of CO2 into the atmosphere. Carbon pricing usually takes the form either of a carbon tax or a requirement to purchase permits to emit, generally known as cap-and-trade, but also called "allowances".
+Carbon pricing solves the economic problem that CO2, a known greenhouse gas, is what economics calls a negative externality — a detrimental product that is not priced (charged for) by any market. As a consequence of not being priced, there is no market mechanism responsive to the costs of CO2 emitted. The standard economic solution to problems of this type, first proposed by Arthur Pigou in 1920, is for the product - in this case, CO2 emissions - to be charged at a price equal to the monetary value of the damage caused by the emissions. This should result in the economically optimal (efficient) amount of CO2 emissions. Many practical concerns mar the theoretical simplicity of this picture: for example, the exact monetary damage caused by a tonne of CO2 is uncertain.
+The economics of carbon pricing is much the same for taxes and cap-and-trade. Both prices are efficient; they have the same social cost and the same effect on profits if permits are auctioned. However, some economists argue that caps prevent non-price policies, such as renewable energy subsidies, from reducing carbon emissions, while carbon taxes do not. Others argue that an enforced cap is the only way to guarantee that carbon emissions will actually be reduced; a carbon tax will not prevent those who can afford to do so from continuing to generate emissions.
+The choice of pricing approach, a tax or cap-and-trade, has been controversial. A carbon tax is generally favored on economic grounds for its simplicity and stability, while cap-and-trade is often favored on political grounds. Recently (2013−14) economic opinion has been shifting more heavily toward taxes as national policy measures, and toward a neutral carbon-price-commitment position for the purpose of international climate negotiations.
+
+
+== Economic views on carbon pricing ==
+
+
+=== Price commitments ===
+In late 2013, William Nordhaus, president of the American Economic Association, published The Climate Casino which culminates in a description of an international “carbon price regime.” Such a regime would require national commitments to a carbon price, but not to a specific policy. Carbon taxes, caps, and hybrid schemes could all be used to satisfy such a commitment. At the same time Martin Weitzman, a leading climate economist at Harvard, published a theoretical study arguing that such a regime would make it far easier to reach an international agreement, while a focus on national targets would continue to make it nearly impossible. Nordhaus also makes this argument, but less formally.
+Similar views have previously been discussed by Joseph Stiglitz and have previously appeared in a number papers. The price-commitment view appears to have gained major support from independent positions taken by the World Bank and the International Monetary Fund (IMF). On June 3, 2014, the Bank began circulating a statement for countries and businesses to sign, which advocated “putting a price on carbon” to reduce global warming. It specifies that countries could use either emissions trading or carbon taxes to price carbon.
+In March the IMF published a "Factsheet" that advised using "carbon taxes or similar" and explained that "cap-and-trade systems are another option." In July 2014 they published Getting Energy Prices Right, which was promoted by Christine Lagarde (head of the IMF) saying that the right prices would "reduce carbon emissions by 23 percent."
+
+
+=== Emission permits and carbon taxes ===
+The "Economists’ Statement on Climate Change," was signed by over 2500 economists including nine Nobel Laureates in 1997. This statement summarizes the economic case for carbon pricing as follows:
+"The most efficient approach to slowing climate change is through market-based policies. In order for the world to achieve its climatic objectives at minimum cost, a cooperative approach among nations is required -- such as an international emissions trading agreement. The United States and other nations can most efficiently implement their climate policies through market mechanisms, such as carbon taxes or the auction of emissions permits."
+In short, this statement argues that carbon pricing (either "carbon taxes or the auction of emissions permits.") is a "market mechanism" (in contrast to renewable subsidies or direct regulation of individual sources of carbon emissions) and hence is the way that the "United States and other nations can most efficiently implement their climate policies."
+
+
+== Policies and Commitments ==
+Carbon prices can be determined by specific policies such as taxes or caps or by commitments such as emission reduction commitments or price commitments. However, emission reduction commitments (used by the Kyoto Protocol) can be met by non-price policies, so they do not necessarily determine a carbon price.
+
+
+=== Carbon policies ===
+Carbon policies can be either price-based (taxes) or quantity-based (cap-and-trade). A cap-and-trade system is quantity-based because the regulator sets an emissions quantity cap and the market determines the carbon price.
+
+
+==== Carbon taxes ====
+Main page: carbon tax
+A carbon tax is a price-based policy since the regulator sets the price directly. In principle all sources of CO2 emissions should be taxed at the same rate per ton of CO2 emitted. This can be accomplished by taxing all fossil fuel sources in proportion their carbon content. In practice, different fuels and different fuel uses may be taxed at quite different rates (or not at all) and the resulting tax may still be referred to as a carbon tax. The resulting carbon price, since it is directly regulated, is generally more predictable than the price of emission permits under a cap-and-trade system.
+As of July 2014, such carbon taxes exist in India, Japan, South Korea, Denmark, Finland, France, the Republic of Ireland, the Netherlands, Sweden, the United Kingdom, Norway, Switzerland, Costa Rica, parts of Canada, and parts of the United States. Of course, if all taxes on fossil fuels were counted, the list would be much longer.
+A carbon tax can be implemented locally, nationally, or by the EU Parliament. It cannot be implemented on a global scale because there is no government with that power. However, all countries could commit to a harmonized set of national carbon taxes. Joseph Stiglitz, William Nordhaus and James Hansen have been prominent proponents of carbon taxes.
+
+
+==== Cap and Trade ====
+Main page: cap and trade
+A classic cap-and-trade design works in one of two ways. First, the government establishes an emissions cap, for example 1000 tons/year, and prints 1000 permits to emit 1 ton. Then it either (1) gives the permits to stakeholders in some politically or administratively determined way, or (2) auctions them off to the highest bidder. After the permits have been distributed one way or the other, they can be traded privately. Since emitters must have permits to cover their emissions (or face a penalty that would cost more than buying permits), emissions will be limited to the cap. If the cap is low, permits will be in short supply (scarce) and the price of permits will be high.
+Like a carbon tax, a cap is generally applied to fossil fuel in proportion to its carbon content. Generally, coverage is partial, for example it may be limited to the electric industry. The main difference between the two systems is that the market for permits automatically adjusts the carbon price to a level that insures that the cap is met, while under a carbon tax, the government and not the market sets the price of carbon.
+Two or more countries can link their cap and trade markets simply by accepting carbon permits (called 'allowances) from each other. The effect of this is to equalize the price between the two markets. This increases efficiency. As of July 2014, cap and trade has been implement (and not rescinded) in New Zealand, 24 EU countries, Japan, and parts of Canada and the United States. Robert Stavins, the European Union Emissions Trading Scheme, and the Environmental Defense Fund are Some major proponents of cap and trade.
+
+
+==== Hybrid designs ====
+The IMF’s Fact Sheet states that “Cap-and-trade systems are another option, but generally they should be designed to look like taxes through revenue-raising and price stability provisions." Such designs are often referred to as hybrid designs. The stability provisions referred to are typically floor and ceiling prices (a ceiling price is also known as a safety valve), which are implemented as follows. When permits are auctioned, there is a floor (reserve) price below which permits are not sold, and permits for immediate use are always made available at the ceiling price, even if sales have already reached the permit cap. To the extent the price is controlled by these limits, it is a tax. So if the floor is set equal to the ceiling, cap-and-trade becomes a pure carbon tax.
+
+
+==== Revenue Policies ====
+As explained above, and analyzed below, cap-and-trade system can give away their permits for free, or they can auction them. In the later case they will have essentially the same revenues as a carbon tax. These revenues can be distributed in various ways. From a carbon-pricing perspective, the distribution of revenues does not matter as long as the distribution is in no way related to carbon emission. In other words, no part of the collected carbon revenue can be returned to any party in proportion to the amount collected from that party. To the extent that happens it negates the effect of the pricing policy.
+Standard proposals for using carbon revenues include: return them to the public on a per-capita basis, use them in place of another tax (a tax swap), use them for energy research, or use them to subsidize renewable energy projects.
+
+
+=== Carbon commitments ===
+Carbon commitments can be either price-based or quantity-based. The Kyoto Protocol is based on a set of "emission reduction commitments" — quantity-based commitments. These may or may not result in a carbon price, depending on what policies countries choose when meeting these commitments. In practice, the EU ETS (cap-and-trade system) resulted in a fairly strong carbon price, but that was later undermined by renewables policies (non-price policies) as well as by the Great Recession.
+More recently a number of prominent economists have proposed the use of price commitments to simplify international negotiations and to overcome the free-rider problem of climate change. Such commitments would require the use of pricing policies, and would result in an efficient carbon price.
+
+
+==== Emission reduction commitments ====
+Related page: Kyoto Protocol
+An emission reduction commitment, sometimes called an emission target, is a quantity-based commitment. It differs from a cap because a country can emit more provided it buys carbon permits from another country (that over-satisfies its commitment). Also, such commitments need not lead to a price on carbon, but can be met by non-price policies. Under the Kyoto Protocol, Annex I countries made emission reduction commitments. These commitments did not specify which policy would be used to achieve them, but the EU among others hoped that a set of linked national cap-and-trade markets would develop and that carbon pricing would be one of the most significant policies in achieving emission reductions. In reality, the EU ETS and its carbon price did play an important role as did the more ambiguous pricing of the Clean Development Mechanism and its permits, Certified Emission Reduction Units (CERs). However, renewables subsidies undermined the carbon price significantly as well as the efficiency of the emission reduction process.
+The Kyoto Protocol also defined another carbon-pricing mechanism in the form of Assigned Amount Units (AAUs) which were allocated to match country's Assigned Amounts (for most countries, their 1990 emission levels minus their emission reduction commitments). It also specified rules for trading these "carbon credits." Trade of AAUs takes place between countries, and their price represents a carbon price faced by countries under the Protocol. However, since businesses cannot purchase AAUs, that price has generally not been passed through to emitters.
+Emission reduction commitments have been implemented locally, (e.g. by the state of California), nationally, and by the EU Parliament. However, these commitments are often largely aspirational, and they do not have much to do with carbon pricing, since they are often met mainly by non-price policies. In the case of the Kyoto Protocol, the result has been a constantly declining coverage of global carbon emissions (down to about 21% in 2013) and an erratic and generally declining price of carbon.
+A new quantity commitment approach, suggested by Mutsuyoshi Nishimura, is for all countries to commit to the same global emission target. The “assembly of governments” would issue permits in the amount of the global target and all upstream fossil-fuel providers would be forced to buy these permits. All permits would be auctioned by the assembly which would also negotiate how to distribute the revenues. Such a set of commitments, if kept, would form a true quantity-based carbon pricing policy, and result in an efficient uniform global carbon price. However, this would not necessarily be the correct price, which would depend on the chosen global emission target. How the revenues would be distributed would undoubtedly prove to be a contentious problem.
+
+
+==== Carbon price commitments ====
+As discussed above, William Nordhaus, Joseph Stiglitz, Martin Weitzman, Stéphane Dion and others have proposed a global carbon price commitment as a way of achieving an efficient uniform carbon price and overcoming the negotiating problem inherent in national quantity targets. The World Bank is also organizing support for the idea that countries should commit to a carbon price and that such a price commitment could be met either be emission trading or carbon taxes.
+
+
+== Economics of carbon pricing ==
+Many economic properties of carbon pricing hold regardless of whether carbon is priced with a cap or a tax. However, there are a few important differences. Cap-based prices are more volatile and so they are riskier for investors, consumers and for governments that auction permits. Also, caps tend to short-out the effect of non-price policies such are renewables subsidies, while carbon taxes do not.
+
+
+=== Efficiency of carbon pricing ===
+Carbon pricing is considered by economists to be among the most efficient way to reduce emissions. This means that it reduces emissions for the least possible cost, where these costs include the cost of efficiency measures as well as the cost of the inconvenience of making do with less of the goods and services provided by fossil fuel. This efficiency comes about by eliminating a market failure (the un-priced external costs of carbon emissions) at its source — by pricing these costs. This is best explained example
+Consider an example market with 100 emitters, each of which gets a different benefit from using carbon (and emitting CO2). Each emitter would like to use enough fossil fuel to emit 1 ton per year. Suppose the benefits from that ton range from $1 for the user with the least need for carbon to $100 (in $1 increments) for the user who would benefit most. Now consider this market under two different pricing policies, a cap-and-trade policy and a tax. Further suppose that the tax is $60.01/ton and the cap has been set at 40 tons, so that 40 one-ton permits have been issued.
+Under the tax, it is clear that no one with an emission value of less than $60.01 will emit because they would have to pay $60.01 for less than $60.01 in value. So the 40 carbon users with values ranging from $61 to $100 will pay the tax and emit their ton of carbon.
+Under cap and trade, suppose the price turned out be less than $60.01 and someone other than a top-40 emitter (ranked by value) got a permit. In that case a top-40 emitter without a permit would offer that “someone” more than $60 and they would sell because that is more that the value they would get from using the permit themselves. This will drive the price up to the point where only top-40 emitters get permits and the price is a little more (say $60.01) than any bottom-60 emitter would pay.
+Several conclusions are drawn by economics from a somewhat more rigorous application of this type of analysis. First the same people end up emitting under a tax and under a cap that pushes the price equally high. Second, only the highest value emitters end up emitting. Third, the total value of emitters is greater than under any other distribution of permits. This final conclusion is the reason carbon pricing is considered “efficient” by economist.
+Finally, economics points out that since regulators would have an extremely hard time finding out the value that each emitter receives from emitting, this efficient outcome is extremely unlikely if the regulator chooses who can emit and who cannot. This is why economics teaches that command-and-control regulation will not be efficient, and will be less efficient than a market mechanism, such as carbon pricing. In the words of the IPCC, "[renewable energy subsidies] are less efficient alternatives to carbon taxes and emissions trading for inducing mitigation" (section 3.8.1.2).
+
+
+=== Interactions with renewable energy policies ===
+Cap-and-trade and carbon taxes interact differently with non-price policies such as renewable energy subsidies. The IPCC explains this as follows:
+"A carbon tax can have an additive environmental effect to policies such as subsidies for the supply of RE. By contrast, if a cap-and-trade system has a binding cap (sufficiently stringent to affect emission-related decisions), then other policies such as RE subsidies have no further impact on reducing emissions within the time period that the cap applies [emphasis added]."
+Consider the following hypothetical example of this effect. Suppose the price of permits in the EU would have been €30, and Germany would have needed to purchase 20 million permits. If Germany then decided to subsidize investment in wind turbines that would not have been built with a €30 carbon price, and they were built and operated, then Germany would need fewer permits. Hence the permits it would have used will go somewhere else, perhaps to Poland. Poland would then use them to emit more CO2, perhaps by burning coal. The result is that Germany emits less CO2 and this allows others to emit just as much more. So the cap is met, as it must be, and the total CO2 emitted is unchanged by the renewable subsidies and wind turbines.
+Notice that this same effect applies as well to an individual who chooses to buy an electric car under a cap-and-trade system. The car emits less CO2, so fewer permits are used up by this person's driving. These permits will be bought by others and used. So the same amount of CO2 (the cap) will be emitted regardless of the purchase of the electric car. It the buyer's intent was to reduce carbon emissions, the cap has thwarted their efforts by encouraging others to emit exactly as much as they abated their emissions. As the IPCC noted, a carbon tax does not have this effect.
+
+
+=== Cost pass-through ===
+Carbon pricing sometimes charges the emitter and sometimes charges the fossil fuel supplier. Fortunately the right person always ends up bearing the cost imposed by the policy. The government may tax or cap an oil refinery based on all the carbon it buys in the form of oil. But the refinery does not emit 90%+ of that carbon. Instead it makes gasoline and sells that to gas stations, who sell it to drivers, who emit the carbon. In this case the refinery passes on the cost of its carbon permits or carbon tax (just as it passes on all marginal costs), and the gas stations pay those costs. But then the gas stations pass on their cost to the drivers. So drivers actually bear the cost of carbon pricing, and that is as it should be, because driving is the real reason for the emissions.
+But economics does not view this as a moral matter. Rather, economics points out that when the cost goes up, if drivers do not find driving their SUV (for example) worth the extra cost, they will switch and drive their sports car, ride their bike or join a car pool. And that is the point of carbon pricing. And if all alternative are unappealing, that means the driver really is getting more benefit that the cost she is causing. So again we have the right outcome — provided the carbon price equals the social cost.
+
+
+=== Free permits and windfall profits ===
+As noted above, under cap-and-trade, the permits may be given away for free or auctioned. In the first case, the government receives no carbon revenue and in the second it receives (on average) the full value of the permits. In either case, permits will be equally scarce and just as valuable to market participants. Since the private market (for trading permits) determines the final price of permits (at the time they must be used to cover emissions), the price will be the same in either case (free or auctioned). This is generally understood.
+A second point about free permits (usually “grandfathered,” i.e. given out in proportion to past emissions) has often been misunderstood. Companies that receive free permits, treat them as if they had paid full price for them. This is because using carbon in production has the same cost under both arrangements. With auctioned permits, the cost is obvious. With free permits, the cost is the cost of not selling the permit at full value — this is termed an “opportunity cost.” Since the cost of emissions is generally a marginal cost (increasing with output), the cost is passed on by raising the cost of output (e.g. raising the cost of gasoline or electricity).
+Windfall profits: A company that receives permits for free will pass on its opportunity cost in the form of higher product prices. Hence, if it sells the same amount of output as before that cap, with no change in production technology, the full value (at the market price) of permits received for free becomes windfall profits. However, since the cap reduces output and often causes the company to incur costs to increase efficiency, windfall profits will be less than the full value of its free permits.
+Generally speaking, if permits are allocated to emitters for free, they will profit from them. But if they must pay full price, or if carbon it taxed, their profits will be reduced. If the carbon price exactly equals the true social cost of carbon, then long-run profit reduction will simply reflect the consequences of paying this new cost. If having to pay this cost is unexpected, then there will likely be a one-time loss that is due to the change in regulations and not simply due to paying the real cost of carbon. However it there is advanced notice of this change, or if the carbon price is introduced gradually, this one-time regulatory cost will be minimized. There has now been enough advance notice of carbon pricing that this effect should be negligible on average.
+
+
+=== The cost of carbon pricing ===
+There has been much controversy over the cost to society, or "dead-weight loss" of carbon pricing. Generally the cost, though substantial, is much less than imagined. An example will illustrate. Suppose a $30 carbon price is imposed on the (roughly) 5 billion tonnes of CO2 the U.S. emits each year, and suppose that causes emissions to drop 25% (in the long run) to 4 billion tonnes. How much does that cost the US (excluding the benefit of the reduced externality)? There are two simplistic views that are sometimes taken, and these bracket the correct answer, which is $15 billion per year.
+First, if permits are auctioned, a cap or tax will each collect $30 × 4 billion = $120 billion/year. So that is sometimes said to be the cost of the policy. Second, if the permits are given away or the tax is refunded, then it may appear that there is no cost at all. In fact, the two situations are not so different, because carbon revenues do not vanish, so they are not a cost. Revenues only become a cost if they are entirely wasted. But that would not be the fault of pricing carbon.
+However, the view that the cost is zero must be wrong as well. In fact, the real social cost is not related to the revenues at all, but is determined by what physically happens in the economy. What happens is that people take certain actions to reduce emissions. In this example those actions reduce emissions by 1 billion tons per year. But no one would deliberately pay more than $30 to avoid emitting a tonne, since it would be cheaper to pay the price of carbon. But without the carbon price, very cheap abatements should be available. But these are ignored because they cost a bit more than the energy they save. These cheap abatements can have net abatement costs down to essentially zero. So all abatement should range in cost between $0 and $30/tonne. The typical assumption is that marginal abatement costs increase linearly, so the standard assumption is that the average cost of abatement will be half the marginal cost, or $15/tonne. So that will be the average cost of the 1 billion tonnes per years that is abated, for a total cost of $15 billion per year.
+
+
+== Emissions trading: further discussion ==
+
+Besides cap and trade, emission trading can refer to project-based programs, also referred to as a credit or offset programs. Such programs can sell credits for emission reductions provided by approved projects. Generally there is an additionality requirement that states that they must reduce emissions more than is required by pre-existing regulation. An example of such a program is the Clean Development Mechanism under the Kyoto Protocol. These credits can be traded to other facilities where they can be used for compliance with a cap-and-trade program. Unfortunately the concept of additionality is difficult to define and monitor, with the result that some companies purposefully increasing emissions in order to get paid to eliminate them.
+Cap-and-trade programs often allow "banking" of permits. This means that permits can be saved and can be used in the future. This allows an entity to over-comply in early periods in anticipation of higher carbon prices in subsequent years. This helps to stabilize the price of permits.
+On January 1, 2005, The European Union introduced the EU emissions trading system (EU ETS) for electricity plants and several branches of industry. The EU ETS sets targets for the CO2 emissions of some 11,500 plants across the EU-25. Installations have the flexibility to increase emissions above their targets provided that they acquire emission allowances to cover those emissions, while electric plants with emissions below caps are allowed to sell unused allowances.
+
+
+== See also ==
+
+Carbon pricing in Australia
+Economics of climate change mitigation
+
+
+== External links ==
+Carbon tax:
+Carbon Tax Center — Argues for a carbon tax
+Citizen's Climate Lobby — George Shultz & James Hansen support a carbon fee and
+dividend
+Carbon tax survey results — Some taxes have majority support
+WSJ: Cap-and-Trade's Unlikely Critics: Its Creators — They are critical of using it for carbon
+Cap and trade
+European Emissions Trading System — Web site of largest cap and trade experiment
+Regional Greenhouse Gas Initiative (RGGI) — Cap and Trade in the US Northeast
+California's Cap and Trade Program — The California Air Resources Board
+Environmental Defense Fund — Report on California's Cap and Trade
+The Way Forward Report - Design Principals for Ontario's New Cap and Trade System
+Emission reduction commitments (targets)
+CDM Rulebook — Defines Kyoto commitments
+UN Climate Change Framework — Lists national commitments for 2020
+European Commission — EU Overachieves Kyoto targets
+Price commitments
+The Price Carbon Project — Quotes & papers from Nordhaus, Stiglitz, Weitzman, Dion, etc.
+Pricing Carbon Initiative — US focused effort for carbon-pricing commitments
+World Bank: Support a Price on Carbon — Seems to suggest a Nordhaus-style "carbon price regime"
+The Economists' Statement on Climate Change — Favors carbon pricing over subsidies
+
+
+== Notes ==
+
+
+== References ==

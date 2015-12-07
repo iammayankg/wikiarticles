@@ -1,0 +1,97 @@
+The American Chemical Society (ACS) is a scientific society based in the United States that supports scientific inquiry in the field of chemistry. Founded in 1876 at New York University, the ACS currently has more than 158,000 members at all degree levels and in all fields of chemistry, chemical engineering, and related fields. It is the world's largest scientific society and one of the leading sources of authoritative scientific information.
+The ACS is a 501(c)3 non-profit organization. The ACS holds national meetings twice a year covering the complete field of chemistry and also holds dozens of smaller conferences in specific fields. Its publications division produces dozens of scholarly journals including the prestigious Journal of the American Chemical Society, Nano Letters and ACS Nano. The primary source of income of the ACS is the Chemical Abstracts Service and 38 peer-reviewed publications. Chemical & Engineering News is the weekly news magazine published by the American Chemical Society and is sent to all members. The ACS membership is organized into 186 geographical Local Sections and 32 Technical Divisions.
+The group holds a congressional charter under Title 36 of the United States Code.
+
+
+== Origins ==
+
+The American Chemical Society had its origins in 35 chemists who met on 6 April 1876, at the University Building in the New York University (titled "University of the City of New York" at that time; its name was officially changed in 1896). Although at that time there was an American science society (American Association for the Advancement of Science), the growth of chemistry prompted those assembled, including William H. Nichols, under the direction of Professor Charles F. Chandler of the Columbia School of Mines, to found the American Chemical Society, which would focus more directly on theoretical and applied chemistry. The society, Chandler said, would “prove a powerful and healthy stimulus to original research, … would awaken and develop much talent now wasting in isolation, … [bring] members of the association into closer union, and ensure a better appreciation of our science and its students on the part of the general public.”
+A formal vote for organization was taken, a constitution was adopted, and officers were selected. Chandler was an obvious choice as president since he had been instrumental in establishing the society. However, he felt that New York University Professor John William Draper had the reputation as a scientist to lead a national organization. At the age of 65, Draper was elected as the first president of the American Chemical Society and the headquarters was located in New York. Draper’s presidency was important more due to his name and reputation than his active participation in the society.
+Past presidents of the ACS include noted chemists Glenn T. Seaborg (1976), Linus Pauling (1949), and George C. Pimentel (1986).
+
+
+== Educational activities ==
+ACS states that it offers teacher training to support the professional development of science teachers so they can better present chemistry in the classroom, foster the scientific curiosity of our nation’s youth and encourage future generations to pursue scientific careers.
+The American Chemical Society sponsors the United States National Chemistry Olympiad (USNCO), a contest used to select the four-member team that represents the United States at the International Chemistry Olympiad (IChO).
+The ACS International Activities is the birthplace of the ACS International Center, an online resource for scientists and engineers looking to study abroad or explore an international career or internship. The site houses information on hundreds of scholarships and grants related to all levels of experience to promote scientific mobility of researchers and practitioners in STEM fields.
+The ACS Division of Chemical Education provides standardized tests for various subfields of chemistry. The two most commonly used tests are the undergraduate-level tests for general and organic chemistry. Each of these tests consists of 70 multiple-choice questions, and gives students 110 minutes to complete the exam.
+The American Chemical Society grants membership to undergraduates as student members provided they can pay the $25 yearly dues. Any university may start its own ACS Student Chapter and receive benefits of undergraduate participation in regional conferences and discounts on ACS publications.
+The ACS also approves certified undergraduate programs in chemistry. A student who completes the required laboratory and course work—sometimes in excess of what a particular college may require for its Bachelor's degree—is considered by the Society to be well trained for professional work.
+The ACS also coordinates National Chemistry Week as part of its educational outreach.
+
+
+== Divisions ==
+The five initial divisions of ACS in 1908 were Organic Chemistry, Industrial Chemists & Chemical Engineers, Agricultural & Food Chemistry, Fertilizer Chemistry, and Physical & Inorganic Chemistry.
+
+
+=== Division of Organic Chemistry ===
+This is the largest division of the Society. It marked its 100th Anniversary in 2008. The first Chair of the Division was Edward Curtis Franklin. The Organic Division played a part in establishing Organic Syntheses, Inc. and Organic Reactions, Inc. and it maintains close ties to both organizations.
+The Division's best known activities include organizing symposia (talks and poster sessions) at the biannual ACS National Meetings, for the purpose of recognizing promising Assistant Professors, talented young researchers, outstanding technical contributions from junior-level chemists, in the field of organic chemistry. The symposia also honor national award winners, including the Arthur C. Cope Award, Cope Scholar Award, James Flack Norris Award in Physical Organic Chemistry, Herbert C. Brown Award for Creative Research in Synthetic Methods.
+The Division helps to organize symposia at the international meeting called Pacifichem , and it organizes the biennial National Organic Chemistry Symposium (NOS) which highlights recent advances in organic chemistry and hosts the Roger Adams Award address. The Division also organizes corporate sponsorships to provide fellowships for Ph.D. students, and undergraduates. It also organizes the Graduate Research Symposium and manages award and travel grant programs for undergraduates.
+
+
+== Awards ==
+The Chemistry and the Law Division of the American Chemical Society commissioned Society Awards to create the "Golden Column" Award, bestowed on lawyers who have successfully completed ACS courses on gas chromatography, mass spectrometry, blood testing and pharmacology, and in addition to having passed a very rigorous exam on their scientific understanding. The stature of the award is meant to be commensurate with the work the individuals put in to achieve this honor. The award is a replica of the column used in a gas chromatograph. It is die cast and plated, displayed on a wood base and includes a hanging personalization plate.
+The New York Section gives two national annual awards each year: The Leadership Awards and the Nichols Medal. The Leadership Awards are the highest honors given by the Chemical Marketing and Economic Group of ACS NY since December 6, 2012, to leaders of industry, investments, and other sectors, for their contributions to science, technology, engineering and mathematics (STEM) initiatives. Honorees include Andrew N. Liveris (Dow Chemical), P. Roy Vagelos (Regeneron, Merck), Thomas M. Connelly (DuPont) and Juan Pablo del Valle (Mexichem).
+Established in 1903, the Nichols Medal is the first national award of the American Chemical Society to honor outstanding researchers in the field of chemistry. It is named for and established by William H. Nichols, was one of the original founders of the American Chemical Society. Of the over 100 Nichols Medalists, 16 have subsequently been awarded the Nobel Prize in Chemistry.
+
+
+== Controversies ==
+
+
+=== Chemical Abstracts Service ===
+In 1990, Dialog filed a lawsuit against the ACS, claiming the Sherman Antitrust Act had been violated in ACS's attempts to monopolize access to chemical literature. The ACS countersued, claiming that Dialog owed money for the use of the chemical abstracts. The legal battle went on for several years, until it was resolved out of court in 1993.
+An ACS lawsuit against Google, claiming that Google Scholar infringed on its SciFinder Scholar, was settled out of court in 2006.
+The ACS also sued Leadscope.
+
+
+=== Opposition to PubChem ===
+The ACS has been criticized for opposing the creation of PubChem, which is an open access chemical database maintained by the National Center for Biotechnology Information. The ACS raised concerns that the publicly supported PubChem database appears to directly compete with their existing Chemical Abstracts Service. The ACS has a strong financial interest in the issue since the Chemical Abstracts Service generates a large percentage of the society's revenue. To advocate their position against the PubChem database, ACS has actively lobbied the US Congress. They are reported to have paid the lobbying firm Hicks Partners LLC at least $100,000 in 2005 to try to persuade congressional members, the NIH, and the Office of Management and Budget (OMB), against establishing a publicly funded database. They also were reported to have spent $180,000 to hire Wexler & Walker Public Policy Associates to promote the 'use of [a] commercial database'. In a May 23, 2005, press release, the ACS stated:
+The ACS believes strongly that the Federal Government should not seek to become a taxpayer supported publisher. By collecting, organizing, and disseminating small molecule information whose creation it has not funded and which duplicates CAS services, NIH has started ominously, down the path to unfettered scientific publishing...
+
+
+=== Stance against open access ===
+The ACS has opposed legislation that would mandate free web access to scientific journals as it believes that the freedom to charge for journal access is often necessary to cover the costs of peer review and publishing. The journal Nature reported that ACS had hired a public relations firm, Dezenhall Resources, to counter the open access movement. Scientific American later reported that ACS had spent over $200,000 to hire Wexler & Walker Public Policy Association to lobby against open access. ACS journals do however have an author supported open access option in which authors can pay a fee to enable free web access to their articles.
+
+
+=== Executive compensation ===
+
+In 2004, when the then executive director of the ACS, Madeleine Jacobs, assumed her position, it included the use of two Cadillac cars and a chauffeur that her predecessor, John Crum, had acquired. Jacobs later auctioned off the cars and let go of the chauffeur.
+In 2007, Madeleine Jacobs was reported to receive a salary of over $800,000 per year. The salaries of the ACS executives (executive director, treasurer, and secretary) are decided by the Standing Committee on Executive Compensation which is composed of the "president, the immediate past president, the chair of the society committee on budget and finance, and two members of the society with demonstrated expertise in senior and executive staff compensation."
+In December 2014, ACS announced that former DuPont executive Thomas J. Connelly would replace Jacobs as chief executive officer and executive director, effective February 17, 2015.
+
+
+== Journals and magazines ==
+
+
+== See also ==
+ACS style - the ACS citation standard
+Association for Learned and Professional Society Publishers
+List of learned societies
+List of international professional associations
+
+
+== Further reading ==
+H. Skolnik & K. M. Reese (eds) 1976 A Century of Chemistry: The Role of Chemists and the American Chemical Society ACS, Washington, D.C.
+
+
+== References ==
+
+
+== External links ==
+ACS website
+ACS Publications website
+Chemical & Engineering News
+ACS Chemical Abstracts Service (CAS)
+International Year of Chemistry
+A Cauldron Bubbles: PubChem and the American Chemical Society (Information Today, June 2005)
+ACS Chemical Biology WIKI
+ACS Chemical Biology Community
+ACS Green Chemistry Institute
+ACS Organic Division
+Leete Award
+Gassman Award
+
+
+=== Archives ===
+American Chemical Society Puget Sound Section Records. 1909-1989. 11.9 cubic feet plus 10 vertical files and 7 items. At the University of Washington Libraries, Special Collections.

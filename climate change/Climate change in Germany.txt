@@ -1,0 +1,37 @@
+The "Integrated Climate System Analysis and Prediction" (CliSAP) Cluster of Excellence is a research association of the Universität Hamburg, the Max Planck Institute for Meteorology (MPI-M), the Helmholtz-Zentrum Geesthacht (Centre for Materials and Coastal Research, HZG), and the German Climate Computing Center (DKRZ). The Cluster of Excellence started in 2007 as part of the Excellence Initiative of the German Federal Ministry of Education and Research. It is therefore funded by the German Research Foundation (DFG). CliSAP conducts fundamental research on climate and climate change in the fields of natural, economic and social sciences.
+
+
+== Research ==
+The scientists of CliSAP are carrying out research in three different areas:
+A: Climate Dynamics and Variability
+B: Climate Manifestations and Impacts
+C: Climate Change and Social Dynamics
+Area A focuses on the scientific aspects of climatology: Variability and predictability, interactions between climate system components as well as the global and regional sea level rises are investigated. Furthermore, the climate system’s relation to the carbon cycle and the influence of external disturbances on the predictability of the climate system is examined. The target of area B is to learn more about the consequences of global warming in sensible regions. One aim is to analyze the impact of global warming on permafrost soils or to find out whether intensive land utilization has any effect on the climate. In area C the scientists concern themselves about social reactions and developments connected with anthropogenic climate change. For example, it is examined in which ways various agents deal with climate-related information. Also treated is the question whether climate change is among others responsible for poverty and violent conflicts. CliSAP’s key research areas are supplemented with so called “Integrated Activities” like the Integrated Climate Data Center, Integrated Modeling Activities, Global Climate Reconstruction, Understanding Science in Interaction and Visualization.
+
+
+== Organization and funding ==
+CliSAP is represented by a chair, currently Professor Anita Engels, and two deputy chairs, currently Professor Eva-Maria Pfeiffer and Professor Detlef Stammer. They are chosen by the Scientific Steering Committee, which sets the cluster’s strategic agenda. CliSAP was established during the first funding period of the federal Excellence Initiative of the German federal government and the federal states, 2007-2012. In summer 2012 the German Research Foundation (Deutsche Forschungsgemeinschaft, DFG) decided to continue the funding for another five years until 2017 within the second phase of the Excellence Initiative.
+
+
+== Education ==
+The English-speaking graduate school “School of Integrated Climate System Sciences “ (SICSS) is part of CliSAP. SICSS offers the possibility to earn a Master of Science degree within two-years, as well as a doctoral program which takes three years in the field of integrated climate system sciences. It combines climate sciences such as meteorology, oceanography and biogeochemistry in one course and, furthermore, integrates social and economic sciences as well as safety and conflict research. Every year CliSAP nominates outstanding doctoral theses in climate and Earth system research for the Wladimir Peter Köppen Award. The award includes prize money of €5,000.
+
+
+== Infrastructure ==
+The following platforms of CliSAP partners are uses jointly for research: the supercomputers of the DKRZ, the Integrated Climate Data Center (access to climatically relevant satellite and in situ data), large equipment like the Hamburger Wettermast, and the Environmental Wind Tunnel Laboratory. The "Control Station German Research Vessels” organizes the running of the research vessels Meteor, Maria S. Merian and Sonne.
+
+
+== References ==
+
+
+== Sources and external links ==
+Cluster of Excellence CliSAP
+German Research Foundation (DFG) about the Excellence Initiative
+Description of CliSAP by the DFG
+Description of CliSAP by the city state Hamburg
+Description of CliSAP by the German climate research network "German Climate Consortium (DKK)"
+Climate Report for the metropolitan area Hamburg, 2010, launched by the Cluster of Excellence CliSAP
+Report of public-service broadcast station NDR about CliSAP within the Excellence Initiative, 2014/07/09
+German newspaper article about second funding phase of the Cluster: Hamburger Abendblatt, Die Klimaforscher gehen in die Verlängerung, 2012/06/16
+Austrian newspaper article about CliSAP findings on shrinking Arctic sea ice: Der Standard, Aktuelle Meereis-Situation: Im Norden geschrumpft, im Süden stark gewachsen, 2014/09/16
+Article about CliSAP findings on shrinking Arctic sea ice: Spiegel Online, Arktischer Sommer: Meereis erneut stark geschmolzen, 2013/09/19

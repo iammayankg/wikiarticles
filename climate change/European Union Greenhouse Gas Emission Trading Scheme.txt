@@ -1,0 +1,228 @@
+The European Union Emissions Trading System (EU ETS), also known as the European Union Emissions Trading Scheme, was the first large greenhouse gas emissions trading scheme in the world, and remains the biggest. It was launched in 2005 to fight Global warming and is a major pillar of EU climate policy. As of 2013, the EU ETS covers more than 11,000 factories, power stations, and other installations with a net heat excess of 20 MW in 31 countries—all 28 EU member states plus Iceland, Norway, and Liechtenstein. The installations regulated by the EU ETS are collectively responsible in 2008 for close to half of the EU's anthropogenic emissions of CO2 and 40% of its total greenhouse gas emissions. The taxation of electricity producers (power stations) for the emissions of CO2 has been controversial as globally, governments have refused to accept the additional burden while many have repealed such schemes such as Canada in 2011 and Australia in 2014.
+Under the 'cap and trade' principle, a maximum (cap) is set on the total amount of greenhouse gases that can be emitted by all participating installations. 'Allowances' for emissions are then auctioned off or allocated for free, and can subsequently be traded. Installations must monitor and report their CO2 emissions, ensuring they hand in enough allowances to the authorities to cover their emissions. If emission exceeds what is permitted by its allowances, an installation must purchase allowances from others. Conversely, if an installation has performed well at reducing its emissions, it can sell its leftover credits. This allows the system to find the most cost-effective ways of reducing emissions without significant government intervention.
+The scheme has been divided into a number of "trading periods". The first ETS trading period lasted three years, from January 2005 to December 2007. The second trading period ran from January 2008 until December 2012, coinciding with the first commitment period of the Kyoto Protocol. The third trading period began in January 2013 and will span until December 2020. Compared to 2005, when the EU ETS was first implemented, the proposed caps for 2020 represents a 21% reduction of greenhouse gases. This target has been reached 6 years early as emissions in the ETS fell to 1812 mln tonnes in 2014.
+The EU ETS has seen a number of significant changes, with the first trading period described as a 'learning by doing' phase. Phase III sees a turn to auctioning a majority of permits rather than allocating freely; harmonisation of rules for the remaining allocations; and the inclusion of other greenhouse gases, such as nitrous oxide and perfluorocarbons. In 2012, the EU ETS was also extended to the airline industry, though this has been paused for one year given the possibility of a global system for these emissions. The price of EU ETS carbon credits has been lower than intended, with a large surplus of allowances, in part because of the impact of the recent economic crisis on demand. In 2012, the Commission said it would delay the auctioning of some allowances. Currently legislation is under way which would introduce a Market Stability Reserve to the EU ETS that adjusts the annual supply of CO2 permits based on the CO2 permits in circulation 
+
+
+== Mechanisms ==
+The first phase of EU ETS was created to operate apart from international climate change treaties such as the pre-existing United Nations Framework Convention on Climate Change (UNFCCC, 1992) or the Kyoto Protocol that was subsequently (1997) established under it. When the Kyoto Protocol came into force on 16 February 2005, Phase I of the EU ETS had already become operational. The EU later agreed to incorporate Kyoto flexible mechanism certificates as compliance tools within the EU ETS. The "Linking Directive" allows operators to use a certain amount of Kyoto certificates from flexible mechanism projects in order to cover their emissions.
+The Kyoto flexible mechanisms are:
+Joint Implementation projects (JI) defined by Article 6 of the Kyoto Protocol, which produce Emission Reduction Units (ERUs). One ERU represents the successful emissions reduction equivalent to one tonne of carbon dioxide equivalent (tCO2e).
+the Clean Development Mechanism (CDM) defined by Article 12, which produces Certified Emission Reductions (CERs). One CER represents the successful emissions reduction equivalent to one tonne of carbon dioxide equivalent (tCO2e).
+International Emissions Trading (IET) defined by Article 17.
+IET is relevant as the reductions achieved through CDM projects are a compliance tool for EU ETS operators. These Certified Emission Reductions (CERs) can be obtained by implementing emission reduction projects in developing countries, outside the EU, that have ratified (or acceded to) the Kyoto Protocol. The implementation of Clean Development Projects is largely specified by the Marrakech Accords, a follow-on set of agreements by the Conference of the Parties to the Kyoto Protocol. The legislators of the EU ETS drew up the scheme independently but called on the experiences gained during the running of the voluntary UK Emissions Trading Scheme in the previous years, and collaborated with other parties to ensure its units and mechanisms were compatible with the design agreed through the UNFCCC.
+Under the EU ETS, the governments of the EU Member States agree on national emission caps which have to be approved by the EU commission. Those countries then allocate allowances to their industrial operators, and track and validate the actual emissions in accordance with the relevant assigned amount. They require the allowances to be retired after the end of each year.
+The operators within the ETS may reassign or trade their allowances by several means:
+privately, moving allowances between operators within a company and across national borders
+over the counter, using a broker to privately match buyers and sellers
+trading on the spot market of one of Europe's climate exchanges.
+Like any other financial instrument, trading consists of matching buyers and sellers between members of the exchange and then settling by depositing a valid allowance in exchange for the agreed financial consideration. Much like a stock market, companies and private individuals can trade through brokers who are listed on the exchange, and need not be regulated operators.
+When each change of ownership of an allowance is proposed, the national registry and the European Commission are informed in order for them to validate the transaction. During Phase II of the EU ETS, the UNFCCC also validates the allowance and any change that alters the distribution within each national allocation plan.
+Like the Kyoto trading scheme, EU ETS allows a regulated operator to use carbon credits in the form of Emission Reduction Units (ERU) to comply with its obligations. A Kyoto Certified Emission Reduction unit (CER), produced by a carbon project that has been certified by the UNFCCC's Clean Development Mechanism Executive Board, or Emission Reduction Unit (ERU) certified by the Joint Implementation project's host country or by the Joint Implementation Supervisory Committee, are accepted by the EU as equivalent.
+Thus one EU Allowance Unit of one tonne of CO2, or "EUA", was designed to be identical ("fungible") with the equivalent "Assigned Amount Unit" (AAU) of CO2 defined under Kyoto. Hence, because of the EU's decision to accept Kyoto-CERs as equivalent to EU-EUA's, it is possible to trade EUA's and UNFCCC-validated CERs on a one-to-one basis within the same system. (However, the EU was not able to link trades from all its countries until 2008-9 because of its technical problems connecting to the UN systems.)
+During Phase II of the EU ETS, the operators within each Member State must surrender their allowances for inspection by the EU before they can be "retired" by the UNFCCC.
+
+
+=== Allocation ===
+The total number of permits issued (either auctioned or allocated) determines the supply for the allowances. The actual price is determined by the market. Too many allowances compared to demand will result in a low carbon price, and reduced emission abatement efforts. Too few allowances will result in too high a carbon price.
+For each EU ETS Phase, the total quantity to be allocated by each Member State is defined in the National Allocation Plan (equivalent to its UNFCCC-defined carbon account.) The European Commission has oversight of the NAP process and decides if the NAP fulfills the twelve criteria set out in the Annex III of the Emission Trading Directive (EU Directive 2003/87/EC). The first and foremost criterion is that the proposed total quantity is in line with a Member State's Kyoto target.
+Of course, the Member State's plan can, and should, also take account of emission levels in other sectors not covered by the EU ETS, and address these within its own domestic policies. For instance, transport is responsible for 21% of EU greenhouse gas emissions, households, and small businesses for 17% and agriculture for 10%.
+During Phase I, most allowances in all countries were given freely (known as grandfathering). This approach has been criticized as giving rise to windfall profits, being less efficient than auctioning, and providing too little incentive for innovative new competition to provide clean, renewable energy. On the other hand, allocation rather than auctioning may be justified for a few sectors that face international competition like the aluminium and steel industries.
+To address these problems, the European Commission proposed various changes in a January 2008 package, including the abolishment of NAPs from 2013 and auctioning a far greater share (ca. 60% in 2013, growing afterward) of emission permits.
+From the start of Phase III (January 2013) there will be a centralised allocation of permits, not National Allocation Plans, with a greater share of auctioning of permits.
+
+
+=== Competitiveness ===
+Allocation can act as a means of addressing concerns over loss of competitiveness, and possible "leakage" (carbon leakage) of emissions outside the EU. Leakage is the effect of emissions increasing in countries or sectors that have weaker regulation of emissions than the regulation in another country or sector. Such concerns affect the following sectors: cement, steel, aluminium, pulp and paper, basic inorganic chemicals and fertilisers/ammonia. Leakage from these sectors was thought to be under 1% of total EU emissions. Correcting for leakage by allocating permits acts as a temporary subsidy for affected industries, but does not fix the underlying problem. Border adjustments would be the economically efficient choice, where imports are taxed according to their carbon content. One problem with border adjustments is that they might be used as a disguise for trade protectionism. Some adjustments may also not prevent emissions leakage.
+
+
+=== Banking and borrowing ===
+Within a certain trading period, banking and borrowing is allowed. For example, a 2006 EUA can be used in 2007 (Banking) or in 2005 (Borrowing). Interperiod borrowing is not allowed. Member states had the discretion to decide if banking EUA's from Phase I to Phase II was allowed or not.
+
+
+== Phase I ==
+In the first phase (2005–2007), the EU ETS included some 12,000 installations, representing approximately 40% of EU CO2 emissions, covering energy activities (combustion installations with a rated thermal input exceeding 20 MW, mineral oil refineries, coke ovens), production and processing of ferrous metals, mineral industry (cement clinker, glass and ceramic bricks) and pulp, paper and board activities.
+
+
+=== Launch and operation ===
+The ETS, in which all 15 Member States that were then members of the European Union participated, nominally commenced operation on 1 January 2005, although national registries were unable to settle transactions for the first few months. However, the prior existence of the UK Emissions Trading Scheme meant that market participants were already in place and ready. In its first year, 362 million tonnes of CO2 were traded on the market for a sum of €7.2 billion, and a large number of futures and options.
+
+
+=== Prices ===
+The price of allowances increased more or less steadily to a peak level in April 2006 of about €30 per tonne CO2. In late April 2006, a number of EU countries (the Netherlands, the Czech Republic, Belgium, France, and Spain) announced that their verified (or actual) emissions were less than the number of allowances allocated to installations. The spot price for EU allowances dropped 54% from €29.20 to €13.35 in the last week of April 2006. In May 2006, the European Commission confirmed that verified CO2 emissions were about 80 million tonnes or 4% lower than the number of allowances distributed to installations for 2005 emissions. In May 2006, prices fell to under €10/tonne. Lack of scarcity under the first phase of the system continued through 2006 resulting in a trading price of €1.2 per tonne in March 2007, declining to €0.10 in September 2007. In 2007, carbon prices for the trial phase dropped to near zero for most of the year. Meanwhile, prices for Phase II remained significantly higher throughout, reflecting the fact that allowances for the trial phase were set to expire by 31 December 2007.
+
+
+=== Verified emissions ===
+Verified emissions show a net increase over the first phase of the scheme. For the countries for which data was available, emissions increased by 1.9% between 2005 and 2007 (at the time all 27 member states minus Romania, Bulgaria, and Malta).
+
+Figures are in tonnes of CO2
+Source: European Commission Press Release 23 May 2008
+
+Consequently, observers have accused national governments of abusing the system under industry pressure, and have urged for far stricter caps in the second phase (2008–2012).
+
+
+== Phase II ==
+
+
+=== Scope ===
+The second phase (2008–12) expanded the scope of the scheme significantly. In 2007, three non-EU members, Norway, Iceland, and Liechtenstein joined the scheme. The EU's "Linking Directive" introduced the CDM and JI credits. Although this was a theoretical possibility in phase I, the over-allocation of permits combined with the inability to bank them for use in the second phase meant it was not taken up.
+On 27 April 2012, the European Commission announced the full activation of the EU Emissions Trading System single registry. The full activation process will include the migration of over 30,000 EU ETS accounts from national registries. The EC has further stated that the single registry to be activated in June will not contain all the required functionalities for phase III of the EU ETS.
+
+
+=== Aviation emissions ===
+Aviation emissions were to be included from 2012. The inclusion of aviation was considered important by the EU. The inclusion of aviation was estimated to increase in demand for allowances by about 10–12 million tonnes of CO2 per year in phase two. According to DEFRA, an increased use of JI credits from projects in Russia and Ukraine, would offset any increase in prices so there would be no discernible impact on average annual CO2 prices.
+The airline industry and other countries including China, India, Russia, and the United States reacted adversely to the inclusion of the aviation sector. The United States and other countries argued that the EU did not have jurisdiction to regulate flights when they were not in European skies; China and the United States threatened to ban their national carriers from complying with the scheme. On 27 November 2012 the United States enacted the European Union Emissions Trading Scheme Prohibition Act of 2011 which prohibits U.S. carriers from participating in the European Union Emission Trading Scheme. However, the EU insisted that the regulation should be applied equally to all carriers, and that it did not contravene international regulations. In the absence of a global agreement on airline emissions, the EU argued that it was forced to go ahead with its own scheme which included an exemption clause for countries with "equivalent measures".
+Ultimately, the Commission intended that the third trading period should cover all greenhouse gases and all sectors, including aviation, maritime transport, and forestry. For the transport sector, the large number of individual users adds complexities, but might be implemented either as a cap-and-trade system for fuel suppliers or a baseline-and-credit system for car manufacturers.
+The National Allocation Plans for Phase II, the first of which were announced on 29 November 2006, provided for an average reduction of nearly 7% below the 2005 emission levels. However, the use of offsets such as Emission Reduction Units from JI and Certified Emission Reductions from CDM projects was allowed, with the result that the EU would be able to meet the Phase II cap by importing units instead of reducing emissions (CCC, 2008, pp. 145, 149).
+According to verified EU data from 2008, the ETS resulted in an emissions reduction of 3%, or 50 million tons. At least 80 million tons of "carbon offsets" were bought for compliance with the scheme.
+In late 2006, European Commission started infringement proceedings against Austria, Czech Republic, Denmark, Hungary, Italy and Spain, for failure to submit their proposed National Allocation Plans on time.
+
+
+=== State allocation plans ===
+The annual Member State CO2 yearly allowances in million tonnes are shown in the table:
+
+
+=== Carbon price ===
+The carbon price within Phase II increased to over €20/tCO2 in the first half of 2008 (CCC, 2008, p. 149). The average price was €22/tCO2 in the second half of 2008, and €13/tCO2 in the first half of 2009. CCC (2009, p. 67) gave two reasons for this fall in prices:
+Reduced output in energy-intensive sectors as a result of the recession. This means that less abatement will be required to meet the cap, lowering the carbon price.
+The market perception of future fossil fuel prices may have been revised downwards.
+Projections made in 2009 indicate that like Phase I, Phase II would see a surplus in allowances and that 2009 carbon prices were being sustained by the need to 'bank' allowances in order to surrender them in the tougher third phase. In December 2009, carbon prices dropped to a six-month low after the Copenhagen climate summit outcome disappointed traders. Prices for EU allowances for December 2010 delivery dropped 8.7% to 12.40 euros a tonne.
+In March 2012, according to the periodical Economist, the EUA permit price under the EU ETS had "tanked" and was too low to provide incentives for firms to reduce emissions. The permit price had been persistently under €10 per tonne compared to nearly €30 per tonne in 2008. The market had been oversupplied with permits. In June 2012, EU allowances for delivery in December 2012 traded at 6.76 euros each on the ICE Futures Europe exchange, a 61 percent decline compared with a year previously.
+In July 2012, Thomson Reuters Point Carbon stated that it considered that without intervention to reduce the supply of allowances, the price of allowances would fall to four Euros. The 2012 closing price for an EU allowance with a December 2013 contract ended the year at 6.67 euros a metric tonne. In late January 2013, the EU allowance price fell to a new record low of 2.81 euros after the energy and industry committee of the European parliament opposed a proposal to withhold 900 million future-dated allowances from the market.
+
+
+== Phase III ==
+For Phase III (2013–20), the European Commission has proposed a number of changes, including (CCC, 2008, p. 149):
+the setting of an overall EU cap, with allowances then allocated to EU members;
+tighter limits on the use of offsets;
+limiting banking of allowances between Phases II and III;
+and a move from allowances to auctioning.
+Ahead of its accession to the EU, Croatia joined the ETS at the start of Phase III on 1 January 2013. This took the number of countries in the EU ETS to 31.
+On 4 January 2013, European Union allowances for 2013 traded on London's ICE Futures Europe exchange for between 6.22 euros and 6.40 euros.
+
+
+== Phase IV ==
+Phase IV will commence on 1 January 2021 and finish on 31 December 2028. The European Commission plans a full review of the Directive by 2026.
+On 22 January 2014, the European Commission proposed two structural reform amendments to the ETS directive (2003/87/EC) of the 2008 Climate Package to be agreed on in the Council Conclusions on 20–21 March 2014 by the Heads of EU Member States at the meeting of the European Council:
+a) the linear reduction factor, at which the overall emissions cap is reduced, from 1.74% (2013-2020) to 2,2% each year from 2021 to 2030 thus reducing 43% of EU CO2 emissions in the ETS sector as compared to 2005.
+b) the creation of a 12% "automatic set-aside" reserve mechanism of verified annual emissions (at least a 100 mln CO2 permit reserve) in the fourth ETS period from 2021 to 2030, thus creating a quasi carbon tax or carbon price floor with a price range set each year by the European Commission's Directorate General for Climate Change.
+Connie Hedegaard, the EU Commissioner for Climate Change, hoped "to link up the ETS with compatible systems around the world to form the backbone of a global carbon market" with Australia cited as an example. However, as the COP 19 Climate Conference again ended with no binding new international agreement in 2013, Australia has dismantled its ETS system.
+Before the European Council summit on 20 March 2014, the European Commission decided to propose a change in the functioning of the carbon market (CO2 permits). The submitted legislation on the Market Stability Reserve system (MSR) would change the amount of annually auctioned CO2 permits based on the amount of CO2 permits in circulation. On 24 October 2014, at the meeting of the European Council, the Heads of Governments of EU Member States provided legal certainty to the proposed Market Stability Reserve (MSR) by sanctioning the political project in the text of the Council Conclusions. This would address imbalances in supply and demand in the European carbon market by adjusting volumes for auction. The reserve would operate on predefined rules with no discretion for the Commission or Member States.
+The European Parliament and the European council informally agreed on an adapted version of this proposal, which sets the starting date of the MSR to 2019 (so already in Phase III), puts the 900 million backloaded allowances in the reserve and reduces the reaction time of the MSR to one year. This adapted proposal has already passed the European parliament and is to be approved by the Council of ministers in September 2015.
+
+
+== Costs ==
+Emissions in the EU have been reduced at costs that are significantly lower than projected, though transaction costs are related to economies of scale and can be significant for smaller installations. Overall, the estimated cost was a fraction of 1% of GDP. It was suggested that if permits were auctioned, and the revenues used effectively, e.g., to reduce distortionary taxes and fund low-carbon technologies, costs could be eliminated, or even create a positive economic impact.
+
+
+== Overall emission reductions ==
+According to the European Commission, in 2010 greenhouse gas emissions from big emitters covered by the EU ETS had decreased by an average of more than 17,000 tonnes per installation from 2005, a decrease of more than 8% since 2005. .
+According to UBS Investment Research, the EU ETS cost $287 billion through to 2011 and had an "almost zero impact" on the volume of overall emissions in the European Union and the money could have resulted in more than a 40% reduction in emissions if it had been used in a targeted way, e.g., to upgrade power plants.
+
+
+== Inclusion of sinks ==
+Currently, the EU does not allow CO2 credits under ETS to be obtained from sinks (e.g. reducing CO2 by planting trees). However, some governments and industry representatives lobby for their inclusion. The inclusion is currently opposed by NGOs as well as the EU commission itself, arguing that sinks are surrounded by too many scientific uncertainties over their permanence and that they have inferior long-term contribution to climate change compared to reducing emissions from industrial sources.
+
+
+== ETS related crime ==
+
+
+=== Cybercrime ===
+On 19 January 2011, the EU emissions spot market for pollution permits was closed after computer hackers stole 28 to 30 million euros ($41.12 million) worth of emissions allowances from the national registries of several European countries within a few days time period. The Czech Registry for Emissions Trading was especially hard hit with 7 million euros worth of allowances stolen by hackers from Austria, the Czech Republic, Greece, Estonia, and Poland. A phishing scam is suspected to have enabled hackers to log into unsuspecting companies' carbon credit accounts and transfer the allowances to themselves, allowing them to then be sold.
+The European Commission said it would "proceed to determine together with national authorities what minimum security measures need to be put in place before the suspension of a registry can be lifted". Maria Kokkonen, EC spokeswoman for climate issues, said that national registries can be reopened once sufficient security measures have been enacted and member countries submit to the EC a report of their IT security protocol.
+The Czech registry said there are still legal and administrative hurdles to be overcome and Jiri Stastny, chairman of OTE AS, the Czech registry operator, said that until there is recourse for victims of such theft, and a system is in place to return allowances to their rightful owners, the Czech registry will remain closed. Registry officials in Germany and Estonia have confirmed they have located 610,000 allowances stolen from the Czech registry, according to Mr. Stastny. Another 500,000 of the stolen Czech allowances are thought to be in accounts in the UK, according to the OTE.
+Cyber fraudsters have also attacked the EU ETS with a "phishing" scam which cost one company €1.5 million. In response to this, the EU has revised the ETS rules to combat crime.
+The security breaches raised fears among some traders that they might have unknowingly purchased stolen allowances which they might later have to forfeit. The ETS experienced a previous phishing scam in 2010 which caused 13 European markets to shut down, and criminals cleared 5 million euros in another cross-border fraud in 2008 and 2009.
+
+
+=== VAT fraud ===
+In 2009 Europol informed that 90% market volume of emissions traded in some countries could be result of tax fraud, more specifically missing trader fraud, costing governments more than 5 billion euros.
+German prosecutors confirmed in March 2011 that value-added-tax fraud in the trade of carbon-dioxide emissions has deprived the German state of about €850 million ($1.19 billion). In December 2011 a German court sentenced six people to jail terms of between three years and seven years and 10 months in a trial involving evasion of taxes on carbon permits. A French court sentenced five people to one to five years in jail, and to pay massive fines for evading tax through carbon trading. In the UK a first trial over VAT fraud in the carbon market is put on track to start in February 2012.
+
+
+== Views on the EU ETS ==
+Different people and organizations have responded differently to the EU ETS. Mr Anne Theo Seinen, of the EC's Directorate-General for the Environment, described Phase I as a "learning phase", where, for example, the infrastructure and institutions for the ETS were set up (UK Parliament, 2009). In his view, the carbon price in Phase I had resulted in some abatement. Seinen also commented that the EU ETS needed to be supported by other policies for technology and renewable energy. According to CCC (2008, p. 155), technology policy is necessary to overcome market failures associated with delivering low-carbon technologies, e.g., by supporting research and development.
+The World Wildlife Fund (2009) commented that there was no indication that the EU ETS had influenced longer-term investment decisions. In their view, the Phase III scheme brought about significant improvements, but still suffered from major weaknesses. Jones et al. (2008, p. 24) suggested that the EU ETS needed further reform to achieve its potential.
+
+
+=== Criticisms ===
+The EU ETS has been criticized {} for several failings, including: over-allocation, windfall profits, price volatility, and in general for failing to meet its goals. Proponents{} argue, however, that Phase I of the EU ETS (2005–2007) was a "learning phase" designed primarily to establish baselines and create the infrastructure for a carbon market, not to achieve significant reductions.
+In addition, the EU ETS has been criticized as having caused a disruptive spike in energy prices. Defenders of the scheme say that this spike did not correlate with the price of permits, and in fact the largest price increase occurred at a time (Mar–Dec 2007) when the cost of permits was negligible.
+
+
+=== Over-allocation ===
+There was an oversupply of emissions allowances for EU ETS Phase I. This drove the carbon price down to zero in 2007 (CCC, 2008, p. 140). This oversupply reflects the difficulty in predicting future emissions which is necessary in setting a cap (Carbon Trust, 2009). Given poor data about emissions baselines, inherent uncertainty of emissions forecasts, and the very modest reduction goals of the Phase I cap (1–2% across the EU), it was entirely expected that the cap might be set too high.
+This problem naturally diminishes as the cap tightens. The EU's Phase II cap is more than 6% below 2005 levels, much stronger than Phase I, and readily distinguishable from business-as-usual emissions levels.
+Over-allocation does not imply that no abatement occurred. Even with over-allocation, there was theoretically a price on carbon (except for installations that received hundreds of thousands of free allowances). For some installations, the price had a some effect on emitters' behavior. Verified emissions in 2005 were 3–4% below projected emissions, and analysis suggests that at least part of that reduction was due to the EU ETS.
+In September 2012 Thomson Reuters Point Carbon calculated that the first Kyoto Protocol commitment period had been oversupplied by about 13 billion tonnes (13.1 Gt) of CO2 and that the second commitment period (2013-2020) was likely to start with a surplus of Assigned Amount Units (AAUs).
+
+
+=== Windfall profits ===
+According to Newbery (2009), the price of EUAs was included in the final price of electricity. The free allocation of permits was cashed in at the EUA price by fossil generators, resulting in a "massive windfall gain". Newbery (2009) wrote that "[there] is no case for repeating such a wilful misuse of the value of a common property resource that should be owned by the country". In the view of 4CMR (2009), all permits in the EU ETS should be auctioned. This would avoid possible windfall profits in all sectors.
+
+
+=== Price volatility ===
+The price of emissions permits tripled in the first six months of Phase I, collapsed by half in a one-week period in 2006, and declined to zero over the next twelve months. Such movements and the implied volatility raise questions about the viability of this trading system to provide stable incentives to emitters.
+This criticism has face validity. In future phases, measures such as banking of allowances and price floors may be used to mitigate volatility. However, it's important to note that considerable volatility is expected of this type of market, and the volatility seen is quite in line with that of energy commodities generally. Nonetheless, producers and consumers in those markets respond rationally and effectively to price signals.
+Newbery (2009) commented that the EU ETS was not delivering the stable carbon price necessary for long-term, low-carbon investment decisions. He suggested that efforts should be made to stabilize carbon price, e.g., by having a price ceiling and a price floor.
+
+
+== Offsetting ==
+
+
+=== Project based offsetting ===
+The EU ETS is 'linked' to the Joint Implementation and Clean Development Mechanism projects as it allows the limited use of 'offset credits' from them. Participating firms were allowed to use some Certified Emission Reduction units (CERs) from 2005 and Emission Reduction Units (ERUs) from 2008. Each Member State's National Allocation Plan must specify a percentage of the national allocation that will be the cap on the CERs and ERUs that may be used. CERs and ERUs from nuclear facilities and from land use, land use change and forestry may not be used.
+The main theoretical advantage of allowing free trading of credits is that it allows mitigation to be done at least-cost (CCC, 2008, p. 160). This is because the marginal costs (that is to say, the incremental costs of preventing the emission of one extra ton of CO2e into the atmosphere) of abatement differs among countries. In terms of the UK's climate change policy, CCC (2008), noted three arguments against too great a reliance on credits:
+Rich countries need to demonstrate that a low-carbon economy is possible and compatible with economic prosperity. This is in order to convince developing countries to lower their emissions. Additionally, domestic action by rich countries drives investment towards a low-carbon economy.
+An ambitious long-term target to reduce emissions, e.g., an 80% cut in UK emissions by 2050, requires significant domestic progress by 2020 and 2030 to reduce emissions.
+CDM credits are inherently less robust than a cap and trade system, where reductions are required in total emissions.
+Due to the economic downturn, states have pushed successfully for a more generous approach towards the use of CDM/JI credits post-2012. The 2009 EU ETS Amending Directive states that credits can be used for up to 50% of the EU-wide reductions below the 2005 levels of existing sectors over the period 2008–2020. Moreover, it has been argued that the volume of CDM/JI credits, if carried over from phase II (2008–2012 to phase III 2013–2020) in the EU ETS will undermine its environmental effectiveness, despite the requirement of supplementarity in the Kyoto Protocol.
+In January 2011, the EU Climate Change Committee banned the use of CDM Certified Emission Reduction units from HFC-23 destruction in the European Union Emissions Trading Scheme from 1 May 2013. The ban includes nitrous oxide (N2O) from adipic acid production. The reasons given were the perverse incentives, the lack of additionality, the lack of environmental integrity,the under-mining of the Montreal Protocol, costs and ineffectiveness and the distorting effect of a few projects in advanced developing countries getting too many CERs.
+
+
+=== Buying and deleting emissions allowances ===
+As an alternative to CDM and JI projects, emissions can be offset directly by buying and deleting emissions allowances inside the ETS. This is a way to avoid several problems of CDM and JI such as additionality, measurement, leakage, permanence, and verification. Buying and cancelling allowances allows to include more emissions sources in the ETS (such as traffic). Furthermore, it reduces the available allowances in the cap-and-trade system, which means that it reduces the emissions that can be produced by covered sources.
+
+
+== Linking ==
+The EU is negotiating a link with Switzerland's domestic trading system. Distinct emissions trading systems can be linked through the recognition of emissions allowances for compliance. Linking  systems creates a larger carbon market, which can reduce overall compliance costs, increase market liquidity and generate a more stable carbon market.  Linking systems can also be politically symbolic as it shows willingness to undertake a common effort to reduce GHG emissions. Some scholars have argued that linking may provide a starting point for developing a new, bottom-up international climate policy architecture whereby multiple unique systems successively link their various systems. 
+
+
+== See also ==
+
+Carbon emission trading
+Carbon finance
+Energy policy of the European Union
+European Climate Change Programme
+Mitigation of global warming
+Single European Sky
+ICAP
+
+
+== References ==
+
+
+== External links ==
+Official pages
+European Commission, "Emissions Trading System (EU ETS)"
+"Directive 2003/87/EC of the European Parliament and of the Council of 13 October 2003", Official Journal of the European Union – EU Directive establishing EU ETS
+Phase II NAPs
+How ETS works
+UK Defra General overview at the UK Department for Environment, Food and Rural Affairs
+Pew Center White Paper : overview of EU ETS
+Emission Trading Fact Book of Inagendo (contains, among others, a glossary of ETS terms)
+Video from Climate and Pollution Agency (Norway): The Emission Trading Scheme
+Profile page on database of market governance mechanisms
+Key reports, and assessments
+Prospects for the EU Emissions Trading System, Library of the European Parliament, June 2012
+Application of the Emissions Trading Directive by EU Member States – reporting year 2007
+Crisis in the ETS comes to a head, 11 Oct 2012
+Fraunhofer Institute November 2006 assessment of preliminary Phase 2 NAPs
+National Allocation Plans 2005-7: Do they deliver? Executive summary of report by Climate Action Network.
+Climate Action Network Europe "CO2 emissions: EU member states abuse Emissions Trading System" Press release, 15 May 2006
+Carbon Trade Watch
+Annual European Community greenhouse gas inventory 1990 – 2006 and inventory report 2008
+WWF website "The environmental effectiveness and economic efficiency of the EU ETS: Structural aspects of the allocation". by WWF and Öko-Institut, 9 Nov 2005.
+The European Emission Trading Scheme Put to the Test of State Aid Rules
+Scarcity and Allocation of Allowances in the EU Emissions Trading Scheme – A Legal Analysis.
+EU eyes 40% emission reduction target by 2030 – CCS Institut.

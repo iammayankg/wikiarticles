@@ -1,0 +1,89 @@
+Institutions are "stable, valued, recurring patterns of behavior." As structures or mechanisms of social order, they govern the behaviour of a set of individuals within a given community. Institutions are identified with a social purpose, transcending individuals and intentions by mediating the rules that govern living behavior.
+The term "institution" commonly applies to a custom or behavior pattern important to a society, and to particular formal organizations of the government and public services. As structures and mechanisms of social order, institutions are a principal object of study in social sciences such as political science, anthropology, economics, and sociology (the latter described by Émile Durkheim as the "science of institutions, their genesis and their functioning"). Institutions are also a central concern for law, the formal mechanism for political rule-making and enforcement.
+
+
+== Examples ==
+Marriage and the family - sociology of the family
+Religion and religious institutions - see sociology of religion; civil religion
+Educational institutions - schools (preschool, primary/elementary, secondary, and post-secondary/higher - see Sociology of education)
+Research community - academia and universities; research institutes - see sociology of science
+Medicine - hospitals and other health care institutions - see sociology of health and illness, medical sociology
+Psychiatric hospitals (history)
+
+Law and legal system - courts; judges; the legal profession (bar) - see jurisprudence, philosophy of law, sociology of law
+Criminal justice or penal systems - prisons - see sociology of punishment
+
+Military or paramilitary forces - see military sociology
+Police forces
+Mass media - including the news media (television, newspapers) and the popular media - see media studies
+Industry - businesses, including corporations - see financial institution, factory, capitalism, division of labour, social class, industrial sociology
+Civil society or NGOs - charitable organizations; advocacy groups; political parties; think tanks; virtual communities
+In an extended context:
+Art and culture (See also: culture industry, critical theory, cultural studies, cultural sociology)
+Language (See also: linguistics, sociolinguistics, sociology of language)
+The nation-state - Social and political scientists often speak of the state as embodying all institutions such as schools, prisons, and so on. However, these institutions may be considered private or autonomous, whilst organised religion and family life certainly pre-date the advent of the nation state. In the Neo-Marxist thought of Antonio Gramsci, for instance, distinguishes between institutions of political society (police, the army, legal system, etc.), which dominates directly and coercively—and civil society (the family, education system, etc.). For example in Schenck v. United States, the circumstance of which made that speech case special
+In some circumstances, individuals can be considered institutions if they have created motifs or worldwide phenomena. Examples of this include Stanley Kubrick, Nelson Mandela, and Gandhi.
+
+
+== Aspects ==
+People may deliberately create individual, formal organizations commonly identified as "institutions"—but the development and function of institutions in society in general may be regarded as an instance of emergence. That is, institutions arise, develop and function in a pattern of social self-organization beyond conscious intentions of the individuals involved.
+As mechanisms of social interaction, institutions manifest in both formal organizations, such as the U.S. Congress, or the Roman Catholic Church, and, also, in informal social order and organization, reflecting human psychology, culture, habits and customs, and encompassing subjective experience of meaningful enactments. Most important institutions, considered abstractly, have both objective and subjective aspects: examples include money and marriage. The institution of money encompasses many formal organizations, including banks and government treasury departments and stock exchanges, which may be termed, "institutions," as well as subjective experiences, which guide people in their pursuit of personal well-being. Powerful institutions are able to imbue a paper currency with certain value, and to induce millions into production and trade in pursuit of economic ends abstractly denominated in that currency's units. The subjective experience of money is so pervasive and persuasive that economists talk of the "money illusion" and try to disabuse their students of it, in preparation for learning economic analysis.
+
+
+== Perspectives of the social sciences ==
+While institutions tend to appear to people in society as part of the natural, unchanging landscape of their lives, study of institutions by the social sciences tends to reveal the nature of institutions as social constructions, artifacts of a particular time, culture and society, produced by collective human choice, though not directly by individual intention. Sociology traditionally analyzed social institutions in terms of interlocking social roles and expectations. Social institutions created and were composed of groups of roles, or expected behaviors. The social function of the institution was executed by the fulfillment of roles. Basic biological requirements, for reproduction and care of the young, are served by the institutions of marriage and family, for example, by creating, elaborating and prescribing the behaviors expected for husband/father, wife/mother, child, etc.
+The relationship of institutions to human nature is a foundational question for the social sciences. Institutions can be seen as "naturally" arising from, and conforming to, human nature—a fundamentally conservative view—or institutions can be seen as artificial, almost accidental, and in need of architectural redesign, informed by expert social analysis, to better serve human needs—a fundamentally progressive view. Adam Smith anchored his economics in the supposed human "propensity to truck, barter and exchange". Modern feminists have criticized traditional marriage and other institutions as element of an oppressive and obsolete patriarchy. The Marxist view—which sees human nature as historically 'evolving' towards voluntary social cooperation, shared by some anarchists—is that supra-individual institutions such as the market and the state are incompatible with the individual liberty of a truly free society.
+Economics, in recent years, has used game theory to study institutions from two perspectives. Firstly, how do institutions survive and evolve? In this perspective, institutions arise from Nash equilibria of games. For example, whenever people pass each other in a corridor or thoroughfare, there is a need for customs, which avoid collisions. Such a custom might call for each party to keep to their own right (or left—such a choice is arbitrary, it is only necessary that the choice be uniform and consistent). Such customs may be supposed to be the origin of rules, such as the rule, adopted in many countries, which requires driving automobiles on the right side of the road.
+Secondly, how do institutions affect behaviour? In this perspective, the focus is on behaviour arising from a given set of institutional rules. In these models, institutions determine the rules (i.e. strategy sets and utility functions) of games, rather than arise as equilibria out of games. For example, the Cournot duopoly model is based on an institution involving an auctioneer who sells all goods at the market-clearing price. While it is always possible to analyse behaviour with the institutions-as-equilibria approach instead, it is much more complicated.
+In political science, the effect of institutions on behavior has also been considered from a meme perspective, like game theory borrowed from biology. A "memetic institutionalism" has been proposed, suggesting that institutions provide selection environments for political action, whereby differentiated retention arises and thereby a Darwinian evolution of institutions over time. Public choice theory, another branch of economics with a close relationship to political science, considers how government policy choices are made, and seeks to determine what the policy outputs are likely to be, given a particular political decision-making process and context.
+In history, a distinction between eras or periods, implies a major and fundamental change in the system of institutions governing a society. Political and military events are judged to be of historical significance to the extent that they are associated with changes in institutions. In European history, particular significance is attached to the long transition from the feudal institutions of the Middle Ages to the modern institutions, which govern contemporary life.
+
+
+== Perspectives of the social sciences ==
+Informal institutions have been largely overlooked in comparative politics, but in many countries it is the informal institutions and rules that govern the political landscape. To understand the political behaviour in a country it is important to look at how that behaviour is enabled or constrained by informal institutions, and how this affects how formal institutions are run. For example, if there are high levels of extra judicial killings in a country, it might be that while it is prohibited by the state the police are actually enabled to carry out such killings and informally encouraged to prop up an inefficient formal state police institution. An informal institution tends to have socially shared rules, which are unwritten and yet are often known by all inhabitants of a certain country, as such they are often referred to as being an inherent part of the culture of a given country. Informal practices are often referred to as "cultural", for example clientelism or corruption is sometimes stated as a part of the political culture in a certain place, but an informal institution itself is not cultural, it may be shaped by culture or behaviour of a given political landscape, but they should be looked at in the same way as formal institutions to understand their role in a given country. Informal institutions might be particularly used to pursue a political agenda, or a course of action that might not be publicly popular, or even legal, and can be seen as an effective way of making up for lack of efficiency in a formal institution. For example, in countries where formal institutions are particularly inefficient, an informal institution may be the most cost effective way or actually carrying out a given task, and this ensures that there is little pressure on the formal institutions to become more efficient. The relationship between formal and informal institutions is often closely aligned and informal institutions step in to prop up inefficient institutions. However, because they do not have a centre, which directs and coordinates their actions, changing informal institutions is a slow and lengthy process.<Helmke, G, ><Levitsky, S> It is as such important to look at any given country and note the presence of informal institutions when looking at the political landscape, and note that they are not necessarily a rejection of the state, but an integral part of it and broadening the scope of the role of the state in a given country.
+
+
+== Institutional rigidity ==
+Ian Lustick suggests that the social sciences, particularly those with the institution as a central concept, can benefit by applying the concept of natural selection to the study of how institutions change over time. By viewing institutions as existing within a fitness landscape, Lustick argues that the gradual improvements typical of many institutions can be seen as analogous to hill-climbing within one of these fitness landscapes. This can eventually lead to institutions becoming stuck on local maxima, such that for the institution to improve any further, it would first need to decrease its overall fitness score (e.g., adopt policies that may cause short-term harm to the institution's members). The tendency to get stuck on local maxima can explain why certain types of institutions may continue to have policies that are harmful to its members or to the institution itself, even when members and leadership are all aware of the faults of these policies.
+As an example, Lustick cites Amyx's analysis of the gradual rise of the Japanese economy and its seemingly sudden reversal in the so-called "Lost Decade". According to Amyx, Japanese experts were not unaware of the possible causes of Japan's economic decline. Rather, to return Japan's economy back to the path to economic prosperity, policymakers would have had to adopt policies that would first cause short-term harm to the Japanese people and government. [17] Under this analysis, says Ian Lustick, Japan was stuck on a "local maxima," which it arrived at through gradual increases in its fitness level, set by the economic landscape of the 1970s and 80s. Without an accompanying change in institutional flexibility, Japan was unable to adapt to changing conditions, and even though experts may have known which changes the country needed, they would have been virtually powerless to enact those changes without instituting unpopular policies that would have been harmful in the short-term.
+The lessons from Lustick's analysis applied to Sweden's economic situation can similarly apply to the political gridlock that often characterizes politics in the United States. For example, Lustick observes that any politician who hopes to run for elected office stands very little to no chance if they enact policies that show no short-term results. Unfortunately, there is a mismatch between policies that bring about short-term benefits with minimal sacrifice, and those that bring about long-lasting change by encouraging institution-level adaptations.
+There are some criticisms to Lustick's application of natural selection theory to institutional change. Lustick himself notes that identifying the inability of institutions to adapt as a symptom of being stuck on a local maxima within a fitness landscape does nothing to solve the problem. At the very least, however, it might add credibility to the idea that truly beneficial change might require short-term harm to institutions and their members. David Sloan Wilson notes that Lustick needs to more carefully distinguish between two concepts: multilevel selection theory and evolution on multi-peaked landscapes. Bradley Thayer points out that the concept of a fitness landscape and local maxima only makes sense if one institution can be said to be "better" than another, and this in turn only makes sense insofar as there exists some objective measure of an institution's quality. This may be relatively simple in evaluating the economic prosperity of a society, for example, but it is difficult to see how objectively a measure can be applied to the amount of freedom of a society, or the quality of life of the individuals within.
+
+
+== Institutionalization ==
+
+The term "institutionalization" is widely used in social theory to refer to the process of embedding something (for example a concept, a social role, a particular value or mode of behavior) within an organization, social system, or society as a whole. The term may also be used to refer to committing a particular individual to an institution, such as a mental institution. To this extent, "institutionalization" may carry negative connotations regarding the treatment of, and damage caused to, vulnerable human beings by the oppressive or corrupt application of inflexible systems of social, medical, or legal controls by publicly owned, private or not-for-profit organizations.
+The term "institutionalization" may also be used in a political sense to apply to the creation or organization of governmental institutions or particular bodies responsible for overseeing or implementing policy, for example in welfare or development.
+
+
+== See also ==
+Actor analysis
+Academic institution
+Base and superstructure
+Cultural reproduction
+state, Nation, country, Sovereign state
+Historical institutionalism
+Ideological state apparatus
+Institute
+Institutional abuse
+Institutional economics
+Institutional logic
+Institutional memory
+Institutional racism
+Linkage institution
+
+
+== References ==
+
+
+== Bibliography ==
+
+Gielen, P. (ed. - 2013), Institutional Attitudes. Instituting Art in a Flat World. Valiz: Amsterdam.
+
+
+== Further reading ==
+Report of the Committee of Inquiry into allegations of ill-treatment of patients and other irregularities at the Ely Hospital, Cardiff, HMSO 1969
+Extracts of the Report of the Committee of Inquiry into Normansfield Hospital - British Medical Journal, 1978, 2, 1560–1563
+Whyte, William H., The Organization Man, Doubleday Publishing, 1956. (excerpts from Whyte's book)
+The Production and Reproduction of Scandals in Chronic Sector Hospitals Amy Munson- Barkshire 1981
+"Social Institutions," Stanford Encyclopedia of Philosophy

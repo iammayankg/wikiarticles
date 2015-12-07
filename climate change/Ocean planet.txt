@@ -1,0 +1,24 @@
+An ocean planet, aquaplanet or water world is a hypothetical type of exoplanet which has a substantial fraction of its mass made of water. The surface on such planets would be completely covered with an ocean of water hundreds of kilometers deep, much deeper than the oceans of Earth.
+
+
+== FormationEdit ==
+Planetary objects that form in the outer Solar System begin as a comet-like mixture of roughly half water and half rock by mass. Simulations of Solar System formation have shown that planets are likely to migrate inward or outward as they form, presenting the possibility that icy planets could move to orbits where their ice melts into liquid form, turning them into ocean planets. This possibility was first discussed in the professional astronomical literature by Marc Kuchner and Alain Léger in 2003.
+
+
+== StructureEdit ==
+The oceans on such planets would be hundreds of kilometers deep, much deeper than the oceans of Earth. The immense pressures in the lower regions of these oceans could lead to the formation of a mantle of exotic forms of ice. This ice would not necessarily be as cold as conventional ice. If the planet is close enough to its star that the water reaches its boiling point, the water will become supercritical and lack a well-defined surface. Even on cooler water-dominated planets, the atmosphere can be much thicker than that of Earth, and composed largely of water vapor, producing a very strong greenhouse effect.
+Smaller ocean planets would have less dense atmospheres and lower gravity; thus, liquid could evaporate much more easily than on more massive ocean planets. Theoretically, such planets could have higher waves than their more massive counterparts due to their lower gravity.
+
+
+== ExamplesEdit ==
+The extrasolar planet GJ 1214 b is the most likely known candidate for an ocean planet. Many more such objects are expected to be discovered by the ongoing Kepler spacecraft mission, such as the recently discovered ocean planet candidate Kepler-22b.
+
+
+== See alsoEdit ==
+
+
+== ReferencesEdit ==
+
+
+== External linksEdit ==
+F. Selsis; B. Chazelas; P. Borde; M. Ollivier; et al. (2007). "Could we identify hot Ocean-Planets with CoRoT, Kepler and Doppler velocimetry?". Icarus 191 (2): 453. arXiv:astro-ph/0701608. Bibcode:2007Icar..191..453S. doi:10.1016/j.icarus.2007.04.010.

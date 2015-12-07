@@ -1,0 +1,117 @@
+Inline skates are a type of roller skate used for inline skating. Unlike quad skates, which have two front and two rear wheels, inline skates typically have two to five wheels arranged in a single line. Some, especially those for recreation, have a rubber "stop" or "brake" block attached to rear of the frame.
+
+The modern style of inline skates was developed as a substitute for ice skates, for use by a Russian athlete training on solid ground for Olympic long track speed skating events. Life magazine published a photo of American skater Eric Heiden, training for the 1980 Olympics, using such skates on a Wisconsin road.
+During the late 1980s and early 1990s, Rollerblade, Inc., a company founded by Scott and Brennan Olson in Minneapolis, Minnesota, widely promoted inline skating through the Registered Trademark ROLLERBLADE;
+
+
+== History ==
+John Joseph Merlin experimented with single- to many-rowed devices worn on feet in 1760. Inline skates, skates designed to work like ice skates during periods of warm weather, were invented by Louis Legrange of France in 1849. Legrange designed the skates for an opera where a character was to appear to be skating on ice. The skates were problematic and unsuccessful as the wearer could not turn nor could they stop.
+The first U.S. patent for modern in-line skates, designed to behave like ice runners with individually sprung and cushioned wheels, was granted under patent number US 2644692  in July, 1953 to Ernest Kahlert of Santa Ana, CA. They were briefly described in the April 1950 issue of "Popular Mechanics" and again in the April 1954 issue of "Popular Science" in the section called "New Ideas from the Inventors." Inline skates appear in the 1962 Russian film Koroleva benzokolonki (Gas Station Queen) at 9m23s. In Canada in 1972, Mountain Dew attempted to sell Mettoy's product the "Skeeler", an inline skate that was developed for Russian hockey players and speed skaters.
+The first commercially available inline skate for this form of Rollerskating is in 1987 by Rollerblade. In 1996, Jason Lewis completed the first solo crossing of the USA on inline skates, part of Expedition 360, a successful attempt to circumnavigate the globe using only human power. En route he was hit by a car in Colorado, breaking both legs. After nine months he completed the journey from Fort Lauderdale to San Francisco. In 2012, Kacie Fischer became the first woman, and the fastest person, to inline skate across the United States; she skated from California to Florida in 47 days.
+
+
+== Parts ==
+
+A skate is composed of a boot, worn on the foot. To the boot is attached a frame, which holds the wheels in place. Bearings allow the wheels to rotate freely around an axle. Finally, the rubber brake typically attaches to the frame of the right foot.
+There are different types of inline skates for different types of skating such as aggressive skating, speed skating, Inline hockey and artistic inline skating. Those differ in the boots, frames and wheels that are used.
+
+
+=== Boot ===
+For most skating a high boot is used, which provides more ankle support and is easier to skate in, particularly for beginners. Speed skaters often use a carbon fiber boot which provides greater support with a lower cut allowing more ankle flexion. For recreational skating a soft boot is used for greater comfort, but many other disciplines prefer a harder boot, either to protect the foot against impact or for better control of the skate. The boot may also contain shock absorbent padding for comfort. Downhill skaters often use boots that are heat-molded to the shape of the foot, with a foam liner.
+Most aggressive skates use a hard boot or a hard/soft boot for increased support.
+
+
+=== Frame ===
+
+Typical recreational skates use frames built out of high-grade polyurethane (plastic). Low-end department or toy store skate frames may be composed of other types of plastic. Speed skate frames are usually built out of carbon fiber or extruded aluminum (more expensive but more solid), magnesium, or even pressed aluminium, which is then folded into a frame (cheaper but less sturdy).
+Carbon fiber frames are expensive but generally more flexible, making for a smoother ride at the expense of worse power transfer between the leg and the wheels. In general, carbon fiber frames weigh about 160–180 grams. Recently, high-end carbon fiber frames with a monocoque construction have been introduced. They offer the same level of stiffness as aluminum frames while weighing only around 130g. Aluminum can weigh from 170 to 240 grams. Frame length ranges from 2 wheel framed freestyle wheels (used in aggressive skating) to around 230 mm for short-framed four wheel skates (used in most inline designs), up to about 325 mm for a five-wheel racing frame.
+
+
+=== Bearings ===
+
+Ball bearings allow the wheels to rotate freely and smoothly. Bearings are usually rated on the ABEC scale, a measure of the manufactured precision tolerance, ranging from 1 (worst) to 11(best) in odd numbers. The ABEC standards were originally intended for high-speed machinery, not skating applications, and do not account for the quality of steel used, which is very important for how long bearings last. While higher rated bearings are generally better in overall quality, whether they automatically translate to more speed is questionable. Since at least 2007, Rollerblade brand amongst others have begun using their own rating system. For instance, Rollerblade brand is currently using a SG1 to SG9 rating system, whereas TwinCam brand is using its own "ILQ" (InLine Qualified) rating system and Bones brand is using its own "Skate Rated" rating system.
+A mistake that is often made in purchasing bearings is that spending more translates to more speed. Generally, clean inline skate bearings contribute about 2% of the rolling resistance that the best urethane inline skate wheels produce, so there is very little opportunity in improving speed by spending more money on bearings. Newer bearings on the market have been offered that use ceramic ball bearings instead of steel, which are more expensive than traditional steel bearings but made of harder material.
+Two bearings are used per wheel. The bearings slip into openings molded into each side of the wheel hub, and a flange molded into the wheel hub holds the bearings the correct distance apart. Additionally there is an axle spacer either machined into the axle or that slides over the axle (depending on the axle system used). Since the outer race of the bearing contacts the wheel spacer and the inner race of the bearing contacts the axle spacer, it is critical that the relationship between these two spacers is correct. If the wheel spacer is wider than the axle spacer the bearings will bind when the axle bolt (or bolts) are tightened.
+
+
+=== Wheels ===
+
+Wheel sizes vary depending on the skating style:
+44–59 mm for aggressive skating.
+47–80 mm for roller hockey skating.
+68–72 mm for artistic inline skating.
+72–80 mm for freestyle slalom skating and downhill skating.
+72–100 mm for general recreational skating.
+100–125 mm for speed skating.
+Wheels are nowadays almost universally made of polyurethane (a kind of durable plastic). Most other plastics and rubber either wear down too quickly or have too much rolling resistance. In general, the bigger the wheel, the faster the skate. However, large wheels take more energy to start rolling. Smaller wheels allow faster acceleration, maneuverability, and a lower center of gravity. Wheel hardness is measured on the A scale (see Durometer) and usually ranges between 72A-93A (higher numbers are harder). Harder wheels are not necessarily faster but tend to be more durable; soft wheels may have better grip and are generally less affected by road bumps. In the 1990s, wheel rolling resistance (CRR – coefficient of rolling resistance) tended to be minimized with wheel hardness in the 78A durometer range, with rolling resistance dramatically increasing below 75A durometer and above 85A durometer. In the early 2000s, urethane compounds improved significantly, allowing skaters to use harder compounds to get better wheel life, and get the lowest rolling resistance in the 82A–84A durometer range. Wheel profiles and thicknesses again vary by application. Elliptic profiles were thought to minimize friction for a faster ride; however, they were intended to mimic the knife-like properties of an ice blade. More rounded profiles provided lower rolling resistance due to the greater "belly" or tire that increased resilience (or "rebound"); and these wheels were perceived as having better grip and being more stable (less like an ice blade), but were heavier than elliptical-profiled wheels and were often used in downhill racing (such as the Hyper Downhill racing wheels) and in recreational skates. Another advantage of rounded profile wheels is longer wear life due to the increased amount rubber on the tire. To increase stability at high speed, skates intended for downhill skating usually have five or six wheels, in contrast with recreational skates, which typically have four wheels. This advantage of more wheels having less rolling resistance has been largely negated by the 100–110mm diameter wheels with 4-wheel trucks.
+
+
+=== Heel brakes or toe stops ===
+A hard rubber brake attached to the heel of the frame allows the skater to stop by lifting the toes of the skate, forcing the brake onto the ground. Learning how to use the heel brake is very important for beginners, as it is the easiest way to stop in emergencies and to control speed on downhills.
+Heel brakes can interfere with a useful technique called a crossover turn, in which a skater crosses one leg over another to make a sharp turn without losing much speed; for this reason, most intermediate to advanced users prefer not to use heel brakes. Skaters in the freestyle slalom and aggressive inline skating disciplines don't use heel brakes, since they limit the skater's ability to perform tricks effectively. Aggressive inline skates and racing skates generally have no heel brake, thereby permitting extra speed and control.
+Inline skaters lacking a heel brake can use various other methods to stop, such as the T-stop in which the skater moves one skate perpendicular to the other, making a "T" shape to increase friction and reduce speed, or the more advanced maneuver of a hockey stop/snow plow stop, in which the skater quickly moves both skates perpendicular to the path of motion.
+For artistic roller skating purposes, inline figure skates can also feature a "toe stop" which aids in performing figure skating jumps.
+
+
+== Setups ==
+
+
+=== Flat Setup ===
+A flat setup is the most common setup used on inline skates. Almost all non-aggressive inline skates are sold with a flat wheel setup. Flat means that all the wheels touch the ground at the same time when resting on flat ground. Flat setups are not the most maneuverable but what they lack in maneuverability they make up for in speed. Flat setups are widely considered to be the fastest setups. Speed skaters and marathon skaters normally use flat setups. Aggressive skates are sometimes sold with flat setups, but with a small space in the middle for grinding.
+
+It is worth noting that having a flat setup is just one factor in a fast skate setup. A long frame, low resistance bearings, and good technique all contribute greatly to a skater's speed.
+
+
+=== Full 'crescent/banana' Rocker ===
+Full rockers are used by skaters who favor maneuverability when skating on flat ground. Freestyle skaters, freestyle slalom skaters and artistic inline skaters tend to use this setup. This setup is called "crescent" or "banana" because it is curved, and mimics a curved ice blade profile. On flat ground this setup will only have 1–2 wheels touching the ground at any one time. This makes the skate much easier to turn but lacks stability so it is harder to balance on. In addition, a full rocker is slower than a flat setup in terms of top speed
+
+Flat setups generally wear into a 'natural' rocker. This is because the front and back wheels seem to receive the vast majority of wear on inline skates.
+Having a short frame (230mm–245mm) in combination with a full rocker is optimum for achieving the highest manoeuvrability when skating.
+
+
+=== Front Rocker ===
+Front rockers are often used by street skaters who want to combine the ability of a full rocker to handle imperfections in the ground with a flat setup’s sheer speed. Having a smaller wheel at the front encourages the front wheel to guide the rest of the skate over ground imperfections, rather than digging in and tripping up the less experienced skater. Maintaining a flat profile at the back allows the skater to transfer power through the rear of the skate efficiently to maintain a good speed.
+
+
+=== ‘Hi-Lo’ Hockey Setup ===
+Some hockey skates and other skates include a HiLo setup. HiLo setups resemble a flat setup in that all 4 wheels touch the ground at the same time. Unlike a flat setup, however, different wheel sizes are used. The front two wheels will be smaller than the back two wheels. This is possible because of the location of the axles on the frame itself. One example is a Nike/Bauer frame that has a configuration of 72mm, 72mm, 80mm, and 78mm.
+
+
+=== 'TriDi' Hi-Lo Setup ===
+Another variant of the setup in which there are three diameters of wheels. It is supposed to emphasize the same benefits as the HiLo system but with greater maneuverability due to the smaller front wheels. The configuration is 72mm, 76mm, 76mm, 80mm.
+
+
+=== Aggressive Hi-Lo Setup ===
+A few aggressive skate frames (most notably the Rollerblade Switch Frame) are designed so that there are two big outer wheels, and two small inner wheels, rockered so that they all touch the ground. This gives the benefits of a flat setup, while giving the rollerblader more space to grind on the H-block between the wheels.
+
+
+=== Anti-rocker ===
+Anti rocker is the most popular setup for aggressive skaters. An anti-rocker wheel is a small hard wheel that replaces the two middle wheels. Anti-rocker wheels almost never touch the ground except in cases where the terrain is uneven, such as skating over a ramp. Anti rockers can be made of plastic, or high density polyurethane. Some use bearings so that they can spin. Others do not use bearings so that they're lighter. The anti-rocker setup makes maneuvering harder, overall speed slower, a rougher ride, and a wider turning radius, but because of the extra space in the middle, it makes grinding objects much easier than with a flat setup.
+
+
+=== Freestyle ===
+The freestyle frame is another setup used by aggressive skaters. This setup simply has two wheels – one in the front and one in the back. In between the two wheels is an area of solid material, resembling a large "H Block", which is used for grinding. Freestyle frames can be purchased, although removing the two inner wheels of a flat or anti-rocker frame technically makes it freestyle, however this would not be very durable due to the lack of solid grinding material.
+
+
+=== Tri-Rocker ===
+Tri-rocker is used by some aggressive skaters. It is another method of making grinds easier. A frame with a tri-rocker setup has only one wheel in the middle, either in the second wheel position or in the third wheel position, depending on what kinds of grinds the skater plans on doing. The remaining axle has an anti-rocker wheel, a special grind block, or is just left empty.
+The purpose of a tri-rocker setup is to give the skater good speed and maneuverability, like on a flat setup. But because of the extra space, grinding is also a little easier than a flat setup.
+
+
+== See also ==
+Forms of inline skating:
+Aggressive inline skating
+Artistic roller skating
+Freestyle slalom skating
+Inline figure skating
+Inline hockey
+Road skating
+Vert Skating
+
+
+== References ==
+The Londonskaters guide to rockering inline skates
+Markus Thierstein's original article
+
+
+== Notes ==

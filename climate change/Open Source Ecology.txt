@@ -1,0 +1,45 @@
+Open Source Ecology (OSE) is a network of farmers, engineers, architects and supporters, whose main goal is the eventual manufacturing of the Global Village Construction Set (GVCS). As described by Open Source Ecology "the GVCS is an open technological platform that allows for the easy fabrication of the 50 different Industrial Machines that it takes to build a small civilization with modern comforts." Groups in Oberlin, Ohio, Pennsylvania, New York and California are developing blueprints, and building prototypes in order to pass them on to Missouri. The devices are built and tested on the Factor e Farm in rural Missouri. Recently, 3D-Print reports OSE has been experimenting with RepRap 3-D printers as suggested by academics for sustainable development.
+
+
+== History ==
+Marcin Jakubowski Ph.D. founded the group in 2003. In the final year of his doctoral thesis at the University of Wisconsin, he had the feeling that his career field was too closed off from the world's problems, and he wanted to go a different way. After graduation, he devoted himself entirely to OSE.
+OSE made it to the world stage in 2011 when Jakubowski presented his Global Village Construction Set TED Talk. Shortly after, the GVCS won Make magazine's Green Project Contest. The Internet blogs Gizmodo and Grist produced detailed features on OSE. Jakubowski has since become a Shuttleworth Foundation Fellow (2012) and TED Senior Fellow (2012).
+Open Source Ecology is also developing in Europe as OSE Europe.
+
+
+== Factor e Farm ==
+The Factor e Farm is the main headquarters, where the machines are prototyped and tested. The farm itself also serves as a prototype. The residents grow their own food, collect rainwater, and produce all their electricity by solar panels.
+
+
+== Current progress ==
+So far, twelve of the fifty machines have been designed, blueprinted, and prototyped, with four of those reaching the documentation stage. On October 2011 a Kickstarter fundraising campaign collected 63,573 USD for project expenses and the construction of a training facility. The project has been funded by the Shuttleworth Foundation and is a semifinalist in the Focus Forward Film Festival.
+
+
+== Awards and recognition ==
+In 2011, the project won the Green Project Contest organized by the Make magazine.
+It was also selected as one of the 21 semi-finalists for the Buckminster Fuller Challenge, among 162 participants.
+TIME rated OSE's Civilization Starter Kit as a top invention of the year 2012.
+
+
+== List of machines ==
+The Global Village Construction Set (GVCS) comprises 50 industrial machines:
+
+
+== GVCS replication ==
+During October, 2011 the first successful duplication of a Global Village Construction Set product by a third-party group was completed. Jason Smith along with James Slade and his organization Creation Flame  developed a functioning open source CEB press. A group in Baltimore, Maryland, and a group in Dallas, Texas have also begun production of GVCS machines.
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==
+TED Talk on the Global Village Construction Set
+Official website
+Open Source Ecology: Wiki
+Open Source Ecology: Blog
+Open Source Ecology (OSE) Europe
+NPR: Building A Village Starts With Building The Tractor
+Bloomberg Businessweek:The Post-Apocalypse Survival Machine Nerd Farm

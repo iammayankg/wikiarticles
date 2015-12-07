@@ -1,0 +1,77 @@
+Gallup, Inc., is an American research-based, global performance-management consulting company. Founded by George Gallup in 1935, the company became known for its public opinion polls conducted in several countries.
+Gallup provides research and strategic consulting to large organizations in many countries, focusing on "analytics and advice to help leaders and organizations solve their most pressing problems."
+Some of Gallup's stated key practice areas are employee engagement, customer engagement, talent management, and well-being.
+Gallup has 30 offices in more than 20 countries, employing about 2,000 people in four divisions: Gallup Poll, Gallup Consulting, Gallup University, and Gallup Press.
+
+
+== HistoryEdit ==
+George Gallup founded the American Institute of Public Opinion, the precursor of the Gallup Organization, in Princeton, New Jersey, in 1935. He wished to objectively determine the opinions held by the people. To ensure his independence and objectivity, Gallup resolved that he would undertake no polling that was paid for or sponsored in any way by special interest groups such as the Republican and Democratic parties.
+In 1936, Gallup successfully predicted that Franklin Roosevelt would defeat Alfred Landon for the U.S. presidency; this event popularized the company and made them a leader in American polling. In 1938, Gallup and Gallup Vice President David Ogilvy began conducting market research for advertising companies and the film industry. In 1958, the modern Gallup Organization was formed when George Gallup grouped all of his polling operations into one organization.
+In 1985, the organization started compiling video games sales charts in the United Kingdom.
+After Gallup's death in 1984, his family sold the firm to Selection Research, Incorporated (SRI), a research firm headquartered in Omaha, Nebraska, in 1988. SRI, founded in 1969 by the psychologist Don Clifton, pioneered the use of talent-based structured psychological interviews.. SRI wanted the Gallup name to use on its polls, which gave them more credibility and higher response rates. Today the poll is used to gain visibility.
+George Gallup, Jr., established the nonprofit George H. Gallup Foundation as part of the acquisition agreement. Gallup Jr. died on November 21, 2011.
+
+
+== Gallup PollEdit ==
+
+
+=== Polling in the United StatesEdit ===
+ The Gallup Poll is the division of Gallup that regularly conducts public opinion polls. Gallup Poll results, analyses, and videos are published daily in the form of data-driven news. The poll loses about $10 million a year, but gives the company the visibility of a well-known brand.
+Historically, the Gallup Poll has measured and tracked the public's attitudes concerning political, social, and economic issues, including sensitive or controversial subjects.
+
+
+==== Gallup Daily Tracking MethodologyEdit ====
+Gallup conducts 1,000 interviews per day, 350 days out of the year, among both landline and cell phones across the U.S. for its health and well-being survey and political and economic survey. Gallup Daily tracking methodology relies on live interviewers, dual-frame random-digit-dial sampling (which includes landline as well as cellular telephone phone sampling to reach those in cell phone-only households), and uses a multi-call design to reach respondents not contacted on the initial attempt.
+Gallup completes 500 cellphone surveys and 500 landline surveys daily, divided evenly between the two topical questionnaires. The population of the U.S. that relies only on cell phones makes 34% of the population.
+The findings from Gallup's U.S. surveys are based on the organization's standard national telephone samples, consisting of list-assisted random-digit-dial (RDD) telephone samples using a proportionate, stratified sampling design. A computer randomly generates the phone numbers Gallup calls from all working phone exchanges (the first three numbers of your local phone number) and not-listed phone numbers; thus, Gallup is as likely to call unlisted phone numbers as well as listed phone numbers.
+Within each contacted household reached via landline, an interview is sought with an adult 18 years of age or older living in the household who will have the next birthday. Gallup does not use the same respondent selection procedure when making calls to cell phones because they are typically associated with one individual rather than shared among several members of a household. Gallup Daily tracking includes Spanish-language interviews for Spanish-speaking respondents and interviews in Alaska and Hawaii.
+When respondents to be interviewed are selected at random, every adult has an equal probability of falling into the sample. The typical sample size for a Gallup poll, either a traditional stand-alone poll or one night's interviewing from Gallup's Daily tracking, is 1,000 national adults with a margin of error of ±4 percentage points. Gallup's Daily tracking process now allows Gallup analysts to aggregate larger groups of interviews for more detailed subgroup analysis. But the accuracy of the estimates derived only marginally improves with larger sample sizes.
+After Gallup collects and processes survey data, each respondent is assigned a weight so that the demographic characteristics of the total weighted sample of respondents match the latest estimates of the demographic characteristics of the adult population available from the U.S. Census Bureau. Gallup weights data to census estimates for gender, race, age, educational attainment, and region.
+The data are weighted daily by number of adults in the household and the respondents' reliance on cell phones, to adjust for any disproportion in selection probabilities. The data are then weighted to compensate for nonrandom nonresponse, using targets from the U.S. Census Bureau for age, region, gender, education, Hispanic ethnicity, and race. The resulting sample represents an estimated 95% of all U.S. households.
+
+
+==== AccuracyEdit ====
+From 1936 to 2008, Gallup Polls correctly predicted the winner of the presidential election with the notable exceptions of the 1948 Thomas Dewey-Harry S. Truman election, where nearly all pollsters predicted a Dewey victory (which also led to the infamous Dewey Defeats Truman headline), and 1976, when they inaccurately projected a slim victory by Gerald Ford over Jimmy Carter. For the 2008 U.S. presidential election, Gallup correctly predicted the winner, but was rated 17th out of 23 polling organizations in terms of the precision of its pre-election polls relative to the final results.
+In 2012, Gallup's final election survey had Mitt Romney at 49% and Barack Obama at 48%, compared to the final election results showing Obama with 51.1% to Romney's 47.2%. Poll analyst Nate Silver found that Gallup's results were the least accurate of the 23 major polling firms Silver analyzed, having the highest incorrect average of being 7.2 points away from the final result. Frank Newport, the editor-in-chief of Gallup, responded to the criticism by stating that Gallup simply makes an estimate of the national popular vote rather than predicting the winner and that their final poll was within the statistical margin of error. Newport also criticized analysts such as Silver who aggregate and analyze other people's polls, stating that "It’s much easier, cheaper, and mostly less risky to focus on aggregating and analyzing others’ polls."
+In 2012, poll analyst Mark Blumenthal criticized Gallup for a slight but routine under-weighting of black and Hispanic Americans that led to an approximately 2% shift of support away from Barack Obama. At the same time, Blumenthal commended Gallup for its "admirable commitment to transparency" and suggested that other polling firms disclose their raw data and methodologies.
+In 2013, the accuracy of Gallup polling on religious faith was questioned. Gallup's polling on religiosity in the U.S. has produced results somewhat different from other studies on religious issues, including a 2012 study by the Pew Research Center, which found that those who lack a religious affiliation were a fast-growing demographic group in the U.S.
+
+
+=== Gallup World PollEdit ===
+In 2005, Gallup began its World Poll, which continually surveys citizens in 160 countries, representing more than 98% of the world's adult population. The Gallup World Poll consists of more than 100 global questions as well as region-specific items. It includes the following global indexes: law and order, food and shelter, institutions and infrastructure, good jobs, wellbeing, and brain gain. Gallup also works with organizations, cities, governments and countries to create custom items and indexes to gather information on specific topics of interest.
+
+
+==== Gallup World Poll MethodologyEdit ====
+Gallup interviews approximately 1,000 residents per country. The target population is the entire civilian, non-institutionalized population, aged 15 and older. Gallup asks each respondent the survey questions in his or her own language to produce statistically comparable results. Gallup uses telephone surveys in countries where telephone coverage represents at least 80% of the population. Where telephone penetration is less than 80%, Gallup uses face-to-face interviewing.
+
+
+== Gallup PressEdit ==
+Gallup Inc.'s in-house publishing division, Gallup Press, has published over 30 books on business and personal well being-related themes, including a number of best sellers. Notable titles include First, Break All the Rules: What the World's Greatest Managers Do Differently, How Full Is Your Bucket?, written by Gallup senior scientist Tom Rath and his grandfather, Don Clifton, founder of SRI, Strengths Based Leadership, and Now, Discover Your Strengths, updated to a new version called StrengthsFinder 2.0, which was Amazon's bestselling book of 2013.
+
+
+== Alleged violations of the False Claims Act and the Procurement Integrity ActEdit ==
+In July 2013, the United States Department of Justice announced that Gallup had agreed to pay $10.5 million to settle allegations that it violated the False Claims Act and the Procurement Integrity Act for conduct involving several of its federal government contracts and subcontracts. The settlement resolved allegations in a complaint filed by the United States in November 2012. The complaint alleged that Gallup knowingly overstated its true estimated labor hours in proposals to the U.S. Mint and State Department for contracts and task orders that were to be awarded without competition. Because of Gallup’s conduct, the complaint alleged, the two federal agencies awarded Gallup contracts and task orders at falsely inflated prices. The settlement also resolved allegations that Gallup engaged in improper employment negotiations with a then Federal Emergency Management Agency (FEMA) official, Timothy Cannon, in order to obtain a FEMA subcontract at an inflated price and additional FEMA funding after the subcontract had been awarded. The allegations against Gallup were originally brought in a lawsuit filed under the whistleblower provisions of the False Claims Act by Michael Lindley, Gallup’s former Director of Client Services. As a result of the settlement with Gallup, Lindley will receive $1,929,363 as his share of the government’s recovery. Under the settlement, there was no prosecution and no determination of liability.
+
+
+== See alsoEdit ==
+Gallup's most admired man and woman poll
+Gallup's List of Most Widely Admired People of the 20th Century
+George H. Gallup House
+
+
+== ReferencesEdit ==
+
+
+== Further readingEdit ==
+Boudway, Ira. "Right or Wrong, Gallup Always Wins, Bloomberg BusinessWeek Nov. 12, 2012
+Cantril, Hadley. Gauging Public Opinion (1944)
+Converse, Jean M. Survey Research in the United States: Roots and Emergence 1890-1960 (1987)
+Gallup, George, ed. The Gallup Poll: Public Opinion, 1935-1971 (3 vol 1972), compilation of reports on thousands of Gallup polls.
+Gallup, George. Public Opinion in a Democracy (1939),
+Gallup, George. The Sophisticated Poll Watcher's Guide (1972)
+Moore, David W. The Superpollsters: How They Measure and Manipulate Public Opinion in America (1995) online edition
+Roll, Jr., Charles W. and Albert H. Cantril; Polls: Their Use and Misuse in Politics (1972) online edition
+
+
+== External linksEdit ==
+Official website

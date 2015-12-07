@@ -1,0 +1,173 @@
+The Stefan–Boltzmann law, also known as Stefan's law, describes the power radiated from a black body in terms of its temperature. Specifically, the Stefan–Boltzmann law states that the total energy radiated per unit surface area of a black body across all wavelengths per unit time (also known as the black-body radiant exitance or emissive power), , is directly proportional to the fourth power of the black body's thermodynamic temperature T:
+
+The constant of proportionality σ, called the Stefan–Boltzmann constant or Stefan's constant, derives from other known constants of nature. The value of the constant is
+
+where k is the Boltzmann constant, h is Planck's constant, and c is the speed of light in a vacuum. Thus at 100 K the energy flux is 5.67 W/m2, at 1000 K 56,700 W/m2, etc. The radiance (watts per square metre per steradian) is given by
+
+A body that does not absorb all incident radiation (sometimes known as a grey body) emits less total energy than a black body and is characterized by an emissivity, :
+
+The irradiance  has dimensions of energy flux (energy per time per area), and the SI units of measure are joules per second per square metre, or equivalently, watts per square metre. The SI unit for absolute temperature T is the kelvin.  is the emissivity of the grey body; if it is a perfect blackbody, . In the still more general (and realistic) case, the emissivity depends on the wavelength, .
+To find the total power radiated from an object, multiply by its surface area, :
+
+Wavelength- and subwavelength-scale particles, metamaterials, and other nanostructures are not subject to ray-optical limits and may be designed to exceed the Stefan–Boltzmann law.
+
+
+== HistoryEdit ==
+The law was deduced by Josef Stefan (1835–1893) in 1879 on the basis of experimental measurements made by John Tyndall and was derived from theoretical considerations, using thermodynamics, by Ludwig Boltzmann (1844–1906) in 1884. Boltzmann considered a certain ideal heat engine with light as a working matter instead of gas. The law is highly accurate only for ideal black objects, the perfect radiators, called black bodies; it works as a good approximation for most "grey" bodies. Stefan published this law in the article Über die Beziehung zwischen der Wärmestrahlung und der Temperatur (On the relationship between thermal radiation and temperature) in the Bulletins from the sessions of the Vienna Academy of Sciences.
+
+
+== ExamplesEdit ==
+
+
+=== Temperature of the SunEdit ===
+With his law Stefan also determined the temperature of the Sun's surface. He learned from the data of Charles Soret (1854–1904) that the energy flux density from the Sun is 29 times greater than the energy flux density of a certain warmed metal lamella (a thin plate). A round lamella was placed at such a distance from the measuring device that it would be seen at the same angle as the Sun. Soret estimated the temperature of the lamella to be approximately 1900 °C to 2000 °C. Stefan surmised that ⅓ of the energy flux from the Sun is absorbed by the Earth's atmosphere, so he took for the correct Sun's energy flux a value 3/2 times greater than Soret's value, namely 29 × 3/2 = 43.5.
+Precise measurements of atmospheric absorption were not made until 1888 and 1904. The temperature Stefan obtained was a median value of previous ones, 1950 °C and the absolute thermodynamic one 2200 K. As 2.574 = 43.5, it follows from the law that the temperature of the Sun is 2.57 times greater than the temperature of the lamella, so Stefan got a value of 5430 °C or 5700 K (the modern value is 5778 K). This was the first sensible value for the temperature of the Sun. Before this, values ranging from as low as 1800 °C to as high as 13,000,000 °C were claimed. The lower value of 1800 °C was determined by Claude Servais Mathias Pouillet (1790–1868) in 1838 using the Dulong-Petit law. Pouillet also took just half the value of the Sun's correct energy flux.
+
+
+=== Temperature of starsEdit ===
+The temperature of stars other than the Sun can be approximated using a similar means by treating the emitted energy as a black body radiation. So:
+
+where L is the luminosity, σ is the Stefan–Boltzmann constant, R is the stellar radius and T is the effective temperature. This same formula can be used to compute the approximate radius of a main sequence star relative to the sun:
+
+where , is the solar radius, and so forth.
+With the Stefan–Boltzmann law, astronomers can easily infer the radii of stars. The law is also met in the thermodynamics of black holes in so-called Hawking radiation.
+
+
+=== Temperature of the EarthEdit ===
+Similarly we can calculate the effective temperature of the Earth TE by equating the energy received from the Sun and the energy radiated by the Earth, under the black-body approximation. The amount of power, ES, emitted by the Sun is given by:
+
+At Earth, this energy is passing through a sphere with a radius of a0, the distance between the Earth and the Sun, and the energy passing through each square metre of the sphere is given by
+
+The Earth has a radius of rE, and therefore has a cross-section of . The amount of solar power absorbed by the Earth is thus given by:
+
+Assuming the exchange is in a steady state, the amount of energy emitted by Earth must equal the amount absorbed, and so:
+
+TE can then be found:
+
+where TS is the temperature of the Sun, rS the radius of the Sun, and a0 is the distance between the Earth and the Sun. This gives an effective temperature of 6 °C on the surface of the Earth, assuming that it perfectly absorbs all emission falling on it and has no atmosphere.
+The Earth has an albedo of 0.3, meaning that 30% of the solar radiation that hits the planet gets scattered back into space without absorption. The effect of albedo on temperature can be approximated by assuming that the energy absorbed is multiplied by 0.7, but that the planet still radiates as a black body (the latter by definition of effective temperature, which is what we are calculating). This approximation reduces the temperature by a factor of 0.71/4, giving 255 K (−18 °C).
+However, long-wave radiation from the surface of the earth is partially absorbed and re-radiated back down by greenhouse gases, namely water vapor, carbon dioxide and methane. Since the emissivity with greenhouse effect (weighted more in the longer wavelengths where the Earth radiates) is reduced more than the absorptivity (weighted more in the shorter wavelengths of the Sun's radiation) is reduced, the equilibrium temperature is higher than the simple black-body calculation estimates. As a result, the Earth's actual average surface temperature is about 288 K (15 °C), which is higher than the 255 K effective temperature, and even higher than the 279 K temperature that a black body would have.
+
+
+== OriginationEdit ==
+
+
+=== Thermodynamic derivation of the energy densityEdit ===
+
+The fact that the energy density of the box containing radiation is proportional to  can be derived using thermodynamics. It follows from the Maxwell stress tensor of classical electrodynamics that the radiation pressure  is related to the internal energy density :
+.
+From the fundamental thermodynamic relation
+,
+we obtain the following expression, after dividing by  and fixing  :
+.
+The last equality comes from the following Maxwell relation:
+.
+From the definition of energy density it follows that
+
+where the energy density of radiation only depends on the temperature, therefore
+.
+Now, the equality
+,
+after substitution of  and  for the corresponding expressions, can be written as
+.
+Since the partial derivative  can be expressed as a relationship between only  and  (if one isolates it on one side of the equality), the partial derivative can be replaced by the ordinary derivative. After separating the differentials the equality becomes
+,
+which leads immediately to , with  as some constant of integration.
+
+
+=== Stefan–Boltzmann's law in n-dimensional spaceEdit ===
+It can be shown that the radiation pressure in -dimensional space is given by
+
+So in -dimensional space,
+
+thus using 2 nd law of thermodynamics,we can write,
+
+Hence
+
+and
+
+or
+
+yielding
+
+or,
+
+yielding,
+
+implying
+
+The same result is obtained as the integral over frequency of Planck's law for -dimensional space, albeit with a different value for the Stefan-Boltzmann constant at each dimension. In general this constant is
+ 
+where  is Riemann's zeta function and  is the Gamma function,  denotes the Planck's constant,  the speed of light in vacuum, and  the Boltzmann's constant.
+
+
+=== Derivation from Planck's lawEdit ===
+The law can be derived by considering a small flat black body surface radiating out into a half-sphere. This derivation uses spherical coordinates, with φ as the zenith angle and θ as the azimuthal angle; and the small flat blackbody surface lies on the xy-plane, where φ = π/2.
+The intensity of the light emitted from the blackbody surface is given by Planck's law :
+
+where
+ is the amount of power per unit surface area per unit solid angle per unit frequency emitted at a frequency  by a black body at temperature T.
+ is Planck's constant
+ is the speed of light, and
+ is Boltzmann's constant.
+
+The quantity  is the power radiated by a surface of area A through a solid angle dΩ in the frequency range between ν and ν + dν.
+The Stefan–Boltzmann law gives the power emitted per unit area of the emitting body,
+
+ To derive the Stefan–Boltzmann law, we must integrate Ω over the half-sphere and integrate ν from 0 to ∞. Furthermore, because black bodies are Lambertian (i.e. they obey Lambert's cosine law), the intensity observed along the sphere will be the actual intensity times the cosine of the zenith angle φ, and in spherical coordinates, dΩ = sin(φ) dφ dθ.
+
+Then we plug in for I:
+
+To do this integral, do a substitution,
+
+which gives:
+
+The integral on the right can be done in a number of ways (one is included in this article's appendix) – its answer is , giving the result that, for a perfect blackbody surface:
+
+Finally, this proof started out only considering a small flat surface. However, any differentiable surface can be approximated by a bunch of small flat surfaces. So long as the geometry of the surface does not cause the blackbody to reabsorb its own radiation, the total energy radiated is just the sum of the energies radiated by each surface; and the total surface area is just the sum of the areas of each surface—so this law holds for all convex blackbodies, too, so long as the surface has the same temperature throughout. The law extends to radiation from non-convex bodies by using the fact that the convex hull of a black body radiates as though it were itself a black body.
+
+
+=== AppendixEdit ===
+In one of the above derivations, the following integral appeared:
+
+where  is the polylogarithm function and  is the Riemann zeta function. If the polylogarithm function and the Riemann zeta function are not available for calculation, there are a number of ways to do this integration; a simple one is given in the appendix of the Planck's law article. This appendix does the integral by contour integration. Consider the function:
+
+Using the Taylor expansion of the sine function, it should be evident that the coefficient of the k3 term would be exactly -J/6. By expanding both sides in powers of , we see that  is minus 6 times the coefficient of  of the series expansion of . So, if we can find a closed form for f(k), its Taylor expansion will give J.
+In turn, sin(x) is the imaginary part of eix, so we can restate this as:
+
+To evaluate the integral in this equation we consider the contour integral:
+
+where  is the contour from  to , then to , then to , then we go to the point , avoiding the pole at  by taking a clockwise quarter circle with radius  and center . From there we go to , and finally we return to , avoiding the pole at zero by taking a clockwise quarter circle with radius  and center zero.
+
+Because there are no poles in the integration contour we have:
+
+We now take the limit . In this limit the contribution from the segment from  to  tends to zero. Taking together the integrations over the segments from  to  and from  to  and using the fact that the integrations over clockwise quarter circles withradius  about simple poles are given up to order  by minus  times the residues at the poles we find:
+
+The left hand side is the sum of the integral from  to  and from  to . We can rewrite the integrand of the integral on the r.h.s. as follows:
+
+If we now take the imaginary part of both sides of Eq. (1) and take the limit  we find:
+
+after using the relation:
+
+Using that the series expansion of  is given by:
+
+we see that the coefficient of  of the series expansion of  is . This then implies that  and the result
+
+follows.
+
+
+== See alsoEdit ==
+Wien's displacement law
+Rayleigh–Jeans law
+Radiance
+Zero-dimensional models
+Black body
+Sakuma–Hattori equation
+
+
+== NotesEdit ==
+
+
+== ReferencesEdit ==
+Stefan, J. (1879), "Über die Beziehung zwischen der Wärmestrahlung und der Temperatur" [On the relationship between heat radiation and temperature] (PDF), Sitzungsberichte der mathematisch-naturwissenschaftlichen Classe der kaiserlichen Akademie der Wissenschaften (in German) (Vienna) 79: 391–428 
+Boltzmann, L. (1884), "Ableitung des Stefan'schen Gesetzes, betreffend die Abhängigkeit der Wärmestrahlung von der Temperatur aus der electromagnetischen Lichttheorie" [Derivation of Stefan's little law concerning the dependence of thermal radiation on the temperature of the electro-magnetic theory of light], Annalen der Physik und Chemie (in German) 258 (6): 291–294, Bibcode:1884AnP...258..291B, doi:10.1002/andp.18842580616

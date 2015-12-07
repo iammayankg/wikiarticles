@@ -1,0 +1,72 @@
+The National Snow and Ice Data Center, or NSIDC, is a United States information and referral center in support of polar and cryospheric research. NSIDC archives and distributes digital and analog snow and ice data and also maintains information about snow cover, avalanches, glaciers, ice sheets, freshwater ice, sea ice, ground ice, permafrost, atmospheric ice, paleoglaciology, and ice cores.
+NSIDC is part of the University of Colorado Cooperative Institute for Research in Environmental Sciences (CIRES), and is affiliated with the National Oceanic and Atmospheric Administration (NOAA) National Geophysical Data Center through a cooperative agreement. NSIDC serves as one of eight Distributed Active Archive Centers funded by the National Aeronautics and Space Administration to archive and distribute data from NASA's past and current satellites and field measurement programs. NSIDC also supports the National Science Foundation through the Advanced Cooperative Arctic Data and Information Service (ACADIS), the Exchange For Local Observations and Knowledge of the Arctic (ELOKA) and the Antarctic Glaciological Data Center. NSIDC is also a member of the ICSU World Data System. Mark Serreze is the director of NSIDC.
+
+
+== History ==
+The World Data Center (WDC) for Glaciology, Boulder, a data center responsible for archiving all available glaciological information, was established at the American Geographical Society under Dr. William O. Field, Director, in 1957. Between 1971 and 1976 it was operated by the U.S. Geological Survey, Glaciology Project Office, under the direction of Dr. Mark F. Meier.
+In 1976, responsibility for the WDC for Glaciology was transferred to NOAA, Environmental Data and Information Service (EDIS), and the center moved to the University of Colorado at Boulder under the direction of Professor Roger G. Barry. In 1982, NOAA created the National Snow and Ice Data Center (NSIDC) as a means to expand the WDC holdings and as a place to archive data from some NOAA programs. In the 1980s and 1990s, support to NSIDC widened with NASA funding for the Snow and Ice Distributed Active Archive Center (DAAC) and NSF funding to manage selected Arctic and Antarctic data and metadata.
+
+
+=== Milestones ===
+1957-58: First International Geophysical Year
+1957: U.S. National Committee for the IGY awards the operation of WDC-A for Glaciology to the American Geographical Society
+1970: WDC for Glaciology transfers from the American Geographical Society to the U.S. Geological Survey in Tacoma, Washington
+1976: WDC for Glaciology transfers from the U.S. Geological Survey in Tacoma, Washington to the University of Colorado at Boulder, Colorado under the direction of Roger Barry
+1982: NOAA designates the National Snow and Ice Data Center
+1983: NSIDC receives grant from NASA for archiving Nimbus 7 passive microwave data
+1990: NSIDC receives funding from NSF for Arctic System Science (ARCSS) Data Coordination Center (ADCC)
+1993: NSIDC receives first DAAC contract
+1996: Antarctic Data Coordination Center (ADCC) established with NSF support
+1999: Antarctic Glaciological Data Center (AGDC) established with NSF support
+2001: NSIDC celebrates its 25th Anniversary
+2002: Frozen Ground Data Center established with International Arctic Research Center (IARC) support
+2003: Full suite of Earth Observing System (EOS) cryospheric sensors (AMSR, GLAS, MODIS) in orbit
+2009: Mark Serreze named NSIDC director
+
+
+== International interactions ==
+International science and data management programs facilitate the free exchange of data and accelerate research aimed at understanding the role of the cryosphere in the Earth system. NSIDC contributes to a number of international programs. Most of these programs, only a few of which are mentioned here, fall under the aegis of the International Council of Scientific Unions (ICSU).
+NSIDC scientists participate in International Union of Geophysics and Geodetics (IUGG), International Association of Cryospheric Scientists (IACS), and in activities of the International Permafrost Association (IPA), the Global Digital Sea Ice Data Bank (GDSIDB), and the World Climate Research Programme (WCRP), including Climate and Cryosphere (CliC), Global Energy and Water Cycle Experiment (GEWEX), the Global Climate Observing System (GCOS), and the Global Earth Observation System of Systems (GEOSS). Former NSIDC Director, Roger G. Barry, was co-Vice Chair of the WCRP CliC Scientific Steering Group until 2005, and was a member of the GCOS/Global Terrestrial Observing System (GTOS) Terrestrial Observation Panel for Climate through 2007.
+
+
+== Research ==
+Researchers at NSIDC investigate the dynamics of Antarctic ice shelves, new techniques for the remote sensing of snow and freeze/thaw cycle of soils, the role of snow in hydrologic modeling, linkages between changes in sea ice extent and weather patterns, large-scale shifts in polar climate, river and lake ice, and the distribution and characteristics of seasonally and permanently frozen ground. In-house scientists pursue their work as part of the CIRES Cryospheric and Polar Process Division, University of Colorado Boulder.
+
+
+== Data Conservancy Instance ==
+A research project of the NSIDC is the Exchange For Local Observations and Knowledge of the Arctic or ELOKA. It is a collaborative international effort that was launched during the 2007-2009 International Polar Year. ELOKA facilitates the collection, preservation, exchange, and use of local observations and knowledge of the Arctic. Data management and user support is provided by ELOKA while it fosters collaboration between resident Arctic experts and visiting researchers. By working together, Arctic residents and researchers have made significant contributions in our understanding of the Arctic and recent changes to it. A key challenge of local and traditional knowledge (LTK) research and community-based monitoring is having an effective and appropriate means of recording, storing, and managing data and information. There is also the issue of finding an effective means of making such data available to Arctic residents and researchers, as well as other interested groups such as teachers, students, and decision makers. Without a network and data management system to support LTK and community-based research, a number of problems have arisen. ELOKA aims to fill this gap.
+While NSIDC already had the systems and people to manage an active archive of Earth science data, it too needed broader and long-term curation capabilities, as well as a system that was flexible enough to serve many disciplines and forms of knowledge like that of ELOKA. To support ELOKA’s requirements, NSIDC has implemented an instance of The Data Conservancy (DC) solution. The DC is a community organized around data curation research, technology development, and community building. Initially funded by the National Science Foundation's DataNet program, the DC is headquartered at the Sheridan Libraries, Johns Hopkins University. DC community members include university libraries, national data centers, national research labs, and information science research and education programs. This community is driven by a common theme: the need for institutional solutions to digital research data collection, curation and preservation challenges. A DC Instance is an installation of the DC technical infrastructure embedded within a particular organization. Individual DC Instances are shaped by these considerations: context where data curation solutions must be developed for a particular science or institutional domain; software infrastructure; customized services; hardware infrastructure; organizational infrastructure; sustainability strategy.
+NSIDC will participate in five main areas of Data Conservancy activities by:
+Ensuring that Data Conservancy activities are informed by and interoperable with the existing and developing national and international frameworks in the geosciences (infrastructure)
+Supporting and participating in the information science and computer science research programs as applied to the Earth sciences (IS/CS)
+Participating in the broader impacts program
+Leading the Data Conservancy communications plan for the Earth science community and assisting in the development of the overall communications and branding strategy
+Leading the Earth sciences working group activities (Science Definition Group).
+The greatest strength of the DC is a flexible data model, which allows the system to manage and preserve all different types of data. Its Feature Extraction Framework (FEF) generates rich results from crosscutting queries and gives users both the power and the flexibility to work meaningfully with diverse knowledge and data. ELOKA has been using the Data Conservancy software to help with the management of digital files generated through a research project with the community of Sanikiluaq in Nunavut, Canada. The DC system is being used to store files such as text, images, video, maps, an entire website, and related descriptive information about the files and their relationships. When Elders and collaborating researchers upload their data, the system extracts metadata that these data providers can edit. The system relies on the metadata to make the collections easy to discover by researchers from diverse disciplines. By participating in this DC instance there stands to gain a much more flexible preservation system, one that can represent the complex relationships based on the needs of knowledge holders and researchers rather than one that strictly organizes knowledge based on an outside system, such as a library catalog.
+
+
+== See also ==
+CIRES
+Distributed Active Archive Centers
+Earth Observing System
+Polar ice packs
+University of Colorado at Boulder
+
+
+== References ==
+
+
+== External links ==
+US National Research Council (1983) Snow and Ice Research: An Assessment US National Academies Press pg 115
+US National Research Council (1995) Study on the Long-term Retention of Selected Scientific and Technical Records of the Federal Government US National Academies Press pg 115
+Minster, J./NRC (1998) Review of NASA's Distributed Active Archive Centers US National Academies Press ISBN 9780309063319 pp 147–163
+Simpson, Robert in Oliver, John E. (ed) (2005) The Encyclopedia of World Climatology Springer ISBN 9781402032646 pg 232
+Burden, Paul R. (2010) A Subject Guide to Quality Web Sites Scarecrow Press ISBN 9780810876958 pg 626
+Barry, Roger and Gan, Thian Yew (2011) The Global Cryosphere: Past, Present and Future Cambridge University Press ISBN 9781139496698 pg 5
+
+
+== External links ==
+NSIDC main page
+NSIDC Arctic Sea Ice News & Analysis
+Icelights, a regular column by cryosphere experts and questions from the public
+Serious Science, an interview with NSIDC lead scientist Ted Scambos from The Antarctic Sun

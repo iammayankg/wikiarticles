@@ -1,0 +1,34 @@
+The effects of global warming on marine mammals are of growing concern. The increase of carbon dioxide and other greenhouse gases into the atmosphere is thought to be the main cause of climate change or global warming. Exactly how this will affect the ocean, which is home to marine mammals, is hard to predict since there are many factors, such as weather events and salinity, that affect ocean ecosystems. How all these will interact is highly unpredictable. Using global climate models (GCM)s, scientists can get a general idea of how climate change will impact the ocean environment in the future.
+
+
+== Effects ==
+Marine mammals have evolved to live in the ocean, but the effects of climate change are rapidly altering their habitat.
+As levels of greenhouse gases in the atmosphere increase, they trap heat which causes an overall warming of the planet. During the last century, global average land and sea surface temperature has increased dramatically. Warming has reach down to 700 meters, and deeper (per a study which finds that 30% of the ocean warming over the past decade has occurred in the deeper oceans below 700 meters). Many marine mammal species require specific temperature ranges in which they must live. The warming of the ocean will cause changes in species range. Those species that cannot relocate due to some barrier will be forced to adapt to the increasingly warming sea waters or else they will face extinction risks. Many species ranges are being pushed further and further north as water temperatures increase and will soon have nowhere else to go.
+The glacier ice melt has the heat increased while sea ice extent and thickness has decreased as temperatures rise. Rises in sea level affect coastal habitat and the species that rely on it. This habitat is often used by pinnipeds as haul out sites. In order to combat rising sea levels in areas inhabited by humans the construction of sea walls has been proposed, however, these walls may interfere with the migration routes of several marine mammal species. These routes can be very important for reaching feeding and breeding grounds.
+Changes in the temperature ranges will also change the location of areas with high primary productivity. These areas are important to marine mammals because primary producers are the food source of marine mammal prey or are the marine mammal prey themselves. Marine mammal distribution and abundance will be determined by the distribution and abundance of its prey. Migration of marine mammals may also be affected by the changes in primary productivity.
+Increased glacier ice melt also impacts ocean circulation due to the increase of freshwater in the ocean. Salinity concentrations in the ocean are changing. Thermohaline circulation may be altered by increasing amounts of freshwater in the ocean. Thermohaline circulation is responsible for bringing up cold, nutrient rich water from the depths of the ocean, a process known as upwelling. This may affect regional temperatures and primary productivity.
+Susceptibility to disease is also thought to increase while reproductive success may decrease with increasing ocean temperatures.
+The world's oceans absorb a large amount of carbon dioxide from the atmosphere and causes an increase in carbon dioxide concentrations and decreases its overall pH, increasing ocean acidification.
+
+
+== See also ==
+Effects of global warming on oceans
+
+
+== References ==
+
+
+=== Sources ===
+Poloczanska, E. S., Babcock, R. C., Butler, A., Hobday, A. J., Hoegh-Guldberg, O., Kunz, T. J., Matear, R., Milton, D. A., Okey, T. A., & Richardson, A. J. 2007. "Climate change and Australian marine life". Oceanography and Marine Biology: An Annual Review, 45, 407-478.
+Hardwood, J.. 2001. "Marine mammals and their environment in the twenty-first century". Journal of Mammology, 82(3), 630-640.
+Learmonth, J.A., Macleod, C.D., Santos, M.B., Pierce, J.G., Crick, H.Q.P. & Robinson, R.A. 2006. "Potential effects of climate change on marine mammals". Oceanography and Marine Biology: An Annual Review, 2006, 44, 431-464.
+Marine Climate Change Impacts Partnership. 2006. "Marine Climate Change Impacts Annual Report Card 2006". (Eds. Buckley, P.J., Dye, S.R., & Baxter, J.M..), Summary Report, MCCIP, Lowestoft, 8pp.
+Simmonds, M.P. & Isaac, S.J. 2007. "The impacts of climate change on marine mammals: Early Signs of Significant Problems". Oryx, 41(1), 19-26.
+Tynan, C.T. & DeMaster, D.P.. 1997. "Observations and predictions of Arctic climate change: potential effects on marine mammals". Arctic, 50(4), 308-422.
+
+
+== External links ==
+Marine Mammal Commission
+United Nations Environment Programme World Conservation Monitoring Centre
+Intergovernmental Panel on Climate Change
+The Infography about Climate Change and Biodiversity

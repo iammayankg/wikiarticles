@@ -1,0 +1,88 @@
+Energy in Germany is sourced predominantly by fossil fuels, followed by nuclear power, biomass (wood and biofuels), wind, hydro and solar.
+The German economy is large and developed, ranking fourth in the world by GDP. Because of this, Germany ranked sixth in global energy consumption between 2004 and 2007. Germany was Europe's largest consumer of electricity in 2002; electricity consumption that year totaled 512.9 terawatt-hours. In 2013 Germany's electricity production reached 631.4 TWh.
+Key to Germany's energy policies and politics is "Energiewende", meaning "energy turnaround" or "energy transformation". Germany intends to eliminate current use of nuclear power by 2022. Some plants have already been closed ahead of their intended retirement dates. It is presumed that fossil fuels, wind power, solar power, biofuels, and energy conservation will be enough to replace the existing capacity from nuclear power. The policy includes phasing out nuclear power, and progressive replacement of fossil fuels by renewables.
+
+
+== Overview ==
+
+
+== Electricity production ==
+
+
+=== Coal power ===
+
+The main source of electricity is coal. The 2007 plan to build 26 new coal plants is controversial in light of Germany's commitment to curbing emissions. By 2015, the growing share of renewable energy in the national electricity market (26% in 2014, up from 4% in 1990) and the government's mandated CO2 emission reduction targets (40% below 1990 levels by 2020; 80% below 1990 levels by 2050) have increasingly curtailed previous plans for new, expanded coal power capacity.
+Lignite is extracted in the extreme western and eastern parts of the country, mainly in Nordrhein-Westfalen, Sachsen and Brandenburg. Considerable amounts are burned in coal plants near the mining areas to produce electricity and transporting lignite over far distances is not economically feasible; therefore, the plants are located near the extraction sites.
+Bituminous coal is mined in Nordrhein-Westfalen and Saarland. Most power plants burning bituminous coal operate on imported material, therefore, the plants are located not only near to the mining sites, but throughout the country.
+In 2013 coal made up about 45% of Germany's electricity production (19% from hard coal and 26% from lignite). German coal-fired power plants are being designed and modified so they can be increasingly flexible to support the fluctuations resulting from increased renewable energy. Existing power plants in Germany are designed operate flexibly. Load following is achieved by German natural gas combined cycle plants and coal-fired power plants. New coal-fired power plants have a minimum load capability of approximately 40%, with further potential to reduce this to 20–25%. The reason is that the output of the coal boiler is controlled via direct fuel combustion and not, as is the case with a gas combined-cycle power plant, via a heat recovery steam generator with an upstream gas turbine.
+In 2014 Germany's coal consumption dropped, for the first time since the 2009 recession.
+
+
+=== Nuclear power ===
+
+Nuclear power in Germany accounted for 16% of national electricity supply in 2014, compared to 23% in 2010. German nuclear power began with research reactors in the 1950s and 1960s with the first commercial plant coming online in 1969. The anti-nuclear movement in Germany has a long history dating back to the early 1970s, when large demonstrations prevented the construction of a nuclear plant at Wyhl. In 1986, large parts of Germany were lightly covered with radioactive contamination from the Chernobyl disaster and Germans went to great lengths to deal with the contamination.
+Nuclear power has been a topical political issue in recent decades, with continuing debates about when the technology should be phased out. A coalition government of Gerhard Schroeder took the decision in 2002 to phaseout all nuclear power by 2022. The topic received renewed attention at the start of 2007 due to the political impact of the Russia-Belarus energy dispute and in 2011 after the Fukushima I nuclear accidents in Japan. Within days of the March 2011 Fukushima Daiichi nuclear disaster, large anti-nuclear protests occurred in Germany. Protests continued and, on 29 May 2011, Merkel's government announced that it would close all of its nuclear power plants by 2022. Eight of the seventeen operating reactors in Germany were permanently shut down following Fukushima in 2011. German coal consumption has risen during 2011, 2012 and 2013.
+Chancellor Angela Merkel said the phase-out of plants, previously scheduled to go offline as late as 2036, would give Germany a competitive advantage in the renewable energy era, stating, "As the first big industrialized nation, we can achieve such a transformation toward efficient and renewable energies, with all the opportunities that brings for exports, developing new technologies and jobs". Merkel also pointed to Japan's "helplessness" – despite being an industrialized, technologically advanced nation – in the face of its nuclear disaster.
+In September 2011, German engineering giant Siemens announced a complete withdrawal from the nuclear industry, as a response to the Fukushima nuclear disaster. Remaining nuclear companies in Germany are E.ON Kernkraft GmbH, Vattenfall Europe Nuclear Energy GmbH, RWE Power AG, and EnBW Energie Baden-Wuerttemberg AG.
+
+
+=== Renewable energy ===
+
+The share of electricity produced from renewable energy in Germany has increased from 6.3 percent of the national total in 2000 to over 25 percent in the first half of 2012. Germany renewable power market grew from 0.8 million residential customers in 2006 to 4.9 million in 2012, or 12.5% of all private households in the country. In 2011, they purchased 15 terawatt-hours (TWh) of green power, and commercial customers bought a further 10.3 TWh. Renewable energy share of gross electricity consumption rose from 10% in 2005 to 20% in 2011. Main renewable electricity sources were in first half of 2012: Wind energy 36.6%, biomass 22.5%, hydropower 14.7%, photovoltaics (solar) 21.2% and biowaste 3.6%. Wood-fire plants fuelled by wood pellets are included in biomass. Half of Germany's timber production is consumed by wood fired plants. Wood fired plants are counted as renewable energy by Germany and the European Union counting them as "carbon neutral".
+In 2010, investments totaling 26 billion euros were made in Germany’s renewable energies sector. Germany spends about 20 billion euros per year subsidizing renewable energy. According to official figures, some 370,000 people in Germany were employed in the renewable energy sector in 2010, especially in small and medium-sized companies. This is an increase of around 8 percent compared to 2009 (around 339,500 jobs), and well over twice the number of jobs in 2004 (160,500). About two-thirds of these jobs are attributed to the Renewable Energy Sources Act
+Germany has been called "the world's first major renewable energy economy". In the first half of 2012 25.1% of Germany's electricity supply was produced from renewable energy sources, more than the electricity generated by nuclear power stations.
+In end of 2011, the cumulative installed total of renewable power was 65.7GW. Although Germany does not really have a very sunny climate, solar photovoltaic power is used massively (4% of annual electricity needs). On 25 May 2012, a Saturday, solar power reached a new record with feeding 22 GW, as much as can be produced by 20 nuclear reactors, into the German power grid. This met 50% of the nation's mid-day electricity demand on that day.
+
+
+== Energy consumption ==
+
+Germany is one of the largest consumers of energy in the world. In 2014, it consumed energy from the following sources:
+Oil 35.0%
+Bituminous coal 12.6%
+Lignite 12.0%
+Natural gas 20.4%
+Nuclear power 8.1%
+Hydropower, windpower, solar 2.1%
+Other renewable 9.0%
+Others
+Renewable energy is more present in the domestically produced energy, since Germany imports about two-thirds of its energy. This however is offset by exports of energy 
+Germany is the fifth-largest consumer of oil in the world. Russia, Norway, and the United Kingdom are the largest exporters of oil to Germany, in that order. Germany is the third-largest consumer of natural gas in the world.
+Because of its rich coal deposits it has a long tradition of fuelling its economy with coal. It still is the fourth-largest consumer of coal in the world, even though domestic coal mining has been almost completely phased out, because German coal is a lot more expensive to mine than coal in China or Australia. Germany has the largest market of electricity in Europe.
+
+
+=== Energy efficiency ===
+The energy efficiency bottom-up index for the whole economy (ODEX) in Germany decreased by 18% between 1991–2006, which is equivalent to an energy efficiency improvement by 1.2% per annum on average based on the ODEX, which calculates technical efficiency improvements. Since the beginning of the new century, however, the efficiency improvement measured by the ODEX has slowed down. While a continuous decrease by 1.5%/y could be observed between 1991 and 2001, the decrease in the period from 2001 to 2006 only amounted to 0.5%, which is below the EU-27 level.
+By 2050 Germany projects a 25% drop in electricity demand.
+
+
+== Government energy policy ==
+Germany is the fourth-largest producer of nuclear power in the world, but in 2000, the government and the German nuclear power industry agreed to phase out all nuclear power plants by 2021, as a result of an initiative with a vote result of 513 Yes, 79 No and 8 Empty. The seven oldest reactors were permanently closed after the Fukushima accident. However, being an integral part of the EU's internal electricity market, Germany will continue to consume foreign nuclear electricity even after 2022. In September 2010, Merkel's government reached a late-night deal which would see the country's 17 nuclear plants run, on average, 12 years longer than planned, with some remaining in production until well into the 2030s. Then, following Fukushima Daiichi nuclear disaster, the government changed its mind again, deciding to proceed with the plan to close all nuclear plants in the country by 2022.
+Government policy emphasizes conservation and the development of renewable sources, such as solar, wind, biomass, water, and geothermal power. As a result of energy saving measures, energy efficiency (the amount of energy required to produce a unit of gross domestic product) has been improving since the beginning of the 1970s. The government has set the goal of meeting 80% of the country's energy demands from alternative energy by 2050.
+After becoming Chancellor of Germany, Angela Merkel expressed concern for overreliance on Russian energy, but she received little support from others in Berlin.
+1Eco tax per MWh for industry is 0.33euro on natural gas, and 12.3 on electricity
+Minor taxes are called "Contribution to emergency storage fund".
+
+
+=== Sustainable energy ===
+In September 2010, the German government announced a new aggressive energy policy with the following targets:
+Reducing CO2 emissions 40% below 1990 levels by 2020 and 80% below 1990 levels by 2050
+Increasing the relative share of renewable energy in gross energy consumption to 18% by 2020, 30% by 2030 and 60% by 2050
+Increasing the relative share of renewable energy in gross electrical consumption to 35% by 2020 and 80% by 2050
+Increasing the national energy efficiency by cutting electrical consumption 50% below 2008 levels by 2050
+Forbes ranked German Aloys Wobben ($3B), founder of Enercon, as the richest person in the energy business (wind power) in Germany in 2013.
+
+
+== See also ==
+
+Renewable energy in Germany
+General:
+Economy of Germany
+
+
+== References ==
+
+
+== External links ==
+Germany Energy Profile from the Energy Information Administration
+Electricity/Heat in Germany in 2005 from the International Energy Agency
+Statistical Energy Yearbook, 2012 from Enerdata

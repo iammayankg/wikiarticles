@@ -1,0 +1,40 @@
+There have been five known ice ages in the Earth's history, with the Earth experiencing the Quaternary Ice Age during the present time. Within ice ages, there exist periods of more severe glacial conditions and more temperate referred to as glacial periods and interglacial periods, respectively. The Earth is currently in such an interglacial period of the Quaternary Ice Age, with the last glacial period of the Quaternary having ended approximately 11,700 years ago with the start of the Holocene epoch. Based on climate proxies, paleoclimatologists study the different climate states originating from glaciation.
+
+
+== Known ice agesEdit ==
+
+
+== DescriptionsEdit ==
+The second ice age, and possibly most severe, is estimated to have occurred from 850 to 635 Ma (million years) ago, in the Neoproterozoic Era and it has been suggested that it produced a second "Snowball Earth" in which the earth iced over completely. It has been suggested also that the end of this second cold period was responsible for the subsequent Cambrian Explosion, a time of rapid diversification of multicelled life during the Cambrian Period. However, this hypothesis is still controversial, though is growing in popularity among researchers as evidence in its favor has mounted.
+A minor series of glaciations occurred from 460 Ma to 430 Ma. There were extensive glaciations from 350 to 250 Ma. The current ice age, called the Quaternary glaciation, has seen more or less extensive glaciation on 40,000 and later, 100,000 year cycles.
+
+
+== Nomenclature of Quaternary glacial cyclesEdit ==
+Originally, the glacial and interglacial periods of the Quaternary Ice Age were named after characteristic geological features, and these names varied from region to region. It is now more common for researchers to refer to the periods by their marine isotopic stage number. The marine record preserves all the past glaciations; the land-based evidence is less complete because successive glaciations may wipe out evidence of their predecessors. Ice cores from continental ice accumulations also provide a complete record, but do not go as far back in time as marine data. Pollen data from lakes and bogs as well as loess profiles provided important land-based correlation data. The names system has not been completely filled out since the technical discussion moved to using marine isotopic stage numbers. For example, there are five Pleistocene glacial/interglacial cycles recorded in marine sediments during the last half million years, but only three classic interglacials were originally recognized on land during that period (Mindel, Riss and Würm).
+Land-based evidence works acceptably well back as far as MIS 6, but it has been difficult to coordinate stages using just land-based evidence before that. Hence, the "names" system is incomplete and the land-based identifications of ice ages previous to that are somewhat conjectural. Nonetheless, land based data is essentially useful in discussing landforms, and correlating the known marine isotopic stage with them.
+The last glacial and interglacial periods of the Quaternary are named, from most recent to most distant, as follows. Dates shown are in thousand years before present.
+
+
+=== Land-based chronology of Quaternary glacial cyclesEdit ===
+Older periods of the Quaternary
+**Table data is based on Gibbard Figure 22.1.
+
+
+=== Ice core evidence of recent glaciationEdit ===
+
+Ice cores are used to obtain a high resolution record of recent glaciation. It confirms the chronology of the marine isotopic stages. Ice core data shows that the last 400,000 years have consisted of short interglacials (10,000 to 30,000 years) about as warm as the present alternated with much longer (70,000 to 90,000 years) glacials substantially colder than present. The new EPICA Antarctic ice core has revealed that between 400,000 and 780,000 years ago, interglacials occupied a considerably larger proportion of each glacial/interglacial cycle, but were not as warm as subsequent interglacials.
+
+
+== See alsoEdit ==
+
+
+== ReferencesEdit ==
+
+
+== External linksEdit ==
+Aber, J.S. (2006). "Regional Glaciation of Kansas and Nebraska". Emporia KA: Emporia State University. 
+Work Group on Geospatial Analysis of Glaciated Environments (GAGE) (2000). "Pre-Wisconsin Glaciation of Central North America". Emporia KA: INQUA Commission on Glaciation, Emporia State University. 
+Subcommission on Quaternary Stratigraphy (2011). "Global correlation tables for the Quaternary". Cambridge UK: Department of Geography, University of Cambridge. 
+Gibbard, P.L.; Boreham, S.; Cohen, K.M.; Moscariello, A. (2011). "Global chronostratigraphical correlation table for the last 2.7 million years v. 2011." (PDF). Cambridge UK: Subcommission on Quaternary Stratigraphy, Department of Geography, University of Cambridge. 
+Hambrey, M.J.; Harland, W.B., ed. (1981). Earth's pre-Pleistocene glacial record. Cambridge University Press.  1004 + xv pp. (book downloadable as series of PDF files)
+Silva, P.G.; Zazo,C; Bardají,T.; Baena, J.; Lario, J.; Rosas, A.; Van der Made (2009). "Tabla Cronoestratigráfica del Cuaternario AEQUA V.2" (PDF 3.6 Mb). Departamento de Geología, Universidad de Salamanca, Spain: Asociación Española para el Estudio del Cuaternario (AEQUA).  (Correlation Chart of European Quaternary and cultural stages and fossils)

@@ -1,0 +1,114 @@
+A free market is a market economy system in which the prices for goods and services are set freely by consent between vendors and consumers, in which the laws and forces of supply and demand are free from any intervention by a government, price-setting monopoly, or other authority. A free market contrasts with a regulated market, in which government intervenes in supply and demand through non-market methods such as laws creating barriers to market entry or price fixing. In a free-market economy, prices for goods and services are set freely by the forces of supply and demand and are allowed to reach their point of equilibrium without intervention by government policy, and it typically entails support for highly competitive markets and private ownership of productive enterprises.
+Although free markets are commonly associated with capitalism in contemporary usage and popular culture, free markets have also been advocated by free-market anarchists, market socialists, and some proponents of cooperatives and advocates of profit sharing.
+
+
+== Economic systems ==
+
+
+=== Laissez-faire economics ===
+
+The laissez-faire principle expresses a preference for an absence of non-market pressures on prices and wages, such as those from discriminatory government taxes, subsidies, tariffs, regulations of purely private behavior, or government-granted or coercive monopolies. Friedrich Hayek argued in The Pure Theory of Capital that the goal is the preservation of the unique information contained in the price itself.
+The definition of free market has been disputed and made complex by collectivist political philosophers and socialist economic ideas. This contention arose from the divergence of classical economists such as Adam Smith, David Ricardo, and Thomas Robert Malthus from the continental economic science developed primarily by the Spanish scholastic and French classical economists, including Richard Cantillon, Anne-Robert-Jacques Turgot, Baron de Laune, Jean-Baptiste Say and Frédéric Bastiat. Adam Smith discarded the subjective theory of value and contended that an unregulated market was prone to the rise of monopolies and was therefore not "free" in this sense.
+During the marginal revolution, subjective value theory was rediscovered.
+
+
+=== Socialist economics ===
+Various forms of socialism based on, or which advocate, free markets have existed since the 19th century. Early notable socialist proponents of free markets include Pierre-Joseph Proudhon, Benjamin Tucker, and the Ricardian socialists. These economists believed that genuinely free markets and voluntary exchange could not exist within the exploitative conditions of capitalism.
+These proposals ranged from various forms of worker cooperatives operating in a free market economy, such as the Mutualist system proposed by Proudhon, to state-owned enterprises operating in unregulated and open markets. These models of socialism are not to be confused with other forms of market socialism (e.g. the Lange model) where publicly owned enterprises are coordinated by various degrees of economic planning, or where capital good prices are determined through marginal cost pricing.
+Advocates of free-market socialism, such as Jaroslav Vanek, argue that genuine free markets are not possible under conditions of private ownership of productive property because the class differences and inequalities in income and power that result from this arrangement enable the interests of the dominant class to skew the market to their favor, either in the form of monopoly and market power, or by utilizing their wealth and resources to legislate government policies that benefit their specific business interests. Additionally, Vanek states that workers in a socialist economy based on cooperative and self-managed enterprises would have stronger incentives to maximize productivity because they would receive a share of the profits (based on the overall performance of their enterprise) in addition to receiving their fixed wage or salary.
+Socialists also point out that free market capitalism leads to excessive disparities in the distribution of income, which leads to social instability. As a result, costly corrective measures in the form of social welfare, re-distributive taxation and heavy administrative costs are required, which weakens the incentive to work, invites dishonesty and increases the likelihood of tax evasion. Thus free market capitalism necessitates government regulation of markets to prevent social instability at the cost of reducing the overall efficiency of the market economy.
+
+
+=== Geoist Economics ===
+As explained above, for classical economists such as Adam Smith the term "free market" does not necessarily refer to a market free from government interference, but rather free from all forms of economic privilege, monopolies and artificial scarcities. This implies that economic rents, i.e. profits generated from lack of perfect competition, must be reduced or eliminated as much as possible through free competition.
+Economic theory suggests the returns to land and other natural resources are economic rents that cannot be reduced in a such a way because of their perfect inelastic supply. Some economic thinkers emphasize the need to share those rents as an essential requirement for a well functioning market. It is suggested this would both eliminate the need for regular taxes that have a negative effect on trade (see deadweight loss) as well as release land and resources that are speculated upon or monopolised. Two features that improve the competition and free market mechanisms. Winston Churchill supported this view by his statement "Land is the mother of all monopoly".
+The American economist and social philosopher Henry George, the most famous proponent of this thesis, wanted to accomplish this through a high land value tax that replaces all other taxes. Followers of his ideas are often called Georgists or Geoists and Geolibertarians.
+Léon Walras, one of the founders of the neoclassical economics who helped formulate the general equilibrium theory, had a very similar view. He argued that free competition could only be realized under conditions of state ownership of natural resources and land. Additionally, income taxes could be eliminated because the state would receive income to finance public services through owning such resources and enterprises.
+
+
+=== Non-laissez-faire capitalist systems ===
+The stronger incentives to maximize productivity that Vanek conceives as possible in a socialist economy based on cooperative and self-managed enterprises might be accomplished in a capitalistic free market if employee-owned companies were the norm, as envisioned by various thinkers including Louis O. Kelso and James S. Albus.
+
+
+== Concepts ==
+
+
+=== Supply and demand ===
+
+Demand for an item (such as goods or services) refers to the market pressure from people trying to buy it. Buyers have a maximum price they are willing to pay and sellers have a minimum price they are willing to offer their product. The point at which the supply and demand curves meet is the equilibrium price of the good and quantity demanded. Sellers willing to offer their goods at a lower price than the equilibrium price receive the difference as producer surplus. Buyers willing to pay for goods at a higher price than the equilibrium price receive the difference as consumer surplus.
+The model is commonly applied to wages in the market for labor. The typical roles of supplier and consumer are reversed. The suppliers are individuals, who try to sell (supply) their labor for the highest price. The consumers are businesses, which try to buy (demand) the type of labor they need at the lowest price. As more people offer their labor in that market, the equilibrium wage decreases and the equilibrium level of employment increases as the supply curve shifts to the right. The opposite happens if fewer people offer their wages in the market as the supply curve shifts to the left.
+In a free market, individuals and firms taking part in these transactions have the liberty to enter, leave and participate in the market as they so choose. Prices and quantities are allowed to adjust according to economic conditions in order to reach equilibrium and properly allocate resources. However, in many countries around the world, governments seek to intervene in the free market in order to achieve certain social or political agendas. Governments may attempt to create social equality or equality of outcome by intervening in the market through actions such as imposing a minimum wage (price floor) or erecting price controls (price ceiling). Other lesser-known goals are also pursued, such as in the United States, where the federal government subsidizes owners of fertile land to not grow crops in order to prevent the supply curve from further shifting to the right and decreasing the equilibrium price. This is done under the justification of maintaining farmers' profits; due to the relative inelasticity of demand for crops, increased supply would lower the price but not significantly increase quantity demanded, thus placing pressure on farmers to exit the market.
+Government intervention in the free market can hamper economic growth, entrepreneurship and a healthy economy by disrupting the natural allocation of resources according to supply and demand. Milton Friedman pointed to failures of central planning, price controls and state-owned corporations, particularly in the Soviet Union and Communist China.
+
+
+=== Economic equilibrium ===
+
+General equilibrium theory has demonstrated, with varying degrees of mathematical rigor over time, that under certain conditions of competition, the law of supply and demand predominates in this ideal free and competitive market, influencing prices toward an equilibrium that balances the demands for the products against the supplies. At these equilibrium prices, the market distributes the products to the purchasers according to each purchaser's preference (or utility) for each product and within the relative limits of each buyer's purchasing power. This result is described as market efficiency, or more specifically a Pareto optimum.
+This equilibrating behavior of free markets requires certain assumptions about their agents, collectively known as Perfect Competition, which therefore cannot be results of the market that they create. Among these assumptions are several which are impossible to fully achieve in a real market, such as complete information, interchangeable goods and services, and lack of market power. The question then is what approximations of these conditions guarantee approximations of market efficiency, and which failures in competition generate overall market failures. Several Nobel Prizes in Economics have been awarded for analyses of market failures due to asymmetric information.
+
+
+=== Low barriers to entry ===
+A free market does not require the existence of competition, however it does require a framework that allows new market entrants. Hence, in the lack of coercive barriers, and in markets with low entry cost it is generally understood that competition flourishes in a free-market environment. It often suggests the presence of the profit motive, although neither a profit motive or profit itself are necessary for a free market. All modern free markets are understood to include entrepreneurs, both individuals and businesses. Typically, a modern free market economy would include other features, such as a stock exchange and a financial services sector, but they do not define it.
+
+
+=== Spontaneous order ===
+
+Friedrich Hayek popularized the classical liberal view that market economies promote spontaneous order which results in a better "allocation of societal resources than any design could achieve." According to this view, in market economies are characterized by the formation of complex transactional networks which produce and distribute goods and services throughout the economy. These networks are not designed, but nevertheless emerge as a result of decentralized individual economic decisions. The idea of spontaneous order is an elaboration on the invisible hand proposed by Adam Smith in The Wealth of Nations. Smith wrote that the individual who:
+
+By preferring the support of domestic to that of foreign industry, he intends only his own security; and by directing that industry in such a manner as its produce may be of the greatest value, he intends only his own gain, and he is in this, as in many other cases, led by an invisible hand to promote an end which was no part of his intention. Nor is it always the worse for society that it was no part of it. By pursuing his own interest [an individual] frequently promotes that of the society more effectually than when he really intends to promote it. I have never known much good done by those who affected to trade for the [common] good.
+
+Smith pointed out that one does not get one's dinner by appealing to the brother-love of the butcher, the farmer or the baker. Rather one appeals to their self-interest, and pays them for their labor.
+
+It is not from the benevolence of the butcher, the brewer or the baker, that we expect our dinner, but from their regard to their own self-interest. We address ourselves, not to their humanity but to their self-love, and never talk to them of our own necessities but of their advantages.
+
+Supporters of this view claim that spontaneous order is superior to any order that does not allow individuals to make their own choices of what to produce, what to buy, what to sell, and at what prices, due to the number and complexity of the factors involved. They further believe that any attempt to implement central planning will result in more disorder, or a less efficient production and distribution of goods and services.
+Critics, such as political economist Karl Polanyi, question whether a spontaneously ordered market can exist, completely free of "distortions" of political policy; claiming that even the ostensibly freest markets require a state to exercise coercive power in some areas – to enforce contracts, to govern the formation of labor unions, to spell out the rights and obligations of corporations, to shape who has standing to bring legal actions, to define what constitutes an unacceptable conflict of interest, etc.
+
+
+=== General principles ===
+The Heritage Foundation, a right-wing think tank, tried to identify the key factors necessary to measure the degree of freedom of economy of a particular country. In 1986 they introduced the Index of Economic Freedom, which is based on some fifty variables. This and other similar indices do not define a free market, but measure the degree to which a modern economy is free, meaning in most cases free of state intervention. The variables are divided into the following major groups:
+Trade policy,
+Fiscal burden of government,
+Government intervention in the economy,
+Monetary policy,
+Capital flows and foreign investment,
+Banking and finance,
+Wages and prices,
+Property rights,
+Regulation, and
+Informal market activity.
+Each group is assigned a numerical value between 1 and 5; IEF is the arithmetical mean of the values, rounded to the hundredth. Initially, countries which were traditionally considered capitalistic received high ratings, but the method improved over time. Some economists, like Milton Friedman and other Laissez-faire economists have argued that there is a direct relationship between economic growth and economic freedom, and some studies suggest this is true. Continuous debates among scholars on methodological issues in empirical studies of the connection between economic freedom and economic growth still try to find out what is the relationship, if any.
+
+
+== Criticisms ==
+
+Critics of the free market have argued that, in real world situations, it has proven to be susceptible to the development of price fixing monopolies. Such reasoning has led to government intervention, e.g. the United States antitrust law.
+Two prominent Canadian authors argue that government at times has to intervene to ensure competition in large and important industries. Naomi Klein illustrates this roughly in her work The Shock Doctrine and John Ralston Saul more humorously illustrates this through various examples in The Collapse of Globalism and the Reinvention of the World. While its supporters argue that only a free market can create healthy competition and therefore more business and reasonable prices, opponents say that a free market in its purest form may result in the opposite. According to Klein and Ralston, the merging of companies into giant corporations or the privatization of government-run industry and national assets often result in monopolies (or oligopolies) requiring government intervention to force competition and reasonable prices. Another form of market failure is speculation, where transactions are made to profit from short term fluctuation, rather from the intrinsic value of the companies or products.
+American philosopher and author Cornel West, has derisively termed what he perceives as dogmatic arguments for laissez-faire economic policies as "free-market fundamentalism". West has contended that such mentality "trivializes the concern for public interest" and "makes money-driven, poll-obsessed elected officials deferential to corporate goals of profit – often at the cost of the common good." American political philosopher Michael J. Sandel contends that in the last 30 years the United States has moved beyond just having a market economy and has become a market society where literally everything is for sale, including aspects of social and civic life such as education, access to justice and political influence. The economic historian Karl Polanyi was highly critical of the idea of the market-based society in his book The Great Transformation, noting that any attempt at its creation would undermine human society and the common good.
+Critics of free market economics range from those who reject markets entirely, in favour of a planned economy, as advocated by various Marxists, to those who wish to see market failures regulated to various degrees or supplemented by government interventions. Keynesians support market roles for government, such as using fiscal policy for economic stimulus, when actions in the private sector lead to sub-optimal economic outcomes, such as depressions or recessions. Business cycle theory is used by Keynesians to explain liquidity traps, by which underconsumption occurs, to argue for government intervention with fiscal policy.
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== Further reading ==
+Block, Fred and Somers, Margaret R (2014). The Power of Market Fundamentalism: Karl Polanyi's Critique. Harvard University Press. ISBN 0674050711
+Boettke, Peter J. "What Went Wrong with Economics?", Critical Review Vol. 11, No. 1, pp. 35, 58
+Harcourt, Bernard (2012). The Illusion of Free Markets: Punishment and the Myth of Natural Order. Harvard University Press. ISBN 0674066162
+Hayek, Friedrich A. (1948). Individualism and Economic Order. Chicago: University of Chicago Press. vii, 271, [1]
+Palda, Filip (2011) Pareto's Republic and the New Science of Peace 2011 [1] chapters online. Published by Cooper-Wolfling. ISBN 978-0-9877880-0-9
+Rothbard, Murray N. (2008). "Free Market". In David R. Henderson (ed.). Concise Encyclopedia of Economics (2nd ed.). Indianapolis: Library of Economics and Liberty. ISBN 978-0865976658. OCLC 237794267. 
+Sandel, Michael J. (2013). What Money Can't Buy: The Moral Limits of Markets. Farrar, Straus and Giroux. ISBN 0374533652
+Stiglitz, Joseph. (1994). Whither Socialism? Cambridge, Massachusetts: MIT Press.
+Verhaeghe, Paul (2014). What About Me? The Struggle for Identity in a Market-Based Society. Scribe Publications. ISBN 1922247375
+
+
+== External links ==
+Free Enterprise: The Economics of Cooperation Looks at how communication, coordination and cooperation interact to make free markets work
+Fair versus Free by Milton Friedman
+Freedom to Work, to Earn, & to Buy by Harry Browne
+"The Tradition of Spontaneous Order", by Norman Barry
+"Free Market", by Murray Rothbard at The Concise Encyclopedia of Economics Liberty Fund © 2008

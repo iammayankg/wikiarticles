@@ -1,0 +1,44 @@
+The Western Antarctic Ice Sheet (WAIS) is the segment of the continental ice sheet that covers West (or Lesser) Antarctica, the portion of Antarctica on the side of the Transantarctic Mountains which lies in the Western Hemisphere. The WAIS is classified as a marine-based ice sheet, meaning that its bed lies well below sea level and its edges flow into floating ice shelves. The WAIS is bounded by the Ross Ice Shelf, the Ronne Ice Shelf, and outlet glaciers that drain into the Amundsen Sea.
+It is estimated that the volume of the Antarctic ice sheet is about 25.4 million km3 (6.1 million cu mi), and the WAIS contains just under 10% of this, or 2.2 million km3 (530,000 cu mi). The weight of the ice has caused the underlying rock to sink by between 0.5 and 1 kilometres (0.31–0.62 mi) in a process known as isostatic depression.
+Under the force of its own weight, the ice sheet deforms and flows. The interior ice flows slowly over rough bedrock. In some circumstances, ice can flow faster in ice streams, separated by slow-flowing ice ridges. The inter-stream ridges are frozen to the bed while the bed beneath the ice streams consists of water-saturated sediments. Many of these sediments were deposited before the ice sheet occupied the region, when much of West Antarctica was covered by the ocean. The rapid ice-stream flow is a non-linear process still not fully understood; streams can start and stop for unclear reasons.
+When ice reaches the coast, it either calves or continues to flow outward onto the water. The result is a large, floating ice shelf affixed to the continent.
+
+
+== Ice mass lossEdit ==
+Indications that the West Antarctic Ice Sheet is losing mass at an increasing rate come from the Amundsen Sea sector, and three glaciers in particular: the Pine Island, Thwaites and Smith Glaciers. Data reveals they are losing more ice than is being replaced by snowfall. According to a preliminary analysis, the difference between the mass lost and mass replaced is about 60%. The melting of these three glaciers alone is contributing an estimated 0.24 millimetres (0.0094 in) per year to the rise in the worldwide sea level. There is growing evidence that this trend is accelerating: there has been a 75% increase in Antarctic ice mass loss in the ten years 1996–2006, with glacier acceleration a primary cause. As of November 2012 the total mass loss from the West Antarctica is estimated at 118 ± 9 Gt/y mainly from the Amundsen Sea coast.
+Satellite measurements by ESA’s CryoSat-2 revealed that the West Antarctic Ice Sheet (WAIS) is losing more than 150 cubic kilometres (36 cu mi) of ice each year, especially pronounced at grounding lines, the area where the floating ice shelf and the part resting on bedrock are. Hence, affecting the ice shelf stability and flow rates.
+
+
+=== Potential collapseEdit ===
+Large parts of the WAIS sit on a bed which is below sea level and slopes downward inland. This slope, and the low isostatic head, mean that the ice sheet is theoretically unstable: a small retreat could in theory destabilize the entire WAIS leading to rapid disintegration. Current computer models do not include the physics necessary to simulate this process, and observations do not provide guidance, so predictions as to its rate of retreat remain uncertain. This has been known for decades.
+In January 2006, in a UK government-commissioned report, the head of the British Antarctic Survey, Chris Rapley, warned that this huge west Antarctic ice sheet may be starting to disintegrate. It has been hypothesised that this disintegration could raise sea levels by approximately 3.3 metres (11 ft). (If the entire West Antarctic Ice Sheet were to melt, this would contribute 4.8 m (16 ft) to global sea level.) Rapley said a previous (2001) Intergovernmental Panel on Climate Change (IPCC) report that played down the worries of the ice sheet's stability should be revised. "I would say it is now an awakened giant. There is real concern." 
+Rapley said, "Parts of the Antarctic ice sheet that rest on bedrock below sea level have begun to discharge ice fast enough to make a significant contribution to sea level rise. Understanding the reason for this change is urgent in order to be able to predict how much ice may ultimately be discharged and over what timescale. Current computer models do not include the effect of liquid water on ice sheet sliding and flow, and so provide only conservative estimates of future behaviour." 
+James E. Hansen, a senior NASA scientist and leading climate expert, said the results were deeply worrying. "Once a sheet starts to disintegrate, it can reach a tipping point beyond which break-up is explosively rapid," he said.
+Polar ice experts from the U.S. and U.K. met at the University of Texas at Austin in March, 2007 for the West Antarctic Links to Sea-Level Estimation (WALSE) Workshop. The experts discussed a new hypothesis that explains the observed increased melting of the West Antarctic Ice Sheet. They proposed that changes in air circulation patterns have led to increased upwelling of warm, deep ocean water along the coast of Antarctica and that this warm water has increased melting of floating ice shelves at the edge of the ice sheet. An ocean model has shown how changes in winds can help channel the water along deep troughs on the sea floor, toward the ice shelves of outlet glaciers. The exact cause of the changes in circulation patterns is not known and they may be due to natural variability. However, this connection between the atmosphere and upwelling of deep ocean water provides a mechanism by which human induced climate changes could cause an accelerated loss of ice from WAIS. Recently published data collected from satellites support this hypothesis, suggesting that the west Antarctic ice sheet is beginning to show signs of instability.
+On 12 May 2014, It was announced that two teams of scientists said the long-feared collapse of the Ice Sheet had begun, kicking off what they say will be a centuries-long, "unstoppable" process that could raise sea levels by 1.2 to 3.6 metres (3.9–11.8 ft) They estimate that rapid drawdown of Thwaites Glacier will begin in 200 – 1000 years. (Scientific source articles: Rignot et al 2014  and Joughin et al 2014.)
+
+
+== WarmingEdit ==
+The West Antarctic ice sheet (WAIS) has warmed by more than 0.1 °C/decade in the last 50 years, and the warming is the strongest in winter and spring. Although this is partly offset by fall cooling in East Antarctica, this effect was restricted to the 1980s and 1990s. The continent-wide average surface temperature trend of Antarctica is positive and statistically significant at >0.05 °C/decade since 1957. This warming of WAIS is strongest in the Antarctic Peninsula. In 2012, the temperature records for the ice sheet were reanalyzed with a conclusion that since 1958, the West Antarctic ice sheet had warmed by 2.4 °C, almost double the previous estimate. Some scientists now fear that the WAIS could now collapse like the Larsen B Ice Shelf did in 2002.
+The possible disastrous outcome of a disintegration of the WAIS for global sea levels has been mentioned and assessed in the IPCC Third Assessment Report but was left out in the IPCC Fourth Assessment Report. Jessica O'Reilly, Naomi Oreskes and Michael Oppenheimer discussed the case in a Social Studies of Science paper 2012. According them, IPCC authors were less certain about potential WAIS disintegration not only due to external new science results. As well pure internal "cultural" reasons, as changes of staff within the IPCC and externally, made it too difficult to project the range of possible futures for the WAIS as required. Mike Hulme saw the issue as a showcase to urge for the integration of minority views in the IPCC and other major assessment processes.
+
+
+== See alsoEdit ==
+East Antarctic Ice Sheet
+List of glaciers in the Antarctic
+Retreat of glaciers since 1850
+WAIS Divide Ice Core Drilling Project
+
+
+== ReferencesEdit ==
+Notes
+
+Citations
+
+
+== External linksEdit ==
+Crystal Ball: Scientists Race to Foretell West Antarctica's Unclear Future
+WAIS – West Antarctic Ice Sheet Initiative – A multidisciplinary study of rapid climate change and future sea level. Sponsored by National Science Foundation Office of Polar Programs and NASA Earth Science.
+U.S. National Snow and Ice Data Center Antarctic Data
+Dramatic change in West Antarctic ice could produce 16ft rise in sea levels
+Structure Found Deep Within West Antarctic Ice Sheet, September 2004

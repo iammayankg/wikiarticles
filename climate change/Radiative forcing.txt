@@ -1,0 +1,76 @@
+In climate science, radiative forcing or climate forcing is defined as the difference of insolation (sunlight) absorbed by the Earth and energy radiated back to space. Typically, radiative forcing is quantified at the tropopause in units of watts per square meter of the Earth's surface. A positive forcing (more incoming energy) warms the system, while negative forcing (more outgoing energy) cools it. Causes of radiative forcing include changes in insolation and the concentrations of radiatively active gases, commonly known as greenhouse gases and aerosols.
+
+
+== Radiation balance ==
+
+Almost all of the energy that affects Earth's climate is received as radiant energy from the Sun. The planet and its atmosphere absorb and reflect some of the energy, while long-wave energy is radiated back into space. The balance between absorbed and radiated energy determines the average global temperature. Because the atmosphere absorbs some of the re-radiated long-wave energy, the planet is warmer than it would be in the absence of the atmosphere: see greenhouse effect.
+The radiation balance is altered by such factors as the intensity of solar energy, reflectivity of clouds or gases, absorption by various greenhouse gases or surfaces and heat emission by various materials. Any such alteration is a radiative forcing, and changes the balance. This happens continuously as sunlight hits the surface, clouds and aerosols form, the concentrations of atmospheric gases vary and seasons alter the ground cover.
+
+
+== IPCC usage ==
+
+The Intergovernmental Panel on Climate Change (IPCC) AR4 report defines radiative forcings as:
+
+"Radiative forcing is a measure of the influence a factor has in altering the balance of incoming and outgoing energy in the Earth-atmosphere system and is an index of the importance of the factor as a potential climate change mechanism. In this report radiative forcing values are for changes relative to preindustrial conditions defined at 1750 and are expressed in Watts per square meter (W/m2)."
+
+In simple terms, radiative forcing is "...the rate of energy change per unit area of the globe as measured at the top of the atmosphere." In the context of climate change, the term "forcing" is restricted to changes in the radiation balance of the surface-troposphere system imposed by external factors, with no changes in stratospheric dynamics, no surface and tropospheric feedbacks in operation (i.e., no secondary effects induced because of changes in tropospheric motions or its thermodynamic state), and no dynamically induced changes in the amount and distribution of atmospheric water (vapour, liquid, and solid forms).
+
+
+== Climate sensitivity ==
+
+Radiative forcing can be used to estimate a subsequent change in equilibrium surface temperature (ΔTs) arising from that forcing via the equation:
+
+where λ is the climate sensitivity, usually with units in K/(W/m2), and ΔF is the radiative forcing. A typical value of λ is 0.8 K/(W/m2), which gives a warming of 3K for doubling of CO2.
+
+
+== Example calculations ==
+
+
+=== Solar forcing ===
+Radiative forcing (measured in Watts per square meter) can be estimated in different ways for different components. For solar irradiance (i.e., "solar forcing"), the radiative forcing is simply the change in the average amount of solar energy absorbed per square meter of the Earth's area. Since the Earth's cross-sectional area exposed to the Sun (πr2) is equal to 1/4 of the surface area of the Earth (4πr2), the solar input per unit area is one quarter the change in solar intensity. This must be multiplied by the fraction of incident sunlight that is absorbed, F=(1-R), where R is the reflectivity (albedo), of the Earth. The albedo is approximately 0.3, so F is approximately equal to 0.7. Thus, the solar forcing is the change in the solar intensity divided by 4 and multiplied by 0.7.
+Likewise, a change in albedo will produce a solar forcing equal to the change in albedo divided by 4 multiplied by the solar constant.
+
+
+=== Forcing due to atmospheric gas ===
+For a greenhouse gas, such as carbon dioxide, radiative transfer codes that examine each spectral line for atmospheric conditions can be used to calculate the change ΔF as a function of changing concentration. These calculations can often be simplified into an algebraic formulation that is specific to that gas.
+For instance, the simplified first-order approximation expression for carbon dioxide is:
+
+where C is the CO2 concentration in parts per million by volume and C0 is the reference concentration. The relationship between carbon dioxide and radiative forcing is logarithmic and thus increased concentrations have a progressively smaller warming effect.
+A different formula applies for other greenhouse gases such as methane and N2O (square-root dependence) or CFCs (linear), with coefficients that can be found e.g. in the IPCC reports.
+
+
+== Related measures ==
+Radiative forcing is a useful way to compare different causes of perturbations in a climate system. Other possible tools can be constructed for the same purpose: for example Shine et al. say "...recent experiments indicate that for changes in absorbing aerosols and ozone, the predictive ability of radiative forcing is much worse... we propose an alternative, the 'adjusted troposphere and stratosphere forcing'. We present GCM calculations showing that it is a significantly more reliable predictor of this GCM's surface temperature change than radiative forcing. It is a candidate to supplement radiative forcing as a metric for comparing different mechanisms...". In this quote, GCM stands for "global circulation model", and the word "predictive" does not refer to the ability of GCMs to forecast climate change. Instead, it refers to the ability of the alternative tool proposed by the authors to help explain the system response.
+
+
+== History ==
+The table below (derived from atmospheric radiative transfer models) shows changes in radiative forcing between 1979 and 2013. The table includes the contribution to radiative forcing from carbon dioxide (CO2), methane (CH
+4), nitrous oxide (N
+2O); chlorofluorocarbons (CFCs) 12 and 11; and fifteen other minor, long-lived, halogenated gases. The table includes the contribution to radiative forcing of long-lived greenhouse gases. It does not include other forcings, such as aerosols and changes in solar activity.
+
+The table shows that CO2 dominates the total forcing, with methane and chlorofluorocarbons (CFC) becoming relatively smaller contributors to the total forcing over time. The five major greenhouse gases account for about 96% of the direct radiative forcing by long-lived greenhouse gas increases since 1750. The remaining 4% is contributed by the 15 minor halogenated gases.
+The table also includes an "Annual Greenhouse Gas Index" (AGGI), which is defined as the ratio of the total direct radiative forcing due to long-lived greenhouse gases for any year for which adequate global measurements exist to that which was present in 1990. 1990 was chosen because it is the baseline year for the Kyoto Protocol. This index is a measure of the inter-annual changes in conditions that affect carbon dioxide emission and uptake, methane and nitrous oxide sources and sinks, the decline in the atmospheric abundance of ozone-depleting chemicals related to the Montreal Protocol. and the increase in their substitutes (hydrogenated CFCs (HCFCs) and hydrofluorocarbons (HFC). Most of this increase is related to CO2. For 2013, the AGGI was 1.34 (representing an increase in total direct radiative forcing of 34% since 1990). The increase in CO2 forcing alone since 1990 was about 46%. The decline in CFCs considerably tempered the increase in net radiative forcing.
+
+
+== See also ==
+
+Climate sensitivity
+Anthropogenic heat
+Emission standard
+Global warming potential
+Sulfate
+
+
+== References ==
+
+
+== External links ==
+IPCC glossary
+CO2: The Thermostat that Controls Earth's Temperature by NASA's Goddard Institute for Space Studies, October, 2010, Forcing vs. Feedbacks
+Intergovernmental Panel on Climate Change’s Fourth Assessment Report (2007), Chapter 2, "Changes in Atmospheric Constituents and Radiative Forcing," pp. 133–134 (PDF, 8.6 MB, 106 pp.).
+U.S. EPA (2009), Climate Change – Science. Explanation of climate change topics including radiative forcing.
+United States National Research Council (2005), Radiative Forcing of Climate Change: Expanding the Concept and Addressing Uncertainties, Board on Atmospheric Sciences and Climate
+Small volcanoes add up to cooler climate; Airborne particles help explain why temperatures rose less last decade August 13, 2011; Vol.180 #4 (p. 5) Science News
+NASA: The Atmosphere’s Energy Budget
+Energy balance: the simplest climate model
+Explore Mann's climate projections from Scientific American

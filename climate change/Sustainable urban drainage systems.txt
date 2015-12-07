@@ -1,0 +1,51 @@
+A sustainable drainage system (SuDs, SuDS, SUDS) is designed to reduce the potential impact of new and existing developments with respect to surface water drainage discharges. The term sustainable urban drainage system is not the accepted name, the 'Urban' reference having been removed so as to accommodate rural sustainable water management practices.
+
+
+== Background ==
+Increasing urbanization has caused problems with increased flash flooding after sudden rain. As areas of vegetation are replaced by concrete, asphalt, or roofed structures, the area loses its ability to absorb rainwater. This rain is instead directed into surface water drainage systems, often overloading them and causing floods.
+The idea behind SuDS is to try to replicate natural systems that use cost effective solutions with low environmental impact to drain away dirty and surface water run-off through collection, storage, and cleaning before allowing it to be released slowly back into the environment, such as into water courses. This is to counter the effects of conventional drainage systems that often allow for flooding, pollution of the environment – with the resultant harm to wildlife – and contamination of groundwater sources used to provide drinking water. The paradigm of SuDS solutions should be that of a system that is easy to manage, requiring little or no energy input (except from environmental sources such as sunlight, etc.), resilient to use, and being environmentally as well as aesthetically attractive. Examples of this type of system are basins (shallow landscape depressions that are dry most of the time when it's not raining), rain-gardens (shallow landscape depressions with shrub or herbaceous planting), swales (shallow normally-dry, wide-based ditches), filter drains (gravel filled trench drain), bioretention basins (shallow depressions with gravel and/or sand filtration layers beneath the growing medium), reed beds and other wetland habitats that collect, store, and filter dirty water along with providing a habitat for wildlife.
+Originally the term SUDS described the UK approach to sustainable urban drainage systems. These developments may not necessarily be in "urban" areas, and thus the "urban" part of SuDS is now usually dropped to reduce confusion. Other countries have similar approaches in place using a different terminology such as best management practice (BMP) and low-impact development in the United States, and water-sensitive urban design in Australia .
+SuDS use the following techniques:
+source control
+permeable paving such as pervious concrete
+storm water detention
+storm water infiltration
+evapo-transpiration (e.g. from a green roof)
+A common misconception of SuDS systems is that they reduce flooding on the development site. In fact the SUDS system is designed to reduce the impact that the surface water drainage system of one site has on other sites. For instance, sewer flooding is a problem in many places. Paving or building over land can result in flash flooding. This happens when flows entering a sewer exceed its capacity and it overflows. The SuDS system aims to minimise or eliminate discharges from the site, thus reducing the impact, the idea being that if all development sites incorporated SuDS then urban sewer flooding would be less of a problem. Unlike traditional urban stormwater drainage systems, SuDS can also help to protect and enhance ground water quality.
+
+
+== History ==
+The first sustainable drainage system to utilise a full management train including source control in the UK was Oxford services designed by Robert Bray Associates, specialist SuDS consultants.
+
+
+== See also ==
+Detention basin
+Drainage system (disambiguation)
+French drain
+Rain garden
+Resin-bound paving
+Retention basin
+Stream restoration
+Sustainable city
+Urban runoff
+Urban drainage
+
+
+== References ==
+
+10. Variability of drainage and solute leaching in heterogeneous urban vegetation environs http://www.hydrol-earth-syst-sci.net/17/4339/2013/hess-17-4339-2013.pdf
+
+
+== External links ==
+UK
+http://www.susdrain.org - Free interactive community supporting the delivery of sustainable drainage (managed by CIRIA)
+Interpave – The UK's precast concrete paving and kerb association
+SUDS solutions from the British Geological Survey
+Engineering Natures Way - a dedicated resource for people working with Sustainable Drainage Systems (SUDS) and flood risk management in the UK
+International
+Urban Drainage Engineering Royal Haskoning
+International Best Management Practices Database – Detailed data sets & summaries on performance of Urban BMPs
+Stormwater Industry Association of Australia
+Portland Guide to Sustainable Stormwater – City of Portland, Oregon
+National Menu of Stormwater BMPs – U.S. Environmental Protection Agency
+Pervious Concrete Blog

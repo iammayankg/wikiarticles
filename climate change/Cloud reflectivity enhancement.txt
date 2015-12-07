@@ -1,0 +1,83 @@
+Cloud reflectivity modification is a climate engineering technique (or more specifically, a solar radiation management technique) that would seek to reflect a very small fraction of sunlight back into space in order to offset many of the negative impacts of climate change. In particular, it would seek to alter clouds to make them more or less reflective, in order to change their effect on climate.
+There are two hypothesised forms: cirrus thinning and marine cloud brightening. High, cold cirrus clouds tend to allow sunlight through, yet trap infra-red (or longwave) radiation from Earth. Therefore, thinning or removing these clouds reduces their longwave trapping capacity and results in a cooling effect on Earth's climate.
+Conversely, low, warm clouds tend to be highly reflective to sunlight, especially when the cloud is bright due to the presence of smaller droplets (because of the Twomey effect). Therefore, modifying these clouds to make them more reflective cools the climate. This proposed technique is known as 'marine cloud brightening', 'marine sky brightening' or 'cloud whitening' of low cloud.
+By modifying the reflectivity of clouds, the albedo of Earth would be altered. The intention is that this technique, in combination with greenhouse gas emissions reduction (and possibly other climate engineering techniques) will be sufficient to control global warming. The effect is expected to be fully reversible, as the cloud condensation nuclei particles precipitate naturally. However, like any planetary-scale project dealing with the complex climate system, there is a non-trivial risk of unintended consequences.
+
+
+== Basic principles ==
+Low level stratocumulus clouds cover approximately one-third of the oceans surface. These clouds possess Albedo levels of 0.3-0.7. The levels of albedo present in the low-level marine stratocumulus clouds create a significant global cooling effect. Theoretically, by increasing the albedo of the clouds, via spraying sea water(NaCl) droplets approximately 1 μm in size, the cooling effects of the clouds are increased and potentially their longevity is enhanced. By creating cloud condensation nuclei, it might be possible to change the albedo of clouds to make them appear whiter. This can be done using a variety of chemicals and techniques, with seawater sprays from ships being a simple example. Broadly speaking, the marine environment has a deficit of cloud condensation nuclei due to lower levels of dust and pollution at sea, so this technique is more effective over the ocean than over land.
+
+
+== Models ==
+
+
+=== HadGAM1 general circulation model ===
+A study by Jones, Latham, and Smith using the Hadley Center's General Circulation Model, suggests that warming due to a x2 increase in CO2 could potentially be compensated for by a doubling of the droplet concentration number in low-level marine stratocumulus clouds, accounting for anthropogenic aersol production, in three regions—off the coasts of the Americas and West Africa. The three regions combined cover approximately 3% of Earth's surface.
+
+
+=== Model of marine stratocumulus clouds developed by Bower, Jones and Choularton ===
+Bower, Jones and Choularton created a model to analyze the effectiveness of albedo modification on clouds. A 2006 study simplified the model. Their model illustrates the practically of the technique. It demonstrates droplet size is not of that much importance, that location of clouds is of limited importance, and that significant cooling can be achieved with a level of .03.
+
+
+== Proposed schemes ==
+
+
+=== Seawater spray ===
+Various schemes have been suggested, such as that proposed by John Latham and Stephen Salter, which works by spraying seawater in the atmosphere to increase the reflectiveness of clouds. The extra condensation nuclei created by the spray will change the size distribution of the drops in existing clouds to make them whiter. The sprayers would use a fleet of around 1500 unmanned Rotor ships known as Flettner vessels to spray mist created from seawater into the air to thicken clouds and thus reflect more radiation from the Earth. The whitening is achieved as a result of the Twomey effect. In order to significantly cool Earth, the vessels have to spray sea water droplets at a rate of 50 cubic meter per second over a large portion of Earth's ocean surface.
+This technique can give >3.7 W/m2 of globally averaged negative forcing, which is sufficient to reverse the warming effect of a doubling of CO2.
+
+
+==== Ocean foams ====
+Creation of ocean foams has been suggested. When bubbles in the foams burst, they loft small droplets of seawater, which can modify the albedo of clouds.
+
+
+==== Ultrasonic excitation of a liquid using a piezo-electric transducer ====
+This technique works by creating faraday waves at a free surface. If the waves are steep enough the droplets of sea water will be thrown from the crests and particles can enter into the clouds within a predictable area. However, a significant amount of energy is required.
+
+
+==== Electrostatic atomisation of seawater drops ====
+This technique utilizes mobile spray platforms which move to adjust to changing weather conditions. A proposed idea is to use unmanned ships that shoot sea spray into the air.
+
+
+===== Cloud seeding yachts =====
+Stephen Salter developed an unmanned yacht that uses Flettner rotors for propulsion. The rotors are vertical cylinders located on the deck of the yacht. They spray the tiny water droplets into the low level clouds to enhance their reflectivity. The power for the rotors and the ship is generated from underwater turbines. Approximately 1,500 of these ships would be required for the scheme to effectively cool the planet. The Royal Society states that "approximately 1500 spray vessels would be required to produce a negative forcing of -3.7W m^-2. Each vessel would require approximately 150 kW of electrical energy to atomize and disseminate seawater at the necessary continuous rate (as well as to support navigation, controls, communications, etc.), so that the global power requirement is approximately 2.3x10^8 Watts."  This technique requires far less energy compared to many other geoengineering techniques.
+
+
+==== Ocean sulfur cycle enhancement ====
+
+Enhancing the natural sulfur cycle in the Southern Ocean by fertilizing a small portion with iron in order to enhance dimethyl sulfide production and cloud reflectivity. The goal is to slow Antarctic ice from melting and raising sea level Such techniques also tend to sequester carbon, but in this specific project the enhancement of cloud albedo was both the desired outcome and measured result.
+This technique can give only 0.016 W/m2 of globally averaged negative forcing, which is practically insignificant as a contribution to reducing global warming. However, as it is a regionally acting technique its effects are concentrated in an influence on the climate of Antarctica.
+
+
+== Advantages and disadvantages ==
+Cloud reflectivity modification appears to have most of the advantages and disadvantages of solar radiation management in general. Some advantages and disadvantages are specific to it, relative to other proposed solar radiation management techniques.
+
+
+=== Advantages ===
+Marine cloud brightening possesses the general advantages of solar radiation management. For example, it presently appears to be inexpensive relative to suffering climate change damages and greenhouse gas emissions abatement, fast acting, and reversible in its direct climatic effects. Compared with other proposed solar radiation management methods, such as stratospheric aerosols injection, marine cloud brightening may be able to be partially localized in its intended effects. This could, for example, be used to stabilize the West Antarctic Ice Sheet. Furthermore, marine cloud brightening, as it is currently envisioned, would use sea water and wind, which are both natural and plentiful.
+
+
+=== Disadvantages ===
+Currently the most commonly proposed plans for sea water dispersal are turbine powered ships. Turbine powered un-manned ships are the most ecologically friendly, but their capacity to fulfill the role is still not known. Also, a few researchers briefly considered aircrafts as an option, but firmly concluded that "sea-level injection of microdroplets of sea water would be as effective while offering major environmental and cost-saving benefits."
+The technique is strongly dependent on wind patterns.
+If CO2 increases beyond the predicted rate then albedo enhancement of clouds may not be strong enough to cool Earth.
+The effect of aerosols and its impact on albedo enhancement of clouds has not been significantly researched.
+
+
+== Further research ==
+The amount of water droplets that enter clouds and form additional droplets is not currently known and is affected largely by meteorological factors. Research must be done to assess what percentage of particles will be successful and what the effect of the weather is.
+Charging sea water particles to utilize Earth's electric field may be beneficial.
+Climatological and meteorological ramifications must be studied as the technique will alter rainfall, temperature, static stability, and ocean currents.
+The effect of aerosols on low level clouds must be better understood. The aerosols may negatively impact efforts to enhance the albedo of clouds.
+
+
+== Cirrus Cloud Thinning ==
+Synoptic cirrus clouds may be susceptible to modification to reduce their lifetime and optical thickness and hence their net positive radiative forcing (opposite to the low-cloud scheme), using seeding mechanisms distributed by airliners. It is believed that the synoptic cirrus in the high latitude upper troposphere are formed by homogeneous nucleation, resulting in large numbers of small ice crystals. If ice nuclei are introduced into this environment, the cirrus may instead form by heterogeneous nucleation. If the concentration of ice nuclei is tuned such that the resulting cloud particle density is less than for the natural case, the cloud particles should grow larger due to less water vapor competition and attain higher settling velocities. The net effect would be a reduced optical thickness and a reduced cloud lifetime allowing more infra-red radiation to be emitted at the top of the atmosphere. Less infra-red radiation in the atmosphere would cool the climate.
+
+
+== See also ==
+Solar radiation management
+Stratospheric sulfate aerosols (geoengineering)
+
+
+== References ==

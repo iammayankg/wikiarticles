@@ -1,0 +1,129 @@
+Solar activity has been a main driver of climate change over geologic time, although its role in the recent warming has not been found to be significant.
+
+
+== Geologic time ==
+
+Earth formed around 4.54 billion years ago by accretion from the solar nebula. Volcanic outgassing probably created the primordial atmosphere, but it contained almost no oxygen and would have been toxic to humans and most modern life. Much of the Earth was molten because of frequent collisions with other bodies which led to extreme volcanism. Over time, the planet cooled and formed a solid crust, allowing liquid water to exist on the surface.
+Three to four billion years ago the Sun emitted only 70% of its current power. Under those atmospheric composition, liquid water could not have existed. Over the following approximately 4 billion years, the Sun's energy output increased and atmospheric composition changed. The Great Oxygenation Event around 2.4 billion years ago was the most notable alteration. Over the next five billion years the Sun's ultimate death as it becomes a red giant and then a White dwarf will have large effects on climate, with the red giant phase likely ending any life on Earth.
+Evidence suggests water's presence, in the Hadean and Archean eons, leading to what is known as the faint young Sun paradox. Hypothesized solutions to this paradox include a vastly different atmosphere, with much higher concentrations of greenhouse gases than currently exist.
+
+
+== Measurement ==
+
+Before the 1970s, solar activity was estimated using proxy variables, such as Tree rings and sunspots.
+
+Since 1978, solar irradiance has been measured by satellites with significantly greater accuracy. These measurements indicate that the Sun's total solar irradiance has not increased since 1978.
+Solar activity has been on a declining trend since the 1960s, as indicated by solar cycles 19-24, in which the maximum number of sunspots were 201.3, 110.6, 164.5, 158.5, 120.8 and 81.9, respectively.
+In the three decades following 1978, the combination of solar and Volcanic activity is estimated to have had a slight cooling influence. A 2010 study found that the composition of solar radiation had changed, with in an increase of ultraviolet radiation and a decrease in other wavelengths."
+
+
+== Modern era ==
+In the modern era the Sun has operated within a band sufficiently narrow that climate has been less affected. Models indicate that solar and volcanic activity can explain periods of relative warmth and cold between A.D. 1000 and 1900.
+
+
+=== Little Ice Age ===
+
+One historical long-term correlation between solar activity and climate change is the 1645–1715 Maunder minimum, a period of little or no sunspot activity which partially overlapped the "Little Ice Age" during which cold weather prevailed in Europe. The Little Ice Age encompassed roughly the 16th to the 19th centuries It is debated whether the low solar activity or other factors caused the cooling.
+The Spörer Minimum was linked to a significant cooling period between 1460 and 1550.
+A 2012 paper linked the Little Ice Age to an "unusual 50-year-long episode with four large sulfur-rich explosive eruptions," and claimed "large changes in solar irradiance are not required" to explain the phenomenon.
+A 2010 paper suggested that a new 90-year period of low solar activity would reduce global average temperatures by about 0.3 °C, which would not be enough to offset the increased forcing from greenhouse gases.
+
+
+=== Fossil fuel era ===
+
+The link between recent solar activity and climate has not been quantified and has not been identified as a major driver of the warming that has occurred since early in the twentieth century. Human-induced forcings are needed to reproduce the late-20th century warming. Some studies associate solar cycle-driven irradiation increases with part of twentieth century warming.
+Three mechanisms are proposed by which solar activity affects climate:
+Solar irradiance changes directly affecting the climate ("Radiative forcing"). This is generally considered to be a minor effect, as the amplitudes of the variations are too small to have significant effect, absent some amplification process.
+Variations in the ultraviolet component. The UV component varies by more than the total, so if UV were for some (as yet unknown) reason to have a disproportionate effect, this might explain a larger solar signal.
+Effects mediated by changes in galactic cosmic rays (which are affected by the solar wind) such as changes in cloud cover.
+Climate models have been unable to reproduce the rapid warming observed in recent decades when they only consider variations in total solar irradiance and volcanic activity. Hegerl et al. (2007) concluded that greenhouse gas forcing had "very likely" caused most of the observed global warming since the mid-20th century. In making this conclusion, they allowed for the possibility that climate models had been underestimating the effect of solar forcing.
+Another line of evidence comes from looking at how temperatures at different levels in the Earth's atmosphere have changed. Models and observations show that Greenhouse gas results in warming of the Troposphere, but cooling of the stratosphere. Depletion of the Ozone layer by chemical refrigerants stimulated a stratospheric cooling effect. If the Sun was responsible for observed warming, warming of the troposphere at the surface and warming at the top of the stratosphere would be expected as the increased solar activity would replenish ozone and oxides of nitrogen.
+
+
+=== Lines of evidence ===
+The assessment of the solar activity/climate relationship involves multiple, independent lines of evidence.
+
+
+==== Sunspots ====
+
+Early research attempted to find a correlation between weather and sunspot activity, mostly without notable success. Later research has concentrated more on correlating solar activity with global temperature.
+
+
+==== Irradiation ====
+
+Crucial to the understanding of possible solar impact on terrestrial climate is accurate measurement of solar forcing. Accurate measurement only became available during the satellite era, and even that is open to dispute: different measurements find different values, due to different methods of cross-calibrating measurements taken by instruments with different spectral sensitivity. Scafetta and Willson found significant variations of solar luminosity between 1980 and 2000. But Lockwood and Frohlich find that solar forcing declined after 1987.
+The Intergovernmental Panel on Climate Change (IPCC) Third Assessment Report (TAR) concluded that the measured impact of recent solar variation is much smaller than the amplification effect due to greenhouse gases, but acknowledged that scientific understanding is poor with respect to solar variation.
+Estimates of long-term solar irradiance changes have decreased since the TAR. However, empirical results of detectable tropospheric changes have strengthened the evidence for solar forcing of climate change. The most likely mechanism is considered to be some combination of direct forcing by TSI changes and indirect effects of ultraviolet (UV) radiation on the stratosphere. Least certain are indirect effects induced by galactic cosmic rays.
+In 2002, Lean et al. stated that while "There is ... growing empirical evidence for the Sun's role in climate change on multiple time scales including the 11-year cycle", "changes in terrestrial proxies of solar activity (such as the 14C and 10Be cosmogenic isotopes and the aa geomagnetic index) can occur in the absence of long-term (i.e., secular) solar irradiance changes ... because the stochastic response increases with the cycle amplitude, not because there is an actual secular irradiance change." They conclude that because of this, "long-term climate change may appear to track the amplitude of the solar activity cycles," but that "Solar radiative forcing of climate is reduced by a factor of 5 when the background component is omitted from historical reconstructions of total solar irradiance ...This suggests that general circulation model (GCM) simulations of twentieth century warming may overestimate the role of solar irradiance variability." A 2006 review suggested that solar brightness had relatively little effect on global climate, with little likelihood of significant shifts in solar output over long periods of time. Lockwood and Fröhlich, 2007, found "considerable evidence for solar influence on the Earth's pre-industrial climate and the Sun may well have been a factor in post-industrial climate change in the first half of the last century", but that "over the past 20 years, all the trends in the Sun that could have had an influence on the Earth's climate have been in the opposite direction to that required to explain the observed rise in global mean temperatures." In a study that considered geomagnetic activity as a measure of known solar-terrestrial interaction, Love et al. found a statistically significant correlation between sunspots and geomagnetic activity, but not between global surface temperature and either sunspot number or geomagnetic activity.
+Benestad and Schmidt concluded that "the most likely contribution from solar forcing a global warming is 7 ± 1% for the 20th century and is negligible for warming since 1980." This paper disagreed with Scafetta and West, who claimed that solar variability has a significant effect on climate forcing. Based on correlations between specific climate and solar forcing reconstructions, they argued that a "realistic climate scenario is the one described by a large preindustrial secular variability (e.g., the paleoclimate temperature reconstruction by Moberg et al.) with TSI experiencing low secular variability (as the one shown by Wang et al.). Under this scenario, they claimed the Sun might have contributed 50% of the observed global warming since 1900. Stott et al. estimated that the residual effects of the prolonged high solar activity during the last 30 years account for between 16% and 36% of warming from 1950 to 1999.
+
+
+==== Direct measurement and time series ====
+Neither direct measurements nor proxies of solar variation correlate well with Earth global temperature, particularly in recent decades.
+
+
+==== Daytime/nighttime ====
+Global average diurnal temperature range has decreased. Daytime temperatures have not risen as fast as nighttime temperatures. This is the opposite of the expected warming if solar energy (falling primarily or wholly during daylight, depending on energy regime) were the principal means of forcing. It is, however, the expected pattern if greenhouse gases were preventing radiative escape, which is more prevalent at night.
+
+
+==== Hemisphere and latitude ====
+The Northern Hemisphere is warming faster than the Southern Hemisphere. This is the opposite of the expected pattern if the Sun, currently closer to the Earth during Austral Summer, were the principal climate forcing. In particular, the Southern Hemisphere, with more ocean area and less land area, has a lower albedo ("whiteness") and absorbs more light. The Northern Hemisphere, however, has higher population, industry and emissions.
+Furthermore, the Arctic region is warming faster than the Antarctic and faster than northern mid-latitudes and subtropics, despite polar regions receiving less sun than lower latitudes.
+
+
+==== Altitude ====
+Solar forcing should warm Earth's atmosphere roughly evenly by altitude, with some variation by wavelength/energy regime. However, the atmosphere is warming at lower altitudes while cooling higher up. This is the expected pattern if greenhouse gases drive temperature, as on Venus.
+
+
+==== Solar variation theory ====
+A 1994 US study concluded that TSI variations were the most likely cause of significant climate change in the pre-industrial era, before significant human-generated carbon dioxide entered the atmosphere.
+Scafetta and West correlated solar proxy data and lower tropospheric temperature for the preindustrial era, before significant anthropogenic greenhouse forcing, suggesting that TSI variations may have contributed 50% of the warming observed between 1900 and 2000 (although they conclude "our estimates about the solar effect on climate might be overestimated and should be considered as an upper limit.") This contrasts with the results from global climate models that predict solar forcing of climate through direct radiative forcing is too small to explain a significant contribution.
+
+In 2000, Stott and others reported on the most comprehensive model simulations of 20th century climate to that date. Their study looked at both "natural forcing agents" (solar variations and volcanic emissions) as well as "anthropogenic forcing" (greenhouse gases and sulphate aerosols). They found that "solar effects may have contributed significantly to the warming in the first half of the century although this result is dependent on the reconstruction of total solar irradiance that is used. In the latter half of the century, we find that anthropogenic increases in greenhouses gases are largely responsible for the observed warming, balanced by some cooling due to anthropogenic sulphate aerosols, with no evidence for significant solar effects." Stott's group found that combining these factors enabled them to closely simulate global temperature changes throughout the 20th century. They predicted that continued greenhouse gas emissions would cause additional future temperature increases "at a rate similar to that observed in recent decades". In addition, the study notes "uncertainties in historical forcing" — in other words, past natural forcing may still be having a delayed warming effect, most likely due to the oceans.
+Stott's 2003 work largely revised his assessment, and found a significant solar contribution to recent warming, although still smaller (between 16 and 36%) than that of greenhouse gases.
+A study in 2004 concluded that solar activity affects the climate - based on sunspot activity, yet plays only a small role in the current global warming.
+
+
+==== Correlations to solar cycle length ====
+In 1991, Friis-Christensen and Lassen claimed a strong correlation of the length of the solar cycle with northern hemispheric temperature changes. Initially, they used sunspot and temperature measurements from 1861 to 1989 and later extended the period using four centuries of climate records. They reported that the relationship appeared to account for nearly 80 per cent of measured temperature changes over this period.
+The mechanism behind these correlations is a matter of speculation. Laut's 2003 paper identified problems with some of these correlation analyses. Damon and Laut claimed:
+
+the apparent strong correlations displayed on these graphs have been obtained by incorrect handling of the physical data. The graphs are still widely referred to in the literature, and their misleading character has not yet been generally recognized.
+
+Damon and Laut stated that when the graphs are corrected for filtering errors, the sensational agreement with the recent global warming, which drew worldwide attention, totally disappeared.
+In 2000, Lassen and Thejll updated the 1991 research and concluded that while the solar cycle accounted for about half the temperature rise since 1900, it failed to explain a rise of 0.4 °C since 1980. Benestad's 2005 review found that the solar cycle did not follow Earth's global mean surface temperature.
+
+
+==== Weather ====
+Solar activity may also impact regional climates, such as for the rivers Paraná and Po. Measurements from NASA's Solar Radiation and Climate Experiment show that solar UV output is more variable than total solar irradiance. Climate modelling suggests that low solar activity may result in, for example, colder winters in the US and northern Europe and milder winters in Canada and southern Europe, with little change in global averages. More broadly, links have been suggested between solar cycles, global climate and regional events such as El Nino. Hancock and Yarger found "statistically significant relationships between the double [~21-year] sunspot cycle and the 'January thaw' phenomenon along the East Coast and between the double sunspot cycle and 'drought' (June temperature and precipitation) in the Midwest."
+
+
+==== Cloud condensation ====
+Recent research at CERN's CLOUD facility examined links between cosmic rays and cloud condensation nuclei, demonstrating the effect of high-energy particulate radiation in nucleating aerosol particles that are precursors to cloud condensation nuclei. Kirby (CLOUD team leader) said, "At the moment, it [the experiment] actually says nothing about a possible cosmic-ray effect on clouds and climate, but it's a very important first step."
+1983–1994 global low cloud formation data from the International Satellite Cloud Climatology Project (ISCCP) was highly correlated with galactic cosmic ray (GCR) flux; subsequent to this period, the correlation broke down. Changes of 3–4% in cloudiness and concurrent changes in cloud top temperatures correlated to the 11 and 22-year solar (sunspot) cycles, with increased GCR levels during "antiparallel" cycles. Global average cloud cover change was measured at 1.5–2%. Several GCR and cloud cover studies found positive correlation at latitudes greater than 50° and negative correlation at lower latitudes. However, not all scientists accept this correlation as statistically significant, and some who do attribute it to other solar variability (e.g. UV or total irradiance variations) rather than directly to GCR changes. Difficulties in interpreting such correlations include the fact that many aspects of solar variability change at similar times, and some climate systems have delayed responses.
+
+
+== Historical perspective ==
+Physicist and historian Spencer R. Weart in The Discovery of Global Warming (2003) wrote:
+
+
+== See also ==
+Radiative forcing
+Solar phenomena
+Solar cycle
+Solar observation
+
+
+== References ==
+
+
+=== General references ===
+"The Sun's role in Climate Changes" (PDF). Proc. of The International Conference on Global Warming and The Next Ice Age, 19–24 August 2001, Halifax, Nova Scotia. Archived from the original (PDF) on 22 October 2004. Retrieved 2005-02-21. 
+White, Warren B.; Lean, Judith; Cayan, Daniel R.; Dettinger, Michael D. (1997). "Response of global upper ocean temperature to changing solar irradiance". Journal of Geophysical Research 102 (C2): 3255–66. Bibcode:1997JGR...102.3255W. doi:10.1029/96JC03549. 
+A graphical representation of the relationship between natural and anthropogenic factors contributing to climate change appears in "Climate Change 2001: The Scientific Basis", a report by the Intergovernmental Panel on Climate Change (IPCC).
+
+
+== External links ==
+Gerrit Lohmann, Norel Rimbu, Mihai Dima (2004). "Climate signature of solar irradiance variations: analysis of long-term instrumental, historical, and proxy data". International Journal of Climatology 24 (8): 1045–56. Bibcode:2004IJCli..24.1045L. doi:10.1002/joc.1054. 
+^ "graphical representation". Retrieved 2005-10-05. 
+^ Houghton, J.T.; Ding, Y.; Griggs, D.J.; et al. (eds.). "Climate Change 2001: The Scientific Basis". Retrieved 2005-10-05.

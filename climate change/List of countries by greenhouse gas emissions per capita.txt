@@ -1,0 +1,32 @@
+This is a list of countries ranked by greenhouse-gas emissions per capita in 2000. It is based on data for carbon dioxide, methane, nitrous oxide, perfluorocarbon, hydrofluorocarbon and sulfur hexafluoride emissions compiled by the World Resources Institute (WRI) from a variety of sources, including CDIAC and the US Environmental Protection Agency. Bunker-fuel emissions are not included.
+Two sets of per capita emissions are given, one with an estimate of the effects of land-use change (for example, cutting down forests) and one without. The former is based on regional estimates in Houghton (2003). Difficulties with determining rates of deforestation and the magnitude of carbon stocks held by the remaining forests and with distributing regional carbon fluxes among individual countries mean that the land-use change components have a large margin of error, perhaps as large as +/-150% in some cases.
+They are included here because, although difficult to quantify accurately at a country level, land-use change is a significant contributor to global warming. The WRI estimates that it accounted for almost a fifth of global anthropogenic greenhouse gas emissions in 2000. For 2005 the data for a large number of countries only includes CO2 emissions (see note 12.)
+
+
+== List of countries by emissions ==
+1Compatible land-use change data not available for 2000
+²Compatible PFC, HFC and SF6 data not available for 2000.
+³Includes Puerto Rico, Guam and the US Virgin Islands. The WRI is ambiguous about which components are included for these additional territories. The non-land-use CO2 data includes all three; CH4, N2O, PFC, HFC and SF6 data are included for Puerto Rico and the US Virgin Islands but not for Guam; land-use change may or may not be included for any of the three.
+4Not including the Netherlands Antilles.
+5Not including Greenland and the Faeroe Islands.
+6Including the Canary Islands.
+7Including San Marino and the Vatican City.
+8Including Monaco; not including Overseas Departments or French Polynesia.
+9Including the Azores and Madeira.
+10Including Liechtenstein.
+11Average annual forest cover change as percentage of national total 1990-2000: Belize -2.3%, Uruguay +5.0%. Source: FAO.
+12 CH4, N2O, PFC, HFC and SF6 data not available for 2005.
+
+
+== See also ==
+
+List of countries by carbon dioxide emissions per capita
+List of countries by greenhouse gas emissions
+List of countries by carbon dioxide emissions
+Asian brown cloud
+Climate change
+Global warming
+LULUCF
+
+
+== References ==

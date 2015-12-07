@@ -1,0 +1,24 @@
+The Antarctic oscillation (AAO, to distinguish it from the Arctic oscillation or AO) is a low-frequency mode of atmospheric variability of the southern hemisphere. It is also known as the Southern Annular Mode (SAM) or Southern Hemisphere Annular Mode (SHAM). It is defined as a belt of westerly winds or low pressure surrounding Antarctica which moves north or south as its mode of variability. In its positive phase, the westerly wind belt contracts towards Antarctica, while its negative phase involves this belt moving towards the Equator.
+In 2014, Dr Nerilie Abram used a network of temperature-sensitive ice core and tree growth records to reconstruct a 1000-year history of the Southern Annular Mode. This work suggests that the Southern Annular Mode is currently in its most extreme positive phase over at least the last 1000 years, and that recent positive trends in the SAM are attributed to increasing greenhouse gas levels and later stratospheric ozone depletion.
+
+
+== See also ==
+North Atlantic oscillation
+Arctic oscillation
+Pacific decadal oscillation
+Anticyclone
+John Michael Wallace
+
+
+== References ==
+
+
+== External links ==
+http://www.antarctica.ac.uk/met/gjma/sam.html Observation-based SAM index from 1957-present
+http://hurricane.ncdc.noaa.gov/pls/paleox/f?p=519:1:0::::P1_STUDY_ID:16197 1000-year Southern Annular Mode reconstruction
+Monthly Southern Hemisphere Annular Mode (SAM) Index or Antarctic Oscillation (AAO) Index 1850 - 2013
+Daily Southern Hemisphere Annular Mode (SAM) Index or Antarctic Oscillation (AAO) Index 1948 - 2013
+http://www.cpc.ncep.noaa.gov/products/precip/CWlink/daily_ao_index/aao/aao.loading.shtml
+http://stratus.astr.ucl.ac.be/textbook//pdf/Chapter_5.pdf (chapter 5.2.3)
+Animation of Southern Annular Mode in Victoria, Australia
+The Southern Annular Mode Introduction to climate dynamics and climate modelling, Université catholique de Louvain

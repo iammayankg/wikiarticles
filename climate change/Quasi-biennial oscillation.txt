@@ -1,0 +1,27 @@
+The quasi-biennial oscillation (QBO) is a quasiperiodic oscillation of the equatorial zonal wind between easterlies and westerlies in the tropical stratosphere with a mean period of 28 to 29 months. The alternating wind regimes develop at the top of the lower stratosphere and propagate downwards at about 1 km (0.6 mi) per month until they are dissipated at the tropical tropopause. Downward motion of the easterlies is usually more irregular than that of the westerlies. The amplitude of the easterly phase is about twice as strong as that of the westerly phase. At the top of the vertical QBO domain, easterlies dominate, while at the bottom, westerlies are more likely to be found.
+
+
+== Theory ==
+The QBO was discovered in the 1950s by researchers at the UK Meteorological Office (Graystone 1959), but its cause remained unclear for some time. Radiosonde soundings showed that its phase was not related to the annual cycle, as is the case for many other stratospheric circulation patterns. In the 1970s it was recognized by Richard Lindzen and James Holton that the periodic wind reversal was driven by atmospheric waves emanating from the tropical troposphere that travel upwards and are dissipated in the stratosphere by radiative cooling. The precise nature of the waves responsible for this effect was heavily debated; in recent years, however, gravity waves have come to be seen as a major contributor and the QBO is now simulated in a growing number of climate models (Takahashi 1996, Scaife et al. 2000, Giorgetta et al. 2002)
+
+
+== Effects ==
+Effects of the QBO include mixing of stratospheric ozone by the secondary circulation caused by the QBO, modification of monsoon precipitation, and an influence on stratospheric circulation in northern hemisphere winter (mediated partly by a change in the frequency of sudden stratospheric warmings). Westward phases of the QBO often coincide with more sudden stratospheric warmings, a weaker Atlantic jet stream and cold winters in Northern Europe and eastern USA whereas eastward phases of the QBO often coincide with mild winters in eastern USA and a strong Atlantic jet stream with mild, wet stormy winters in northern Europe (Ebdon 1975).
+
+
+== Observation of the QBO with weather balloons ==
+The FU Berlin supplies a QBO data set that comprises rawinsonde observations from Canton Island, Gan, and Singapore. The plot below shows the QBO during the 1980s.
+
+
+== Further reading ==
+Andrews, D.G., J.R. Holton, and C.B. Leovy, 1987: Middle Atmosphere Dynamics. Academic Press, 489pp.
+Baldwin, M.P. et al., 2001: The Quasi-Biennial Oscillation. Rev. Geophys., 39, 179–229.
+Ebdon, R.A., 1975: The quasi-biennial oscillation and its association with tropospheric circulation patterns., "Met. Mag.", 104, 282 - 297
+Graystone, P., 1959: Meteorological office discussion on tropical meteorology. "Met. Mag.", 88, 117.
+Takahashi M., 1996: Simulation of the stratospheric Quasi-Biennial Oscillation using a general circulation model. "Geophys. Res. Lett.", 23, 661-664.
+Scaife A.A., et al., 2000: Realistic quasi-biennial oscillations in a simulation of the global climate. "Geophys. Res. Lett.", 27, 3481-3484.
+Giorgetta M. et al., 2002: Forcing of the quasi-biennial oscillation from a broad spectrum of atmospheric waves. "Geophys. Res. Lett.", 29, 861-864.
+
+
+== External links ==
+The Berlin QBO data series (1953–2012)

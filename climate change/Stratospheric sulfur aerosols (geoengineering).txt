@@ -1,0 +1,83 @@
+The ability of stratospheric sulfate aerosols to create a global dimming effect has made them a possible candidate for use in solar radiation management climate engineering projects to limit the effect and impact of climate change due to rising levels of greenhouse gases. Delivery of precursor sulfide gases such as sulfuric acid, hydrogen sulfide (H2S) or sulfur dioxide (SO2) by artillery, aircraft and balloons has been proposed.
+Tom Wigley calculated the impact of injecting sulfate particles, or aerosols, every one to four years into the stratosphere in amounts equal to those lofted by the volcanic eruption of Mount Pinatubo in 1991, but did not address the many technical and political challenges involved in potential solar radiation management efforts. If found to be economically, environmentally and technologically viable, such injections could provide a "grace period" of up to 20 years before major cutbacks in greenhouse gas emissions would be required, he concludes.
+It has been suggested that the direct delivery of precursors could be achieved using sulfide gases such as dimethyl sulfide, sulfur dioxide (SO2), carbonyl sulfide, or hydrogen sulfide (H2S). These compounds would be delivered using artillery, aircraft (such as the high-flying F-15C) or balloons, and result in the formation of compounds with the sulfate anion SO42−.
+According to estimates, "one kilogram of well placed sulfur in the stratosphere would roughly offset the warming effect of several hundred thousand kilograms of carbon dioxide."
+
+
+== Arguments for the technique ==
+The arguments in favour of this approach in comparison to other possible means of solar radiation management are:
+Mimics a natural process: Stratospheric sulfur aerosols are created by existing natural processes (especially volcanoes), whose impacts have been studied via observations. This contrasts with other, more speculative solar radiation management techniques which do not have natural analogs (e.g., space sunshade).
+Technological feasibility: In contrast to other proposed solar radiation management techniques, such as marine cloud brightening and space sunshades, much of the required technology is pre-existing: chemical manufacturing, artillery shells, high-altitude aircraft, weather balloons, etc.
+Cost: The low-tech nature of this approach has led commentators to suggest it would cost less than many other interventions. Costs cannot be derived in a wholly objective fashion, as pricing can only be roughly estimated at an early stage. However, many sources suggest that it would be cheap relative to cutting emissions. According to Paul Crutzen, the annual cost of enough stratospheric sulfur injections to counteract effects of doubling CO2 concentrations from 280 to 560 ppm would be $25–50 billion a year. This is over 100 times cheaper than preventing the temperature change caused by this additional 280 ppm CO2 via reducing greenhouse gas emissions.
+Efficacy: Most proposed solar radiation management techniques can only provide a limited intervention in the climate—one cannot reduce the temperature by more than a certain amount with each technique. New research by Lenton and Vaughan suggests that this technique may have a high radiative 'forcing potential'.
+
+
+== Efficacy Issues ==
+It is uncertain how effective any solar radiation management technique would be, due to the difficulties modelling their impacts and the complex nature of the global climate system. Certain efficacy issues are specific to stratospheric aerosols.
+Lifespan of aerosols: Tropospheric sulfur aerosols are short lived. Delivery of particles into the lower stratosphere in the arctic will typically ensure that they remain aloft only for a few weeks or months, as air in this region is predominantly descending. To ensure endurance, higher-altitude delivery is needed, ensuring a typical endurance of several years by enabling injection into the rising leg of the Brewer-Dobson circulation above the tropical tropopause. Further, sizing of particles is crucial to their endurance.
+Aerosol delivery: Even discounting the challenges of lifting, there are still significant challenges in designing a delivery system that is capable of delivering the precursor gases in the right manner to encourage effective aerosol formation. For example, it has been suggested that artillery shells would result in inadequate distribution, and thus result in large particles, which quickly rain out. The size of aerosol particles is also crucial.
+
+
+== Possible side effects ==
+Climate engineering and solar radiation management in general are controversial, and pose various problems and risks. However, certain problems are specific to, or more pronounced with this particular technique.
+Ozone depletion: is a potential side effect of sulfur aerosols; and these concerns have been supported by modelling. However, this may only occur if high enough quantities of aerosols drift to, or are deposited in, Polar_stratospheric_clouds before the levels of CFCs and other ozone destroying gases fall naturally to safe levels because stratospheric aerosols, together with the ozone destroying gases, are responsible for ozone depletion.
+Whitening of the sky: Stratospheric aerosols have the potential to whiten the sky and cause more colorful sunsets, dependent on the amount being sprayed.
+Tropopause warming: and the humidification of the stratosphere.
+Stratospheric temperature change: Aerosols can also absorb some radiation from the Sun, the Earth and the surrounding atmosphere. This changes the surrounding air temperature and could potentially impact on the stratospheric circulation, which in turn may impact the surface circulation.
+
+
+== Delivery methods ==
+Various techniques have been proposed for delivering the aerosol precursor gases (H2S and SO2). The required altitude to enter the stratosphere is the height of the tropopause, which varies from 11 km (6.8 miles/36,000 feet) at the poles to 17 km (11 miles/58,000 feet) at the equator.
+Airliners could use lower-quality sulfur-rich fuels on higher altitudes. That approach would utilize regular flights and enable airlines to use cheaper fuels on long-distance flights. It would require separate fuel tanks for takeoff and landing in populated areas, due to toxicity and olfactory sensations of sulfur oxides.
+Civilian aircraft including the Boeing 747-400 and Gulfstream G550/650, C-37A could be modified at relatively low cost to deliver sufficient amounts of required material.
+Military aircraft such as the F15-C variant of the F-15 Eagle have the necessary flight ceiling, but limited payload. Military tanker aircraft such as the KC-135 Stratotanker and KC-10 Extender also have the necessary ceiling and have greater payload.
+Modified artillery might have the necessary capability, but requires a polluting and expensive gunpowder charge to loft the payload. Railgun artillery could be a non-polluting alternative.
+High-altitude balloons can be used to lift precursor gases, in tanks, bladders or in the balloons' envelope. Balloons can also be used to lift pipes and hoses, but no moored balloon has ever been deployed to the necessary altitude.
+
+
+== Aerosol formation ==
+Primary aerosol formation, also known as homogeneous aerosol formation, results when gaseous SO2 combines with water to form aqueous sulfuric acid (H2SO4). This acidic liquid solution is in the form of a vapor and condenses onto particles of solid matter, either meteoritic in origin or from dust carried from the surface to the stratosphere. Secondary or heterogeneous aerosol formation occurs when H2SO4 vapor condenses onto existing aerosol particles. Existing aerosol particles or droplets also run into each other, creating larger particles or droplets in a process known as coagulation. Warmer atmospheric temperatures also lead to larger particles. These larger particles would be less effective at scattering sunlight because the peak light scattering is achieved by particles with a diameter of 0.3 μm.
+
+
+== Material options ==
+Precursor gases such as sulfur dioxide and hydrogen sulfide have been considered. Use of gaseous sulfuric acid appears to reduce the problem of aerosol growth. Materials such as photophoretic particles, titanium dioxide, and diamond are also under consideration.
+
+
+== Injection regime ==
+The latitude and distribution of injection locations has been discussed by various authors. Whilst a near-equatorial injection regime will allow particles to enter the rising leg of the Brewer-Dobson circulation, several studies have concluded that a broader, and higher-latitude, injection regime will reduce injection mass flow rates and/or yield climatic benefits. Concentration of precursor injection in a single longitude appears to be beneficial, with condensation onto existing particles reduced, giving better control of the size distribution of aerosols resulting. The long residence time of carbon dioxide in the atmosphere may require a millennium-timescale commitment to SRM if aggressive emissions abatement is not pursued simultaneously.
+
+
+== Outdoors research ==
+Almost all work to date on stratospheric sulfate injection has been limited to modelling and laboratory work. A Russian team tested aerosol formation in the lower troposphere using helicopters. The Stratospheric Particle Injection for Climate Engineering (SPICE) project planned on a limited field test in order to evaluate a potential delivery system, but this component of the project was canceled. A group based at Harvard University has described a potential field experiment to test the possible damage to stratospheric ozone from stratospheric sulfate injection.
+
+
+== Governance ==
+Most of the existing governance of stratospheric sulfate aerosols is from that which is applicable to solar radiation management more broadly. However, some existing legal instruments would be relevant to stratospheric sulfate aerosols specifically. At the international level, the Convention on Long-Range Transboundary Air Pollution (CLRTAP Convention) obligates those countries which have ratified it to reduce their emissions of particular transboundary air pollutants. Notably, both solar radiation management and climate change (as well as greenhouse gases) could satisfy the definition of "air pollution" which the signatories commit to reduce, depending on their actual negative effects. Commitments to specific values of the pollutants, including sulfates, are made through protocols to the CLRTAP Convention. Full implementation or large scale climate response field tests of stratospheric sulfate aerosols could cause countries to exceed their limits. However, because stratospheric injections would be spread across the globe instead of concentrated in a few nearby countries, and could lead to net reductions in the "air pollution" which the CLRTAP Convention is to reduce, it is uncertain how the Convention's Implementation Committee and Executive Body would respond to such event.
+The stratospheric injection of sulfate aerosols would cause the Vienna Convention for the Protection of the Ozone Layer to be applicable, due to their possible deleterious effects on stratospheric ozone. That treaty generally obligates its Parties to enact policies to control activities which "have or are likely to have adverse effects resulting from modification or likely modification of the ozone layer." The Montreal Protocol to the Vienna Convention prohibits the production of certain ozone depleting substances, via phase outs. Sulfates are presently not among the prohibited substances.
+In the United States, the Clean Air Act might give the United States Environmental Protection Agency authority to regulate stratospheric sulfate aerosols, although the agency has not yet taken such action.
+
+
+== See also ==
+Solar radiation management
+Climate engineering
+Climate change
+Weather Modification Operations and Research Board
+
+
+== References ==
+
+
+== Further reading ==
+Crutzen, P. J. (2006). "Albedo Enhancement by Stratospheric Sulfur Injections: A Contribution to Resolve a Policy Dilemma?" (PDF). Climatic Change 77 (3–4): 211–220. doi:10.1007/s10584-006-9101-y. 
+
+
+== External links ==
+What can we do about climate change?, Oceanography magazine
+Global Warming and Ice Ages: Prospects for Physics-Based Modulation of Global Change, Lawrence Livermore National Laboratory
+The Geoengineering Option:A Last Resort Against Global Warming?, Council on Foreign Relations
+Geo-Engineering Climate Change with Sulfate Aerosols, Pacific Northwest National Laboratory
+Geo-Engineering Research, Parliamentary Office of Science and Technology
+Geo-engineering Options for Mitigating Climate Change, Department of Energy and Climate Change
+Unilateral Geoengineering, Council on Foreign Relations
+An overview of geoengineering of climate using stratospheric sulphate aerosols, The Royal Society
+US 5003186  "Stratospheric Welsbach seeding for reduction of global warming"

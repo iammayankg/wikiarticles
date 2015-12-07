@@ -1,0 +1,86 @@
+A climate oscillation or climate cycle is any recurring cyclical oscillation within global or regional climate, and is a type of climate pattern. These fluctuations in atmospheric temperature, sea surface temperature, precipitation or other parameters can be quasi-periodic, often occurring on inter-annual, multi-annual, decadal, multidecadal, century-wide, millennial or longer timescales. They are not perfectly periodic and a Fourier analysis of the data does not give a sharp spectrum.
+A prominent example is the El Niño Southern Oscillation, involving sea surface temperatures along a stretch of the equatorial Central and East Pacific Ocean and the western coast of tropical South America, but which affects climate worldwide.
+Records of past climate conditions are recovered through geological examination of proxies, found in glacier ice, sea bed sediment, tree ring studies or otherwise.
+
+
+== Examples ==
+Many oscillations on different time-scales are hypothesized, although the causes may be unknown. (Some of them are more like a random walk than an oscillation.) Here is a list of known or proposed climatic oscillations:
+the glacial periods of the last ice age – period around 100 000 years (see Quaternary glaciation#Astronomical cycles and 100,000-year problem)
+North African climate cycles – tens of thousands of years
+the Atlantic Multidecadal Oscillation – around 50 to 70 years, but unpredictable
+the El Niño Southern Oscillation – 2 to 7 years
+the Pacific decadal oscillation – 8 to 12 years? (not clear)
+the Interdecadal Pacific Oscillation – 15 to 30 years? (not clear)
+the Arctic oscillation – no particular periodicity
+the North Atlantic Oscillation – no particular periodicity
+the North Pacific Oscillation – ?
+the Hale cycle or sunspot cycle – about 11 years (may be discernible in climate records; see solar variation)
+the Quasi-biennial oscillation – about 30 months
+a 60-year climate cycle recorded in many ancient calendars
+Anomalies in oscillations sometimes occur when they coincide, as in the Arctic dipole anomaly (a combination of the Arctic and North Atlantic oscillations) and the longer-term Younger Dryas, a sudden non-linear cooling event that occurred at the onset of the current Holocene interglacial. In the case of volcanoes, large eruptions such as Mount Tambora in 1816, which led to the Year Without a Summer, typically cool the climate, especially when the volcano is located in the tropics. Around 70 000 years ago the Toba supervolcano eruption created an especially cold period during the ice age, leading to a possible genetic bottleneck in human populations. However, outgassing from large igneous provinces such as the Permian Siberian Traps can input carbon dioxide into the atmosphere, warming the climate. Triggering of other mechanisms, such as methane clathrate deposits as during the Paleocene-Eocene Thermal Maximum, increased the rate of climatic temperature change and oceanic extinctions.
+Another longer-term near-millennial oscillation involves the Daansgard-Oeschger cycles, occurring on roughly 1,500-year cycles during the last glacial maximum. They may be related to the Holocene Bond events, and may involve factors similar to those responsible for Heinrich events.
+
+
+== Origins and causes ==
+There are close correlations between Earth's climate oscillations and astronomical factors (barycenter changes, solar variation, cosmic ray flux, cloud albedo feedback, Milankovic cycles), and modes of heat distribution between the ocean-atmosphere climate system. In some cases, current, historical and paleoclimatological natural oscillations may be masked by significant volcanic eruptions, impact events, irregularities in climate proxy data, positive feedback processes or anthropogenic emissions of substances such as greenhouse gases.
+
+
+== Effects ==
+Extreme phases of short-term climate oscillations such as ENSO can result in characteristic patterns of floods and droughts (including megadroughts), monsoonal disruption and extreme temperatures in the form of heat waves and cold waves. Shorter-term climate oscillations typically do not directly result in longer-term climate change in temperatures. However, the effects of underlying climate trends such as recent global warming and oscillations can be cumulative to global temperature, producing shorter-term fluctuations in the instrumental and satellite temperature records.
+Collapses of past civilizations such as the Maya may be related to cycles of precipitation, especially drought, that in this example also correlates to the Western Hemisphere Warm Pool.
+One example of possible correlations between factors affecting the climate and global events, popular with the media, is a 2003 study on the correlation between wheat prices and sunspot numbers.
+
+
+== Analysis and uncertainties ==
+Radiative forcings and other factors in a climate oscillation must obey the laws of atmospheric thermodynamics. However, because Earth's climate is inherently a complex system, simple Fourier analysis or climate modelling often does not create a perfect replication of the observed or inferred conditions. No climate cycle is found to be perfectly periodic, although the Milankovich cycles (based on multiple superimposed orbital cycles and Earth's precession) are quite close to being periodic (perhaps almost periodic?).
+One difficulty in detecting climate cycles is that the Earth's climate has been changing in non-cyclic ways over most paleoclimatological timescales. For instance, we are now in a period of global warming that appears anthropogenic. In a larger timeframe, the Earth is emerging from the latest ice age, cooling from the Holocene climatic optimum and warming from the so-called "Little Ice Age", which means that climate has been constantly changing over the last 15,000 years or so. During warm periods, temperature fluctuations are often of a lesser amplitude. The Pleistocene period, dominated by repeated glaciations, developed out of more stable conditions in the Miocene and Pliocene climate. Holocene climate has been relatively stable. All of these changes complicate the task of looking for cyclical behavior in the climate.
+Positive feedback, negative feedback, and ecological inertia from the land-ocean-atmosphere system often attenuate or reverse smaller effects, whether from orbital forcings, solar variations or changes in concentrations of greenhouse gases. Most climatologists recognize the existence of various tipping points that push small forcings beyond a certain threshold that makes the change irreversible while the forcings are still in place. Certain feedbacks involvong processes such as clouds are also uncertain; for contrails, natural cirrus clouds, oceanic dimethyl sulfide and a land-based equivalent, competing theories exist concerning effects on climatic temperatures, for example contrasting the Iris hypothesis and CLAW hypothesis.
+
+
+== Through geologic and historical time ==
+
+Various climate forcings are typically in flux throughout geologic time, and some processes of the Earth's temperature may be self-regulating. For example, during the Snowball Earth period, large glacial ice sheets spanned to Earth's equator, covering nearly its entire surface, and very low albedo created extremely low temperatures, while the accumulation of snow and ice likely removed carbon dioxide through atmospheric deposition. However, the absence of plant cover to absorb atmospheric CO2 emitted by volcanoes meant that the greenhouse gas could accumulate in the atmosphere. There was also an absence of exposed silicate rocks, which use CO2 when they undergo weathering. This created a warming that later melted the ice and brought Earth's temperature back to equilibrium. During the following eons of the Paleozoic, cosmic ray flux and occasional nearby supernova explosions (one hypothesis for the cause of the Ordovician–Silurian extinction event) and gamma ray bursts may have induced ice ages or other sudden climate changes.
+Throughout the Cenozoic, multiple climate forcings led to warming and cooling of the atmosphere, which led to the early formation of the Antarctic ice sheet, subsequent melting, and its later reglaciation. The temperature changes occurred somewhat suddenly, at carbon dioxide concentrations of about 600–760 ppm and temperatures approximately 4 °C warmer than today. During the Pleistocene, cycles of glaciations and interglacials occurred on cycles of roughly 100,000 years, but may stay longer within an interglacial when orbital eccentricity approaches zero, as during the current interglacial. Previous interglacials such as the Eemian phase created temperatures higher than today, higher sea levels, and some partial melting of the West Antarctic ice sheet. The warmest part of the current interglacial occurred during the early Holocene Optimum, when temperatures were a few degrees Celsius warmer than today, and a strong African Monsoon created grassland conditions in the Sahara during the Neolithic Subpluvial. Since that time, several cooling events have occurred, including:
+the Piora Oscillation
+the Middle Bronze Age Cold Epoch
+the Iron Age Cold Epoch
+cooling during the Dark Ages
+the Spörer Minimum
+the "Little Ice Age"
+the Dalton Minimum
+volcanic coolings such as from Laki in Iceland
+the phase of cooling c. 1940-1970, which led to global cooling hypotheses
+In contrast, several warm periods have also taken place, and they include but are not limited to:
+the Older Peron during the late Holocene optimum
+a warm period during the apex of the Minoan civilization
+the Roman Warm Period
+the Medieval Warm Period
+the retreat of glaciers since 1850
+the "Modern Warming" during the 20th century
+Certain effects have occurred during these cycles. For example, during the Medieval Warm Period, the American Midwest was in drought, including the Sand Hills of Nebraska which were active sand dunes. The black death plague of Yersinia pestis also occurred during Medieval temperature fluctuations, and may be related to changing climates.
+Given that records of solar activity are accurate, solar activity may have contributed to part of the modern warming that peaked in the 1930s, in addition to the 60-year temperature cycles that result in roughly 0.5 °C of warming during the increasing temperature phase. However, solar cycles fail to account for warming observed since the 1980s to the present day. Events such as the opening of the Northwest Passage and recent record low ice minima of the modern Arctic shrinkage have not taken place for at least several centuries, as early explorers were all unable to make an Arctic crossing, even in summer. Shifts in biomes and habitat ranges are also unprecedented, occurring at rates that do not coincide with known climate oscillations. The extinction of many tropical amphibian species, especially in cloud forests, have been attributed to changing global temperatures, fungal disease and possible influence from unusually extreme phases of oceanic climate oscillations.
+
+
+== See also ==
+100,000-year problem
+Climate pattern
+Global catastrophic risk
+Historical climatology
+Teleconnection
+
+
+== References ==
+^ a b Scafetta, Nicola (May 15, 2010). "Empirical evidence for a celestial origin of the climate oscillations" (PDF). Journal of Atmospheric and Solar-Terrestrial Physics 72: 951–970. arXiv:1005.4639. Bibcode:2010JASTP..72..951S. doi:10.1016/j.jastp.2010.04.015. Retrieved 20 July 2011. 
+^ Curry, Judith. "Scafetta on climate oscillations". WordPress. Climate Etc. Retrieved 20 July 2011. 
+^ Sunspot activity impacts on crop success New Scientist, 18 Nov. 2004
+
+
+== External links ==
+El Niño's Extended Family: An Introduction to the Cyclic Patterns that Determine Global Weather - NASA Earth Observatory
+Earth Changes Gallery: Climate Oscillations - Michael Wells Mandeville
+The physical evidence of earth's unstoppable 1,500-year climate cycle - National Center for Policy Analysis
+5.2 Internal climate variability - Catholic University of Louvain
+Understanding global climate patterns - USA Today, April 19, 2006
+Natural Climate Oscillations of Short Duration and the Long Term Climate Warming - Sorting Out the Climate System - USGCRP, March 20, 2000
+Oceanic and Atmospheric Climate Data - Climate Prediction Center, NOAA
+Global Climate Change: Vital Signs of the Planet - NASA Climate Website

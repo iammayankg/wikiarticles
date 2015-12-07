@@ -1,0 +1,50 @@
+Genetic pollution is a controversial term for uncontrolled gene flow into wild populations. This gene flow is undesirable according to some environmentalists and conservationists, including groups such as Greenpeace, TRAFFIC, and GeneWatch UK.
+
+
+== Usage ==
+Some conservation biologists and conservationists have used genetic pollution for a number of years as a term to describe gene flow (which they regard as undesirable) from a domestic, feral, non-native or invasive subspecies to a wild indigenous population.
+The term is of late being associated with the gene flow from a genetically engineered (GE) organism to a non GE organism, frequently by those who consider such gene flow detrimental.
+
+
+== Invasive species ==
+Conservation biologists and conservationists have, for a number of years, used the term to describe gene flow from domestic, feral, and non-native species into wild indigenous species, which they consider undesirable. For example, TRAFFIC is the international wildlife trade monitoring network that works to limit trade in wild plants and animals so that it is not a threat to conservationist goals. They promote awareness of the effects of introduced invasive species that may "hybridize with native species, causing genetic pollution". The Joint Nature Conservation Committee (JNCC) is the statutory adviser to the Government of United Kingdom and international nature conservation. Its work contributes to maintaining and enriching biological diversity and educating about the effects of the introduction of invasive/non-native species. In this context they have advised that invasive species:
+"will alter the genetic pool (a process called genetic pollution), which is an irreversible change."
+A classic example of an introduced species creating issues revolving around genetic pollution is the Mallard (A. Platyrhyncos), which is able to breed with other duck species and create fertile hybrids, introducing unwanted genes into the populations of other wild ducks.
+
+
+== Genetic engineering ==
+In the fields of agriculture, agroforestry and animal husbandry, genetic pollution is being used to describe gene flows between GE species and wild relatives. An early use of the term genetic pollution in this later sense appears in a wide-ranging review of the potential ecological effects of genetic engineering in The Ecologist magazine in July 1989. It was also popularized by environmentalist Jeremy Rifkin in his 1998 book The Biotech Century. While intentional crossbreeding between two genetically distinct varieties is described as hybridization with the subsequent introgression of genes, Rifkin, who had played a leading role in the ethical debate for over a decade before, used genetic pollution to describe what he considered to be problems that might occur due the unintentional process of (modernly) genetically modified organisms (GMOs) dispersing their genes into the natural environment by breeding with wild plants or animals.
+The usage of genetic pollution by the Food and Agriculture Organization of the United Nations (FAO) is currently defined as:
+"Uncontrolled spread of genetic information (frequently referring to transgenes) into the genomes of organisms in which such genes are not present in nature."
+Since 2005 there has existed a GM Contamination Register, launched for GeneWatch UK and Greenpeace International that records all incidents of intentional or accidental release of organisms genetically modified using modern techniques.
+In a 10 year study of four different crops, none of the genetically engineered plants were found to be more invasive or more persistent than their conventional counterparts. An often cited claimed example of genetic pollution is the reputed discovery of transgenes from GE maize in landraces of maize in Oaxaca, Mexico. The report from Quist and Chapela, has since been discredited on methodological grounds. The scientific journal that originally published the study concluded that "the evidence available is not sufficient to justify the publication of the original paper."  More recent attempts to replicate the original studies have concluded that genetically modified corn is absent from southern Mexico in 2003 and 2004.
+A 2009 study verified the original findings of the controversial 2001 study, by finding transgenes in about 1% of 2000 samples of wild maize in Oaxaca, Mexico, despite Nature retracting the 2001 study and a second study failing to back up the findings of the initial study. The study found that the transgenes are common in some fields, but non-existent in others, hence explaining why a previous study failed to find them. Furthermore, not every laboratory method managed to find the transgenes.
+A 2004 study performed near an Oregon field trial for a genetically modified variety of creeping bentgrass (Agrostis stolonifera) revealed that the transgene and its associate trait (resistance to the glyphosate herbicide) could be transmitted by wind pollination to resident plants of different Agrostis species, up to 14 km from the test field. In 2007, the Scotts Company, producer of the genetically modified bentgrass, agreed to pay a civil penalty of $500,000 to the United States Department of Agriculture (USDA). The USDA alleged that Scotts "failed to conduct a 2003 Oregon field trial in a manner which ensured that neither glyphosate-tolerant creeping bentgrass nor its offspring would persist in the environment".
+
+
+== Controversial term ==
+Whether genetic pollution or similar terms, such as "genetic deterioration", "genetic swamping", "genetic takeover" and "genetic aggression", are an appropriate scientific description of the biology of invasive species is debated. Rhymer and Simberloff argue that these types of terms:
+...imply either that hybrids are less fit than the parentals, which need not be the case, or that there is an inherent value in "pure" gene pools.
+They recommend that gene flow from invasive species be termed genetic mixing since:
+"Mixing" need not be value-laden, and we use it here to denote mixing of gene pools whether or not associated with a decline in fitness.
+Environmentalists such as Patrick Moore, an ex-member and cofounder of Greenpeace, questions if the term genetic pollution is more political than scientific. The term is considered to arouse emotional feelings towards the subject matter. In an interview he comments:
+If you take a term used quite frequently these days, the term "genetic pollution," otherwise referred to as genetic contamination, it is a propaganda term, not a technical or scientific term. Pollution and contamination are both value judgments. By using the word "genetic" it gives the public the impression that they are talking about something scientific or technical--as if there were such a thing as genes that amount to pollution.
+
+
+== See also ==
+Back-breeding, the reverse process in which the original species is re-created from hybrids
+Biological contamination
+Biodiversity
+Bioethics
+Conservation biology
+Eugenics
+Gene pool
+Genetic erosion, a problem that can happen in species with inadequate genetic diversity (including due to inadequate gene flow)
+Genetic monitoring
+Introgression
+Miscegenation
+Rassenschande
+Starlink corn recall
+
+
+== References ==

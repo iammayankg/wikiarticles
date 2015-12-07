@@ -1,0 +1,50 @@
+The Maunder Minimum, also known as the "prolonged sunspot minimum", is the name used for the period starting in about 1645 and continuing to about 1715 when sunspots became exceedingly rare, as noted by solar observers of the time.
+The term was introduced after John A. Eddy published a landmark 1976 paper in Science. Astronomers before Eddy had also named the period after the solar astronomers Annie Russell Maunder (1868–1947) and E. Walter Maunder (1851–1928), who studied how sunspot latitudes changed with time. The period the husband and wife team examined included the second half of the 17th century. Two papers were published in Edward Maunder's name in 1890 and 1894, and he cited earlier papers written by Gustav Spörer. Due to the social climate of the time, Annie's contribution was not publicly recognized.
+Spörer noted that, during one 28-year period within the Maunder Minimum (1672–1699), observations showed fewer than 50 sunspots, as opposed to a more typical 40,000–50,000 spots in modern times.
+Like the Dalton Minimum and Spörer Minimum, the Maunder Minimum coincided with a period of lower-than-average European temperatures.
+
+
+== Sunspot observations ==
+The Maunder Minimum occurred between 1645 and 1715 when very few sunspots were observed. This was not due to a lack of observations; during the 17th century, Giovanni Domenico Cassini carried out a systematic program of solar observations at the Observatoire de Paris, thanks to the astronomers Jean Picard and Philippe de La Hire. Johannes Hevelius also performed observations on his own. The total numbers of sunspots (but not Wolf numbers) in different years were as follows:
+During the Maunder Minimum enough sunspots were sighted so that 11-year cycles could be extrapolated from the count. The maxima occurred in 1676, 1684, 1695, 1705 and 1716.
+The sunspot activity was then concentrated in the southern hemisphere of the Sun, except for the last cycle when the sunspots appeared in the northern hemisphere, too.
+According to Spörer's law, at the start of a cycle, spots appear at ever lower latitudes until they average at about latitude 15° at solar maximum. The average then continues to drift lower to about 7° and after that, while spots of the old cycle fade, new cycle spots start appearing again at high latitudes.
+The visibility of these spots is also affected by the velocity of the sun's surface rotation at various latitudes:
+Visibility is somewhat affected by observations being done from the ecliptic. The ecliptic is inclined 7° from the plane of the Sun's equator (latitude 0°).
+
+
+== Little Ice Age ==
+
+The Maunder Minimum roughly coincided with the middle part of the Little Ice Age, during which Europe and North America experienced colder than average temperatures. Whether there is a causal relationship, however, is still controversial, as no convincing mechanism for the solar activity to produce cold temperatures has been proposed, and the current best hypothesis for the cause of the Little Ice Age is that it was the result of volcanic action. The onset of the Little Ice Age also occurred well before the beginning of the Maunder minimum.
+The correlation between low sunspot activity and cold winters in England has recently been analyzed using the longest existing surface temperature record, the Central England Temperature record. They emphasize that this is a regional and seasonal effect relating to European winters, and not a global effect. A potential explanation of this has been offered by observations by NASA's Solar Radiation and Climate Experiment, which suggest that solar UV output is more variable over the course of the solar cycle than scientists had previously thought. In 2011, an article was published in the Nature Geoscience journal that uses a climate model with stratospheric layers and the SORCE data to tie low solar activity to jet stream behavior and mild winters in some places (southern Europe and Canada/Greenland) and colder winters in others (northern Europe and the United States). In Europe, examples of very cold winters are 1683-84, 1694-95, and the winter of 1708–09.
+Note that the term "Little Ice Age" applied to the Maunder minimum is something of a misnomer as it implies a period of unremitting cold (and on a global scale), which is not the case. For example, the coldest winter in the Central England Temperature record is 1683-84, but the winter just two years later (both in the middle of the Maunder minimum) was the fifth warmest in the whole 350-year CET record. Furthermore, summers during the Maunder minimum were not significantly different from those seen in subsequent years. The drop in global average temperatures in paleoclimate reconstructions at the start of the Little Ice Age was between about 1560 and 1600, whereas the Maunder minimum began almost 50 years later.
+
+
+== Other observations ==
+
+Past solar activity may be recorded by various proxies including carbon-14 and beryllium-10. These indicate lower solar activity during the Maunder Minimum. The scale of changes resulting in the production of carbon-14 in one cycle is small (about one percent of medium abundance) and can be taken into account when radiocarbon dating is used to determine the age of archaeological artifacts. The interpretation of the beryllium-10 and carbon-14 cosmogenic isotope abundance records stored in terrestrial reservoirs such as ice sheets and tree rings has been greatly aided by reconstructions of solar and heliospheric magnetic fields based on historic data on Geomagnetic storm activity, which bridge the time gap between the end of the usable cosmogenic isotope data and the start of modern spacecraft data.
+Other historical sunspot minima have been detected either directly or by the analysis of the cosmogenic isotopes; these include the Spörer Minimum (1450–1540), and less markedly the Dalton Minimum (1790–1820). In a 2012 study, sunspot minima have been detected by analysis of carbon-14 in lake sediments. In total there seem to have been 18 periods of sunspot minima in the last 8,000 years, and studies indicate that the sun currently spends up to a quarter of its time in these minima.
+A paper based on an analysis of a Flamsteed drawing, suggests that the Sun's surface rotation slowed in the deep Maunder minimum (1684).
+During the Maunder Minimum aurorae had been observed seemingly normally, with a regular decadal-scale cycle. This is somewhat surprising because the later, and less deep, Dalton sunspot minimum is clearly seen in auroral occurrence frequency, at least at lower geomagnetic latitudes. Because geomagnetic latitude is an important factor in auroral occurrence, (lower-latitude aurorae requiring higher levels of solar-terrestrial activity) it becomes important to allow for population migration and other factors that may have influenced the number of reliable auroral observers at a given magnetic latitude for the earlier dates. Decadal-scale cycles during the Maunder minimum can also be seen in the abundances of the beryllium-10 cosmogenic isotope (which unlike carbon-14 can be studied with annual resolution)  but these appear to be in antiphase with any remnant sunspot activity. An explanation in terms of solar cycles in loss of solar magnetic flux was proposed in 2012.
+The fundamental papers on the Maunder minimum (Eddy, Legrand, Gleissberg, Schröder, Landsberg et al.) have been published in Case studies on the Spörer, Maunder and Dalton Minima.
+
+
+== See also ==
+Global warming
+Solar minimum
+
+
+== References ==
+
+
+== Further reading ==
+Luterbach, J.; et al. (2001). "The Late Maunder Minimum (1675-1715) - A Key Period for Studying Decadal Scale Climatic Change in Europe". Climatic Change 49 (4): 441–462. doi:10.1023/A:1010667524422. 
+Soon, Willie Wei-Hock; Yaskell, Steven H. (2003). The Maunder Minimum and the Variable Sun-Earth Connection. River Edge, NJ: World Scientific. ISBN 981-238-275-5. 
+What's wrong with the sun? (Nothing)
+Solar poles to become quadrupolar in May 2012 (Hinode)
+Barnard, L.; et al. (2011). "Predicting Space Climate Change". Geophys. Res. Lett 38 (16): L16103. Bibcode:2011GeoRL..3816103B. doi:10.1029/2011GL048489. 
+
+
+== External links ==
+HistoricalClimatology.com, further links and resources, updated 2014
+Climate History Network, network of historical climatologists, updated 2014

@@ -1,0 +1,32 @@
+Adaptive capacity is the capacity of a system to adapt if the environment where the system exists is changing. It is applied to e.g., ecological systems and human social systems.
+As applied to ecological systems, the adaptive capacity is determined by :
+genetic diversity of species
+biodiversity of particular ecosystems
+heterogeneous ecosystem mosaics as applied to specific landscapes or biome regions.
+As applied to human social systems, the adaptive capacity is determined by :
+the ability of institutions and networks to learn, and store knowledge and experience.
+creative flexibility in decision making and problem solving
+the existence of power structures that are responsive and consider the needs of all stakeholders.
+Adaptive capacity is associated with r and K selection strategies in ecology and with a movement from explosive positive feedback to sustainable negative feedback loops in social systems and technologies.
+The Resilience Alliance, as illustrated by the work of C. S. Holling and L. H. Gunderson, shows how the logistic curve of the r phase positive feedback, becoming replaced by the K negative feedback strategy is an important part of adaptive capacity. The r strategy is associated with situations of low complexity, high resilience, and growing potential. K strategies are associated with situations of high complexity, high potential and high resilience, but if the perturbations exceed certain limits, adaptive capacity may be exceeded and the system collapses into another so-called Omega state, of low potential, low complexity and low resilience.
+
+
+== Benefits of adaptive capacity ==
+Adaptive capacity confers resilience to perturbation, giving ecological and human social systems the ability to reconfigure themselves with minimum loss of function.
+In ecological systems, this resilience shows as net primary productivity and maintenance of biomass and biodiversity, and the stability of hydrological cycles.
+In human social systems it is demonstrated by the stability of social relations, the maintenance of social capital and economic prosperity.
+
+
+== Enhancing natural capacity ==
+Adaptive capacity can be enhanced by:
+learning to live with change and uncertainty;
+nurturing diversity for resilience;
+combining different types of knowledge for learning; and
+creating opportunity for self-organization towards social-ecological sustainability.
+
+
+== See also ==
+Adaptability
+
+
+== References ==

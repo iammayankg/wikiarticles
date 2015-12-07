@@ -1,0 +1,12 @@
+The European Pollutant Emission Register (EPER) is a Pollutant Release and Transfer Register providing access to information on the annual emissions of industrial facilities in the Member States of the European Union (EU), as well as Norway. This has since been replaced and improved upon by the European Pollutant Release and Transfer Register (E-PRTR).
+EPER collects data about the emissions of 12,000 facilities in the 25 EU Member States. Data are available by country, by pollutant, by activity (sector), air and water (direct or via a sewerage system).
+
+
+== External links ==
+European Pollutant Release and Transfer Register (E-PRTR)
+European Pollutant Emission Register
+EPER in Google Earth
+Centre for PRTR Data (OECD)
+Resource Centre for PRTR Release Estimation Techniques (OECD)
+PRTR Virtual Classroom (UNITAR)
+PRTR Capacity Building Library (UNITAR)

@@ -1,0 +1,30 @@
+A space sunshade or sunshield is a parasol that diverts or otherwise reduces some of a star's rays, preventing them from hitting a planet and thereby reducing its insolation, which results in less heating of the planet.
+A sunshade is of particular interest towards mitigating global warming through solar radiation management. Such shades could also be used to produce space solar power, acting as solar power satellites. Proposed shade designs include a single-piece shade and a shade made by a great number of small objects.
+
+
+== Cloud of small spacecraft near L1 ==
+One proposed such sunshade for use towards that effect would be composed of 16 trillion small disks at the Sun-Earth L1 Lagrangian point, 1.5 million kilometers above Earth. Each disk is proposed to have a 0.6-meter diameter and a thickness of about 5 micrometers. The weight of each disk would be about a gram, adding up to a total weight of almost 20 million tonnes. Such a group of small sunshades that blocks 2% of the sunlight, reflecting it off into space, would be enough to halt global warming, giving us ample time to cut our emissions back on earth.
+The individual autonomous flyers building up the cloud of sunshades are proposed to not reflect the sunlight but be transparent lenses, deflecting the light slightly so it does not hit earth. This minimizes the effect of solar radiation pressure on the units, requiring less effort to be put into holding them in place at the L1 point. An optical prototype has been constructed by Roger Angel with funding from NIAC.
+The remaining solar pressure and the fact that the L1 point is an unstable position easily disturbed by the wobble of the earth due to gravitational effects from the moon, requires the small autonomous flyers to be capable of maneuvering themselves to keep their position. A suggested solution to this problem is the placement of mirrors capable of rotation on the surface of the flyers. By using the solar radiation pressure on the mirrors and tilting them in the right direction, the flyer will be capable of altering its speed and direction to keep in position.
+Such a group of sunshades would need to occupy an area of about 3.8 million square kilometers if placed at the L1 point. The deployment of the flyers is an issue that requires new technology. It has been proposed that this would be accomplished most easily with large railguns or coilguns firing a capsule containing a million shades into space every 5 minutes for 10 years using 20 separate launch sites. The estimated total cost of such an operation is $5 trillion, with a believed lifetime of 50 years.
+Even so, it would still take years to launch enough of the disks into orbit before they have any effect. Thus, if using this technology should become essential, enough time would be needed to implement it. Roger Angel of the University of Arizona presented the idea for the Sunshade at the U.S. National Academy of Sciences in April 2006 and won a NASA Institute for Advanced Concepts grant for further research in July 2006.
+Creating this sunshade in space was estimated to cost in excess of US$5 trillion, thus leading Professor Angel to conclude that "[t]he sunshade is no substitute for developing renewable energy, the only permanent solution. A similar massive level of technological innovation and financial investment could ensure that. But if the planet gets into an abrupt climate crisis that can only be fixed by cooling, it would be good to be ready with some shading solutions that have been worked out."
+
+
+== Sunshade consisting of one Fresnel lens ==
+
+Several authors have proposed dispersing light before it reaches the Earth by putting a very large lens in space, perhaps at the L1 point between the Earth and the Sun. This plan was proposed in 1989 by J. T. Early.
+In 2004, physicist and science fiction author Gregory Benford calculated that a concave rotating Fresnel lens 1000 kilometres across, yet only a few millimeters thick, floating in space at the L1 point, would reduce the solar energy reaching the Earth by approximately 0.5% to 1%.
+The cost of such a lens has been disputed. At a science fiction convention in 2004, Benford estimated that it would cost around US$10 billion up front, and another $10 billion in supportive cost during its lifespan.
+
+
+== Sunshade consisting of one diffraction grating ==
+A similar approach involves placing a very large diffraction grating (thin wire mesh) in space, perhaps at the L1 point between the Earth and the Sun. Such a proposal was made in 1997 by Edward Teller, Lowell Wood, and Roderick Hyde, although in 2002 these same authors argued for blocking solar radiation in the stratosphere rather than in orbit.
+
+
+== See also ==
+
+Starshade
+
+
+== References ==

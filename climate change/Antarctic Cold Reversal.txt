@@ -1,0 +1,16 @@
+The Antarctic Cold Reversal (ACR) was an important episode of cooling in the climate history of the Earth, during the deglaciation at the close of the last ice age. It illustrates the complexity of the climate changes at the transition from the Pleistocene to the Holocene Epoch.
+The Last Glacial Maximum and sea-level minimum occurred c. 21,000 years before the present (BP). After 18,000 BP, Antarctic ice cores show gradual warming. At about 14,700 BP (or 12,700 BCE), there was a large pulse of meltwater, identified as Meltwater pulse 1A, probably from either the Antarctic ice sheet or the Laurentide ice sheet. This meltwater pulse produced a marine transgression that raised global sea level about 20 meters (66 feet) in two to five centuries and is thought to have influenced the start of the Bølling/Allerød interstadial that was the major break with glacial cold in the Northern Hemisphere. Yet Meltwater pulse 1A was followed, in Antarctica and the Southern Hemisphere, by a renewed cooling, the Antarctic Cold Reversal, which set in c. 14,500 BP (12,500 BCE) and lasted for two millennia — an instance of warming causing cooling. The ACR brought an average cooling of perhaps 3 °C. The Younger Dryas cooling in the Northern Hemisphere began while the Antarctic Cold Reversal was still ongoing; and the ACR ended in the midst of the Younger Dryas.
+This pattern of climate decoupling between the Northern and Southern Hemispheres, and of "southern lead, northern lag," would manifest in subsequent climate events. The cause or causes of this hemispheric decoupling, of the "lead/lag" pattern, and of the specific mechanisms of the warming and cooling trends, are subjects of study and dispute among climate researchers. The specific dating and intensity of the Antarctic Cold Reversal are also under debate.
+The onset of the ACR was followed, after about 800 years, by an Oceanic Cold Reversal in the Southern Ocean.
+
+
+== Notes ==
+
+
+== References ==
+Abrantes, Fatima; Mix, Alan C., eds. (1999). Reconstructing Ocean History: A Window into the Future. New York: Kluwer Academic. ISBN 0-306-46293-1. 
+Blunier, T. J.; et al. (1997). "Timing of the Antarctic Cold Reversal and the atmospheric CO2 increase with respect to the Younger Dryas event". Geophysical Research Letters 24 (21): 2683–2686. Bibcode:1997GeoRL..24.2683B. doi:10.1029/97GL02658. 
+Cronin, Thomas M. (1999). Principles of Paleoclimatology. New York: Columbia University Press. ISBN 0-231-10954-7. 
+Ehlers, Jürgen; Gibbard, Philip Leonard (2004). Quaternary Glaciations: Extent and Chronology. Part III: South America, Asia, Africa, Australasia, Antarctica. Amsterdam: Elsevier. ISBN 0-444-51593-3. 
+Markgraf, Vera, ed. (2001). Interhemispheric Climate Linkages. Amsterdam: Elsevier. ISBN 0-12-472670-4. 
+Oldfield, Frank (2005). Environmental Change: Key Issues and Alternative Perspectives. Cambridge: Cambridge University Press. ISBN 0-521-82936-4.

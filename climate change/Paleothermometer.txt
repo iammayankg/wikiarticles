@@ -1,0 +1,55 @@
+A paleothermometer is a methodology for determining past temperatures using a proxy found in a natural record such as a sediment, ice core, tree rings or TEX86.
+
+
+== Common paleothermometers ==
+
+
+=== δ18O ===
+
+The ratio of 18O to 16O, usually in foram tests or ice cores. High values mean low temperatures. Confounded by ice volume - more ice means higher δ18O values.
+Ocean water is mostly H216O, with small amounts of HD16O and H218O. In Standard Mean Ocean Water (SMOW) the ratio of D to H is  and 18O/16O is . Fractionation occurs during changes between condensed and vapour phases: the vapour pressure of heavier isotopes is lower, so vapour contains relatively more of the lighter isotopes and when the vapour condenses the precipitation preferentially contains heavier isotopes. The difference from SMOW is expressed as δ18; and a similar formula for δD. δ18O values for precipitation are always negative. The major influence on δ18O is the difference between ocean temperatures where the moisture evaporated and the place where the final precipitation occurred; since ocean temperatures are relatively stable the δ18O value mostly reflects the temperature where precipitation occurs. Taking into account that the precipitation forms above the inversion layer, we are left with a linear relation:
+δ18O = aT + b
+which is empirically calibrated from measurements of temperature and δ18O as a = 0.67 ‰/oC for Greenland and 0.76 ‰/oC for East Antarctica. The calibration was initially done on the basis of spatial variations in temperature and it was assumed that this corresponded to temporal variations (Jouzel and Merlivat, 1984). More recently, borehole thermometry has shown that for glacial-interglacial variations, a = 0.33 ‰/oC (Cuffey et al., 1995), implying that glacial-interglacial temperature changes were twice as large as previously believed.
+
+
+=== Mg/Ca and Sr/Ca ===
+Magnesium (Mg) is incorporated into the calcite shells (tests) of planktic and benthic foraminifera as a trace element. Because the incorporation of Mg as an impurity in calcite is endothermic, more is incorporated into the growing crystal at higher temperatures. Therefore, a high Mg/Ca ratio implies a high temperature, although ecological factors may confound the signal. Mg has a long residence time in the ocean, and so it is possible to largely ignore the effect of changes in seawater Mg/Ca on the signal.
+Strontium (Sr) incorporates in coral aragonite, and it is well established that the precise Sr/Ca ratio in the coral skeleton shows an inverse correlation with the seawater temperature during its biomineralization.
+
+
+=== Alkenones ===
+
+Distributions of organic molecules in marine sediments reflect temperature.
+
+
+=== Leaf physiognomy ===
+The characteristic leaf sizes, shapes and prevalence of features such as drip tips (‘leaf or foliar physiognomy’) differs between tropical rainforests (many species with large leaves with smooth edges and drip tips) and temperate deciduous forests (smaller leaf size classes common, toothed edges common), and is often continuously variable between sites along climatic gradients, such as from hot to cold climates, or high to low precipitation. This variation between sites along environmental gradients reflects adaptive compromises by the species present to balance the need to capture light energy, manage heat gain and loss, while maximising the efficiency of gas exchange, transpiration and photosynthesis. Quantitative analyses of modern vegetation leaf physiognomy and climate responses along environmental gradients have been largely univariate, but multivariate approaches integrate multiple leaf characters and climatic parameters. Temperature has been estimated (to varying degrees of fidelity) using leaf physiognomy for Late Cretaceous and Cenozoic leaf floras, principally using two main approaches:
+
+
+==== Leaf margin analysis ====
+A univariate approach that is based on the observation that the proportion of woody dicot species with smooth (i.e. non-toothed) leaf margins (0 ≥ Pmargin ≥ 1) in vegetation varies proportionately with mean annual temperature (MAT). Requires the fossil flora to be segregated into morphotypes (i.e. ‘species’), but does not require their identification. The original LMA regression equation was derived for East Asian forests, and is:
+(1) MAT = 1.141 +(0.306 * Pmargin), standard error ± 2.0 °C
+The error of the estimate for LMA is expressed as the binomial sampling error:
+(2) 
+where c is the slope from the LMA regression equation, Pmargin as used in (1), and r is the number of species scored for leaf margin type for the individual fossil leaf flora. Alternative LMA calibrations have been derived for major world regions, including North America, Europe, South America, and Australia.
+
+
+==== CLAMP (Climate leaf analysis multivariate program) ====
+CLAMP is a multivariate approach largely based on a data set of primarily western hemisphere vegetation, subsequently added to with datasets from additional world regional vegetation. Canonical Correlation Analysis is used combining 31 leaf characters, but leaf margin type represented a significant component of the relationship between physiognomic states and temperature. Using CLAMP, MAT is estimated with small standard errors (e.g. CCA ± 0.7–1.0 °C). Additional temperature parameters can be estimated using CLAMP, such as the coldest month mean temperature (CMMT) and the warmest month mean temperature (WMMT) which provide estimates for winter and summer mean conditions respectively.
+
+
+=== Nearest living relative analogy / coexistence analysis ===
+Certain plants prefer certain temperatures; if their pollen is found one can work out the approximate temperature.
+
+
+=== 13C-18O bonds in carbonates ===
+There is a slight thermodynamic tendency for heavy isotopes to form bonds with each other, in excess of what would be expected from a stochastic or random distribution of the same concentration of isotopes. The excess is greatest at low temperature (see Van 't Hoff equation), with the isotopic distribution becoming more randomized at higher temperature. Along with the closely related phenomenon of equilibrium isotope fractionation, this effect arises from differences in zero point energy among isotopologues. Carbonate minerals like calcite contain CO32− groups that can be converted to CO2 gas by reaction with concentrated phosphoric acid. The CO2 gas is analyzed with a mass spectrometer, to determine the abundances of isotopologues. The parameter Δ47 is the measured difference in concentration between isotopologues with a mass of 47 u (as compared to 44) in a sample and a hypothetical sample with the same bulk isotopic composition, but a stochastic distribution of heavy isotopes. Lab experiments, quantum mechanical calculations, and natural samples (with known crystallization temperatures) all indicate that Δ47 is correlated to the inverse square of temperature. Thus Δ47 measurements provide an estimation of the temperature at which a carbonate formed. 13C-18O paleothermometry does not require prior knowledge of the concentration of 18O in the water (which the δ18O method does). This allows the 13C-18O paleothermometer to be applied to some samples, including freshwater carbonates and very old rocks, with less ambiguity than other isotope-based methods. The method is presently limited by the very low concentration of isotopologues of mass 47 or higher in CO2 produced from natural carbonates, and by the scarcity of instruments with appropriate detector arrays and sensitivities. The study of these types of isotopic ordering reactions in nature is often called "clumped-isotope" geochemistry.
+
+
+== See also ==
+Geologic temperature record
+Paleoclimatology
+Timeline of glaciation
+
+
+== References ==

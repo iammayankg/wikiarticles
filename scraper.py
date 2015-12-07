@@ -17,15 +17,15 @@ def writepage(term,direc):
 		print(e)
 		return []
 
-topics = ['poverty','climate change']
+topics = ['climate change']
 for topic in topics:
 	results=wikipedia.search(topic)
 	print(results)
 	links = []
-	os.makedirs(topic)
+	#os.makedirs(topic)
 	for term in results:
 		newlink = writepage(term,topic)
 		links = links + newlink
 
-	for link in links:
+	for link in set(links):
 		nl=writepage(link,topic)

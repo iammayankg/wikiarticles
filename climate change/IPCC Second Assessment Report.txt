@@ -1,0 +1,63 @@
+The Second Assessment Report (SAR) of the Intergovernmental Panel on Climate Change (IPCC), published in 1996, is an assessment of the then available scientific and socio-economic information on climate change. It was superseded by the Third Assessment Report (TAR) in 2001.
+
+
+== Overview ==
+The Second Assessment Report, titled Climate Change 1995, consists of reports from each of the three Working Groups, and a Synthesis Report:
+Report of Working Group I: The Science of Climate Change (IPCC SAR WG1 1996).
+Report of Working Group II: Impacts, Adaptations and Mitigation of Climate Change: Scientific-Technical Analyses (IPCC SAR WG2 1996).
+Report of Working Group III: Economic and Social Dimensions of Climate Change (IPCC SAR WG3 1996).
+The "Full Report", consisting of Synthesis of Scientific-Technical Information Relevant to Interpreting Article 2 of the UN Framework Convention on Climate Change, and the Summaries for Policymakers from the three Working Group reports (IPCC SAR SYR 1996).
+These reports were prepared by over two thousand experts, and "contain the factual basis of the issue of climate change, gleaned from available expert literature and further carefully reviewed by experts and governments."
+The Synthesis Report gave its purpose as providing the scientific, technical and socio-economic information for determining
+
+what concentrations of greenhouse gases might be regarded as "dangerous anthropogenic interference with the climate system" and the charting of a future which allows for economic development which is sustainable.
+
+
+== Conclusions ==
+Working Group I, dealing with the scientific aspects of climate, stated that
+
+carbon dioxide remains the most important contributor to anthropogenic forcing of climate change; projections of future global mean temperature change and sea level rise confirm the potential for human activities to alter the Earth's climate to an extent unprecedented in human history; and the long time-scales governing both the accumulation of greenhouse gases in the atmosphere and the response of the climate system to those accumulations, means that many important aspects of climate change are effectively irreversible.
+
+Working Group I subsequently characterized its reports in the First and Second Assessments as progressing from an understanding that the greenhouse effect is well understood, greenhouse gases are increasing (due largely to human activity), and therefore should lead to significant global warming (though lack of understanding limited specific regional predictions), to a greater understanding (despite continuing uncertainties) that global warming continues and is most likely due to human activity, and that very substantial cuts in emissions would be required to stabilize greenhouse gas concentrations.
+Working Group II assessed whether the range of plausible impacts of global warming constitutes dangerous anthropogenic interference with the climate system, while Working Group III provided information to help countries "take decisions they believe are most appropriate for their specific circumstances".
+
+
+== Chapter 8 ==
+Chapter 8 of the Second Assessment Report was subject to the IPCC process of discussion of proposed statements, open review and reconsideration by section lead authors who made changes to the wording in response to comments from governments, individual scientists, and non-governmental organisations. The final version stated that "these results indicate that the observed trend in global mean temperature over the past 100 years is unlikely to be entirely natural in origin. More importantly, there is evidence of an emerging pattern of climate response to forcings by greenhouse gases and sulphate aerosols in the observed climate record. Taken together, these results point towards a human influence on global climate."
+A week after the report was released, The Wall Street Journal published a letter from the retired condensed matter physicist and former president of the US National Academy of Sciences, Frederick Seitz, chair of the George C. Marshall Institute and Science and Environmental Policy Project. In this letter, Seitz criticized the IPCC report, in particular the conclusions of Chapter 8. Seitz wrote that "key changes were made after the scientists had met and accepted what they thought was the final peer-reviewed version." He said that the deleted passages removed "hints of the skepticism" with which many scientists regard claims about global warming, and called this "a disturbing corruption of the peer-review process."   
+The position of the lead author of Chapter 8, Benjamin D. Santer, was supported by fellow IPCC authors and senior figures of the American Meteorological Society (AMS) and University Corporation for Atmospheric Research (UCAR). The presidents of the AMS and UCAR stated that there was a "systematic effort by some individuals to undermine and discredit the scientific process that has led many scientists working on understanding climate to conclude that there is a very real possibility that humans are modifying Earth's climate on a global scale."
+Other rebuttals of Seitz's comments include a 1997 paper by Paul Edwards and IPCC author Stephen Schneider, and a 2007 complaint to the UK broadcast regulator Ofcom about the television programme, "The Great Global Warming Swindle". The 2007 complaint includes a rebuttal of Seitz's claims by the former IPCC chairman, Bert Bolin.
+
+
+== Debate over value of a statistical life ==
+
+One of the controversies of the Second Assessment Working Group III report is the economic valuation of human life, which is used in monetized (i.e., converted into US dollar values) estimates of climate change impacts. Often in these monetized estimates, the health risks of climate change are valued so that they are "consistent" with valuations of other health risks. There are a wide range of views on monetized estimates of climate change impacts. The strengths and weaknesses of monetized estimates are discussed in the SAR and later IPCC assessments.
+In the preparation of the SAR, disagreement arose over the Working Group III Summary for Policymakers (SPM). The SPM is written by a group of IPCC authors, who then discuss the draft with government delegates from all of the UNFCCC Parties (i.e., delegates from most of the world's governments). The economic valuation of human life (referred to by economists as the "value of statistical life") was viewed by some governments (such as India) as suggesting that people living in poor countries are worth less than people living in rich countries. David Pearce, who was a lead author of the relevant chapter of the SAR, officially dissented on the SPM. According to Pearce:
+
+The relevant chapter [of the Report] values of statistical life based on actual studies in different countries [...] What the authors of Chapter 6 did not accept, and still do not accept, was the call from a few [government] delegates for a common valuation based on the highest number for willingness to pay.
+
+In other words, a few government delegates wanted "statistical lives" in poor countries to be valued at the same level as "statistical lives" in rich countries. IPCC author Michael Grubb later commented:
+
+Many of us think that the governments were basically right. The metric [used by Pearce] makes sense for determining how a given government might make tradeoffs between its own internal projects. But the same logic fails when the issue is one of damage inflicted by some countries on others: why should the deaths inflicted by the big emitters — principally the industrialised countries — be valued differently according to the wealth of the victims' countries?
+
+
+== Notes ==
+
+
+== References ==
+The Second Assessment Report consists of the following reports from each of the three Working Groups, and a Synthesis Report. The WG2 report has on-line text; all are available in PDF format at the IPCC's documents web page.
+IPCC SAR WG1 (1996), Houghton, J.T.; Meira Filho, L.G.; Callander, B.A.; Harris, N.; Kattenberg, A., and Maskell, K., ed., Climate Change 1995: The Science of Climate Change, Contribution of Working Group I to the Second Assessment Report of the Intergovernmental Panel on Climate Change, Cambridge University Press, ISBN 0-521-56433-6  (pb: 0-521-56436-0) pdf.
+IPCC SAR WG2 (1996), Watson, R.T.; Zinyowera, M.C.; and Moss, R.H., ed., Climate Change 1995: Impacts, Adaptations and Mitigation of Climate Change: Scientific-Technical Analyses, Contribution of Working Group II to the Second Assessment Report of the Intergovernmental Panel on Climate Change, Cambridge University Press, ISBN 0-521-56431-X  (pb: 0-521-56437-9) pdf.
+IPCC SAR WG3 (1996), Bruce, J.P.; Lee, H.; and Haites, E.F., ed., Climate Change 1995: Economic and Social Dimensions of Climate Change, Contribution of Working Group III to the Second Assessment Report of the Intergovernmental Panel on Climate Change, Cambridge University Press, ISBN 0-521-56051-9  (pb: 0-521-56854-4) pdf.
+IPCC SAR SYR (1996), Climate Change 1995: A report of the Intergovernmental Panel on Climate Change, Second Assessment Report of the Intergovernmental Panel on Climate Change, IPCC  pdf.
+
+
+== See also ==
+Intergovernmental Panel on Climate Change
+Climate change
+Global warming
+Scientific opinion on climate change
+
+
+== External links ==
+Intergovernmental Panel on Climate Change website

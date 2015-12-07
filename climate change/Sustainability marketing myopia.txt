@@ -1,0 +1,77 @@
+Sustainability marketing myopia is a term used in sustainability marketing referring to a distortion stemming from the overlooking of socio-environmental attributes of a sustainable product or service at the expenses of customer benefits and values. The idea of sustainability marketing myopia is rooted into conventional marketing myopia theory, as well as green marketing myopia.
+
+
+== Background ==
+
+
+=== Marketing myopia ===
+The marketing myopia theory was originally proposed in 1960 by American economist Theodore Levitt. According to Levitt marketers should not overlook the importance of company potential and product attributes at the expenses of market needs; catering for market needs should receive first priority.
+A company, besides being technically sound and product oriented, also needs to be customer oriented in order to successfully cater for a market. Knowledge of customer needs and of innovations that can be implemented to maintain customer interest, as well as of how to adapt to the changing business market is crucial.
+Marketing myopia has been highly influential in the formation of modern marketing theory, and was heeded by marketers to such an extent that some authors now speak of a “new marketing myopia” stemming from too narrow a focus on customer to the exclusion of other stakeholders.
+
+
+=== Green marketing myopia ===
+Green marketing is the marketing of products that are presumed to be environmentally safe. In order to be successful, green marketing must fulfill two objectives: improved environmental quality and customer satisfaction. Misjudging either or overemphasizing the former at the expense of the latter can be defined as green marketing myopia.
+The marketing discipline has long argued that innovation must consider an intimate understanding of the customer and a close look at green marketing practices over time reveals that green products must be positioned on a consumer value sought by targeted consumers.
+As such, successful green products are able to appeal to mainstream consumers or lucrative market niches and frequently command price premiums by offering “non-green” consumer value (such as convenience and performance). When consumers are convinced of the desirable “non-green” benefits of environmental products, they are more inclined to adopt them.
+Aside from offering environmental benefits that do not meet consumer preferences, green marketing myopia can also occur when green products fail to provide credible, substantive environmental benefits.
+
+
+== Towards sustainability ==
+
+
+=== Sustainability marketing myopia ===
+Sustainability marketing aims at marketing sustainable products and services which “satisfy customer needs and significantly improve the social and environmental performance along the whole life cycle”, while increasing customer value and achieving the company's objectives. In turns, sustainability marketing myopia is an exaggerated focus on the socio-ecological attributes of the product over the core consumer values, a distortion of the marketing process which is likely to lead to the product failing on the market or remaining confined in a small alternative niche.
+Just as an excessive focus on product attributes generates marketing myopia, and just as a single-minded focus on customers results in “new marketing myopia”, in both green and sustainability marketing an unbalanced strategy neglecting one aspect (namely, product attributes) is detrimental to the effectiveness of the marketing process.
+However, it is important to note that sustainability marketing myopia differs from green marketing myopia in that the former follows a broader approach to the marketing myopia issue, taking into account the social attributes of a product, as well as the environmental ones. At the same time, sustainability marketing myopia encompasses sustainable services and product-related services, not products alone.
+
+
+=== Avoiding sustainability marketing myopia ===
+Generally, sustainability marketing myopia can be avoided in two ways:
+by identifying and stressing the inherent consumer’s values (efficiency and cost-effectiveness, health and safety, convenience, symbolism and status) of the socio-ecological features of the product. In other words, companies should highlight the personal customer benefits stemming from the socio-ecological features of the product;
+by aligning socio-ecological attributes with core benefits of the product to create “motive alliances”. Core benefits of the product can comprise functionality, performance, design, durability, taste, freshness, uniqueness, aesthetics, fashion. Motive alliances are the connections of such core benefits with the relevant socio-ecological attributes embedded in the product, an operation also known as bundling.
+Ottman et al. provides examples of successful marketing communications based on the highlighting of inherent consumer’s values of the socio-ecological features of products, and on bundling:
+Besides striking a right balance of focus between product attributes and consumers’ benefits, sustainability marketers should also avoid employing unsubstantive claims about the socio-environmental benefits of their products. This particular form of marketing myopia is best avoided by building an image of credibility for the brand through effective sustainability communication, so that consumers can easily associate their products with sound socio-environmental performances.
+
+
+== Case studies ==
+
+
+=== Myopia of sustainable services ===
+
+
+==== Electrolux washing machines ====
+According to the authors of Natural Capitalism “product dematerialisation” is one of the prerequisites for a more sustainable business model. In order to become more sustainable the future economy will transform from “sale of goods” to the “sale of services”. Belz and Peattie also stress the role of services as a part of sustainable solution, talking of product-related, use-oriented and result-oriented services. Product-related services are offered additionally and they optimize the product use, e.g. automobile companies offering courses on a more ecological and safe driving manner. In the case of use-oriented services, a service and not a product is sold to the consumer e.g. car-sharing. As for result-oriented services, consumers neither own nor operate a product e. g. public transportation, with consumers only enjoying the outcome of the product, the transportation services.
+“Product dematerialisation” is, too, at risk of incurring in sustainability marketing myopia. In 1999 Electrolux piloted an use-oriented sustainable “pay-per-wash” service in Sweden, failing to succeed because of a myopic marketing approach. New energy and water efficient washing machines were distributed by Electrolux among consumers. Electrolux supplied customers with maintenance services through a central database via the Internet and took care of the disposal and upgrading of the machines. Consumers did not pay for the machines themselves; they were only charged with a small installation fee at the beginning, and through a pay-per-wash charging system (10 Swedish kronor (about 1 $) per wash). However, an excessive emphasis on the green component in the marketing of this service, achieved at the expenses of other consumer benefits and values, failed to convince the consumers. According to A. Ottmann et al. not only environmental but also other inherent consumer values should have been better marketed by Electrolux: convenience of pay-per-wash, including easy trade-ins for upgrades, free service and saved money of a new washing machine. In addition, the sustainable service might have been successful if pay-per-wash convenience would have been bundled with more desirable features.
+
+
+=== Myopia of sustainable products ===
+
+
+==== Fairtrade coffee ====
+The initial idea of introducing the Fairtrade coffee certification was to abolish poverty among coffee farmers and their workers by supporting better working conditions and enabling growers to compete in the global market. For this reason, Fairtrade coffee started to be acquired directly from the farmers for a higher price than standard coffee. A minimum price for coffee is guaranteed and if the market prices outreach the minimum, growers receive a premium. In compliance with rising consumers´ demand for environmentally and social beneficial products the Fairtrade certification appears to be an evident indicator. Products marked with the label have to meet standards ensuring that strict social and environmental measures are taken.
+The first generation of Fairtrade coffee suffered from sustainability marketing myopia. First, due to the exaggerated focus on the socio-ecological aspects the quality and the taste of the coffee were put into the background. Most coffee farmers used to sell their coffee to both Fairtrade and open markets. As the price in the open market is entirely defined by quality, farmers sold their better quality beans in that market and then squandered their poorer beans into the Fairtrade market, where they were nonetheless ensured a good price. Furthermore, the certainty that Fairtrade buyers would mix supplies together discouraged farmers to improve the quality of their own beans without having any financial reward for that.
+Furthermore, Fairtrade coffee failed to guarantee the social and environmental benefits to the consumer as covenant. Moreover, Fairtrade has been accused of misleading consumers about its ability to monitor production practices, with particular regards to salary conditions of temporary workers.
+The first generation Fairtrade coffee with a worse quality and bitter taste failed to satisfy all customers´ needs and supposedly to improve the social performance along the whole life cycle of the product.
+
+
+==== Green buildings ====
+As well as Electrolux and Fairtrade coffee suppliers, the producers of green buildings in Western Europe suffered from sustainability marketing myopia in the experimental stages of energy-efficient houses. Companies focussed on the energy-efficient attributes of the houses at the expenses of cost-effectiveness and affordability, marketing their products on the basis of intergenerational equity, ecology and energy-savings. In addition, further inherent consumer values as comfort and design were also ignored at these early stages.
+Nevertheless, since the beginning of the twenty-first century marketers from construction companies have improved their strategies. Successful sustainability marketing concepts have been progressively adopted, including motive alliances and the use of a new marketing mix based on so-called 4 Cs: consumer solution, consumer cost, communication and convenience. This new approach has fostered a rise in the market share of energy-efficient houses.
+81Fünf Holzbau is an example of such a company applying successful marketing strategies. It is a fast expanding German company which focuses on energy-efficient wooden houses. Conventional criteria as high-quality levels and comfort are aligned with sustainable components in the company marketing communication: healthy indoor environment created by using natural woods, energy savings and security from future oil price rises are among the arguments used. Their interactive online toolkit “Energy Comfort House” allows to easily calculate the life cycle cost and savings compared to conventional houses and acts, therefore, as a credibility tool. In order to offer the broadest choice in terms of consumer solutions, different house models are provided to various customer target groups according to their environmental consciousness and affordability.
+
+
+== Notes ==
+
+
+== References ==
+Belz, F-M., Peattie, K. (2009). Sustainability marketing: A Global Perspective. Chichester: Wiley. 
+Belz, F-M., Peattie, K. (2010). The Eight Cs of Sustainability Branding. Accessed on 12/06/2011 http://www.sustainability-marketing.com/2010/08/eight-cs-of-sustainability-branding.html.  
+Green Markets International. Green Trade & Development. Accessed on 20/6/2011 http://www.green-markets.org/context.htm.  
+Hulm, P. (2006). Fair Trade. Accessed on 23/06/2011 http://www.tradeforum.org/news/fullstory.php/aid/1031/Fair_Trade_.html.  
+Levitt, T. (1960). Marketing Myopia. In Harvard Business Review. Accessed on 12/6/2011 http://www.casadogalo.com/marketingmyopia.pdf.  
+Makower, J. (2005). Green Marketing: Lessons from Leaders. Accessed on 25/06/2011 http://makower.typepad.com/joel_makower/2005/09/green_marketing.html.  
+Ottman, J., Stafford, E, Hartman, C. (2006). Avoiding Green Marketing Myopia. In Environment, 48(5), 22-36. 
+Singleton, A. (2008). The Poverty of Fair Trade Coffee. Accessed on 23/06/2011 http://blogs.telegraph.co.uk/news/alexsingleton/4019311/The_poverty_of_Fairtrade_coffee/.  
+Smith, N., Drumwright, M., Gentile, M.C. (2009). The New Marketing Myopia. INSEAD Working Paper No. 2009/08/Insead Social Innovation Centre. Accessed on 12/6/2011 http://ssrn.com/abstract=1336886.  
+Weitzman, H. (2006). The Bitter Taste of 'Fair Trade' Coffee. Accessed on 23/06/2011 http://www.ft.com/intl/cms/s/2/d191adbc-3f4d-11db-a37c-0000779e2340.html#axzz1QUkpMCzj.

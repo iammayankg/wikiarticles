@@ -1,0 +1,143 @@
+The effects of global warming in the Arctic include rising temperatures, loss of sea ice, and melting of the Greenland ice sheet. Potential methane release from the region, especially through the thawing of permafrost and methane clathrates, is also a concern. Because of the amplified response of the Arctic to global warming, it is often seen as a leading indicator of global warming.
+
+
+== Rising temperatures ==
+According to the Intergovernmental Panel on Climate Change, "warming in the Arctic, as indicated by daily maximum and minimum temperatures, has been as great as in any other part of the world." The period of 1995-2005 was the warmest decade in the Arctic since at least the 17th century, with temperatures 2 °C (3.6 °F) above the 1951-1990 average. Some regions within the Arctic have warmed even more rapidly, with Alaska and western Canada's temperature rising by 3 to 4 °C (5.40 to 7.20 °F). This warming has been caused not only by the rise in greenhouse gas concentration, but also the deposition of soot on Arctic ice. A 2013 article published in Geophysical Research Letters has shown that temperatures in the region haven't been as high as they currently are since at least 44,000 years ago and perhaps as long as 120,000 years ago. The authors conclude that "anthropogenic increases in greenhouse gases have led to unprecedented regional warmth."
+
+
+=== Arctic amplification ===
+
+The poles of the planet are more sensitive to any change in the planet's climate than the rest of the planet. In the face of ongoing global warming, the poles are warming faster than lower latitudes. The primary cause of this phenomenon is ice-albedo feedback, whereby melting ice uncovers darker land or ocean beneath, which then absorbs more sunlight, causing more heating. The loss of the Arctic sea ice may represent a tipping point in global warming, when 'runaway' climate change starts, but on this point the science is not yet settled.
+
+
+== Decline of sea ice ==
+
+Sea ice is currently in decline in area, extent, and volume and may cease to exist sometime during the 21st century. Sea ice area refers to the total area covered by ice, whereas sea ice extent is the area of ocean with at least 15% sea ice, while the volume is the total amount of ice in the Arctic.
+
+
+=== Changes in extent and area ===
+
+Reliable measurement of sea ice edges began with the satellite era in the late 1970s. Before this time, sea ice area and extent were monitored less precisely by a combination of ships, buoys and aircraft. The data show a long-term negative trend in recent years, attributed to global warming, although there is also a considerable amount of variation from year to year. Some of this variation may be related to effects such as the arctic oscillation, which may itself be related to global warming and some of the variation is essentially random "weather noise".
+The Arctic sea ice September minimum extent (i.e., area with at least 15% sea ice coverage) reached new record lows in 2002, 2005, 2007, and 2012. The 2007 melt season let to a minimum 39% below the 1979-2000 average, and for the first time in human memory, the fabled Northwest Passage opened completely. The dramatic 2007 melting surprised and concerned scientists.
+
+From 2008 to 2011, Arctic sea ice minimum extent was higher than 2007, but it did not return to the levels of previous years. In 2012 however, the 2007 record low was broken in late August with 3 weeks still left in the melt season. It continued to fall, bottoming out on 16 September 2012 at 3.41 million square kilometers (1.32 million square miles), or 760,000 square kilometers (293,000 square miles) below the previous low set on 18 September 2007 and 50% below the 1979-2000 average.
+The rate of the decline in entire arctic ice coverage is accelerating. From 1979–1996, the average per decade decline in entire ice coverage was a 2.2% decline in ice extent and a 3% decline in ice area. For the decade ending 2008, these values have risen to 10.1% and 10.7%, respectively. These are comparable to the September to September loss rates in year-round ice (i.e., perennial ice, which survives throughout the year), which averaged a retreat of 10.2% and 11.4% per decade, respectively, for the period 1979–2007.
+
+
+=== Changes in volume ===
+
+The sea ice thickness field, and accordingly the ice volume and mass, is much more difficult to determine than the extension. Exact measurements can be made only at a limited number of points. Because of large variations in ice and snow thickness and consistency air- and spaceborne-measurements have to be evaluated carefully. Nevertheless, the studies made support the assumption of a dramatic decline in ice age and thickness. While the arctic ice area and extent show an accelerating downward trend, arctic ice volume shows an even sharper decline than the ice coverage. Since 1979, the ice volume has shrunk by 80% and in just the past decade the volume declined by 36% in the autumn and 9% in the winter.
+
+
+=== An end to summer sea ice? ===
+The IPCC's Fourth Assessment Report in 2007 summarized the current state of sea ice projections: "the projected reduction [in global sea ice cover] is accelerated in the Arctic, where some models project summer sea ice cover to disappear entirely in the high-emission A2 scenario in the latter part of the 21st century.″  However, current climate models frequently underestimate the rate of sea ice retreat. A summertime ice-free arctic would be unprecedented in recent geologic history, as currently scientific evidence does not indicate an ice-free polar sea anytime in the last 700,000 years.
+The Arctic ocean will likely be free of summer sea ice before the year 2100, but many different dates have been projected. One study suggests 2060–2080, another 2030, and, yet another, 2016. A 2013 study showed that simply extending summertime ice melting trends into the future in a straight line predicts an ice-free summertime Arctic as early as by 2020.
+
+
+== Permafrost thaw ==
+
+This century, thawing of the various forms of Arctic permafrost could release large amounts of carbon into the atmosphere. It has been estimated that about two-thirds of released carbon escapes to the atmosphere as carbon dioxide, originating primarily from ancient ice deposits along the ~7,000 kilometer long coastline of the East Siberian Arctic Shelf (ESAS) and shallow subsea permafrost. Following thaw, collapse and erosion of coastline and seafloor deposits may accelerate with Arctic amplification of climate warming.
+Climate models suggest that during periods of rapid sea-ice loss, temperatures could increase as far as 1,450 km (900 mi) inland, accelerating the rate of terrestrial permafrost thaw, with consequential effects on carbon and methane release.
+
+
+=== Subsea permafrost ===
+
+Subsea permafrost occurs beneath the seabed and exists in the continental shelves of the polar regions. This source of methane is different from methane clathrates, but contributes to the overall outcome and feedbacks.
+Sea ice serves to stabilise methane deposits on and near the shoreline, preventing the clathrate breaking down and venting into the water column and eventually reaching the atmosphere. From sonar measurements in recent years researchers quantified the density of bubbles emanating from the subsea permafrost into the Ocean (a process called ebullition), and found that 100–630 mg methane per square meters is emitted daily along the East Siberian Shelf, into the water column. They also found that during storms, methane levels in the water column drop dramatically, when wind driven air-sea gas exchange accelerates the ebullition process into the atmosphere. This observed pathway suggest that methane from seabed permafrost will progress rather slowly, instead of abrupt changes. However, Arctic cyclones, fueled by global warming and further accumulation of greenhouse gases in the atmosphere could contribute to more release from this methane source.
+
+
+== Changes in vegetation ==
+
+Changes in vegetation are associated with the increases in landscape scale CH4 emissions.
+The growing season has lengthened in the far northern latitudes, bringing major changes to plant communities in tundra and boreal (also known as taiga) ecosystems.
+For decades, NASA and NOAA satellites have continuously monitored vegetation from space. The Moderate Resolution Imaging Spectroradiometer (MODIS) and Advanced Very High Resolution Radiometer (AVHRR) instruments measure the intensity of visible and near-infrared light reflecting off of plant leaves. Scientists use the information to calculate the Normalized Difference Vegetation Index (NDVI), an indicator of photosynthetic activity or “greenness” of the landscape.
+The maps above show the Arctic Vegetation Index Trend between July 1982 and December 2011 in the Arctic Circle. Shades of green depict areas where plant productivity and abundance increased; shades of brown show where photosynthetic activity declined. The maps show a ring of greening in the treeless tundra ecosystems of the circumpolar Arctic—the northernmost parts of Canada, Russia, and Scandinavia. Tall shrubs and trees started to grow in areas that were previously dominated by tundra grasses. The researchers concluded that plant growth had increased by 7 to 10 percent overall.
+However, boreal forests, particularly those in North America, showed a different response to warming. Many boreal forests greened, but the trend was not as strong as it was for tundra of the circumpolar Arctic. In North America, some boreal forests actually experienced “browning” (less photosynthetic activity) over the study period. Droughts, forest fire activity, animal and insect behavior, industrial pollution, and a number of other factors may have contributed to the browning.
+“Satellite data identify areas in the boreal zone that are warmer and drier and other areas that are warmer and wetter,” explained co-author Ramakrishna Nemani of NASA’s Ames Research Center. “Only the warmer and wetter areas support more growth.”
+“We found more plant growth in the boreal zone from 1982 to 1992 than from 1992 to 2011, because water limitations were encountered in the later two decades of our study,” added co-author Sangram Ganguly of the Bay Area Environmental Research Institute and NASA Ames. 
+The less severe winters in tundra areas allow shrubs such as alders and dwarf birch to replace moss and lichens. The impact on mosses and lichens is however unclear as there exist very few studies at species level, also climate change is more likely to cause increased fluctuation and more frequent extreme events. The feedback effect of shrubs on the tundra's permafrost is unclear, however. In the winter they trap more snow which insulates the permafrost from extreme cold spells, but in the summer they shade the ground from direct sunlight. The warming is likely to cause changes in the plant communities. Except for an increase in shurbs, warming may also cause a decline in cushion plants such as moss campion. As cushion plants act as facilitator species across trophic level and fill important roles in severe environments this could cause cascading effects in the ecosystems. Rising summer temperature melts on Canada's Baffin Island have revealed moss previously covered which hasn't seen daylight in 44,000 years.
+The reduction of sea ice has boosted the productivity of phytoplankton by about twenty percent over the past thirty years. However, the effect on marine ecosystems is unclear, since the larger types of phytoplankton, which are the preferred food source of most marine animals, do not appear to have increased as much as the smaller types. So far, arctic phytoplankton have not had a significant impact on the global carbon cycle. In summer, the melt ponds on young and thin ice have allowed sunlight to penetrate the ice, in turn allowing phytoplankton to bloom in unexpected concentrations, although it is unknown just how long this phenomenon has been occurring.
+
+
+== Changes for animals ==
+
+3 April 2007, the National Wildlife Federation urged the United States Congress to place polar bears under the Endangered Species Act. Four months later, the United States Geological Survey completed a year-long study which concluded in part that the floating Arctic sea ice will continue its rapid shrinkage over the next 50 years, consequently wiping out much of the polar bear habitat. The bears would disappear from Alaska, but would continue to exist in the Canadian Arctic Archipelago and areas off the northern Greenland coast. Secondary ecological effects are also resultant from the shrinkage of sea ice; for example, polar bears are denied their historic length of seal hunting season due to late formation and early thaw of pack ice.
+
+
+== Melting of the Greenland Ice Sheet ==
+
+Models predict a sea-level contribution of about 5 centimetres (2 in) from melting in Greenland during the 21st century. It is also predicted that Greenland will become warm enough by 2100 to begin an almost complete melt during the next 1,000 years or more. In early July 2012, 97% percent of the Ice Sheet experienced some form of surface melt including the summits.
+Ice thickness measurements from the GRACE satellite indicate that ice mass loss is accelerating. For the period 2002–2009, the rate of loss increased from −137 Gt/yr to −286 Gt/yr, with an acceleration of −30 gigatonnes per year per year.
+
+
+== Effect on ocean circulation ==
+
+Although this is now thought unlikely in the near future, it has also been suggested that there could be a shutdown of thermohaline circulation, similar to that which is believed to have driven the Younger Dryas, an abrupt climate change event. There is also potentially a possibility of a more general disruption of ocean circulation, which may lead to an ocean anoxic event, although these are believed to be much more common in the distant past. It is unclear whether the appropriate pre-conditions for such an event exist today.
+
+
+== Territorial claims ==
+
+Growing evidence that global warming is shrinking polar ice has added to the urgency of several nations' Arctic territorial claims in hopes of establishing resource development and new shipping lanes, in addition to protecting sovereign rights.
+Danish Foreign Minister Per Stig Møller and Greenland's Premier Hans Enoksen invited foreign ministers from Canada, Norway, Russia and the United States to Ilulissat, Greenland for a summit in May 2008 to discuss how to divide borders in the changing Arctic region, and a discussion on more cooperation against climate change affecting the Arctic. At the Arctic Ocean Conference, Foreign Ministers and other officials representing the five countries announced the Ilulissat Declaration on 28 May 2008.
+
+
+== Social impacts ==
+People are affecting the geographic space of the Arctic and the Arctic is affecting the population. Much of the climate change in the Arctic can be attributed to humans influences on the atmosphere, such as an increased greenhouse effect caused by the increase in CO2 due to the burning of fossil fuels. Climate change is having a direct impact on the people that live in the Arctic, as well as other societies around the world.
+The warming environment presents challenges to local communities such as the Inuit. Hunting, which is a major way of survival for some small communities, will be changed with increasing temperatures. The reduction of sea ice will cause certain species populations to decline or even become extinct. In good years, some communities are fully employed by the commercial harvest of certain animals. The harvest of different animals fluctuates each year and with the rise of temperatures it is likely to continue changing and creating issues for Inuit hunters. Unsuspected changes in river and snow conditions will cause herds of animals, including reindeer, to change migration patterns, calving grounds, and forage availability.
+Other forms of transportation in the Arctic have seen negative impacts from the current warming, with some transportation routes and pipelines on land being disrupted by the melting of ice. Many Arctic communities rely on frozen roadways to transport supplies and travel from area to area. The changing landscape and unpredictability of weather is creating new challenges in the Arctic.
+
+
+=== Navigation ===
+The Transpolar Sea Route is a future Arctic shipping lane running from the Atlantic Ocean to the Pacific Ocean across the center of the Arctic Ocean.
+The route is also sometimes called Trans-Arctic Route. In contrast to the Northeast Passage (including the Northern Sea Route) and the North-West Passage it largely avoids the territorial waters of Arctic states and lies in international high seas.
+Governments and private industry have shown a growing interest in the Arctic. Major new shipping lanes are opening up: the northern sea route route had 34 passages in 2011 while the Northwest Passage had 22 traverses, more than any time in history. Shipping companies may benefit from the shortened distance of these northern routes. Access to natural resources will increase, including valuable minerals and offshore oil and gas. Finding and controlling these resources will be difficult with the continually moving ice. Tourism may also increase as less sea ice will improve safety and accessibility to the Arctic.
+
+
+== Research ==
+
+
+=== National ===
+Individual countries within the Arctic zone, Canada, Denmark (Greenland), Finland, Iceland, Norway, Russia, Sweden, and the United States (Alaska) conduct independent research through a variety of organizations and agencies, public and private, such as Russia's Arctic and Antarctic Research Institute. Countries who do not have Arctic claims, but are close neighbors, conduct Arctic research as well, such as the Chinese Arctic and Antarctic Administration (CAA). The United States's National Oceanic and Atmospheric Administration (NOAA) produces an Arctic Report Card annually, containing peer-reviewed information on recent observations of environmental conditions in the Arctic relative to historical records.
+
+
+=== International ===
+International cooperative research between nations has become increasingly important:
+Arctic climate change is summarized by the Intergovernmental Panel on Climate Change (IPCC) in its series of Assessment Reports and the Arctic Climate Impact Assessment.
+DAMOCLES (Developing Arctic Modeling and Observing Capabilities for Long-term Environmental Studies): European integrated project "specifically concerned with the potential for a significantly reduced sea ice cover, and the impacts this might have on the environment and on human activities, both regionally and globally".
+European Space Agency (ESA) launched CryoSat-2 on 8 April 2010. It provides satellite data on Arctic ice cover change rates.
+International Arctic Buoy Program: deploys and maintains buoys that provide real-time position, pressure, temperature, and interpolated ice velocity data
+International Arctic Research Center: Main participants are the United States and Japan.
+International Arctic Science Committee: non-governmental organization (NGO) with diverse membership, including 18 countries from 3 continents.
+'Role of the Arctic Region', in conjunction with the International Polar Year, was the focus of the second international conference on Global Change Research, held in Nynäshamn, Sweden, October 2007.
+SEARCH (Study of Environmental Arctic Change): Supported by the Arctic Research Office, a division of the United States' National Oceanic and Atmospheric Administration (NOAA), and the Russian Academy of Sciences.
+
+
+== See also ==
+
+Arctic Climate Impact Assessment
+Arctic Cooperation and Politics
+Arctic haze
+Arctic sea ice ecology and history
+Climate of the Arctic
+Long-term effects of global warming
+Northern Sea Route
+
+
+== References ==
+
+
+== Further reading ==
+
+
+== External links ==
+Arctic Change website, in near-realtime
+International Arctic Buoy Programme
+International Arctic Research Center
+International Arctic Science Committee
+World Wildlife Foundation's International Arctic Programme
+38th Annual International Arctic Workshop 2008
+Radical past climatic changes in the Arctic Ocean and a geophysical signature of the Lomonosov Ridge north of Greenland
+Arctic Sea Ice News & Analysis
+The Arctic ice sheet, satellite map with daily updates.
+NOAA: Arctic Theme Page – A comprehensive resource focused on the Arctic
+NOAA: The Future of Arctic Climate and Global Impacts

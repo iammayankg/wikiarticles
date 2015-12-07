@@ -1,0 +1,42 @@
+Gavin A. Schmidt is a climatologist, climate modeler and Director of the NASA Goddard Institute for Space Studies (GISS) in New York, and co-founder of the award winning climate science blog RealClimate.
+
+
+== Work ==
+He was educated at The Corsham School, earned a BA (Hons) in mathematics at Jesus College, Oxford, and a PhD in applied mathematics at University College London. Schmidt worked on the variability of the ocean circulation and climate, using general circulation models (GCMs). He has also worked on ways to reconcile paleo-data with models. He helped develop the GISS ocean and coupled GCMs to improve the representation of the present day climate, while investigating their response to climate forcing.
+NASA named Schmidt to head GISS in June 2014. He stepped into the position left vacant after the retirement of long-time director James E. Hansen, becoming the third person to hold the post. In an interview with Science News, Schmidt said that he wanted to continue the institute's work on climate modeling and to expand its work on climate impacts and astrobiology.
+
+
+=== Research ===
+His main research interest is climate variability, both its internal and the response to climate forcing, investigated via ocean-atmosphere general circulation models. He also uses these to study palaeoclimate by working on methods to compare palaeo-data with model output. Schmidt helps to develop the GISS ocean and coupled GCMs (ModelE). This model has been "isotopically enabled" to carry oxygen-18 tracers, allowing the model to simulate the pattern of δ18O observed in ice cores, cave records and ocean sediments.
+
+
+== Media and outreach ==
+Schmidt has appeared on various occasions in the media, often he is asked about his expertise on climate related study findings, current events or gives lectures. Schmidt worked with the American Museum of Natural History, the College de France, and the New York Academy of Sciences for education and outreach. Schmidt and eight other colleagues founded in 2004 the RealClimate blog. The blog provides critical commentary on climate science with the scope on outreach to the public and for journalists. Additionally, the blog features frequent guest posts by experts in their field. Articles and commentary have presented scientific defense against accusations raised in controversies over the hockey stick graph. During the 2009-2010 Climatic Research Unit email controversy he strongly defended the scientists involved, including Michael E. Mann and Phil Jones. Journalist Fred Pearce noted, "Schmidt wrote that the emails merely showed how scientists interact in private", and that "Gravity isn't a useful theory because Newton was a nice man."
+Schmidt was EarthSky Science Communicator of the Year in 2011.
+
+
+== Awards ==
+In October 2011, the American Geophysical Union awarded Schmidt the Inaugural Climate Communications Prize, for his work on communicating climate-change issues to the public. The award news release noted his outreach work including co-founding and contributing to the RealClimate blog. He was a contributing author of the Fourth Assessment Report of the Intergovernmental Panel on Climate Change (IPCC); the work of the IPCC, including the contributions of many scientists, was recognised by the joint award of the 2007 Nobel Peace Prize. Schmidt was named in November 2004 as one of Scientific American's "Top 50 Research Leaders" of the year.
+
+
+== Publications ==
+An overview of his publications can be obtained via Google Scholar. He has published over 100 studies in peer-reviewed journals such as Proceedings of the National Academy of Sciences, Science, and Nature, on various climate related topics.
+He is the co-author, with Joshua Wolfe, of Climate Change: Picturing the Science (2009), which has a foreword by Jeffrey D. Sachs. The book combines images of the effects of climate change with scientific explanations.
+
+
+=== Selected publications ===
+Schmidt, G. (2010). "Does science progress? Glibert Plass redux" (PDF). American Scientist 98 (1): 64–5. doi:10.1511/2010.82.58. 
+Schmidt, G.A., and J. Wolfe (2009). Climate Change: Picturing the Science. W.W. Norton. ISBN 978-0-393-33125-7. 
+Benestad, R.E., and G.A. Schmidt (2009). "Solar trends and global warming" (PDF). J. Geophys. Res. 114: D14101. Bibcode:2009JGRD..11414101B. doi:10.1029/2008JD011639. 
+Jones, P.D., K.R. Briffa, T.J. Osborn, J.M. Lough, T.D. van Ommen, B.M. Vinther, J. Luterbacher, E.R. Wahl, F.W. Zwiers, M.E. Mann, G.A. Schmidt, C.M. Ammann, B.M. Buckley, K.M. Cobb, J. Esper, H. Goosse, N. Graham, E. Jansen, T. Kiefer, C. Kull, M. Küttel, E. Mosley-Thompson, J.T. Overpeck, N. Riedwyl, M. Schulz, A.W. Tudhope, R. Villalba, H. Wanner, E. Wolff, and E. Xoplaki (2009). "High-resolution palaeoclimatology of the last millennium: A review of current status and future prospects" (PDF). Holocene 19: 3–49. doi:10.1177/0959683608098952. 
+Santer, B.D., P.W. Thorne, L. Haimberger, K.E. Taylor, T.M.L. Wigley, J.R. Lanzante, S. Solomon, M. Free, P.J. Gleckler, P.D. Jones, T.R. Karl, S.A. Klein, C. Mears, D. Nychka, G.A. Schmidt, S.C. Sherwood, and F.J. Wentz (2008). "Consistency of modelled and observed temperature trends in the tropical troposphere" (PDF). Intl. J. Climatol. 28: 1703–22. Bibcode:2008IJCli..28.1703S. doi:10.1002/joc.1756. 
+Schmidt, G.A., R. Ruedy, J.E. Hansen, I. Aleinov, N. Bell, M. Bauer, S. Bauer, B. Cairns, V. Canuto, Y. Cheng, A. Del Genio, G. Faluvegi, A.D. Friend, T.M. Hall, Y. Hu, M. Kelley, N.Y. Kiang, D. Koch, A.A. Lacis, J. Lerner, K.K. Lo, R.L. Miller, L. Nazarenko, V. Oinas, Ja. Perlwitz, Ju. Perlwitz, D. Rind, A. Romanou, G.L. Russell, Mki. Sato, D.T. Shindell, P.H. Stone, S. Sun, N. Tausnev, D. Thresher, and M.-S. Yao (2006). "Present day atmospheric simulations using GISS ModelE: Comparison to in-situ, satellite and reanalysis data" (PDF). J. Climate 19: 153–192. Bibcode:2006JCli...19..153S. doi:10.1175/JCLI3612.1. 
+
+
+== References ==
+
+
+== External links ==
+Gavin Schmidt's homepage at NASA GISS
+RealClimate
+Gavin Schmidt: The emergent patterns of climate change (TED Talk, 2014)

@@ -1,0 +1,36 @@
+World Hypotheses: a study in evidence (also known as World Hypotheses: Prolegomena to systematic philosophy and a complete survey of metaphysics) is a book written by Stephen Pepper, published in 1942.
+In World Hypotheses, Pepper demonstrates the error of logical positivism, that there is no such thing as data free from interpretation, and that root metaphors are necessary in epistemology. In other words, objectivity is a myth because there is no such thing as pure, objective fact. Consequently, an analysis is necessary to understand how to interpret these 'facts.' Pepper does so by developing the "[root metaphor method, ...] and outlines what he considers to be four basically adequate world hypotheses (world views or conceptual systems): formism, mechanism, contextualism, and organicism." He identifies the strengths and weaknesses of each of the world hypotheses as well as the paradoxical and sometimes mystifying effects of the effort to synthesize them.
+
+
+== Dogmatism ==
+Pepper begins by demonstrating the very weak positions of utter skepticism and dogmatism while explaining that each are essentially two sides of the same coin. He has no problem with relative skepticism, where one suspends belief until justification is provided. But utter skepticism is essentially a dogmatist who doubts all things, always. Pepper defines a dogmatist "as one whose belief exceeds his cognitive grounds for belief."  If neither position of utter skepticism and dogmatism are cognitively justifiable, then knowledge about the world will be somewhere in between. Specifically, between Common Sense and Refined Knowledge.
+
+
+== Evidence ==
+There is a tension between Common Sense and Refined Knowledge. Common sense is ubiquitous and ever present, and therefore gives a strong sense of certainty. But once you reflect upon common sense, it is no longer common sense and has moved into the realm of refined knowledge. To a large extent, the philosophy of science, and science in general, is interested in this shift.
+Once you embark into refined knowledge, there are certain criteria as to what constitutes 'evidence.' In other words, there are rules governing how we know what we know (This should be recognized as an epistemological concept). And depending on the choice of your Root Metaphor (described below), different criteria exist as to what constitutes good evidence.
+
+
+== Root metaphors ==
+Pepper presents two types of root metaphors.
+Inadequate root metaphors
+Mysticism
+Animism
+(Relatively) adequate root metaphors
+Formism
+Mechanism
+Contextualism
+Organicism
+
+
+== Jargon ==
+dubitanda: Pepper's jargon for Common Sense
+data: Pepper's jargon for Multiplicative Corroboration, which simply refers to repeated empirical observation. If two people read a thermometer and agree on the reading, there has been Multiplicative Corroboration. In layman's terms, we call this data.
+danda: Pepper's jargon for Structural Corroboration, which in layman's terms is similar to Logical Data.
+
+
+== References ==
+
+
+== Book review ==
+Pepper, Stephen C. (1942). World hypotheses: A study in evidence. Berkeley: University of California Press. Reviewed in Journal of the Experimental Analysis of Behavior, 1988, 50, 97-111. link

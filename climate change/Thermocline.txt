@@ -1,0 +1,38 @@
+A thermocline (sometimes metalimnion in lakes) is a thin but distinct layer in a large body of fluid (e.g. water, such as an ocean or lake, or air, such as an atmosphere) in which temperature changes more rapidly with depth than it does in the layers above or below. In the ocean, the thermocline divides the upper mixed layer from the calm deep water below. Depending largely on season, latitude and turbulent mixing by wind, thermoclines may be a semi-permanent feature of the body of water in which they occur or they may form temporarily in response to phenomena such as the radiative heating/cooling of surface water during the day/night. Factors that affect the depth and thickness of a thermocline include seasonal weather variations, latitude and local environmental conditions, such as tides and currents.
+
+
+== OceansEdit ==
+
+Most of the heat energy of sunlight is absorbed in the first few centimeters at the ocean's surface, which heats during the day and cools at night as heat energy is lost to space by radiation. Waves mix the water near the surface layer and distribute heat to deeper water such that the temperature may be relatively uniform in the upper 100 m (300 ft), depending on wave strength and the existence of surface turbulence caused by currents. Below this mixed layer, the temperature remains relatively stable over day/night cycles. The temperature of the deep ocean drops gradually with depth. As saline water does not freeze until it reaches −2.3 °C (colder as depth and pressure increase) the temperature well below the surface is usually not far from zero degrees.
+The thermocline varies in depth. It is semi-permanent in the tropics, variable in temperate regions (often deepest during the summer) and shallow to nonexistent in the polar regions, where the water column is cold from the surface to the bottom. A layer of sea ice will act as an insulation blanket.
+In the open ocean, the thermocline is characterized by a negative sound speed gradient, making the thermocline important in submarine warfare because it can reflect active sonar and other acoustic signals. Technically, this effect stems from a discontinuity in the acoustic impedance of water created by the sudden change in density.
+When scuba diving, a thermocline where water drops in temperature by a few degrees Celsius quite suddenly can sometimes be observed between two bodies of water, for example where colder upwelling water runs into a surface layer of warmer water. It gives the water an appearance of wrinkled glass that is often used to obscure bathroom windows and is caused by the altered refractive index of the cold or warm water column. These same schlieren can be observed when hot air rises off the tarmac at airports or desert roads and is the cause of mirages.
+
+
+== Other water bodiesEdit ==
+Thermoclines can also be observed in lakes. In colder climates, this leads to a phenomenon called stratification. During the summer, warm water, which is less dense, will sit on top of colder, denser, deeper water with a thermocline separating them. The warm layer is called the epilimnion and the cold layer is called the hypolimnion. Because the warm water is exposed to the sun during the day, a stable system exists and very little mixing of warm water and cold water occurs, particularly in calm weather.
+One result of this stability is that as the summer wears on, there is less and less oxygen below the thermocline as the water below the thermocline never circulates to the surface and organisms in the water deplete the available oxygen. As winter approaches, the temperature of the surface water will drop as nighttime cooling dominates heat transfer. A point is reached where the density of the cooling surface water becomes greater than the density of the deep water and overturning begins as the dense surface water moves down under the influence of gravity. This process is aided by wind or any other process (currents for example) that agitates the water. This effect also occurs in Arctic and Antarctic waters, bringing water to the surface which, although low in oxygen, is higher in nutrients than the original surface water. This enriching of surface nutrients may produce blooms of phytoplankton, making these areas productive.
+As the temperature continues to drop, the water on the surface may get cold enough to freeze and the lake/ocean begins to ice over. A new thermocline develops where the densest water (4 °C) sinks to the bottom, and the less dense water (water that is approaching the freezing point) rises to the top. Once this new stratification establishes itself, it lasts until the water warms enough for the 'spring turnover,' which occurs after the ice melts and the surface water temperature rises to 4 °C. During this transition, a thermal bar may develop.
+Waves can occur on the thermocline, causing the depth of the thermocline as measured at a single location to oscillate (usually as a form of seiche). Alternately, the waves may be induced by flow over a raised bottom, producing a thermocline wave which does not change with time, but varies in depth as one moves into or against the flow.
+
+
+== AtmosphereEdit ==
+The lower atmosphere also typically contains a boundary between two distinct regions (the troposphere and stratosphere), but that boundary (the tropopause) displays quite different behavior. However, atmospheric thermoclines, or inversions, can occur, e.g. as nighttime cooling of the Earth's surface produces cold, dense, often calm air adjacent to the ground. The coldest air is next to the ground, with air temperature increasing with height. At the top of this nighttime boundary layer (which may be only a hundred meters) the normal adiabatic temperature profile of the troposphere (i.e. temperature decreasing with altitude) is again observed. The thermocline or inversion layer occurs where the temperature profile changes from positive to negative with increasing height. The stability of the night time inversion is usually destroyed soon after sunrise as the sun's energy warms the ground, which warms the air in the inversion layer. The warmer, less dense air then rises, destroying the stability that characterizes the nightly inversion.
+This phenomenon was first applied to the field of noise pollution study in the 1960s, contributing to the design of urban highways and noise barriers.
+
+
+== See alsoEdit ==
+Bathythermograph
+Buoyancy
+Deep sound channel
+Lake stratification
+Noise barrier
+Southern Oscillation
+Thermohaline circulation
+
+
+== ReferencesEdit ==
+
+
+== External linksEdit ==
+"Temperature of Ocean Water", University Corporation for Atmospheric Research, University of Michigan.

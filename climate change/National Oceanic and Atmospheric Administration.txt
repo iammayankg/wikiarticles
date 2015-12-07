@@ -1,0 +1,128 @@
+The National Oceanic and Atmospheric Administration (NOAA, pronounced /ˈnoʊ.ə/, like "Noah") is an American scientific agency within the United States Department of Commerce focused on the conditions of the oceans and the atmosphere. NOAA warns of dangerous weather, charts seas and skies, guides the use and protection of ocean and coastal resources, and conducts research to improve understanding and stewardship of the environment. In addition to its civilian employees, 12,000 as of 2012, NOAA research and operations are supported by 300 uniformed service members who make up the NOAA Commissioned Officer Corps. The current Under Secretary of Commerce for Oceans and Atmosphere at the Department of Commerce and the agency's administrator is Kathryn D. Sullivan, who was nominated February 28, 2013, and confirmed March 6, 2014.
+
+
+== Purpose and functionEdit ==
+
+NOAA plays several specific roles in society, the benefits of which extend beyond the US economy and into the larger global community:
+A Supplier of Environmental Information Products. NOAA supplies information to its customers and partners pertaining to the state of the oceans and the atmosphere. This is clearly manifest in the production of weather warnings and forecasts through the National Weather Service, but NOAA's information products extend to climate, ecosystems, and commerce as well.
+A Provider of Environmental Stewardship Services. NOAA is also the steward of U.S. coastal and marine environments. In coordination with federal, state, local, tribal, and international authorities, NOAA manages the use of these environments, regulating fisheries and marine sanctuaries as well as protecting threatened and endangered marine species.
+A Leader in Applied Scientific Research. NOAA is intended to be a source of accurate and objective scientific information in the four particular areas of national and global importance identified above: ecosystems, climate, weather and water, and commerce and transportation.
+The five "fundamental activities" are:
+Monitoring and observing Earth systems with instruments and data collection networks.
+Understanding and describing Earth systems through research and analysis of that data.
+Assessing and predicting the changes of these systems over time.
+Engaging, advising, and informing the public and partner organizations with important information.
+Managing resources for the betterment of society, economy and environment.
+
+
+== History and organizational structureEdit ==
+
+NOAA was formed on October 3, 1970, after Richard Nixon proposed creating a new agency to serve a national need "… for better protection of life and property from natural hazards … for a better understanding of the total environment … [and] for exploration and development leading to the intelligent use of our marine resources ..." NOAA formed a conglomeration of several existing agencies that were among the oldest in the federal government. They were the United States Coast and Geodetic Survey, formed in 1807; the Weather Bureau, formed in 1870—Geodetic Survey and Weather Service had been combined by a 1965 consolidation into the Environmental Science Services Administration (ESSA); and the Bureau of Commercial Fisheries, formed in 1871. NOAA was established within the Department of Commerce via the Reorganization Plan No. 4 of 1970. With its ties to the United States Coast and Geodetic Survey, NOAA celebrated 200 years of service in 2007.
+NOAA works toward its mission through six major line offices, in addition to more than a dozen staff offices:
+Line Offices
+
+Staff Offices
+
+
+=== NOAA CorpsEdit ===
+
+NOAA research and operational activities are supported by a uniformed service, the NOAA Corps. They are a commissioned officer corps of men and women who operate NOAA ships and aircraft, and serve in scientific and administrative posts.
+
+
+=== National Weather ServiceEdit ===
+
+The National Weather Service (NWS) is tasked with providing "weather, hydrologic, and climate forecasts and warnings for the United States, its territories, adjacent waters and ocean areas, for the protection of life and property and the enhancement of the national economy." This is done through a collection of national and regional centers, and more than 120 local weather forecast offices (WFOs). They are charged with issuing weather forecasts, advisories, watches, and warnings on a daily basis. They issue more than 734,000 weather and 850,000 river forecasts, and more than 45,000 severe weather warnings annually. NOAA data is also relevant to the issues of global warming and ozone depletion.
+The NWS operates NEXRAD, a nationwide network of Doppler weather radars which can detect precipitation and their velocities. Many of their products are broadcast on NOAA Weather Radio, a network of radio transmitters that broadcasts weather forecasts, severe weather statements, watches and warnings 24 hours a day.
+
+
+=== National Ocean ServiceEdit ===
+
+The National Ocean Service (NOS) focuses on ensuring that ocean and coastal areas are safe, healthy, and productive. NOS scientists, natural resource managers, and specialists serve America by ensuring safe and efficient marine transportation, promoting innovative solutions to protect coastal communities, and conserving marine and coastal places.
+The National Ocean Service is composed of program offices, programs, and staff offices:
+Program Offices
+Center for Operational Oceanographic Products and Services (CO-OPS)
+Coastal Services Center (CSC)
+National Centers for Coastal Ocean Science (NCCOS)
+Office of Coast Survey (OCS)
+Office of National Geodetic Survey (NGS)
+Office of National Marine Sanctuaries (ONMS)
+Office of Ocean and Coastal Resource Management (OCRM)
+Office of Response and Restoration (OR&R)
+Programs
+Mussel Watch Contaminant Monitoring Program
+NOAA Integrated Ocean Observing System (IOOS) Program
+Staff Offices
+International Program Office (IPO)
+Management and Budget Office (M&B)
+
+
+=== National Environmental Satellite, Data, and Information ServiceEdit ===
+
+The National Environmental Satellite, Data, and Information Service (NESDIS) was created by NOAA to operate and manage the United States environmental satellite programs, and manage the data gathered by the NWS and other government agencies and departments. NESDIS's National Centers for Environmental Information (NCEI) archives data collected by the NOAA, U.S. Navy, U.S. Air Force, the Federal Aviation Administration, and meteorological services around the world. NCEI comprises the Center for Weather and Climate (previously NOAA's National Climatic Data Center) and the Center for Coasts, Oceans, and Geophysics (created by a merger of NOAA's National Coastal Data Development Center (NCDDC), National Oceanographic Data Center (NODC) and National Geophysical Data Center (NGDC)).
+NESDIS has managed operational polar orbiting satellites (POES) since 1966 and operational geosynchronous satellites (GOES) since 1974. New generations of satellites are being developed to succeed the current polar orbiting and geosynchronous satellites: the Joint Polar Satellite System) and GOES-R. The first satellite in the GOES-R series is scheduled for launch in March 2016. The launch of JPSS-1 is scheduled for no later than March 2017.
+In 1979 NOAA's first polar-orbiting environmental satellite was launched. Current operational satellites include NOAA-15, NOAA-18, NOAA-19, GOES 13, GOES 14, GOES 15, Jason-2 and DSCOVR. Since May 1998 NESIDS has operated the Defense Meteorological Satellite Program (DMSP) satellites on behalf of the Air Force Weather Agency.
+NESDIS also runs the:
+Office of Projects, Planning, and Analysis (OPPA) formerly the Office of Systems Development (OSD)
+Office of Satellite Ground Systems (OSGS) formerly the Office of Satellite Operations (OSO)
+Office of Satellite and Project Operations (OSPO) formerly the Office of Satellite Data Processing & Distribution (OSDPD)
+Center for Satellite Applications and Research (STAR) formerly the Office of Research & Applications
+Joint Polar Satellite System Program Office
+GOES-R Program Office
+International & Interagency Affairs Office
+Office of Space Commercialization
+Office of System Architecture and Advanced Planning
+In 1960 TIROS-1, NOAA's first owned and operated geostationary satellite was launched. In 1983 NOAA assumed operational responsibility for Landsat satellite system.
+
+
+=== National Marine Fisheries ServiceEdit ===
+
+The National Marine Fisheries Service (NMFS) was initiated in 1871 to protect, study, manage and restore fish. The NMFS has a marine fisheries research lab in Woods Hole, Massachusetts and is home to one of NOAA's five fisheries science centers.
+Its law enforcement agency is the National Oceanic and Atmospheric Administration Fisheries Office for Law Enforcement based in Silver Spring, Maryland.
+
+
+=== Office of Oceanic and Atmospheric ResearchEdit ===
+
+NOAA's research, conducted through the Office of Oceanic and Atmospheric Research (OAR), is the driving force behind NOAA environmental products and services that protect life and property and promote economic growth. Research, conducted in OAR laboratories and by extramural programs, focuses on enhancing our understanding of environmental phenomena such as tornadoes, hurricanes, climate variability, solar flares, changes in the ozone, air pollution transport and dispersion, El Niño/La Niña events, fisheries productivity, ocean currents, deep sea thermal vents, and coastal ecosystem health. NOAA research also develops innovative technologies and observing systems.
+The NOAA Research network consists of seven internal research laboratories, extramural research at 30 Sea Grant university and research programs, six undersea research centers, a research grants program through the Climate Program Office, and 13 cooperative institutes with academia. Through NOAA and its academic partners, thousands of scientists, engineers, technicians, and graduate students participate in furthering our knowledge of natural phenomena that affect the lives of us all.
+The Air Resources Laboratory (ARL) is one of the laboratories in the Office of Oceanic and Atmospheric Research. It studies processes and develops models relating to climate and air quality, including the transport, dispersion, transformation and removal of pollutants from the ambient atmosphere. The emphasis of the ARL's work is on data interpretation, technology development and transfer. The specific goal of ARL research is to improve and eventually to institutionalize prediction of trends, dispersion of air pollutant plumes, air quality, atmospheric deposition, and related variables.
+The Atlantic Oceanographic and Meteorological Laboratory (AOML), is part of NOAA's Office of Oceanic and Atmospheric Research, located in Miami, Florida. AOML's research spans hurricanes, coastal ecosystems, oceans and human health, climate studies, global carbon systems, and ocean observations. AOML's organizational structure consists of an Office of the Director and three scientific research divisions (Physical Oceanography, Ocean Chemistry and Ecosystems, and Hurricane Research). The Office of the Director oversees the Laboratory's scientific programs, as well as its financial, administrative, computer, outreach/education, and facility management services. Research programs are augmented by the Cooperative Institute for Marine and Atmospheric Studies (CIMAS), a joint enterprise with the University of Miami's Rosenstiel School of Marine and Atmospheric Science. CIMAS enables AOML and university scientists to collaborate on research areas of mutual interest and facilitates the participation of students and visiting scientists. AOML is a member of a unique community of marine research and educational institutions located on Virginia Key in Miami, Florida.
+In 1977 the Pacific Marine Environmental Laboratory (PMEL) deployed the first successful moored equatorial current meter – the beginning of the Tropical Atmosphere Ocean, TAO, array. In 1984 the Tropical Ocean-Global Atmosphere program (TOGA) program began.
+
+
+=== National Geodetic SurveyEdit ===
+
+The National Geodetic Survey (NGS) is the primary surveying organization in the United States.
+
+
+=== National Integrated Drought Information SystemEdit ===
+
+NOAA is the lead federal agency for the National Integrated Drought Information System (NIDIS).
+
+
+=== Program Planning and IntegrationEdit ===
+The Office of Program Planning and Integration (PPI) was established in June 2002 as the focus for a new corporate management culture at NOAA. PPI was created to address the needs to:
+Foster strategic management among NOAA Line and Staff Offices, Goal Teams, Programs, and Councils,
+Support planning activities through greater opportunities for active participation of employees, stakeholders, and partners,
+Build decision support systems based on the goals and outcomes set in NOAA's strategic plan, and
+Guide managers and employees on program and performance management, the National Environmental Policy Act, and socioeconomic analysis.
+
+
+== Intergovernmental Panel on Climate ChangeEdit ==
+Since 2001, the organization has hosted the senior staff and recent chair, Susan Solomon, of the Intergovernmental Panel on Climate Change's working group on climate science.
+
+
+== FlagEdit ==
+
+The NOAA flag is a modification of the flag of one of its predecessor organizations, the United States Coast and Geodetic Survey. The Coast and Geodetic Survey‍ '​s flag, authorized in 1899 and in use until 1970, was blue, with a white circle centered in it and a red triangle centered within the circle. It symbolized the use of triangulation in surveying, and was flown by ships of the Survey.
+When NOAA was established in 1970 and the Coast and Geodetic Survey's assets became a part of NOAA, NOAA based its own flag on that of the Coast and Geodetic Survey. The NOAA flag is in essence the Coast and Geodetic Survey flag, with the NOAA logo—a circle divided by the silhouette of a seabird into an upper dark blue and a lower light blue section, but with the "NOAA" legend omitted—centered within the red triangle. NOAA ships in commission display the NOAA flag; those with only one mast fly it immediately beneath the ship's commissioning pennant or the personal flag of a civilian official or flag officer if one is aboard the ship, while multimasted vessels fly it at the masthead of the forwardmost mast. NOAA ships fly the same ensign as United States Navy ships but fly the NOAA flag as a distinguishing mark to differentiate themselves from Navy ships.
+
+
+== See alsoEdit ==
+
+
+== ReferencesEdit ==
+
+
+== External linksEdit ==
+Official website
+National Oceanic and Atmospheric Administration in the Federal Register

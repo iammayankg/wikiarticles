@@ -1,0 +1,44 @@
+Appropedia is a wiki website for collaborative solutions in sustainability, poverty reduction and international development, with a particular focus on appropriate technology. Appropedia has been used by a number of nonprofit organizations and individuals working in sustainable development, including Demotech and the Full Belly Project.
+Appropedia runs on the software MediaWiki. Currently it houses over 6,000 articles and has received more than 24,000 uploaded files (11 August 2015).
+
+
+== History ==
+
+After years of other online and offline sustainable collaboration projects, Lonny Grafman started Appropedia in April 2006 with a focus on appropriate technology, defined very broadly. He was assisted by Aaron Antrim and Gabriel Krause in the decision to use the MediaWiki engine for Appropedia. Curt Beckmann then joined Appropedia later in 2006.
+Contact with WikiGreen in December 2006 led to a quick decision to join forces. It was decided to use the name Appropedia. This merger led to a large increase in content, including permission from various publications, and some content from CD3WD (CDs for the 3rd World).
+Since then Appropedia has imported content from other sites:
+International Rivers Network gave permission for several pages worth of content.
+Practical Action gave permission for over 100 articles
+Demotech, an organization in the Netherlands, has built many pages.
+The wiki for the organization Village Earth was merged in March 2007. This was the original wiki on appropriate technology.
+The How To Live Wiki, run by Vinay Gupta, merged much of its material into Appropedia in March 2007, and Vinay joined the Appropedia team.
+The Sgoals wiki, focused on sustainable business practices, joined in mid-2007.
+The Students for Global Sustainability Wiki merged in January 2008.
+CCAT, the Campus Center for Appropriate Technology, partnered with Appropedia to move their project pages to Appropedia in April 2008.
+In 2012, use of the Semantic MediaWiki extension was added.
+
+
+== Use as source ==
+Papers and books that have used information from Appropedia as source material include:
+Open-Source Lab: How to Build Your Own Hardware and Reduce Research Costs by Joshua M. Pearce was published in 2014 by Elsevier (ISBN 9780124104624).
+Kreye, Melissa M. "Metal accumulation in gill epithelium and liver tissue in steelhead (Oncorhynchus mykiss) reared in reclaimed wastewater", Thesis (M.S.) – Humboldt State University, Natural Resources: Wastewater Utilization Program, 2008.
+Urmila Balasubramaniyam, Llionel S. Zisengwe, Niccoló Meriggi, Eric Buysman, Biogas production in climates with long cold winters, Wageningen, May 2008.
+James A. West and Margaret L. West, "Using Wikis for Online Collaboration: The Power of the Read-Write Web", Jossey-Bass (December 15, 2008).
+
+
+== Use as pedagogical tool ==
+Appropedia has also been used by proponents of open source appropriate technology such as Prof. Joshua Pearce in service learning, including in language education and engineering education.
+
+
+== See also ==
+Ekopedia
+Open-source appropriate technology
+Wiser.org
+Hackteria
+
+
+== References ==
+
+
+== External links ==
+Official website

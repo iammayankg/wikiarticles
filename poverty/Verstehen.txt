@@ -1,0 +1,42 @@
+Verstehen (German pronunciation: [fɛɐˈʃteːən], literally: "to understand") in the context of German philosophy and social sciences in general, has been used since the late 19th century – in English as in German – with the particular sense of the "interpretive or participatory" examination of social phenomena. The term is closely associated with the work of the German sociologist, Max Weber, whose antipositivism established an alternative to prior sociological positivism and economic determinism, rooted in the analysis of social action. In anthropology, Verstehen has come to mean a systematic interpretive process in which an outside observer of a culture attempts to relate to it and understand others.
+Verstehen is now seen as a concept and a method central to a rejection of positivistic social science (although Weber appeared to think that the two could be united). Verstehen refers to understanding the meaning of action from the actor's point of view. It is entering into the shoes of the other, and adopting this research stance requires treating the actor as a subject, rather than an object of your observations. It also implies that unlike objects in the natural world human actors are not simply the product of the pulls and pushes of external forces. Individuals are seen to create the world by organizing their own understanding of it and giving it meaning. To do research on actors without taking into account the meanings they attribute to their actions or environment is to treat them like objects.
+
+
+== Meaning ==
+Interpretative sociology (verstehende Soziologie) is the study of society that concentrates on the meanings people associate to their social world. Interpretative sociology strives to show that reality is constructed by people themselves in their daily lives.
+Verstehen roughly translates to "meaningful understanding" or "putting yourself in the shoes of others to see things from their perspective." Interpretive sociology differs from positivist sociology in three ways:
+Interpretive sociology deals with the meaning attached to behavior, unlike positivist sociology which focuses on action.
+Interpretive sociology sees reality as being constructed by people, unlike positivist sociology which sees an objective reality "out there".
+Interpretive sociology relies on qualitative data, unlike positivist sociology which tends to make use of quantitative data.
+
+
+== Dilthey and hermeneutics ==
+Verstehen was introduced into philosophy and the human sciences (Geisteswissenschaften) by the German historist philosopher Johann Gustav Droysen. He first made a distinction between nature and history in terms of the categories of space and time. The method of the natural sciences is explanation (erklären), while that of history is understanding (verstehen).
+The concept of Verstehen was later used by the German philosopher Wilhelm Dilthey to describe the first-person participatory perspective that agents have on their individual experience as well as their culture, history, and society. In this sense, it is developed in the context of the theory and practice of interpretation (as understood in the context of hermeneutics) and contrasted with the external objectivating third-person perspective of explanation (das Erklären) in which human agency, subjectivity, and its products are analyzed as effects of impersonal natural forces in the natural sciences and social structures in sociology.
+Twentieth-century philosophers such as Martin Heidegger and Hans-Georg Gadamer have been critical of what they considered to be the romantic and subjective character of Verstehen in Dilthey, although both Dilthey and the early Heidegger were interested in the "facticity" and "life-context" of understanding, and sought to universalize it as the way humans exist through language on the basis of ontology. Verstehen also played a role in Edmund Husserl and Alfred Schutz's analysis of the "lifeworld." Jürgen Habermas and Karl-Otto Apel further transformed the concept of Verstehen, reformulating it on the basis of a transcendental-pragmatic philosophy of language and the theory of communicative action.
+
+
+== Weber and the social sciences ==
+Max Weber and Georg Simmel introduced interpretive understanding (Verstehen) into sociology, where it has come to mean a systematic interpretive process in which an outside observer of a culture (such as an anthropologist or sociologist) relates to an indigenous people or sub-cultural group on their own terms and from their own point of view, rather than interpreting them in terms of his or her own culture. Verstehen can mean either a kind of empathic or participatory understanding of social phenomena. In anthropological terms this is sometimes described as cultural relativism, especially by those that have a tendency to argue toward universal ideals. In sociology it is an aspect of the comparative-historical approach, where the context of a society like twelfth century "France" can be potentially better understood (Besserverstehen) by the sociologist than it could have been by people living in a village in Burgundy. It relates to how people in life give meaning to the social world around them and how the social scientist accesses and evaluates this "first-person perspective". This concept has been both expanded and criticized by later social scientists. Proponents laud this concept as the only means by which researchers from one culture can examine and explain behaviors in another. While the exercise of Verstehen has been more popular among social scientists in Europe, such as Habermas, Verstehen was introduced into the practice of sociology in the United States by Talcott Parsons, an American follower of Max Weber. Parsons used his Structural functionalism to incorporate this concept into his 1937 work, The Structure of Social Action.
+Weber had more specific beliefs than Marx where he put value to understanding and meaning of key elements — not just with intuition or sympathy with the individual but also the product of "systematic and rigorous research". The goal is to identify human actions and interpreting them as observable events leading us to believe that it not only provides for a good explanation for individual actions but also for group interactions. The meaning attached needs to include constraints and limitations and analyze the motivation for action. Weber believed that this gives the sociologist an advantage over a natural scientist because "We can accomplish something which is never attainable in the natural sciences, namely the subjective understanding of the action of the component individuals" (Weber, Economy and Society, p. 15).
+
+
+== Criticism ==
+Critics of the social scientific concept of Verstehen such as Mikhail Bakhtin and Dean MacCannell counter that it is simply impossible for a person born of one culture to ever completely understand another culture, and that it is arrogant and conceited to attempt to interpret the significance of one culture's symbols through the terms of another (supposedly superior) culture. Such criticisms do not necessarily allow for the possibility that Verstehen does not involve "complete" understanding. Just as in physical science all knowledge is asymptotic to the full explanation, a high degree of cross-cultural understanding is very valuable. The opposite of Verstehen would seem to be ignorance of all but that which is immediately observable, meaning that we would not be able to understand any time and place but our own. A certain level of interpretive understanding is necessary for our own cultural setting, however, and it can easily be argued that even the full participant in a culture does not fully understand it in every regard.
+Critics also believe that it is the sociologist's job to not just observe people and what people do but also share in their world of meaning and come to appreciate why they act as they do. Subjective thoughts and feelings regarded as bias in the sciences is an important aspect to be controlled for while doing sociological research.
+
+
+== See also ==
+Antinaturalism (sociology)
+Emic and etic
+Humanistic sociology
+Humanistic coefficient
+Positivism
+Reflexivity
+
+
+== References ==
+
+
+== External links ==
+ The dictionary definition of verstehen at Wiktionary

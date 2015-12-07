@@ -1,0 +1,80 @@
+Runaway climate change or runaway global warming is hypothesized to follow a tipping point in the climate system, after accumulated climate change initiates a reinforcing positive feedback. This is thought to cause climate to rapidly change until it reaches a new stable condition. These phrases may be used with reference to concerns about rapid global warming. Some astronomers use the expression runaway greenhouse effect to describe a situation where the climate deviates catastrophically and permanently from the original state—as happened on Venus.
+Although these terms are rarely used in the peer-reviewed climatological literature, that literature does use the similar phrase "runaway greenhouse effect", which refers specifically to climate changes that cause a planetary body's water to boil off.
+
+
+== Related terms ==
+At a tipping level or tipping point the climate forcing reaches a point such that no additional forcing is required for large climate change and impacts.
+At a point of no return, climate impacts that are irreversible on a practical time scale occur. An example of such an impact is the disintegration of a large ice sheet.
+
+
+== Runaway greenhouse effect ==
+
+The runaway greenhouse effect has several meanings. At the least extreme, this implies global warming sufficient to induce out-of-control amplifying feedbacks, such as ice sheet disintegration and melting of methane hydrates. At the most extreme, a Venus-like planet with crustal carbon baked into the atmosphere and a surface temperature of several hundred degrees, an irreversible climate state.
+Between these two is the moist greenhouse, which occurs if the climate forcing is large enough to make water vapour (H2O) a major atmospheric constituent. In principle, an extreme moist greenhouse might cause an instability with water vapour preventing radiation to space of all absorbed solar energy, resulting in very high surface temperature and evaporation of the ocean. However, simulations indicate that no plausible human-made greenhouse gas (GHG) forcing can cause an instability and baked-crust runaway greenhouse effect.
+Conceivable levels of human-made climate forcing could yield the low-end runaway greenhouse. A forcing of 12–16 W m−2 would require carbon dioxide (CO2) levels to increase 8–16 times. If the forcing were due only to CO2 change, this would raise the global mean temperature by 16–24°C with much larger polar warming. A warming of 16–24°C produces a moderately moist greenhouse, with water vapour increasing to about 1% of the atmosphere's mass, thus increasing the rate of hydrogen escape to space. If such a forcing were entirely due to CO2, the weathering process would remove the excess atmospheric CO2 on a time scale of 104–105 years, well before the ocean was significantly depleted. Venus-like conditions on the Earth require a large long-term forcing that is unlikely to occur until the sun brightens by a few tens of percent, which will take a few billion years.
+
+
+=== Global habitability ===
+Burning all fossil fuels would adversely affect the ability of humans to live on the planet. If non-CO2 greenhouse gases such as N2O and methane (CH4) were to increase with global warming at the same rate as in the palaeoclimate record and atmospheric chemistry simulations they would provide approximately 25% of the greenhouse forcing. The remaining forcing requires approximately 4.8 times current CO2 levels, corresponding to fossil fuel emissions as much as approximately 10,000 Gt C for a conservative assumption of a CO2 airborne fraction averaging one-third over the 1000 years following a peak emission.
+Calculated global warming in this case is 16°C, with warming at the poles approximately 30°C. Calculated warming over land areas averages approximately 20°C. Such temperatures would eliminate grain production in almost all agricultural regions in the world. Increased stratospheric water vapour would diminish the stratospheric ozone layer.
+Global warming of that magnitude would make most of the planet uninhabitable by humans. The human body generates about 100 W of metabolic heat that must be carried away to maintain a core body temperature near 37°C, which implies that sustained wet bulb temperatures above 35°C can result in lethal hyperthermia. Today, the summer temperature varies widely over the Earth's surface, but wet bulb temperature is more narrowly confined by the effect of humidity, with the most common value of approximately 26–27°C and the highest approximately of 31°C. A warming of 10–12°C would put most of today's world population in regions with a wetbulb temperature above 35°C. Given the 20°C warming that occurs with 4.8 times current CO2 levels, such a climate forcing would produce intolerable climatic conditions even if the true climate sensitivity is significantly less than the Russell sensitivity, or, if the Russell sensitivity is accurate, the CO2 forcing required to produce intolerable conditions for humans is less than this amount.
+
+
+== Feedback effects ==
+
+The core of the concept of runaway climate change is the idea of a large positive feedback within the climate system. When a change in global temperature causes an event to occur which itself changes global temperature, this is referred to as a feedback effect. If this effect acts in the same direction as the original temperature change, it is a destabilising positive feedback (e.g. warming causing more warming); and if in the opposite direction, it is a stabilising negative feedback (e.g. warming causing a cooling effect). If a sufficiently strong net positive feedback occurs, it is said that a climate tipping point has been passed and the temperature will continue to change until the changed conditions result in negative feedbacks that restabilise the climate.
+An example of a negative feedback is that radiation leaving the Earth increases in proportion to the fourth power of temperature, in accordance with the Stefan-Boltzmann law. This feedback is always operational; therefore, while it may be overridden by positive feedbacks for comparatively small temperature changes it will dominate for larger temperature changes. An example of a positive feedback is the ice-albedo feedback, in which increasing temperature causes ice to melt, which increases the amount of heat that Earth absorbs. This feedback only operates in a restricted range of temperatures (those for which ice exists, and does not cover the whole surface; once all the ice has melted, the feedback ceases to operate).
+Climate feedback effects can involve positive feedback in a type of forcing, such as the release of methane due to rising methane levels; other greenhouse gases, as when CO2 causes the release of methane; or other variables, such as the ice-albedo feedback.
+Without climate feedbacks, a doubling in atmospheric carbon dioxide concentration would result in a global average temperature increase of around 1.2°C. Water vapor amount and clouds are probably the most important global climate feedbacks. Historical information and global climate models indicate a climate sensitivity of 1.5 to 4.5°C, with a best estimate of 3°C. This is an amplification of the carbon dioxide forcing by a factor of 2.5. Some studies suggest a lower climate sensitivity, but other studies indicate a sensitivity above this range. Partly because of the difficulty in modeling the cloud feedback, the true climate sensitivity remains uncertain.
+
+
+=== Slow ===
+Slow feedback effects—especially changes in the sizes of ice sheets and levels of atmospheric CO2—amplify the sensitivity of the total Earth system by an amount that depends on the time scale considered.
+There are known examples of the Earth's climate producing a large response to small forcings. The CO2 feedback effect is believed to be part of the transition between glacial and interglacial periods, with orbital forcing providing the initial trigger.
+A 2006 book chapter by Cox et al. considers the possibility of a future runaway climate feedback due to changes in the land carbon cycle:
+
+Here we use a simple land carbon balance model to analyse the conditions required for a land sink-to-source transition, and address the question; could the land carbon cycle lead to a runaway climate feedback? [...] The simple land carbon balance model has effective parameters representing the sensitivities of climate and photosynthesis to CO2, and the sensitivities of soil respiration and photosynthesis to temperature. This model is used to show that (a) a carbon sink-to-source transition is inevitable beyond some finite critical CO2 concentration provided a few simple conditions are satisfied, (b) the value of the critical CO2 concentration is poorly known due to uncertainties in land carbon cycle parameters and especially in the climate sensitivity to CO2, and (c) that a true runaway land carbon-climate feedback (or linear instability) in the future is unlikely given that the land masses are currently acting as a carbon sink.
+
+
+=== Fast ===
+In general, fast feedback climate sensitivity depends on the initial climate state. Fast feedback effects include changes in levels of water vapour and aerosols, as well as changes in cloud cover and the extent of sea ice.
+
+
+=== Methane deposits and clathrates ===
+Potentially unstable methane deposits exists in permafrost regions, which are expected to retreat as a result of global warming, and also clathrates, with the clathrate effect probably taking millennia to fully act. The potential role of methane from clathrates in near-future runaway scenarios is not certain, as studies show a slow release of methane, which may not be regarded as 'runaway' by all commentators. The clathrate gun runaway effect may be used to describe more rapid methane releases. Methane in the atmosphere has a high global warming potential, but breaks down relatively quickly to form CO2, which is also a greenhouse gas. Therefore, slow methane release will have the long-term effect of adding CO2 to the atmosphere.
+In order to model clathrates and other reservoirs of greenhouse gases and their precursors, global climate models would have to be 'coupled' to a carbon cycle model. Most current global climate models do not include modelling of methane deposits.
+
+
+== Current risk ==
+The scientific consensus in the IPCC Fourth Assessment Report is that "Anthropogenic warming could lead to some effects that are abrupt or irreversible, depending upon the rate and magnitude of the climate change." Note however that this statement is about situations weaker than "runaway change". Text prepared for the IPCC Fifth Assessment Report states that "a 'runaway greenhouse effect'—analogous to Venus—appears to have virtually no chance of being induced by anthropogenic activities."
+Estimates of the size of the total carbon reservoir in Arctic permafrost and clathrates vary widely. It is suggested that at least 900 gigatonnes of carbon in permafrost exists worldwide. Furthermore, there are believed to be another 400 gigatonnes of carbon in methane clathrates in permafrost regions  with 10,000 to 11,000 gigatonnes worldwide. This is large enough that if 10% of the stored methane were released, it would have an effect equivalent to a factor of 10 increase in atmospheric CO2 concentrations. Methane is a potent greenhouse gas with a higher global warming potential than CO2.
+Worries about the release of this methane and carbon dioxide is linked to arctic shrinkage. Recent years have seen record low Arctic sea ice. It has been suggested that rapid melting of the sea ice may initiate a feedback loop that rapidly melts arctic permafrost. Methane clathrates on the sea-floor have also been predicted to destabilise, but much more slowly.
+A release of methane from clathrates, however, is believed to be slow and chronic rather than catastrophic and that 21st-century effects of such a release are therefore likely to be 'significant but not catastrophic'. It is further noted that 'much methane from dissociated gas hydrate may never reach the atmosphere', as it can be dissolved into the ocean and be broken down biologically. Other research demonstrates that a release to the atmosphere can occur during large releases. These sources suggest that the clathrate gun effect alone will not be sufficient to cause 'catastrophic' climate change within a human lifetime.
+Hansen et al. 2013 suggests that the Earth could become in large parts uninhabitable and note that this may not even require burning all of fossil fuels, because of higher climate sensitivity (3–4°C or 5.4–7.2°F) based on a 550 ppm scenario. Burning all fossil fuels would warm land areas on average about 20°C (36°F) and warm the poles 30°C (54°F). Earlier estimates are based on the assumption that fossil-fuel use continues until reserves are exhausted, and predicted a runaway greenhouse effect, a climate similar to that on Venus. Ongoing research determines if such a climate state is possible on Earth.
+
+
+== Paleoclimatology ==
+
+Events that could be described as runaway climate change may have occurred in the past.
+
+
+=== Clathrate gun ===
+
+The clathrate gun hypothesis suggests an abrupt climate change due to a massive release of methane gas from methane clathrates on the seafloor. It has been speculated that the Permian-Triassic extinction event and the Paleocene-Eocene Thermal Maximum were caused by massive clathrate release.
+
+
+=== Snowball Earth ===
+
+Geological evidence shows that ice-albedo feedback caused sea ice advance to near the equator at several points in Earth history. Modeling work shows that such an event would indeed be a result of a self-sustaining ice-albedo effect, and that such a condition could be escaped via the accumulation of CO2 from volcanic outgassing.
+
+
+== See also ==
+
+Abrupt climate change
+Arctic methane release
+Avoiding dangerous climate change
+Climate change feedback
+Climate sensitivity
+
+
+== References ==

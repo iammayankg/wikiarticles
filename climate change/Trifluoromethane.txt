@@ -1,0 +1,39 @@
+Fluoroform is the chemical compound with the formula CHF3. It is one of the "haloforms", a class of compounds with the formula CHX3 (X = halogen). Fluoroform is used in diverse niche applications and is produced as a by-product of the manufacture of Teflon. It is also generated biologically in small amounts apparently by decarboxylation of trifluoroacetic acid.
+
+
+== Synthesis ==
+Fluoroform was first obtained by Maurice Meslans in the violent reaction of iodoform with dry silver fluoride in 1894. The reaction was improved by Otto Ruff by substitution of silver fluoride by a mixture of mercury fluoride and calcium fluoride. The exchange reaction works with iodoform and bromoform, and the exchange of the first two halogen atoms by fluorine is vigorous. By changing to a two step process, first forming a bromodifluoro methane in the reaction of antimony trifluoride with bromoform and finishing the reaction with mercury fluoride the first efficient synthesis method was found by Henne.
+
+
+== Industrial applications ==
+CHF3 is used in the semiconductor industry in plasma etching of silicon oxide and silicon nitride. Known as R-23 or HFC-23, it is also a useful refrigerant, sometimes as a replacement for chlorotrifluoromethane (cfc-13) and is a byproduct of its manufacture.
+When used as a fire suppressant, the fluoroform carries the DuPont trade name, FE-13. CHF3 is recommended for this application because of its low toxicity, its low reactivity, and its high density. HFC-23 has been used in the past as a replacement for Halon 1301[cfc-13b1] in fire suppression systems as a total flooding gaseous fire suppression agent.
+
+
+=== Organic chemistry ===
+CHF3 is a reagent to generate sources of "CF3−" by deprotonation. The molecule is weakly acidic with a pKa = 25–28. It is a precursor to CF3Si(CH3)3.
+
+
+== Greenhouse gas ==
+CHF3 is a potent greenhouse gas. The secretariat of the Clean Development Mechanism estimates that a ton of HFC-23 in the atmosphere has the same effect as 11,700 tons of carbon dioxide. More recent work (IPCC, 2007) suggests that this equivalency, also called a 100-yr global warming potential, is slightly larger at 14,800 for HFC-23. The atmospheric lifetime is 270 years.
+According to the 2007 IPCC climate report, HFC-23 was the most abundant HFC in the global atmosphere until around 2001, which is when the global mean concentration of HFC-134a (1,1,1,2-tetrafluoroethane), the chemical now used extensively in automobile air conditioners, surpassed those of HFC-23. Global emissions of HFC-23 have in the past been dominated by the inadvertent production and release during the manufacture of the refrigerant HCFC-22 (chlorodifluoromethane).
+Data reported to the United Nations Framework Convention on Climate Change (UNFCCC) greenhouse gas emissions databases  indicate substantial decreases in developed or Annex 1 countries HFC-23 emissions from the 1990s to the 2000s (UNFCCC greenhouse gas emissions databases). The UNFCCC Clean Development Mechanism projects have provided funding and facilitated the destruction of HFC-23 co-produced from a portion of HCFC-22 produced in developing or non-Annex 1 countries since 2003. Developing countries have become the largest producers of HCFC-22 in recent years according to data compiled by the Ozone Secretariat of the World Meteorological Organization. Emissions of all HFCs are included in the UNFCCCs Kyoto Protocol. To mitigate its impact, CHF3 can be destroyed with electric plasma arc technologies or by high temperature incineration.
+
+
+== References ==
+
+
+== Literature ==
+McBee E. T. (1947). "Fluorine Chemistry". Industrial & Engineering Chemistry 39 (3): 236–237. doi:10.1021/ie50447a002. 
+Oram D. E., Sturges W. T., Penkett S. A., McCulloch A., Fraser P. J. (1998). "Growth of fluoroform (CHF3, HFC-23) in the background atmosphere". Geophysical Research Letters 25 (1): 236–237. Bibcode:1998GeoRL..25...35O. doi:10.1029/97GL03483. 
+McCulloch A. (2003). "Fluorocarbons in the global environment: a review of the important interactions with atmospheric chemistry and physics". Journal of Fluorine Chemistry 123 (1): 21–29. doi:10.1016/S0022-1139(03)00105-2. 
+
+
+== External links ==
+International Chemical Safety Card 0577
+MSDS at Oxford University
+MSDS at mathesontrigas.com
+Coupling of fluoroform with aldehydes using an electrogenerated base
+
+
+== Additional physical properties ==

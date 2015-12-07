@@ -1,0 +1,52 @@
+See also Effects of global warming. The focus of this article is on the effects beyond 2100.
+There are expected to be various long-term effects of global warming. Most discussion and research, including that by the Intergovernmental Panel on Climate Change (IPCC) reports, concentrates on the effects of global warming up to 2100, with only an outline of the effects beyond this.
+
+
+== Ice loss and sea level riseEdit ==
+
+Meltwater from melting ice sheets and glacier retreat contributes to a rise in the future sea level.
+
+
+=== AntarcticaEdit ===
+Concern has been expressed about the stability of the West Antarctic ice sheet (WAIS). Vaughan & Spouge argued that the "WAIS most likely will not collapse in the next few centuries." In a recent inaugural article for members of the National Academy of Sciences elected in 2005, Timothy Lenton and others suggest that a collapse of the West Antarctic ice sheet could occur within a millennium. Specifically they state "Although the timescale is highly uncertain, a qualitative WAIS change could occur within this millennium, with collapse within 300 years being a worst-case scenario. Rapid sea-level rise (greater than 1 m per century) is more likely to come from the WAIS than from the Greenland ice sheet."
+
+
+=== GreenlandEdit ===
+Greenland's ice sheet contains enough fresh water as ice to raise sea level worldwide by 7 metres (23 ft). Greenland may become warm enough by 2100 to begin an almost complete melt over more than 1,000 years. James E. Hansen suggests that inadequate attention is being given to this issue.
+One study suggests it would take 3,000 years to completely melt the Greenland ice sheet. This figure was derived from the assumed levels of greenhouse gases over the duration of the experiment.
+As the Greenland ice sheet loses mass from calving of icebergs as well as by melting of ice, any such processes tend to accelerate the loss of the ice sheet.
+
+
+== Millennial-timescale eventsEdit ==
+Some long-term effects happen over thousands, not hundreds, of years.
+
+
+=== Disruption to thermohaline circulationEdit ===
+
+Early work with simplified models suggested that global warming could cause a shutdown of the thermohaline circulation. This effect is not replicated in more sophisticated coupled ocean-atmosphere global climate models, which do not shutdown but do display varying degrees of slowdown.
+This may take a considerable time to occur, as Knutti and Stocker found, again from a simplified model, when :"…thermohaline shutdowns can occur thousands of years after the warming has stopped."
+
+
+=== Ocean anoxiaEdit ===
+
+One study suggests that the amount of oxygen dissolved in the oceans may decline, with adverse consequences for ocean life. This effect was determined using a model run of 100,000 years. The researchers predicted:
+
+…severe, long-term ocean oxygen depletion, as well as a great expansion of ocean oxygen-minimum zones for scenarios with high emissions or high climate sensitivity. We find that climate feedbacks within the Earth system amplify the strength and duration of global warming, ocean heating and oxygen depletion. Decreased oxygen solubility from surface-layer warming accounts for most of the enhanced oxygen depletion in the upper 500 m of the ocean. Possible weakening of ocean overturning and convection lead to further oxygen depletion, also in the deep ocean.
+
+Other research by the Leibniz Institute for Marine Sciences predicts that minimum oxygen zones, particularly in the pacific are expanding, with an estimated total reduction of ocean oxygen levels from 1% to 7% by the end of the century. 
+
+
+=== Clathrate decompositionEdit ===
+
+Methane clathrate, also called methane hydrate, is a form of water ice that contains a large amount of methane within its crystal structure. Extremely large deposits of methane clathrate have been found under sediments on the ocean floors of Earth (estimated at 3000–11,000 Gton C).
+MacDonald suggests clathrate volumes are "about 11,000 Gt of carbon for ocean sediments, and about 400 Gt for sediments under permafrost regions". Buffett and Archer predict "eventual releases of 2000–4000 Gton C in response to a ~2000 Gton C anthropogenic carbon release", for which they suggest no timescale.
+Archer considered the timescale and determined that "…on longer time scales of 1–10 ky, there may be a positive feedback with ocean temperature, amplifying the long-term climate impact of anthropogenic CO2 release."
+
+
+== Long-term return to equilibriumEdit ==
+After global warming reaches a peak an extended period of cooling, climate whiplash, is anticipated.
+While the warm surface waters of the oceans have limited ability to absorb anthropogenic carbon dioxide, the coldest surface waters near the poles (2–3% of ocean surfaces) can transfer significant amounts of carbon dioxide to deep-ocean reserves. Over a period of many centuries, this process and the process of calcium carbonate absorption of carbon dioxide on land and in the oceans will remove 60–80% of the excess carbon dioxide.
+Igneous rock when exposed to a near surface environment absorbs carbon dioxide through a very slow weathering rate, but weathering increases in a warmer, higher rainfall climate, speeding the process. This geological weathering will absorb the remaining 20–40% of anthropogenic carbon dioxide over the period of tens of thousands to hundreds of thousands of years.
+
+
+== ReferencesEdit ==

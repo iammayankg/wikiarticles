@@ -1,0 +1,28 @@
+Climate inertia describes the widespread inherent characteristic of the climate, ecological, and socio-economic systems. Inertia from anthropogenic impacts may be slow to become apparent, or could be irreversible if climate change crosses associated thresholds. Melting ice sheets in Greenland and Antarctica take time to respond to the emissions of fossil fuel carbon in the climate system. The global warming also causes thermal inertia, thermal expansion of the oceans, which contributes to sea level rise. It has been estimated that we are already committed to a sea-level rise of approximately 2.3 meters for each degree of temperature rise within the next 2,000 years.
+
+
+== Definition ==
+The IPCC synthesis report from 2001 (AR3) states "Inertia" means a delay, slowness, or resistance in the response of climate, biological, or human systems to factors that alter their rate of change, including continuation of change in the system after the cause of that change has been removed.
+
+
+== Thermal inertia ==
+The ocean’s thermal inertia, delays some global warming for decades or centuries, it is accounted for in global climate models, and has been confirmed via measurements of Earth’s energy balance. Permafrost takes longer to respond to a warming planet because of thermal inertia, due to ice rich materials and permafrost thickness.
+The observed transient climate sensitivity and the equilibrium climate sensitivity are proportional to the thermal inertia time scale. Thus, Earth’s equilibrium climate sensitivity adjusts over time until a new steady state equilibrium has been reached.
+
+
+== Ice sheet inertia ==
+Even after CO2 emissions are lowered, the melting of ice sheets would continue, and further increase sea-level rise for centuries. Because of slow transport of heat into the oceans and the slow response time of ice sheets until the new system equilibrium has been reached.
+
+
+== Ecological inertia ==
+Depending on the ecosystem, effects of climate change could show quickly, while others take more time to respond. For instance, coral bleaching can occur in a single warm season, while trees may be able to persist for decades under a changing climate, but be unable to regenerate. Changes in the frequency of extreme weather events could disrupt ecosystems as a consequence, depending on individual response times of species.
+
+
+== Policy implications of inertia ==
+The IPCC concluded, that the inertia and uncertainty of the climate system, ecosystems, and socio-economic systems implies that margins for safety should be considered. Thus, setting strategies, targets, and time tables for avoiding dangerous interference through climate change. Further the IPCC concluded in their 2001 report that the stabilization of atmospheric CO2 concentration, temperature, or sea level is affected by:
+The inertia of the climate system, which will cause climate change to continue for a period after mitigation actions are implemented.
+Uncertainty regarding the location of possible thresholds of irreversible change and the behavior of the system in their vicinity.
+The time lags between adoption of mitigation goals and their achievement.
+
+
+== References ==

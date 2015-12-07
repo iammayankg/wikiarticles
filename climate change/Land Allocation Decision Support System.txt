@@ -1,0 +1,32 @@
+LADSS or Land Allocation Decision Support System, is an agricultural land-use planning tool developed at The Macaulay Institute. More recently the term LADSS is used to refer to the research of the team behind the original planning tool.
+
+
+== Overview of Research ==
+The focus of the research of the LADSS team has evolved over time from land use decision support towards policy support, climate change and the concepts of resilience and adaptive capacity.
+
+
+== Recent Studies ==
+The team has recently published a study which examines, from a Scottish perspective, a number of alternative scenarios for reform of CAP Pillar 1 Area Payments. It focuses on two alternative classifications: the Macaulay Land Capability for Agriculture classification; and Less Favoured Area Designations; and includes analysis of the redistribution of payments from the current historical system. The study is entitled: Modelling Scenarios for CAP Pillar 1 Area Payments using Macaulay Land Capability for Agriculture (& Less Favoured Area Designations) and was used to inform the Pack Inquiry.
+The EU FP7 SMILE (Synergies in Multi-scale Inter-Linkages of Eco-social Systems) project, focuses on the concept of social metabolism that draws attention to how energy, material, money and ideas are utilised by society.
+The Aquarius project, which is aims is to find and implement sustainable, integrated land-water management through engaging with land managers.
+The COP15 website which provides a series of briefing and scoping papers produced by the United Nations Environment Programme (UNEP) and contributed to by The Macaulay Institute to raise the profile of the ecosystems approach in the UNFCC 15th Conference of the Parties meeting in Copenhagen to tackling not just climate change mitigation and adaptation, but also poverty alleviation, disaster risk reduction, biodiversity loss and many other environmental issues.
+
+
+== LADSS Planning Tool ==
+The LADSS planning tool is implemented using the programming language G2 from Gensym alongside a Smallworld GIS application using the Magik programming language and an Oracle database. LADSS models crops using the CropSyst simulation model. LADSS also contains a livestock model plus social, environmental and economic impact assessments.
+LADSS has been used to address climate change issues affecting agriculture in Scotland and Italy. Part of this work has involved the use of General Circulation Models (also known as Global climate models) to predict future climate scenarios. Other work has included a study into how Common Agricultural Policy reform will affect the uplands of Scotland, an assessment of agricultural sustainability and rural development research within the AGRIGRID project.
+
+
+== Resources ==
+Peer reviewed papers produced by LADSS are available for download in PDF format.
+
+
+== References ==
+
+
+== External links ==
+Official site
+Original LADSS planning tool
+SMILE project
+Aquarius project
+COP15 project

@@ -1,0 +1,39 @@
+Greenhouse gas inventories are a type of emission inventory that are developed for a variety of reasons. Scientists use inventories of natural and anthropogenic (human-caused) emissions as tools when developing atmospheric models. Policy makers use inventories to develop strategies and policies for emissions reductions and to track the progress of those policies. And, regulatory agencies and corporations rely on inventories to establish compliance records with allowable emission rates. Businesses, the public, and other interest groups use inventories to better understand the sources and trends in emissions.
+Unlike some other air emission inventories, greenhouse gas inventories include not only emissions from source categories, but also removals by carbon sinks. These removals are typically referred to as carbon sequestration.
+Greenhouse gas inventories, typically use Global warming potential (GWP) values to combine emissions of various greenhouse gases into a single weighted value of emissions.
+Some of the key examples of greenhouse gas inventories include:
+All Annex I countries are required to report annual emissions and sinks of greenhouse gases under the United Nations Framework Convention on Climate Change (UNFCCC)
+National governments that are Parties to the UNFCCC and/or the Kyoto Protocol are required to submit annual inventories of all anthropogenic greenhouse gas emissions from sources and removals from sinks.
+The Kyoto Protocol includes additional requirements for national inventory systems, inventory reporting, and annual inventory review for determining compliance with Articles 5 and 8 of the Protocol.
+Project developers under the Clean Development Mechanism of the Kyoto Protocol prepare inventories as part of their project baselines.
+Corporation and other entities can prepare greenhouse gas inventories to track progress towards meeting an emission reduction goal.
+Scientific efforts aimed at understanding detail of total net carbon exchange. Example: Project Vulcan - a comprehensive US inventory of fossil-fuel greenhouse gas emissions.
+
+
+== ISO 14064 ==
+The ISO 14064 standards (published in 2006 and early 2007) are the most recent additions to the ISO 14000 series of international standards for environmental management. The ISO 14064 standards provide governments, businesses, regions and other organisations with an integrated set of tools for programs aimed at measuring, quantifying and reducing greenhouse gas emissions. These standards allow organisations take part in emissions trading schemes using a globally recognised standard.
+
+
+== Local Government Operations Protocol ==
+The Local Government Operations Protocol (LGOP) is a tool for accounting and reporting greenhouse gas emissions across a local government’s operations. Adopted by the California Air Resources Board (ARB) in September 2008 for local governments to develop and report consistent GHG inventories to help meet California’s AB 32 GHG reduction obligations, it was developed in partnership with California Climate Action Registry, The Climate Registry, ICLEI and dozens of stakeholders.
+The California Sustainability Alliance also created the Local Government Operations Protocol Toolkit, which breaks down the complexities of the LGOP manual and provides an area by area summary of the recommended inventory protocols.
+
+
+== See also ==
+Greenhouse gas accounting
+Greenhouse gas monitoring
+Greenhouse Gases Observing Satellite (GOSAT) (Ibuki)
+
+
+== Sources ==
+
+
+== Further reading ==
+Intergovermental Panel on Climate Change (IPCC) national greenhouse gas inventory guidance manuals
+UNFCCC National Inventory process
+The GHG Protocol (WRI/WBCSD) - A corporate accounting and reporting standard
+ISO 14064 standards for greenhouse gas accounting and verification
+IPCC National Greenhouse Gas Inventories Programme
+U.S. EPA Greenhouse Gas Emission Inventories <- this link needs updating
+The Climate Registry
+California Climate Registry

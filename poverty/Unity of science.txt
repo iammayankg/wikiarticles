@@ -1,0 +1,25 @@
+The unity of science is a thesis in philosophy of science that says that all the sciences form a unified whole.
+Even though, for example, physics and politics are distinct disciplines, the thesis of the unity of science says that in principle they must be part of a unified intellectual endeavor, science. The unity of science thesis is usually associated with the view of levels of organization in nature, where physics is the most basic, chemistry the level above physics, biology above chemistry, sociology above biology, and so forth. Further, cells, organisms, and cultures are all biological, but they represent three different levels of biological organization.
+It has also been suggested (for example, by Jean Piaget, 1950) that the unity of science can be considered in terms of a circle of the sciences, where physics provides a basis for chemistry, chemistry for biology, biology for psychology, psychology for logic & mathematics and logic & mathematics for physics.
+The thesis of a unity of science simply says that common scientific laws apply everywhere and on all levels of organization. On some levels of organization, the scientists there will call these laws by another name, or emphasize the importance of one over another. For example, thermodynamics or the laws of energy seem to be universal across a number of disciplines. That is almost certainly because nearly all systems in nature operate using transactions in energy. However, this does not rule out the possibility of some laws being particular to specific domains of inquiry—perhaps characterized by increasing complexity of those domains, as suggested by Henriques' (2003) Tree of Knowledge that proposes four degrees of complexity (Matter, Life, Mind, and Culture). Of course, his tree might equally be a circle, with culture necessarily framing people's understanding of matter.
+Science is a human endeavor, a part of human culture. It is unified in the sense that it is understood as a single endeavor, and there are not scientists studying alternative realities. To the extent that they do, however, one could argue that they are not unified. It is the perception of a single reality that results in a unity of science.
+Separately, science is also apparently on a path toward simplification or actually a "universalization" of discrete scientific theories about energy that physicists call unification. This has led to string theory and its derivatives, and is probably related to the notion that, at bottom, there is only the energy that was released in the big bang, and really nothing else.
+The unity of science thesis is most famously clarified and tentatively argued for by Ludwig von Bertalanffy's General System Theory, Paul Oppenheim and Hilary Putnam. It is most famously argued against by Jerry Fodor, John Dupre and Paul Feyerabend.
+
+
+== See also ==
+Consilience
+Special sciences
+Tree of Knowledge System
+Unified Science
+The central science
+
+
+== References ==
+Richard Boyd, Philip Gasper and J. D. Trout eds. (1991) Philosophy of Science Cambridge: MIT Press.
+David Edwards and Steven Wilcox (1980)"Unity, Disunity and Pluralism in Science", http://www.math.uga.edu/~davide/Unity,%20Disunity%20and%20Pluralism%20in%20Science.pdf
+Paul Oppenheim and Hilary Putnam (1958) "Unity of Science as a Working Hypothesis", http://philosophy.wisc.edu/shapiro/Phil951/2010/openheim.putnam.unity.pdf, in Minnesota Studies in the Philosophy of Science (vol. 2) pp. 3–36. Reprinted in Boyd et al.
+Jerry Fodor, (1974) "Disunity of Science as Working Hypothesis" in Synthese (vol. 28) pp. 77–115. http://www.springerlink.com/content/g2121805q31774r7/ Reprinted as "Special Sciences" in Boyd, et al.
+Henriques, G.R. (2003). The Tree of Knowledge System and the Theoretical Unification of Psychology. Review of General Psychology, 7, 150-182.
+H.T. Odum, 1995. 'Energy Systems and the Unification of Science', in Hall, C.S. (ed.) Maximum Power: The Ideas and Applications of H.T. Odum. Colorado University Press, Colorado: 365-372.
+Piaget, J. (1950). Introduction à l'épistémologie génétique (3 Vol). Paris: Presses Universitaires de France.

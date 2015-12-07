@@ -1,0 +1,30 @@
+Climate commitment describes the fact that climate reacts with a delay to influencing factors ("climate forcings") such as the presence of greenhouse gases. Climate commitment studies attempt to assess the amount of future warming that is "committed" under the assumption of some constant level of forcings. The constant level often used for illustrative purposes is CO2 doubling or quadrupling; or the present level of forcing.
+
+
+== Basic idea ==
+If a perturbation - such as an increase in greenhouse gases or solar activity - is applied to the climate system the response will not be immediate, principally because of the large heat capacity (i.e., thermal inertia) of the oceans.
+As an analogue, consider the heating of a thin metal plate (by the sun or by a flame): the plate will warm relatively quickly. If a thick metal block is heated instead, it will take much longer for the entire block to reach equilibrium with the imposed heating because of its higher heat capacity.
+Land only stores heat in the top few meters. Ocean water, by contrast, can move vertically and store heat within the ocean's depth (convection). This is why the land surface is observed to warm more than the oceans. It also explains the very large difference in response between
+"equilibrium" climate prediction runs in which only a shallow ocean is used and it is assumed that the climate has come to equilibrium and
+"transient" climate prediction runs in which a full ocean is used and the climate is out of balance.
+The "commitment" can apply to variables other than temperature: because of the long mixing time for heat into the deep ocean, a given surface warming commits to centuries of sea level rise from thermal expansion of the ocean. Also once a certain threshold is crossed, it is likely that a slow melting of the Greenland ice sheet will commit us to a sea level rise of 5m over millennia.
+
+
+== Models ==
+
+Recent models forecast that even in the unlikely event of greenhouse gases stabilising at present levels, the earth would warm by an additional 0.5°C by 2100, a similar rise in temperature to that seen during the 20th century. As ocean waters expand in response to this warming, global sea levels would mount by about 10 centimetres during that time. These models do not take into account ice cap and glacier melting; including those climate feedback effects would give a 1°C - 1.5°C estimated temperature increase.
+
+
+== History ==
+This is by no means a new idea, the concept is discussed in the IPCC TAR [1] and in the SAR in 1995.
+
+
+== References ==
+Meehl G. A., et al. Sciencexpress, 10.1126/science.1106663 (2005).
+Wigley T. M. L., et al. Sciencexpress, 110.1126/science.1103934 (2005).
+^ Deirdre Lockwood (2005-05-17). "Oceans extend effects of climate change". Nature Publishing Group. Retrieved 2010-05-07. 
+
+
+== External links ==
+http://www.nature.com/news/2005/050314/full/050314-13.html
+GRL, VOL. 28, NO. 8, PAGES 1535–1538, 2001, Committed warming and its implications for climate change, Richard T. Wetherald et al.

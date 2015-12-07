@@ -1,0 +1,14 @@
+The Twomey effect describes how cloud condensation nuclei (CCN), possibly from anthropogenic pollution, may increase the amount of solar radiation reflected by clouds. This is an indirect effect.
+Aerosol particles can act as CCN's creating more droplets which have a smaller size distribution. This increases the cloud albedo as clouds appear whiter and larger, leading to a cooling of between -0.3 and -1.8 Wm−2. For example we observe trails of white clouds from ships crossing the oceans due to this effect.
+
+
+== See also ==
+Albrecht effect
+Sulfate
+Aerosols and soot
+
+
+== References ==
+
+
+== Bibliography ==

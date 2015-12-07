@@ -1,0 +1,23 @@
+The Mauna Loa Observatory (MLO) is an atmospheric baseline station on Mauna Loa, on the island of Hawaii.
+
+
+== The observatory ==
+
+Since 1956 Mauna Loa Observatory (MLO) has been monitoring and collecting data relating to atmospheric change, and is known especially for the continuous monitoring of atmospheric carbon dioxide (CO2), which is sometimes referred to as the Keeling Curve. The observatory is under the Earth System Research Laboratory which is part of the National Oceanic and Atmospheric Administration (NOAA). According to the NOAA, Mauna Loa is the world's oldest continuous CO2 monitoring station, and the world's primary benchmark site for measurement of the gas. 
+The latest observation of CO2 concentrations from MLO can be found at web sites along with data from other sites and trends at Mauna Loa. The MLO levels can be compared with other sites in the global monitoring network.
+MLO has activities at five locations on the Big Island. The primary observing site is located at the 3397 m (11,141 ft) level on Mauna Loa's north slope ( 19°32′10″N 155°34′34″W) about 5 km north of the summit Mokuaweoweo. The Mauna Loa Solar Observatory shares this site. The administration and some data processing are done in the Hilo, Hawaii office. Kulani Mauka is a rain collection site. Cape Kumukahi is a flask sample site located on the easternmost point of Hawaii. At the Hilo airport, weekly balloon-borne instruments are prepared and launched to measure ozone from the surface to usually over 30 km. The observatory site is also a temporary home to a cosmic microwave background observatory called AMiBA.
+Mauna Loa was originally chosen as a monitoring site because, located far from any continent, the air was sampled and is a good average for the central Pacific. Being high, it is above the inversion layer where most of the local effects are present and there was already a rough road to the summit built by the military. The contamination from local volcanic sources is sometimes detected at the observatory, and is then removed from the background data.
+
+
+== See also ==
+Carbon dioxide in Earth's atmosphere
+Mauna Kea Observatories
+
+
+== References ==
+
+
+== External links ==
+NOAA Mauna Loa Observatory official web site
+Global Monitoring Division, Boulder, CO, USA
+Worldwide Carbon Dioxide concentrations - in real time

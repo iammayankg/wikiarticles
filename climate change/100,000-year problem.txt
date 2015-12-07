@@ -1,0 +1,54 @@
+The 100,000 year problem is a discrepancy between past temperatures and the amount of incoming solar radiation, or insolation. The latter rises and falls according to the strength of radiation given off by the sun, the distance from the earth to the sun, and the tilt of the Earth's axis of rotation. However, the recent change between glacial and inter-glacial states that occurs on a circa 100,000 year (100 ka) timescale, does not correlate well with these factors.
+Due to variations in the Earth's orbit, the amount of insolation varies with periods of around 21,000, 40,000, 100,000, and 400,000 years. Variations in the amount of incident solar energy drive changes in the climate of the Earth, and are recognised as a key factor in the timing of initiation and termination of glaciations. Isotope analysis shows the dominant periodicity of the climate response to be around 100,000 years, but the orbital forcing at this period is small.
+
+
+== Reconstructing past climate ==
+
+Past climate data—especially temperature—can be readily inferred from sedimentary evidence, although not with the accuracy that instruments can measure current temperatures. Perhaps the most useful indicator of past climate is the fractionation of oxygen isotopes, denoted δ18O. This fractionation is controlled mainly by the amount of water locked up in ice and the absolute temperature of the planet, and has allowed a timescale of marine isotope stages to be constructed.
+
+
+== Comparing the records ==
+The δ18O record of air (in the Vostok ice core) and marine sediments has been compared with estimates of solar insolation, which should affect both temperature and ice volume. Nicholas Shackleton orbitally tuned the Antarctic ice core air δ18O (i.e. he adjusted the time scale of the record to fit the assumed forcing), and used spectral analysis to identify and subtract the component of the record that in this interpretation could be attributed to a linear (directly proportional) response to the orbital forcing. The residual signal (the remainder), when compared with the residual from a similarly retuned marine core isotope record, allowed him to estimate the proportion of the signal that was attributable to ice volume, with the rest (having attempted to allow for the Dole effect) being attributed to temperature changes in the deep water.
+The 100,000-year component of ice volume variation was found to match sea level records based on coral age determinations, and to lag orbital eccentricity by several thousand years, as would be expected if orbital eccentricity were the pacing mechanism. Strong non-linear "jumps" in the record appear at deglaciations, although the 100,000-year periodicity was not the strongest periodicity in this "pure" ice volume record. The separate deep sea temperature record was found to vary directly in phase with orbital eccentricity, as did Antarctic temperature and CO2; so eccentricity appears to exert a geologically immediate effect on air temperatures, deep sea temperatures, and atmospheric carbon dioxide concentrations. Shackleton concluded: "The effect of orbital eccentricity probably enters the paleoclimatic record through an influence on the concentration of atmospheric CO2". The mechanism causing these cyclic temperature changes remains at the heart of the 100,000-year problem.
+
+
+== Hypotheses to explain the problem ==
+As the 100,000-year periodicity only dominates the climate of the past million years, there is insufficient information to separate the component frequencies of eccentricity using spectral analysis, making the reliable detection of significant longer-term trends more difficult, although the spectral analysis of much longer palaeoclimate records, such as the Lisiecki and Raymo stack of marine cores and James Zachos' composite isotopic record, helps to put the last million years in longer term context. Hence there is still no clear proof of the mechanism responsible for the 100ka periodicity—but there are several credible hypotheses.
+
+
+=== Climatic resonance ===
+The mechanism may be internal to the Earth system. The Earth's climate system may have a natural resonance frequency of 100ka; that is to say, feedback processes within the climate automatically produce a 100ka effect, much as a bell naturally rings at a certain pitch. Opponents to this claim point out that the resonance would have to have developed 1 million years ago, as a 100ka periodicity was weak to non-existent for the preceding 2 million years. This is feasible — continental drift and sea floor spreading rate change have been postulated as possible causes of such a change. Free oscillations of components of the Earth system have been considered as a cause, but too few Earth systems have a thermal inertia on a thousand-year timescale for any long-term changes to accumulate. The 100,000 year problem has been scrutinized by José A. Rial, Jeseung Oh and Elizabeth Reischmann who find that master-slave synchronization between the climate systems natural frequencies and the eccentricity forcing started the 100ky ice ages of the late Pleistocene and explain their large amplitude. Considerations of simple resonance as those described above are naive in the sense that the climate system is considered linear, which is a wrong paradigm.
+
+
+=== Orbital inclination ===
+
+Orbital inclination has a 100ka periodicity, while eccentricity's 95 and 125ka periods could inter-react to give a 108ka effect. While it is possible that the less significant, and originally overlooked, inclination variability has a deep effect on climate, the eccentricity only modifies insolation by a small amount: 1–2% of the shift caused by the 21,000-year precession and 41,000-year obliquity cycles. Such a big impact from inclination would therefore be disproportionate in comparison to other cycles. One possible mechanism suggested to account for this was the passage of Earth through regions of cosmic dust. Our eccentric orbit would take us through dusty clouds in space, which would act to occlude some of the incoming radiation, shadowing the Earth. In such a scenario, the abundance of the isotope 3He, produced by solar rays splitting gases in the upper atmosphere, would be expected to decrease—and initial investigations did indeed find such a drop in 3He abundance. But the idea of an inclination effect has been deemed unnecessary (Rial 1999). However, there is still the possibility that the 100ka eccentricity cycle acts as a "pacemaker" to the system, amplifying the effect of precession and obliquity cycles at key moments, pushing the system out of a locally stable state and triggering a swift melting phase, by a small perturbation.
+
+
+=== Precession cycles ===
+
+A similar suggestion holds the 21,636-year precession cycles solely responsible. Ice ages are characterized by the slow buildup of ice volume, followed by relatively swift melting phases. It is possible that ice built up over several precession cycles, only melting after four or five such cycles.
+
+
+=== Solar Luminosity Fluctuation ===
+A mechanism that may account for periodic fluctuations in solar luminosity has also been proposed as an explanation. Diffusion waves occurring within the sun can be modeled in such a way that they explain the observed climatic shifts on earth. However, the He3 signal again appears to contradict this finding.
+
+
+=== Land vs. oceanic photosynthesis ===
+
+The Dole effect describes trends in δ18O arising from trends in the relative importance of land-dwelling and oceanic photosynthesizers. Such a variation is a plausible cause of the phenomenon.
+
+
+=== Ongoing research ===
+The recovery of higher-resolution ice cores spanning more of the past 1,000,000 years by the ongoing EPICA project may help to shed more light on the matter. A new, high-precision dating method developed by the team allows better correlation of the various factors involved and puts the ice core chronologies on a stronger temporal footing, endorsing the traditional Milankovitch hypothesis, that climate variations are controlled by insolation in the northern hemisphere. The new chronology is inconsistent with the "inclination" theory of the 100,000-year cycle. The establishment of leads and lags against different orbital forcing components with this method—which uses the direct insolation control over nitrogen-oxygen ratios in ice core bubbles—is in principle a great improvement in the temporal resolution of these records and another significant validation of the Milankovitch hypothesis. An international climate modelling exercise (Abe-ouchi et al., Nature, 2013) demonstrated that climate models can replicate the 100,000 year cyclicity given the orbital forcing and carbon dioxide levels of the late Pleistocene. The isostatic history of ice sheets was implicated in mediating the 100,000 year response to the orbital forcing. Larger ice sheets are lower in elevation because they depress the continental crust upon which they sit, and are therefore more vulnerable to melting.
+
+
+== See also ==
+
+Isotope geochemistry
+Milankovitch cycles
+Oxygen-18
+Paleoclimatology
+
+
+== References ==

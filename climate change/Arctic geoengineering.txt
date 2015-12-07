@@ -1,0 +1,29 @@
+Temperatures in the Arctic region have tended to increase more rapidly than the global average. Projections of sea ice loss that are adjusted to take account of recent rapid Arctic shrinkage suggest that the Arctic will likely be free of summer sea ice sometime between 2059 and 2078. Various climate engineering schemes have been suggested to reduce the chance of significant and irreversible effects such as Arctic methane release.
+Several climate engineering proposals have been made which are specific to the Arctic. They are usually hydrological in nature, and principally centre upon measures to prevent Arctic ice loss.
+In addition, other solar radiation management climate engineering techniques, such as stratospheric sulfate aerosols have been proposed. These would cool the Arctic by adjusting the albedo of the atmosphere.
+
+
+== Background ==
+The Arctic region plays an important role in the regulation of the Earth's climate. Conditions in the Arctic may suggest the existence of tipping points, including ice-albedo feedback from melting Arctic sea ice and Arctic methane release from thawing permafrost and methane clathrate. The speed of future retreat of the Arctic sea ice is contentious. The IPCC Fourth Assessment Report of 2007 states that "in some projections, Arctic late-summer sea ice disappears almost entirely by the latter part of the 21st century." However, the ice has since undergone unexpectedly significant retreat, reaching a record low area in summer 2007 before recovering somewhat in 2008.
+A tipping point process could potentially commence as the Arctic region warms, if there is positive feedback with sufficient gain. Tim Lenton suggests that the retreat of sea ice is such a process, and the tipping may have started already. Climate engineering has been proposed for preventing or reversing tipping point events in the Arctic, in particular to halt the retreat of the sea ice.
+Preventing such ice loss is important for climate control, as the Arctic ice regulates global temperatures by virtue of its albedo, and also by restraining methane emissions from permafrost near the shoreline in the Arctic region. Additionally, the sea ice has a wider regional climatic role, and acts to maintain permafrost more generally in the region, by insulating the cold winter winds from the warm sea.
+
+
+== Building thicker sea ice ==
+It has been proposed to actively enhance the polar ice cap by spraying or pumping water onto the top of it which would build thicker sea ice. As ice is an insulator, water on the surface of the ice tends to freeze more quickly than that below. River water could be used for this purpose, as salt water tends to resist freezing, and may end up perforating the resulting ice sheet.
+Thickening ice by spraying seawater onto existing ice has been proposed. Sea ice is an effective thermal insulator, and thus freezing takes place much more rapidly on the top surface of the ice sheet than on the bottom. Thicker sea ice is more structurally stable, and is more resistant to melting due to its increased mass. An additional benefit of this method is that the increased salt content of the melting ice will tend to strengthen downwelling currents when the ice re-melts.
+
+
+== Stratospheric sulfate aerosols ==
+Caldeira and Wood analysed the effect of climate engineering in the Arctic using stratospheric sulfate aerosols. This technique is not specific to the Arctic region. He found that At high latitudes, there is less sunlight deflected per unit albedo change but climate system feedbacks operate more powerfully there. These two effects largely cancel each other, making the global mean temperature response per unit top-of-atmosphere albedo change relatively insensitive to latitude.
+
+
+== Influencing ocean temperature and salinity ==
+It has been suggested that locally influencing salinity and temperature of the Arctic Ocean, by changing the ratio of Pacific and fluvial waters entering through the Bering Strait could play a key role in preserving Arctic sea ice. The purpose would be to create a relative increase of fresh water inflow from the Yukon River, while blocking (part) of the warm and saltier waters from the Pacific Ocean. Proposed geoengineering options include a dam connecting St. Lawrence Island and a threshold under the narrow part of the strait.
+
+
+== References ==
+
+
+== Further reading ==
+Global Change and the Earth System

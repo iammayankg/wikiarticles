@@ -1,0 +1,175 @@
+The United States is the 2nd largest energy consumer (after China) in terms of total use in 2010. The U.S. ranks seventh in energy consumption per-capita after Canada and a number of small nations. Not included is the significant amount of energy used overseas in the production of retail and industrial goods consumed in the U.S.
+The majority of this energy is derived from fossil fuels: in 2010, data showed 25% of the nation's energy came from petroleum, 22% from coal, and 22% from natural gas. Nuclear power supplied 8.4% and renewable energy supplied 8%, which was mainly from hydroelectric dams and biomass but also included other renewable sources such as wind power, geothermal and solar energy. Energy consumption has increased at a faster rate than domestic energy production over the last fifty years in the U.S. (when they were roughly equal). This difference is now largely met through imports.
+According to the Energy Information Administration's statistics, the per-capita energy consumption in the US has been somewhat consistent from the 1970s to today. The average has been 334 million British thermal units (BTUs) per person from 1980 to 2010. One explanation suggested for this is that the energy required to produce the increase in US consumption of manufactured equipment, cars, and other goods has been shifted to other countries producing and transporting those goods to the US with a corresponding shift of green house gases and pollution. In comparison, the world average has increased from 63.7 in 1980 to 75 million BTU's per person in 2008. On the other hand, US "off-shoring" of manufacturing is sometimes exaggerated: US domestic manufacturing has grown by 50% since 1980.
+
+
+== History ==
+
+From its founding until the late 18th century, the United States was a largely agrarian country with abundant forests. During this period, energy consumption overwhelmingly focused on readily available firewood. Rapid industrialization of the economy, urbanization, and the growth of railroads led to increased use of coal, and by 1885 it had eclipsed wood as the nation's primary energy source.
+Coal remained dominant for the next seven decades, but by 1950, it was surpassed in turn by both petroleum and natural gas. In 2007, coal consumption was the highest it has ever been, with coal mostly being used to generate electricity. Natural gas, which is cleaner-burning and more easily transportable, has replaced coal as the preferred source of heating in homes, businesses and industrial furnaces. Although total energy use increased by approximately a factor of 50 between 1850 and 2000, energy use per capita increased only by a factor of four. As of 2009, United States per capita energy use had declined to 7075 (kilograms of oil-equivalent), 12% less than 2000, and through 2010 (most recent available) is at levels not seen since 1960s usage levels. At the beginning of the 20th century, petroleum was a minor resource used to manufacture lubricants and fuel for kerosene and oil lamps. One hundred years later it had become the preeminent energy source for the U.S. and the rest of the world. This rise closely paralleled the emergence of the automobile as a major force in American culture and the economy.
+While petroleum is also used as a source for plastics and other chemicals, and powers various industrial processes, today two-thirds of oil consumption in the U.S. is in the form of its derived transportation fuels. Oil's unique qualities for transportation fuels in terms of energy content, cost of production, and speed of refueling all contributed to it being used over other fuels.
+In June 2010, the American Energy Innovation Council, a group which includes Bill Gates, of Microsoft; Jeffrey R. Immelt, chief executive of General Electric; and John Doerr, has urged the government to more than triple spending on energy research and development, to $16 billion a year. Mr. Gates endorsed the administration's goal of reducing greenhouse gas emissions by 80 percent by 2050, but said that was not possible with today's technology or politicism. He said that the only way to find such disruptive new technology was to pour large sums of money at the problem. The group notes that the federal government spends less than $5 billion a year on energy research and development, not counting one-time stimulus projects. About $30 billion is spent annually on health research and more than $80 billion on military R.& D. They advocate a jump in spending on basic energy research.
+US CO2 emissions have dropped about 1% per year through greater efficiency and a sluggish economy since 2008.
+
+
+== Current consumption ==
+
+Primary energy use in the United States was 25,155 TWh and 82 TWh per million persons in 2009. Primary energy use was 1,100 TWh less in the US than in China in 2009. Same year the share of energy import in the US was 26% of the primary energy use. The energy import declined ca 22% and the annual CO2 emissions ca 10% in 2009 compared to 2004.
+
+
+=== Consumption by sector ===
+The U.S. Department of Energy tracks national energy consumption in four broad sectors: industrial, transportation, residential, and commercial. The industrial sector has long been the country's largest energy user, currently representing about 33% of the total. Next in importance is the transportation sector, followed by the residential and commercial sectors.
+
+
+=== Consumption by source ===
+The breakdown of energy consumption by source is given here:
+U.S, Primary Energy Consumption by Source and Sector in 2008 is tabled as following:
+Note: Sum of components may not equal 100 percent due to independent rounding.
+Total Primary Consumption Historical Evolution in U.S until 2011.
+Total Consumption until 2011 in Mtoe :
+CAGR = Compound Annual Growth Rate Note: Total energy includes coal, gas, oil, electricity, heat and biomass.
+
+
+=== Regional variation ===
+
+Household energy use varies significantly across the United States. An average home in the Pacific region (consisting of California, Oregon, and Washington) consumes 35% less energy than a home in the South Central region. Some of the regional differences can be explained by climate. The heavily populated coastal areas of the Pacific states experience generally mild winters and summers, reducing the need for both home heating and air conditioning. The warm, humid climates of the South Central and South Atlantic regions lead to higher electricity usage, while the cold winters experienced in the Northeast and North Central regions result in much higher consumption of natural gas and heating oil. The state with the lowest per capita energy use is New York, at 205 million Btu/yr, and the highest is Wyoming, at slightly over 1 billion Btu/yr.
+Other regional differences stem from energy efficiency measures taken at the local and state levels. California has some of the strictest environmental laws and building codes in the country, leading its per-household energy consumption to be lower than all other states except Hawaii.
+The land-use decisions of cities and towns also explain some of the regional differences in energy use. Townhouses are more energy efficient than single-family homes because less heat, for example, is wasted per person. Similarly, areas with more homes in a compact neighborhood encourage walking, biking and transit, thereby reducing transportation energy use. A 2011 U.S. E.P.A. study found that multi-family homes in urban neighborhoods, with well-insulated buildings and fuel-efficient cars, can save more than 2/3 of the energy used by conventionally built single-family houses in suburban areas (with standard cars).
+
+
+== Renewable energy ==
+
+
+== Oil ==
+
+For most of the twentieth century and the early part of the twenty-first century, the majority of energy consumed has been from oil - fossil fuel provided 81% of the world's energy in 2009, with oil the largest contribution. The United States became a world power in the early 20th century as they increased development of oil production and influenced world oil reserves for growth and development. As the 20th century developed, petroleum gained increasing importance by providing heating and power to the commercial and industrial sectors. Oil was also used in transportation; first for railroads and later for motor vehicles.
+As automobiles became more affordable, demand for oil quickly rose. Since the rise of the automobile industry, oil price, demand, and production have all increased. From 1900 to 1980, fuel was directly correlated with Gross National Product (GNP), oil shocks have often coincided with recessions, and the government has responded to oil shocks with a variety of methods. In the 1920s, oil prices were peaking and many commentators believed that oil supplies were running out. Congress was confronted by requests to augment supplies, so a generous depletion allowance was enacted for producers in 1926, which increased investment returns substantially. This change induced additional exploration activity, and subsequently the discovery of large new oil reservoirs.
+The next decade the situation was reversed, with prices low and dropping. This led to demands for more "orderly" competition and set minimum oil prices. Rather than repealing the previous policies enacted in the 1920s, Congress enacted a price-support system. Similar cycles have occurred in the 1950s and 1970s.
+
+
+=== Price ===
+With the exception of one, every US recession since World War II experienced a sharp increase in the price of oil. This correlation strongly signifies the US dependency of oil for the economy, as well as oil's importance in US development for most of the time since the war. Many of the key cases of crude oil price increases in the post-war period were associated with political upheaval from oil rich countries. Domestic production and consumption were outpaced by US demand toward the end of the 1960s, and Middle Eastern nations gained a significant amount of political leverage in controlling prices based on their production. Price increases have been directly related to increased investment and subsequent production in oil. Following World War II, European reconstruction was the primary objective of the United States economy, and investment eventually rose after a long-term price increase at the end of the war. During the 1950s, there were strikes by oil workers, production restrictions imposed by the Texas Railroad Commission, as well as the Suez Crisis and Korean War—all creating steep price increases, with prices only falling after production was able to meet demand. Peak Oil in the United States resulted in a definite decline of US reserves and even more strikes by oil workers. Additional singular events such as the OPEC embargo, the rupture of the Trans-Arabian Pipeline, and Iranian Nationalization of the oil industry led to further price increases that were never before seen. Each case was followed by a marked recession in the US economy.
+In 2008, oil prices rose briefly, to as high as $145/barrel, and U.S. gasoline prices jumped from $1.37 to $2.37/gallon in 2005, leading to a search for alternate sources, and by 2012, less than half of US oil consumption was imported. However, as of January 2015, the price of oil has collapsed to around $50/barrel.
+
+
+=== Consumption and production ===
+In the twentieth century, oil production became of more value, as the US industrialized and developed commercial transportation, such as railroads and motor vehicles. Furthermore, oil consumption also increased due to electricity. After electricity, oil became more important in commercial, manufacturing and residential sectors such as heating and cooking. Therefore, during this period, the growth of oil consumption indicates that the United States was becoming dependent on oil and it aided the growth of the domestic oil industry. However, U.S oil domestic production could not cover the growing demand in the U.S market, which led the U.S to look for a new supply internationally.
+U.S. consumption of oil increased 53% between 1915 and 1919, followed by another increase of 27% in 1920. The first shock of the transportation era occurred in 1920 and lasted for about a year. The shortage of oil devastated the entire West Coast with hour-long lines for gasoline, and in many places fuel was not available for at least a week. Finally, big production from Texas, California and Oklahoma took the shortage of oil away causing oil prices to fall 40% between 1920 and 1926. The Great Depression in 1929 was a time with growing supply and falling demand causing the price of oil to decrease about 66% from 1926 to 1931.
+Toward the end of World War II, the automotive era settled rapidly, and the U.S. demand of oil increased 12% between 1945 and 1947 while motor vehicle registrations increased by 22%. Around 1948, demand of oil exceeded supply of oil, leading the U.S. to start importing oil. Therefore, the U.S. quickly became a major importer of oil, instead of being the major exporter.
+In 1952, due to a strike by US oil refinery workers, the United States and the United Kingdom cut 30% of fuel delivery to civilian flights, while Canada postponed all private flights. Until the 1960s, the price of oil was relatively stable and the world market could cover the excess demand of oil in the U.S. However, in 1973, the price of oil increased due to the Arab oil embargo against the U.S., following United States support of Israel in the Yom Kippur War. During that time, Arab oil producers reduced production 4.4mb/d for two months, 7.5% of global output. During this time, people reduced their consumption of oil by turning down thermostats and carpooling to work, which together with the lower demand due to the 1973-75 recession, resulted in a reduction in oil consumption.
+After the Crisis of 1973, price of oil increased again between 1979 and 1980 due to the Iranian revolution. This crisis was related to political instability in a major oil-exporting region. During this period, oil consumption decreased due to new efficiency. Cars at that time were developed so less oil was required and industrialization was also advanced to reduce the consumption of oil. This led to a decline in U.S. demand of oil and reduced the amount of international imports. The last energy crises in the U.S occurred in 1990. This occurred because Iraq invaded Kuwait. Similar to the previous crisis, price of oil increased and oil consumption decreased but by a smaller amount and had a smaller effect.
+In 2010, 70.5% of petroleum consumption in the U.S. was for transportation. Approximately 2/3 of transportation consumption was gasoline. Today, U.S is still dependent on oil as oil is an important player socially, economically and politically. U.S. demand of oil is increasing exponentially causing the U.S. to continue to rely on foreign countries.
+
+
+=== Policy ===
+Regulation of the oil market has been a major player in oil history. Policies affect the market in a variety of ways such as; price, production, consumption, supply and demand. The Oil market has a history of booms and troughs, which caused producers to demand government intervention. Many times this government involvement only made the situation worse, and many of the regulations were quickly ruled illegal and removed. Before World War II, many of the problems within the oil market were related to changing prices. During the 1920s, oil prices were beginning to peak leading to fears of oil depletion. In response to these fears, during Coolidge's term, Congress enacted a depletion allowance to producers which led to a surge of investment in the oil business and the discovery of many new, large oil reservoirs. The next decade consisted of falling prices due to the new investment and overproduction. The declining prices led producers to demand some form of price support system. One example of how prices were propped up was a pro-rationing order made by the Texas Railroad Commission, which restricted oil production and increased price. This order was soon ruled illegal by federal district court in 1931. The 1930s was the beginning of large federal intervention in the oil industry and began with the creation of the National Industrial Recovery Act, in 1933. This act allowed for natural price competition, instead of agreements between the major producers. However, this act was ruled unconstitutional in 1934.
+While the time before World War II was filled with issues regarding price, the post war era consisted of increasing oil imports partly due to the price support established during the 1920s and 1930s. The artificially high domestic prices led to a surge of imports from lower priced foreign producers. In 1955, a clause was added to the Reciprocal Trade Act Amendments which gave the president the power to limit imports of a specific commodity, if that particular commodity was harmful to the security of the nation. This clause allowed Eisenhower to enact oil import quotas in 1959 which ultimately caused international oil prices to decline. These import quotas restricted international oil companies from the US market, and led them to form OPEC. During the 1970s, Richard Nixon put in place many phrases of price controls. After many new regulations that altered the original price control system, President Carter eventually began removing these controls in 1979. During the Carter administration, in response to an energy crisis and hostile Iranian and Soviet Union relations, President Jimmy Carter announced the Carter Doctrine which declared that any interference with U. S. interests in the Persian Gulf would be considered an attack on U.S. vital interests. Ronald Reagan later expanded this doctrine. Since the 1990s, the oil market has been free of most regulations.
+
+
+== Electrical energy ==
+The United States of America (USA) is the world's second largest producer and consumer of electricity. It consumes about 20% of the world's supply of electricity. This section provides a summary of the consumption and generation of the USA Electric industry, based upon data mined from US DOE Energy Information Administration/Electric Power Annual 2013 files. Data was obtained from the most recent DOE Energy Information Agency (EIA) files. Consumption is detailed from the residential, commercial, industrial, and other user communities. Generation is detailed for the major fuel sources of coal, natural gas, nuclear, petroleum, hydro and the other renewables of wind, wood, other biomass, geothermal and solar. Changes to the electrical energy fuel mix and other trends are identified. Progress in wind and solar contributions to the energy mix are addressed. Expected changes in the generation environment during the next 5 years are discussed.
+
+
+=== Consumption ===
+
+Electricity consumption data in this section is based upon data mined from US DOE Energy Information Administration/Electric Power Annual(EPA) 2013 files In 2013 the total US generation and net imports  of electric energy was 4113 Terawatt hours (TWh) (or Million MWh or Billion kWh). This was consumed in the following categories:
+Residential customers (127.89 million) directly consumed 1,394.9 Terawatt hours or 33.91% of the total. This was up 1.48% from 2012. An average residential customer used 909 kWh/ month and with the average US residential cost of $0.1212/kWh the average monthly electrical bill would be $110.17.
+
+Commercial customers (17.78 million) directly consumed 1,344.2 Terawatt hours or 32.68% of the total. This was up 1.29% from 2012. . An average commercial customer used 6300 kWh/month and with the average US commercial electric cost of $0.1028/kWh the average monthly electrical bill would be $647.66.
+Industrial customers (744 thousand) directly consumed 978.35 Terawatt hours or 23.79% of the total. This was essentially the same as in 2012 (-0.07%)
+Transportation customers (75) directly consumed 7.63 Terawatt hours or 0.19% of the total. This was up 4.24% from 2012.
+System  losses throughout the total electrical grid infrastructure by direct use of the suppliers (143 TWh) and for transmission and other system losses and for unaccounted for loads (244 TWh) amounts to 387.9 TWh or 9.43% of the total which is down 3.11% from 2012.
+This data would indicate that the US electric distribution system is 90.57% efficient and efficiency has improved over the last year. Although per capita consumption is down in 2013, total consumption in 2013 is up 0.43% from 2012 and up 5.7% from 2003 but down 0.1% from the peak in 2007.Percentages for each consumer type over the last ten years is shown in the following graph.
+A profile of the electric energy consumption. for 2013 is shown in the following graph. Deviations from the monthly average of 342.72 G Kwhs for each month is shown. The April minimum of 303.22 G Kwhs to the July peak of 398.22 G Kwhs shows the range of consumption variations.
+
+The following table derived from data mined from Electric Power Annual . identifies those states which must import electrical energy from neighboring states to meet their consumption needs. Each state's total electric generation for 2013 is compared with the states consumption and its share of the system loss and the difference between the generated electric energy and its total consumption (including its share of the system loss) is the amount of energy it imports. For Hawaii (HI) total consumption equals generated energy. For the other states, multiplying their direct consumption by 1.10410704 (4102419900/3715599803), results in USA supply (including net imports) being equal to USA total consumption.
+
+
+=== Generation ===
+
+Data in this section is based upon data mined from US DOE Energy Information Administration/Electric Power Annual(EPA) 2013 files
+United States 1,060 Gigawatt power infrastructure: produced: 4,065.96 Billion kWhs (B kWhs) in 2013. USA imports  minus exports was 46.72 B kWhs for a total of 4,112.7 B kWh of electrical energy for U.S. use. Electrical energy generated from Coal was 1,581.12 B kWhs (38.4%); Natural and other Gases, 1,137.69 B kWhs (27.7%); Nuclear, 789.02 B kWhs (19.2%); Hydro, 268.57 B kWhs (6.5%); Renewables (other than Hydro), 253.5 B kWhs (6.2%); Imports less exports, 46.72 B kWh (1.1%); Petroleum, 27.16 B kWhs (0.7%); and Misc (including pumped storage) 8.92 B kWhs (0.3%). United States' renewable fuels (Hydro reported separately) are Wind, 167.84 B kWhs (4.08%); Wood, 40 B kWh (0.97%); other Biomass, 20.83 B kWhs (0.51% ); Geothermal, 15.78 B kWhs (0.38%) and Solar, 9.04 B kWhs (0.22%). The following tables summarize the electrical energy generated by fuel source for the United States. Data from Electric Power Annual 2013 was used throughout this section.
+Note: The number of facilities is counted, not the number of wind turbines or number of nuclear reactors.
+
+Notes:
+Gas includes natural gas and other gases.
+Solar includes photovoltaics and thermal.
+Bio other includes waste, landfill gas, and other.
+Hydro excludes pumped storage (not an energy source, used by all sources, other than hydro).
+Misc includes misc generation, pumped storage, and net imports.
+Total includes net imports.
+2014 data is from Electric Power Monthly and does not include import-export data.
+Using the data from the US DOE Energy Information Administration/Electric Power Annual 2013 files Data was obtained from the most recent DOE Energy Information Agency (EIA) full year files. The following table derived from data mined from Electric Power Annual . identifies those states which generate more electrical energy than they need to meet their consumption needs. They supply those that need additional energy. Each states total electric generation for 2013 is compared with the states consumption and its share of the system loses and the difference between the generated electric energy and its total consumption (including its share of the system loses) is the amount of energy it exports. For Hawaii (HI), total consumption equals generated energy. For the other states multiplying their direct consumption by 1.10410704 (4102419900/3715599803) results in USA supply (including net imports) being equal to USA total consumption usage. State export is determined by subtracting the state's total consumption from its generation.
+The following provides each states electrical energy generation by fuel source as a percentage (%)of its total electric generation. 
+The following provides each states renewable energy generation by fuel source as a percentage(%) of its total renewable generation. 
+
+
+=== Trends ===
+In 2012 USA's electrical energy usage was 5% more than in 2002. It was 2.2% less than the peak in 2007. It was 1% less than in 2011. Per capita consumption has decreased about 6% since its peak in 2007 and every year since has shown a decrease in individual consumption. Conservation efforts are helping. At least, for the next decade, coal, natural gas, and nuclear will remain the top three fuels for electric energy generation in the USA. Coal will continuously decrease its contribution with natural gas increasing its contribution. Nuclear will have some downs (decommissionings) and ups (new online plants) but probably remain about constant. Hydro will maintain. Petroleum will continue to decrease in importance. Wind and solar will continue to grow in importance; their combined usage was 4.48% in Feb 2014 and should reach 5% by the latter half of 2014, because of very rapid adoption of solar since 2012, along with continued increases in wind output.
+
+
+=== Projections ===
+
+From the beginning of the United States until 1973, total energy (including electrical) use increased by about 3%/year, while population increased an average of 2.2%/year. Per capita energy use from 1730 to 1870 was about 100 million Btu/person. In the 20th century this increased to 300 million (332 million Btu/person/year, 97 thousand kWh/person/year in 1981). Due to efficiency improvements this could drop considerably.
+For the next five years, using data mined from Electric Power Annual 2013  the expected yearly changes to the US power generation portfolio are shown in the following chart.
+
+Using 2013 (1060 GW)as a baseline, electric generating capability in 2018 by coal would be down 28.8 Gigawatts: Petroleum would be down 2.3 Gigawatts. Natural gas would be up 33.9 Gigawatts; solar would be up 10.8 Gigawatts; wind, +22.3 Gigawatts; Hydro, +0.5 Gigawatts; Wood, +0.1 Gigawatts; Other Bio, 0.3 Gigawatts; Geo thermal, +0.2 Gigawatts and nuclear, 4.9 Gigawatts. Thus, in 2018, the total US electric generating infrastructure would be 1102.1 Gigawatts (+4%) up from 1060 Gigawatts in 2013. Fossil fuels would increase 2.8 G Gigawatts because of the major increase in natural gas offsetting the major loss in coal. Renewables would increase by 34.4 Gigawatts (+6.5%). and nuclear would increase by 4.9%.
+Using each fuel source capacity factor from 2013 and its yearly generating capacity would result in the expected electric energy output as shown in the following chart.
+
+In 2018 coal would produce 33.5% of US electric energy. Natural gas would produce 28.7%. Nuclear, 19.4%; Hydro, 6.3%; Wind 5.44%; Solar, 0.56% ( a 2.7x (167%) increase from 2013) and others (wood, bio other, geo thermal, misc, pump storage and net imports) would contribute 3.1%. Yearly contributions (%) by each fuel source are shown in the following bar chart.
+
+The amount of electrical energy (Gigawatt hours) produced is a function of the generating capacity (Gigawatt) and the capacity factor, associated with the fuel source. This is about 30-35% for wind power and about 15-20% for solar power. This means that for every 10 MW of wind power installed, on average it will generate from about 26.3 M kWh to 30.7 M kWh, depending on the wind. For every 10 MW of solar power installed, it will generate an average of from about 13.1 M kWh to 17.5 M kWh, depending on the weather. A Nuclear plant would have a capacity factor of about 90% so 10MW of nuclear would produce around 78.8 M kWh.
+A concentrating solar array (CSP) with thermal storage has a practical capacity factor of 33%, and could provide power 24 hours a day. Prior to 2012, in six southwestern states (Arizona, California, Colorado, Nevada, New Mexico, and Utah) the US Bureau of Land Management (BLM) owned nearly 98 million acres (an area larger than the state of Montana) that was open to proposals for solar power installations. To streamline consideration of applications, the BLM produced a Programmatic Environmental Impact Statement (PEIS). By the subsequent Record of Decision in October 2012, the BLM withdrew 78 percent of its land from possible solar development, leaving 19 million acres still open to applications for solar installations, an area nearly as large as South Carolina. Of the area left open to solar proposals, the BLM has identified 285 thousand acres in highly favorable areas it calls Solar Energy Zones. In Spain, with natural gas backups, CSP has reached a capacity factor of 66%, with 75% being a theoretical maximum.
+
+
+=== Energy consumption of computers in the USA ===
+
+Visible or embedded (i. e. hidden) computers are found everywhere: in all sectors listed in the above chapter, as well as in all subsectors listed in the column entitled Major uses in the above tables. In 1999, a study by Mark. P. Mills of the Green Earth Society reported that computers consumed 13% of the entire US supply. Numerous researchers questioned Mills' methodology and it was later demonstrated that he was off by an order of magnitude; for example, Lawrence Berkeley Labs concluded that the figure was nearer three percent of US electricity use. Although the Mills study was inaccurate, it helped drive the debate to the national level, and in 2006 the US Senate started a study of the energy consumption of Server farms.
+
+
+== Fossil-fuel equivalency ==
+The total energy consumption reported above from the Annual Energy Review has been adjusted by a fossil-fuel equivalency factor in order to estimate how much oil would be required to supply all of the energy used. While there is 3,412 Btu per kWh, a factor of 10,460 Btu/kWh was used for nuclear and 9,760 Btu/kWh for renewable energy, for 2010, to reflect how much oil would be required. This inflates the reported total energy consumption, and roughly triples the apparent share from non-fossil fuel sources. As oil is less important, this adjustment may be removed, as is largely the case in other countries.
+
+
+== International cooperation ==
+President Barack Obama and China's President Hu Jintao announced a far-reaching package of measures to strengthen cooperation between the United States and China on clean energy, 17 November 2009. The presidents began by establishing a U.S.-China Clean Energy Research Center to facilitate joint research and development of renewable energy technologies by scientists from both countries. The center will be supported by $150 million in public and private funds over the next five years, split evenly between the partners. Initial research priorities will be developing better energy efficiency by way of things like electric vehicles.
+The two countries will also leverage private sector resources to develop clean energy projects in China through the U.S.-China Energy Cooperation Program (ECP). More than 22 companies are founding members of the program. The ECP will include collaborative projects involving renewable energy, smart grids, electric vehicles, green buildings, combined heat and power and energy efficiency.
+
+
+== See also ==
+
+Carter Doctrine
+The Climate Registry
+Efficient energy use
+Energy conservation
+Energy development
+Energy conservation in the United States
+Energy policy of the United States
+Energy security
+World energy resources
+World energy consumption
+List of countries by energy consumption and production
+List of countries by energy consumption per capita
+List of U.S. states by electricity production from renewable sources
+Petroleum in the United States
+Individual states:
+Energy in Vermont
+
+
+== References ==
+
+
+== Further reading ==
+Tough Love for Renewable Energy; Making Wind and Solar Power Affordable May/June 2012 Foreign Affairs
+
+
+== External links ==
+Energy Information Administration - Official Energy Statistics from the U.S. Government's Energy Information Administration
+Biomass Energy Data Book
+Buildings Energy Data Book
+Power Technologies Energy Data Book (complete)
+Transportation Energy Data Book
+Interactive United States Energy Comparisons
+Renewable Energy Tops 10% of U.S. Energy Production
+U.S. Energy System Factsheet by the University of Michigan's Center for Sustainable Systems
+Estimated US Energy Use in 2011 | Visual.ly

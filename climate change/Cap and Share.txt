@@ -1,0 +1,44 @@
+Cap and Share was originally developed by Feasta (the Foundation for the Economics of Sustainability) and is a regulatory and economic framework for controlling the use of fossil fuels in relation to climate stabilisation. Accepting that climate change is a global problem and that there is a need to cap and reduce greenhouse gas emissions globally, the philosophy of Cap and Share maintains that the earth’s atmosphere is a fundamental common resource. Consequently, it is argued, each individual should get an equal share of the benefits from the limited amount of fossil fuels that will have to be burned and their emissions released into the atmosphere in the period until the atmospheric concentration of greenhouse gases has been stabilised at a safe level.
+
+
+== Design ==
+This market based mechanism was devised by Feasta in 2005 and 2006, and they have set out the case for the introduction of Cap and Share globally in policy documents. It calls for global emissions to be capped at their current level and then brought down year by year at a rate fast enough to prevent catastrophic climate change. Each year, the emissions tonnage involved would be shared equally amongst the Earth's adult population, each of whom would receive a certificate representing their individual entitlement. The recipients would then sell their certificates through the banking system to oil, coal and gas producers who would need to acquire enough of them to cover the carbon dioxide emissions that would be emitted from all of the fossil fuel they sold. Everyone would receive at least partial compensation for the higher cost of fossil fuels that limiting their availability would necessarily involve.
+Comhar, the National Sustainable Development Council of Ireland, commissioned a report on the mechanism which incorporates policy and economic analysis of using Cap and Share to control emissions in Ireland, particularly from the transport sector. The final report was published in December 2008.
+Cap and Share is partly an extension and popularisation of the Contraction and Convergence proposal developed by the Global Commons Institute, which also calls for an equal per capita distribution of emissions. Cap and Share differs in that it insists that emissions allocations should be distributed equally to individuals as their right, whereas Contraction and Convergence (C&C) allows governments to decide if this is the way they wish to share out what is, essentially, their national allocation. C&C also allows for (but does not insist on) a convergence period, during which the richer countries would receive higher per capita emissions allowances than poorer countries. Cap and Share says people in rich countries should get the same emissions entitlement as those in poor countries from the start, but suggests that in the early years of the system, a portion of everyone's emissions entitlement should be held back and distributed to governments of countries which were facing exceptional difficulties in adapting to climate change or to low levels of fossil energy use. The governments involved would sell their certificates to raise money for remedial works. For example, the government of Bangladesh might sell its allocation to pay for better defences against rising sea levels.
+
+
+== Principles ==
+That a ceiling or cap on carbon dioxide and other green house gas (ghg) emissions from fossil fuels should be calculated that prevents an average global temperature rise of over 2 degrees Celsius.
+That the right to emit such ghgs is a human right, and should be shared on an equal-per-capita basis, with permits going to each individual rather than to their governments.
+That the permits would be saleable through the post office and banking system to the importers and producers of fossil fuels who would need to acquire enough permits to cover the emissions from the fuels they introduce.
+That any national or European Union scheme should be designed as a possible prototype for a global system that will also help set the conditions for the alleviation of poverty and the maintenance of biodiversity.
+
+
+== Economic assessment ==
+If the future were known with certainty, then the economic implications of Cap and Share would equal the economic implications of a carbon tax with lump sum recycling—that is, the carbon tax revenue would be used to send every household a cheque in the post. Some argue that lump sum recycling is an inferior way to recycle the revenue of environmental taxes, and that this has been repeatedly confirmed for Ireland. The rationale is that with the carbon tax revenue coming into government coffers, it could be directly spent by the government rather than distributed to the population via cheques, and that other kinds of taxation, such as labour taxation, could be decreased correspondingly. It is argued that this would have a positive effect on GDP since there would be a greater incentive for firms to increase employment, and that it would also positively affect social equity, since labour taxes are regressive by nature.
+The NGO that developed Cap and Share, Feasta, argues that while it is definitely a good idea to shift the tax burden away from labour and towards capital, a carbon tax is not the optimal instrument for this purpose. Carbon taxes do not establish a predictable level of emissions cuts, unlike a cap, and can be vulnerable to short-term political pressures such as an increase in the price of oil, since a country's tax policy is usually adjusted each year in the annual Budget. Feasta suggests that if a carbon tax were to be introduced, it would work best in tandem with Cap and Share. The two policies could be used to help countries fine-tune their responses to climate change and Peak Oil.
+Feasta also advocates the introduction of a land-value-based tax, which they believe could be used as a substitute for taxation on labour and could therefore have a similar effect on the market to a carbon tax.
+As the future is not known with certainty, some argue that cap and share has all the drawbacks of quantity-based regulation for a stock pollutant. In the case of greenhouse gas emissions, the argument goes, price-based regulation (incl. a carbon tax with lump-sum recycling) is more robust to uncertainty and leads to lower welfare losses. Again, however, Cap and Share advocates argue that the problem of assuring that specific emissions targets are reached is not properly addressed by using a purely price-based mechanism for emissions reduction. From their perspective, a definite, substantial decrease in greenhouse gas emissions, carried out in an equitable way so that the poor are not adversely affected, is well worth a possible decrease in "welfare" as measured by GDP (a highly problematic instrument for measuring wellbeing).
+
+
+== See also ==
+Cap and dividend
+Carbon tax
+Economics of global warming
+Emissions Reduction Currency System
+Emissions trading
+Georgism
+Greenhouse Development Rights
+Personal carbon trading, an alternative approach to allocating emissions rights directly to individuals
+Pigovian tax
+
+
+== References ==
+
+
+== External links ==
+The Climate Cooperation wiki
+Cap and Share website
+Feasta (The Foundation for the Economics of Sustainability)
+nef (the new economics foundation)
+The Global Commons Institute

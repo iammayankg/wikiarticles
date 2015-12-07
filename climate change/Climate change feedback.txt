@@ -1,0 +1,134 @@
+Climate change feedback is important in the understanding of global warming because feedback processes may amplify or diminish the effect of each climate forcing, and so play an important part in determining the climate sensitivity and future climate state. Feedback in general is the process in which changing one quantity changes a second quantity, and the change in the second quantity in turn changes the first. Positive feedback amplifies the change in the first quantity while negative feedback reduces it.
+The term "forcing" means a change which may "push" the climate system in the direction of warming or cooling. An example of a climate forcing is increased atmospheric concentrations of greenhouse gases. By definition, forcings are external to the climate system while feedbacks are internal; in essence, feedbacks represent the internal processes of the system. Some feedbacks may act in relative isolation to the rest of the climate system; others may be tightly coupled; hence it may be difficult to tell just how much a particular process contributes. Forcings, feedbacks and the dynamics of the climate system determine how much and how fast the climate changes. The main positive feedback in global warming is the tendency of warming to increase the amount of water vapor in the atmosphere, which in turn leads to further warming. The main negative feedback comes from the Stefan–Boltzmann law, the amount of heat radiated from the Earth into space changes with the fourth power of the temperature of Earth's surface and atmosphere.
+Some observed and potential effects of global warming are positive feedbacks, which contribute directly to further global warming. The Intergovernmental Panel on Climate Change's (IPCC) Fourth Assessment Report states that "Anthropogenic warming could lead to some effects that are abrupt or irreversible, depending upon the rate and magnitude of the climate change."
+
+
+== Positive ==
+
+
+=== Carbon cycle feedbacks ===
+
+There have been predictions, and some evidence, that global warming might cause loss of carbon from terrestrial ecosystems, leading to an increase of atmospheric CO2 levels. Several climate models indicate that global warming through the 21st century could be accelerated by the response of the terrestrial carbon cycle to such warming. All 11 models in the C4MIP study found that a larger fraction of anthropogenic CO2 will stay airborne if climate change is accounted for. By the end of the twenty-first century, this additional CO2 varied between 20 and 200 ppm for the two extreme models, the majority of the models lying between 50 and 100 ppm. The higher CO2 levels led to an additional climate warming ranging between 0.1° and 1.5 °C. However, there was still a large uncertainty on the magnitude of these sensitivities. Eight models attributed most of the changes to the land, while three attributed it to the ocean. The strongest feedbacks in these cases are due to increased respiration of carbon from soils throughout the high latitude boreal forests of the Northern Hemisphere. One model in particular (HadCM3) indicates a secondary carbon cycle feedback due to the loss of much of the Amazon Rainforest in response to significantly reduced precipitation over tropical South America. While models disagree on the strength of any terrestrial carbon cycle feedback, they each suggest any such feedback would accelerate global warming.
+Observations show that soils in the U.K have been losing carbon at the rate of four million tonnes a year for the past 25 years according to a paper in Nature by Bellamy et al. in September 2005, who note that these results are unlikely to be explained by land use changes. Results such as this rely on a dense sampling network and thus are not available on a global scale. Extrapolating to all of the United Kingdom, they estimate annual losses of 13 million tons per year. This is as much as the annual reductions in carbon dioxide emissions achieved by the UK under the Kyoto Treaty (12.7 million tons of carbon per year).
+It has also been suggested (by Chris Freeman) that the release of dissolved organic carbon (DOC) from peat bogs into water courses (from which it would in turn enter the atmosphere) constitutes a positive feedback for global warming. The carbon currently stored in peatlands (390–455 gigatonnes, one-third of the total land-based carbon store) is over half the amount of carbon already in the atmosphere. DOC levels in water courses are observably rising; Freeman's hypothesis is that, not elevated temperatures, but elevated levels of atmospheric CO2 are responsible, through stimulation of primary productivity.
+Tree deaths are believed to be increasing as a result of climate change, which is a positive feedback effect. This contradicts the previously widely held view that increased natural vegetation would lead to a negative-feedback effect.
+
+
+==== Arctic methane release ====
+
+Warming is also the triggering variable for the release of carbon (potentially as methane) in the arctic. Methane released from thawing permafrost such as the frozen peat bogs in Siberia, and from methane clathrate on the sea floor, creates a positive feedback.
+
+
+===== Methane release from melting permafrost peat bogs =====
+
+Western Siberia is the world's largest peat bog, a one million square kilometer region of permafrost peat bog that was formed 11,000 years ago at the end of the last ice age. The melting of its permafrost is likely to lead to the release, over decades, of large quantities of methane. As much as 70,000 million tonnes of methane, an extremely effective greenhouse gas, might be released over the next few decades, creating an additional source of greenhouse gas emissions. Similar melting has been observed in eastern Siberia. Lawrence et al. (2008) suggest that a rapid melting of Arctic sea ice may start a feedback loop that rapidly melts Arctic permafrost, triggering further warming.
+
+
+===== Methane release from hydrates =====
+
+Methane clathrate, also called methane hydrate, is a form of water ice that contains a large amount of methane within its crystal structure. Extremely large deposits of methane clathrate have been found under sediments on the sea and ocean floors of Earth. The sudden release of large amounts of natural gas from methane clathrate deposits, in a runaway global warming event, has been hypothesized as a cause of past and possibly future climate changes. The release of this trapped methane is a potential major outcome of a rise in temperature; it is thought that this might increase the global temperature by an additional 5° in itself, as methane is much more powerful as a greenhouse gas than carbon dioxide. The theory also predicts this will greatly affect available oxygen content of the atmosphere. This theory has been proposed to explain the most severe mass extinction event on earth known as the Permian–Triassic extinction event, and also the Paleocene-Eocene Thermal Maximum climate change event. In 2008, a research expedition for the American Geophysical Union detected levels of methane up to 100 times above normal in the Siberian Arctic, likely being released by methane clathrates being released by holes in a frozen 'lid' of seabed permafrost, around the outfall of the Lena River and the area between the Laptev Sea and East Siberian Sea.
+
+
+==== Abrupt increases in atmospheric methane ====
+Literature assessments by the Intergovernmental Panel on Climate Change (IPCC) and the US Climate Change Science Program (CCSP) have considered the possibility of future projected climate change leading to a rapid increase in atmospheric methane. The IPCC Third Assessment Report, published in 2001, looked at possible rapid increases in methane due either to reductions in the atmospheric chemical sink or from the release of buried methane reservoirs. In both cases, it was judged that such a release would be "exceptionally unlikely" (less than a 1% chance, based on expert judgement). The CCSP assessment, published in 2008, concluded that an abrupt release of methane into the atmosphere appeared "very unlikely" (less than 10% probability, based on expert judgement). The CCSP assessment, however, noted that climate change would "very likely" (greater than 90% probability, based on expert judgement) accelerate the pace of persistent emissions from both hydrate sources and wetlands.
+
+
+==== Decomposition ====
+
+Organic matter stored in permafrost generates heat as it decomposes in response to the permafrost melting. This is significant mainly due to its effect on Arctic methane release.
+
+
+==== Peat decomposition ====
+Peat, occurring naturally in peat bogs, is a store of carbon significant on a global scale. When peat dries it decomposes, and may additionally burn. Water table adjustment due to global warming may cause significant excursions of carbon from peat bogs. This may be released as methane, which can exacerbate the feedback effect, due to its high global warming potential.
+
+
+==== Rainforest drying ====
+Rainforests, most notably tropical rainforests, are particularly vulnerable to global warming. There are a number of effects which may occur, but two are particularly concerning. Firstly, the drier vegetation may cause total collapse of the rainforest ecosystem. For example, the Amazon rainforest would tend to be replaced by caatinga ecosystems. Further, even tropical rainforests ecosystems which do not collapse entirely may lose significant proportions of their stored carbon as a result of drying, due to changes in vegetation.
+
+
+==== Forest fires ====
+
+The IPCC Fourth Assessment Report predicts that many mid-latitude regions, such as Mediterranean Europe, will experience decreased rainfall and an increased risk of drought, which in turn would allow forest fires to occur on larger scale, and more regularly. This releases more stored carbon into the atmosphere than the carbon cycle can naturally re-absorb, as well as reducing the overall forest area on the planet, creating a positive feedback loop. Part of that feedback loop is more rapid growth of replacement forests and a northward migration of forests as northern latitudes become more suitable climates for sustaining forests. There is a question of whether the burning of renewable fuels such as forests should be counted as contributing to global warming. Cook & Vizy also found that forest fires were likely in the Amazon Rainforest, eventually resulting in a transition to Caatinga vegetation in the Eastern Amazon region.
+
+
+==== Desertification ====
+Desertification is a consequence of global warming in some environments. Desert soils contain little humus, and support little vegetation. As a result, transition to desert ecosystems is typically associated with excursions of carbon.
+
+
+==== Modelling results ====
+The global warming projections contained in the IPCC's Fourth Assessment Report (AR4) include carbon cycle feedbacks. Authors of AR4, however, noted that scientific understanding of carbon cycle feedbacks was poor. Projections in AR4 were based on a range of greenhouse gas emissions scenarios, and suggested warming between the late 20th and late 21st century of 1.1 to 6.4 °C. This is the "likely" range (greater than 66% probability), based on the expert judgement of the IPCC's authors. Authors noted that the lower end of the "likely" range appeared to be better constrained than the upper end of the "likely" range, in part due to carbon cycle feedbacks. The American Meteorological Society has commented that more research is needed to model the effects of carbon cycle feedbacks in climate change projections.
+Isaken et al. (2010) considered how future methane release from the Arctic might contribute to global warming. Their study suggested that if global methane emissions were to increase by a factor of 2.5 to 5.2 above (then) current emissions, the indirect contribution to radiative forcing would be about 250% and 400% respectively, of the forcing that can be directly attributed to methane. This amplification of methane warming is due to projected changes in atmospheric chemistry.
+Schaefer et al. (2011) considered how carbon released from permafrost might contribute to global warming. Their study projected changes in permafrost based on a medium greenhouse gas emissions scenario (SRES A1B). According to the study, by 2200, the permafrost feedback might contribute 190 (+/- 64) gigatons of carbon cumulatively to the atmosphere. Schaefer et al. (2011) commented that this estimate may be low.
+
+
+===== Implications for climate policy =====
+Uncertainty over climate change feedbacks has implications for climate policy. For instance, uncertainty over carbon cycle feedbacks may affect targets for reducing greenhouse gas emissions. Emissions targets are often based on a target stabilization level of atmospheric greenhouse gas concentrations, or on a target for limiting global warming to a particular magnitude. Both of these targets (concentrations or temperatures) require an understanding of future changes in the carbon cycle. If models incorrectly project future changes in the carbon cycle, then concentration or temperature targets could be missed. For example, if models underestimate the amount of carbon released into the atmosphere due to positive feedbacks (e.g., due to melting permafrost), then they may also underestimate the extent of emissions reductions necessary to meet a concentration or temperature target.
+
+
+=== Cloud feedback ===
+
+Warming is expected to change the distribution and type of clouds. Seen from below, clouds emit infrared radiation back to the surface, and so exert a warming effect; seen from above, clouds reflect sunlight and emit infrared radiation to space, and so exert a cooling effect. Whether the net effect is warming or cooling depends on details such as the type and altitude of the cloud. High clouds tend to trap more heat and therefore have a positive feedback, low clouds normally reflect more sunlight so they have a negative feedback. These details were poorly observed before the advent of satellite data and are difficult to represent in climate models.
+
+
+=== Gas release ===
+
+Release of gases of biological origin may be affected by global warming, but research into such effects is at an early stage. Some of these gases, such as nitrous oxide released from peat, directly affect climate. Others, such as dimethyl sulfide released from oceans, have indirect effects.
+
+
+=== Ice-albedo feedback ===
+
+When ice melts, land or open water takes its place. Both land and open water are on average less reflective than ice and thus absorb more solar radiation. This causes more warming, which in turn causes more melting, and this cycle continues. During times of global cooling, additional ice increases the reflectivity which reduces the absorption of solar radiation which results in more cooling in a continuing cycle. Considered a faster feedback mechanism.
+
+Albedo change is also the main reason why IPCC predict polar temperatures in the northern hemisphere to rise up to twice as much as those of the rest of the world, in a process known as polar amplification. In September 2007, the Arctic sea ice area reached about half the size of the average summer minimum area between 1979 to 2000. Also in September 2007, Arctic sea ice retreated far enough for the Northwest Passage to become navigable to shipping for the first time in recorded history. The record losses of 2007 and 2008 may, however, be temporary. Mark Serreze of the US National Snow and Ice Data Center views 2030 as a "reasonable estimate" for when the summertime Arctic ice cap might be ice-free. The polar amplification of global warming is not predicted to occur in the southern hemisphere. The Antarctic sea ice reached its greatest extent on record since the beginning of observation in 1979, but the gain in ice in the south is exceeded by the loss in the north. The trend for global sea ice, northern hemisphere and southern hemisphere combined is clearly a decline.
+Ice loss may have internal feedback processes, as melting of ice over land can cause eustatic sea level rise, potentially causing instability of ice shelves and inundating coastal ice masses, such as glacier tongues. Further, a potential feedback cycle exists due to earthquakes caused by isostatic rebound further destabilising ice shelves, glaciers and ice caps.
+The ice-albedo in some sub-arctic forests is also changing, as stands of larch (which shed their needles in winter, allowing sunlight to reflect off the snow in spring and fall) are being replaced by spruce trees (which retain their dark needles all year).
+
+
+=== Water vapor feedback ===
+
+If the atmospheres are warmed, the saturation vapor pressure increases, and the amount of water vapor in the atmosphere will tend to increase. Since water vapor is a greenhouse gas, the increase in water vapor content makes the atmosphere warm further; this warming causes the atmosphere to hold still more water vapor (a positive feedback), and so on until other processes stop the feedback loop. The result is a much larger greenhouse effect than that due to CO2 alone. Although this feedback process causes an increase in the absolute moisture content of the air, the relative humidity stays nearly constant or even decreases slightly because the air is warmer. Climate models incorporate this feedback. Water vapor feedback is strongly positive, with most evidence supporting a magnitude of 1.5 to 2.0 W/m2/K, sufficient to roughly double the warming that would otherwise occur. Considered a faster feedback mechanism.
+
+
+== Negative ==
+
+
+=== Carbon cycle ===
+
+
+==== Le Chatelier's principle ====
+Following Le Chatelier's principle, the chemical equilibrium of the Earth's carbon cycle will shift in response to anthropogenic CO2 emissions. The primary driver of this is the ocean, which absorbs anthropogenic CO2 via the so-called solubility pump. At present this accounts for only about one third of the current emissions, but ultimately most (~75%) of the CO2 emitted by human activities will dissolve in the ocean over a period of centuries: "A better approximation of the lifetime of fossil fuel CO2 for public discussion might be 300 years, plus 25% that lasts forever". However, the rate at which the ocean will take it up in the future is less certain, and will be affected by stratification induced by warming and, potentially, changes in the ocean's thermohaline circulation.
+
+
+==== Chemical weathering ====
+Chemical weathering over the geological long term acts to remove CO2 from the atmosphere. With current global warming, weathering is increasing, demonstrating significant feedbacks between climate and Earth surface. Biosequestration also captures and stores CO2 by biological processes. The formation of shells by organisms in the ocean, over a very long time, removes CO2 from the oceans. The complete conversion of CO2 to limestone takes thousands to hundreds of thousands of years.
+
+
+==== Net Primary Productivity ====
+Net primary productivity changes in response to increased CO2, as plants photosynthesis increased in response to increasing concentrations. However, this effect is swamped by other changes in the biosphere due to global warming.
+
+
+=== Lapse rate ===
+
+The atmosphere's temperature decreases with height in the troposphere. Since emission of infrared radiation varies with temperature, longwave radiation escaping to space from the relatively cold upper atmosphere is less than that emitted toward the ground from the lower atmosphere. Thus, the strength of the greenhouse effect depends on the atmosphere's rate of temperature decrease with height. Both theory and climate models indicate that global warming will reduce the rate of temperature decrease with height, producing a negative lapse rate feedback that weakens the greenhouse effect. Measurements of the rate of temperature change with height are very sensitive to small errors in observations, making it difficult to establish whether the models agree with observations.
+
+
+=== Blackbody radiation ===
+As the temperature of a black body increases, the emission of infrared radiation back into space increases with the fourth power of its absolute temperature according to Stefan–Boltzmann law. This increases the amount of outgoing radiation as the Earth warms. The impact of this negative feedback effect is included in global climate models summarized by the IPCC. This is also called the Planck feedback.
+
+
+== See also ==
+
+Complex system
+Parametrization (climate)
+Runaway climate change
+Tipping point (climatology)
+
+
+== Notes ==
+
+
+== References ==
+IPCC AR4 WG1 (2007), Solomon, S.; Qin, D.; Manning, M.; Chen, Z.; Marquis, M.; Averyt, K.B.; Tignor, M.; and Miller, H.L., ed., Climate Change 2007: The Physical Science Basis, Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change, Cambridge University Press, ISBN 978-0-521-88009-1  (pb: 978-0-521-70596-7)
+
+
+== External links ==

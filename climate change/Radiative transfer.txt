@@ -1,0 +1,74 @@
+Radiative transfer is the physical phenomenon of energy transfer in the form of electromagnetic radiation. The propagation of radiation through a medium is affected by absorption, emission, and scattering processes. The equation of radiative transfer describes these interactions mathematically. Equations of radiative transfer have application in a wide variety of subjects including optics, astrophysics, atmospheric science, and remote sensing. Analytic solutions to the radiative transfer equation (RTE) exist for simple cases but for more realistic media, with complex multiple scattering effects, numerical methods are required.
+The present article is largely focused on the condition of radiative equilibrium. 
+
+
+== Definitions ==
+The fundamental quantity which describes a field of radiation is called spectral radiance in radiometric terms (in other fields it is often called specific intensity). For a very small area element in the radiation field, there can be electromagnetic radiation passing in both senses in every spatial direction through it. In radiometric terms, the passage can be completely characterized by the amount of energy radiated in each of the two senses in each spatial direction, per unit time, per unit area of surface of sourcing passage, per unit solid angle of reception at a distance, per unit wavelength interval being considered (polarization will be ignored for the moment).
+In terms of the spectral radiance, , the energy flowing across an area element of area  located at  in time  in the solid angle  about the direction  in the frequency interval  to  is
+
+where  is the angle that the unit direction vector  makes with a normal to the area element. The units of the spectral radiance are seen to be energy/time/area/solid angle/frequency. In MKS units this would be W·m−2·sr−1·Hz−1 (watts per square-metre-steradian-hertz).
+
+
+== The equation of radiative transfer ==
+The equation of radiative transfer simply says that as a beam of radiation travels, it loses energy to absorption, gains energy by emission, and redistributes energy by scattering. The differential form of the equation for radiative transfer is:
+
+where  is the emission coefficient,  is the scattering opacity, and  is the absorption opacity.
+
+
+== Solutions to the equation of radiative transfer ==
+Solutions to the equation of radiative transfer form an enormous body of work. The differences however, are essentially due to the various forms for the emission and absorption coefficients. If scattering is ignored, then a general solution in terms of the emission and absorption coefficients may be written:
+
+where  is the optical depth of the medium between positions  and :
+
+
+=== Local thermodynamic equilibrium ===
+A particularly useful simplification of the equation of radiative transfer occurs under the conditions of local thermodynamic equilibrium (LTE). In this situation, the absorbing/emitting medium consists of massive particles which are in equilibrium with each other, and therefore have a definable temperature. The radiation field is not, however in equilibrium and is being entirely driven by the presence of the massive particles. For a medium in LTE, the emission coefficient and absorption coefficient are functions of temperature and density only, and are related by:
+
+where  is the black body spectral radiance at temperature T. The solution to the equation of radiative transfer is then:
+
+Knowing the temperature profile and the density profile of the medium is sufficient to calculate a solution to the equation of radiative transfer.
+
+
+=== The Eddington approximation ===
+The Eddington approximation is a special case of the two stream approximation. It can be used to obtain the spectral radiance in a "plane-parallel" medium (one in which properties only vary in the perpendicular direction) with isotropic frequency-independent scattering. It assumes that the intensity is a linear function of . i.e.
+
+where  is the normal direction to the slab-like medium. Note that expressing angular integrals in terms of  simplifies things because  appears in the Jacobian of integrals in spherical coordinates.
+Extracting the first few moments of the spectral radiance with respect to  yields
+
+Thus the Eddington approximation is equivalent to setting . Higher order versions of the Eddington approximation also exist, and consist of more complicated linear relations of the intensity moments. This extra equation can be used as a closure relation for the truncated system of moments.
+Note that the first two moments have simple physical meanings.  is the isotropic intensity at a point, and  is the flux through that point in the  direction.
+The radiative transfer through an isotropically scattering medium at local thermodynamic equilibrium is given by
+
+Integrating over all angles yields
+
+Premultiplying by , and then integrating over all angles gives
+
+Substituting in the closure relation, and differentiating with respect to  allows the two above equations to be combined to form the radiative diffusion equation
+
+This equation shows how the effective optical depth in scattering-dominated systems may be significantly different from that given by the scattering opacity if the absorptive opacity is small.
+
+
+== See also ==
+Absorption (electromagnetic radiation)
+Atomic line spectra
+Beer-Lambert law
+Emission
+List of atmospheric radiative transfer codes
+Scattering
+Radiative transfer equation and diffusion theory for photon transport in biological tissue
+Spectral radiance
+Specific intensity
+Vector radiative transfer
+
+
+== References ==
+
+
+== Further reading ==
+Subrahmanyan Chandrasekhar (1960). Radiative Transfer. Dover Publications Inc. p. 393. ISBN 0-486-60590-6. 
+Jacqueline Lenoble (1985). Radiative Transfer in Scattering and Absorbing Atmospheres: Standard Computational Procedures. A. Deepak Publishing. p. 583. ISBN 0-12-451451-0. 
+Grant Petty (2006). A First Course in Atmospheric Radiation (2nd Ed.). Sundog Publishing (Madison, Wisconsin). ISBN 0-9729033-1-3.  
+Dimitri Mihalas; Barbara Weibel-Mihalas (1984). Foundations of Radiation Hydrodynamics. Dover Publications, Inc. ISBN 0-486-40925-2. 
+George B. Rybicki; Alan P. Lightman (1985). Radiative Processes in Astrophysics. Wiley-Interscience. ISBN 0-471-82759-2. 
+G. E. Thomas & K. Stamnes (1999). Radiative Transfer in the Atmosphere and Ocean. Cambridge University Press. ISBN 0-521-40124-0. 
+C. Bohren (2006). Fundamentals of Atmospheric Radiation: an Introduction with 400 Problems. John Wiley & Sons. ISBN 978-3-527-40503-9.

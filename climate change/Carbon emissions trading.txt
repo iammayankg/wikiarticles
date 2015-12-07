@@ -1,0 +1,109 @@
+Carbon emissions trading is a form of emissions trading that specifically targets carbon dioxide (calculated in tonnes of carbon dioxide equivalent or tCO2e) and it currently constitutes the bulk of emissions trading.
+This form of permit trading is a common method countries utilize in order to meet their obligations specified by the Kyoto Protocol; namely the reduction of carbon emissions in an attempt to reduce (mitigate) future climate change.
+Under Carbon trading, a country having more emissions of carbon is able to purchase the right to emit more and the country having less emission trades the right to emit carbon to other countries. More carbon emitting countries, by this way try to keep the limit of carbon emission specified to them.
+
+
+== Economics ==
+Emissions trading works by setting a quantitative limit on the emissions produced by emitters. The economic basis for emissions trading is linked to the concept of property rights (Goldemberg et al.., 1996, p. 29).
+
+
+=== Costs and valuation ===
+The economic problem with climate change is that the emitters of greenhouse gases (GHGs) do not face the full cost implications of their actions (IMF, 2008, p. 6). There are costs that emitters do face, e.g., the costs of the fuel being used, but there are other costs that are not necessarily included in the price of a good or service. These other costs are called external costs (Halsnæs et al.., 2007). They are "external" because they are costs that the emitter does not face. External costs may affect the welfare of others. In the case of climate change, GHG emissions affect the welfare of people living in the future, as well as affecting the natural environment (Toth et al., 2001). These external costs can be estimated and converted in a common (monetary) unit. The argument for doing this is that these external costs can then be added to the private costs that the emitter faces. In doing this, the emitter faces the full (social) costs of their actions (IMF, 2008, p. 9).
+
+
+=== Ethics and fairness ===
+The way of dealing with climate change has particular ethical issues and other issues related to the fairness of the problem. To actually calculate social costs requires value judgements about the value of future climate impacts (Smith et al.., 2001). There is no consensus among economists over how to value the fairness (economists use the term equity to mean fairness) of a particular climate policy, e.g., how to share the burden of costs for mitigating future climate change (Toth et al., 2001). Nor do economists have any professional expertise in making ethical decisions, e.g., over the value assigned to the welfare of future generations (Arrow et al.., 1996, p. 130). Typically all the impacts of policy, both the costs and benefits, are added together (aggregation), with different impacts on different individuals assigned particular "weightings," i.e., relative levels of importance. These valuations are decided by the economist doing the study. Valuations can be difficult since not all goods have a market price.
+There are methods to infer prices for "non-market" goods and services. However, these valuations can be controversial, e.g., valuations of human health impacts, or ecosystems (Smith et al.., 2001). There is also controversy over how potentially positive climate impacts, e.g., tourism in particular regions benefiting from climate change, offset negative impacts in other regions, e.g., reduced food production (Smith et al.., 2001). The main advantage of economic analysis in this area is that it allows a comprehensive and consistent treatment of climate change impacts. It also allows the benefits of climate change policy decisions to be compared against other possible environmental policies.
+
+
+=== Coase ===
+Coase (1960) (referred to by Toth et al.., 2001; and Helm, 2005, p. 4) argued that social costs could be accounted for by negotiating property rights according to a particular objective. Coase's model assumes perfectly operating markets and equal bargaining power among those arguing for property rights. For climate change, the property rights are for emissions (permits or quotas). However, it should be noted that other factors affect the climate other than just emissions, e.g., the ocean, forests, etc. (Goldemberg et al.., 1996, pp. 28–29). In Coase's model, efficiency, i.e., achieving a given reduction in emissions at lowest cost, is promoted by the market system. This can also be looked at from the perspective of having the greatest flexibility to reduce emissions. Flexibility is desirable because the marginal costs, that is to say, the incremental costs of reducing emissions, varies among countries. Emissions trading allows emission reductions to be first made in locations where the marginal costs of abatement are lowest (Bashmakov et al.., 2001). Over time, efficiency can also be promoted by allowing "banking" of permits (Goldemberg et al.., 1996, p. 30). This allows polluters to reduce emissions at a time when it is most efficient to do so.
+
+
+=== Equity ===
+One of the advantages of Coase's model is that it suggests that fairness (equity) can be addressed in the distribution of property rights, and that regardless of how these property rights are assigned, the market will produce the most efficient outcome (Goldemberg et al.., 1996, p. 29). In reality, according to the held view, markets are not perfect, and it is therefore possible that a trade off will occur between equity and efficiency (Halsnæs et al.., 2007).
+
+
+=== Taxes versus caps ===
+A large number of papers in the economics literature suggest that carbon taxes should be preferred to carbon trading (Carbon Trust, 2009). Counter-arguments to this are usually based on the possible preference that politicians may have for emissions trading compared with taxes (Bashmakov et al.., 2001). One of these is that emission permits can be freely distributed to polluting industries, rather than the revenues going to the government. In comparison, industries may successfully lobby to exempt themselves from a carbon tax. It is therefore argued that with emissions trading, polluters have an incentive to cut emissions, but if they are exempted from a carbon tax, they have no incentive to cut emissions (Smith, 2008, pp. 56–57). On the other hand, freely distributing emission permits could potentially lead to corrupt behaviour (World Bank, 2010, p. 268).
+A pure carbon tax fixes the price of carbon, but allows the amount of carbon emissions to vary; and a pure carbon cap places a limit on carbon emissions, letting the market price of tradable carbon allowances vary. Proponents argue that a carbon tax is more easy and simple to enforce on a broad-base scale than cap-and-trade programs. The simplicity and immediacy of a carbon tax has been proven effective in British Columbia, Canada - enacted and implemented in five months. Taxing can provide the right incentives for polluters, inventors, and engineers to develop cleaner technologies, in addition to creating revenue for the government. 
+Supporters of carbon cap-and-trade systems believe it sets legal limits for emissions reductions, unlike with carbon taxes . With a tax, there can be estimates of reduction in carbon emissions, which may not be sufficient to change the course of climate change. A declining cap gives allowance for firm reduction targets and a system for measuring when targets are met. It also allows for flexibility, unlike rigid taxes. Providing emission permits under emissions trading is preferred in situations where more accurate target level of environment certainty is needed.
+
+
+=== Trading ===
+In an emissions trading system, permits may be traded by emitters who are liable to hold a sufficient number of permits in system. Some analysts argue that allowing others to participate in trading, e.g., private brokerage firms, can allow for better management of risk in the system, e.g., to variations in permit prices (Bashmakov et al.., 2001). It may also improve the efficiency of system. According to Bashmakov et al.. (2001), regulation of these other entities may be necessary, as is done in other financial markets, e.g., to prevent abuses of the system, such as insider trading.
+
+
+=== Incentives and allocation ===
+Emissions trading gives polluters an incentive to reduce their emissions. However, there are possible perverse incentives that can exist in emissions trading. Allocating permits on the basis of past emissions ("grandfathering") can result in firms having an incentive to maintain emissions. For example, a firm that reduced its emissions would receive fewer permits in the future (IMF, 2008, pp. 25–26). This problem can also be criticized on ethical grounds, since the polluter is being paid to reduce emissions (Goldemberg et al.., 1996, p. 38). On the other hand, a permit system where permits are auctioned rather than given away, provides the government with revenues. These revenues might be used to improve the efficiency of overall climate policy, e.g., by funding reductions in distortionary taxes (Fisher et al.., 1996, p. 417).
+In Coase's model of social costs, either choice (grandfathering or auctioning) leads to efficiency. In reality, grandfathering subsidizes polluters, meaning that polluting industries may be kept in business longer than would otherwise occur. Grandfathering may also reduce the rate of technological improvement towards less polluting technologies (Fisher et al.., 1996, p. 417).
+The economist William Nordhaus argues that allocations cost the economy as they cause the under utilisation an efficient form of taxation. Nordhaus points out that normal income, goods or service taxes distort efficient investment and consumption, so by using pollution taxes to generate revenue an emissions scheme can increase the efficiency of the economy.
+Form of allocation
+The economist Ross Garnaut states that permits allocated to existing emitters by 'grandfathering' are not 'free'. As the permits are scarce they have value and the benefit of that value is acquired in full by the emitter. The cost is imposed elsewhere in the economy, typically on consumers who cannot pass on the costs.
+“It is important that we stop thinking in terms of payments to Australian firms in order to compensate them for the effects of the domestic emissions trading scheme. There is no basis for compensation arising from the loss of profits or asset values as a result of this new policy. The rationale for payments to trade-exposed, emissions-intensive industries is different and sound. It is to avoid the economic and environmental costs of having firms in these industries contracting more than, and failing to expand as much as, they would in a world in which all countries were applying carbon constraints involving similar costs to ours.” 
+
+
+== Units ==
+The units which may be transferred under Article 17 emissions trading, each equal to one metric tonne of emissions (in CO2-equivalent terms), may be in the form of:
+An assigned amount unit (AAU) issued by an Annex I Party on the basis of its assigned amount pursuant to Articles 3.7 and 3.8 of the Protocol.
+A removal unit (RMU) issued by an Annex I Party on the basis of land use, land-use change and forestry (LULUCF) activities under Articles 3.3 and 3.4 of the Kyoto Protocol.
+An emission reduction unit (ERU) generated by a joint implementation project under Article 6 of the Kyoto Protocol.
+A certified emission reduction (CER) generated from a clean development mechanism project activity under Article 12 of the Kyoto Protocol.
+Transfers and acquisitions of these units are to be tracked and recorded through the registry systems under the Kyoto Protocol.
+
+
+== Market trend ==
+Carbon emissions trading has been steadily increasing in recent years. According to the World Bank's Carbon Finance Unit, 374 million metric tonnes of carbon dioxide equivalent (tCO2e) were exchanged through projects in 2005, a 240% increase relative to 2004 (110 mtCO2e) which was itself a 41% increase relative to 2003 (78 mtCO2e).
+The increasing costs of permits have had the effect of increasing costs of carbon emitting fuels and activities. Based on a survey of 12 European countries, it was concluded that an increase in carbon and fuel prices of approximately ten percent would result in a short-run increase in electrical power prices of roughly eight percent. This would suggest that a lowering cap on carbon emissions will likely lead to an increase in the costs of alternative power sources. Whereas a sudden lowering of a carbon emission cap may prove detrimental to economies, a gradual lowering of the cap may risk future environmental damage via global warming.
+In 2010 Chicago Climate Exchange (CCX) ceased its trading of carbon emissions. 450 members of the CCX had achieved reductions of 700million tonnes of emissions over the life of the cap and trade program. The seven year CCX cap and trade program claimed to have successfully provided cost-effectiveness and market-based flexibility for emissions trading.
+
+
+== Business reaction ==
+Economist Craig Mellow wrote in May 2008: “The combination of global warming and growing environmental consciousness is creating a potentially huge market in the trading of pollution-emission credits." 
+With the creation of a market for mandatory trading of carbon dioxide emissions within the Kyoto Protocol, the London financial marketplace has established itself as the center of the carbon finance market, and is expected to have grown into a market valued at $60 billion in 2007. The voluntary offset market, by comparison, is projected to grow to about $4bn by 2010.
+Twenty three multinational corporations came together in the G8 Climate Change Roundtable, a business group formed at the January 2005 World Economic Forum. The group included Ford, Toyota, British Airways, BP and Unilever. On 9 June 2005, the Group published a statement stating that there was a need to act on climate change and stressing the importance of market-based solutions. It called on governments to establish "clear, transparent, and consistent price signals" through "creation of a long-term policy framework" that would include all major producers of greenhouse gases. By December 2007, this had grown to encompass 150 global businesses.
+Business in the UK have come out strongly in support of emissions trading as a key tool to mitigate climate change, supported by Green NGOs.
+
+
+== Voluntary surrender of units ==
+There are examples of individuals and organisations purchasing tradable emission permits and 'retiring' (cancelling) them so they cannot be used by emitters to authorise their emissions. This makes the emissions 'cap' lower and therefore further reduces emissions. In 1992, the National Healthy Air License Exchange was established to pool donations for buying and retiring sulfur allowances under the USA sulfur allowance trading program.
+The British organization "Climakind" accepts donations and uses them to buy and cancel European Allowances, the carbon credits traded in the European Union Emission Trading System. It is argued that this removes the credits from the carbon market so they cannot be used to allow the emission of carbon and that this reduces the 'cap' on emissions by reducing the number of credits available to emitters.
+The British organisation Sandbag promotes cancelling carbon credits in order to lower emissions trading caps. As of August 2010, Sandbag states that it has cancelled carbon credits equivalent to 2145 tonnes of CO2.
+
+
+== Criticisms ==
+Critics of carbon trading, such as Carbon Trade Watch, argue that it places disproportionate emphasis on individual lifestyles and carbon footprints, distracting attention from the wider, systemic changes and collective political action that needs to be taken to tackle climate change. Groups such as the Corner House have argued that the market will choose the easiest means to save a given quantity of carbon in the short term, which may be different from the pathway required to obtain sustained and sizable reductions over a longer period, and so a market-led approach is likely to reinforce technological lock-in. For instance, small cuts may often be achieved cheaply through investment in making a technology more efficient, where larger cuts would require scrapping the technology and using a different one. They also argue that emissions trading is undermining alternative approaches to pollution control with which it does not combine well, and so the overall effect it is having is to actually stall significant change to less polluting technologies. In September 2010, campaigning group FERN released "Trading Carbon: How it works and why it is controversial" which compiles many of the arguments against carbon trading.
+The Financial Times published an article about cap-and-trade systems which argued that "Carbon markets create a muddle" and "...leave much room for unverifiable manipulation". Lohmann (2009) pointed out that emissions trading schemes create new uncertainties and risks, which can be commodified by means of derivatives, thereby creating a new speculative market.
+In China some companies started artificial production of greenhouse gases with sole purpose of their recycling and gaining carbon credits. Similar practices happened in India. Earned credit were then sold to companies in US and Europe.
+Recent proposals for alternative schemes to avoid the problems of cap-and-trade schemes include Cap and Share, which was being actively considered by the Irish Parliament in May 2008, and the Sky Trust schemes. These schemes state that cap-and-trade or cap-and-tax schemes inherently impact the poor and those in rural areas, who have less choice in energy consumption options.
+Carbon trading has been criticised as a form of colonialism, in which rich countries maintain their levels of consumption while getting credit for carbon savings in inefficient industrial projects. Nations that have fewer financial resources may find that they cannot afford the permits necessary for developing an industrial infrastructure, thus inhibiting these countries economic development.
+The Kyoto Protocol's Clean Development Mechanism has been criticised for not promoting enough sustainable development.
+Another criticism is the claimed possibility of non-existent emission reductions being recorded under the Kyoto Protocol due to the surplus of allowances that some countries possess. For example, Russia had a surplus of allowances due to its economic collapse following the end of the Soviet Union. Other countries could have bought these allowances from Russia, but this would not have reduced emissions. Rather, it would have been simply be a redistribution of emissions allowances. In practice, Kyoto Parties have as yet chosen not to buy these surplus allowances.
+
+
+=== Structuring issues ===
+Corporate and governmental Carbon emission trading schemes (a trading system devised by economists to reduce CO2 emissions, the goal being to reduce global warming) have been modified in ways that have been attributed to permitting money laundering to take place. The principal point here is that financial system innovations (outside banking) open up the possibility for unregulated (non-banking) transactions to take place in relativity unsupervised markets.
+
+
+== See also ==
+
+European Union Emission Trading Scheme
+Low carbon power generation
+New South Wales Greenhouse Gas Abatement Scheme
+Personal carbon trading
+Carbon offset
+Carbon project
+
+
+== References ==
+
+
+== External links ==
+C. Haug, M. Frerk and M. Santikarn: Towards a global price on carbon: Pathways for linking carbon pricing instruments. Berlin: adelphi 2015
+Emissions Trading Worldwide: International Carbon Action Partnership (ICAP) Status Report 2015
+"The Making of a Market-Minded Environmentalist", article by Fred Krupp in Strategy+Business (registration reqd) that articulates some of the reasoning and history behind emissions trading in California
+The Stern Review on the economics of climate change - Chapters 14 and 15 have extensive discussions on emission trading schemes and carbon taxes
+Carbon Trading - How it works and why it fails, published November 2009 by Dag Hammarskjöld Foundation: A booklet on various Emissions Trading Schemes (CDM, REDD, ETS) with case studies from Indonesia, Brazil, Thailand and India.
+Chandler: More Flexibility Needed for Effective Emissions Cap-and-Trade Policy Council on Foreign Relations
+Green Structured Products are likely to Proliferate piece by Edmund Parker and Nicole Purin, Mayer Brown, published in Financial News, 3 December 2007
+Arnaud Brohe: Carbon Markets, Earthscan

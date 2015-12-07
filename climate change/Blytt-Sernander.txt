@@ -1,0 +1,55 @@
+The Blytt-Sernander classification, or sequence, is a series of north European climatic periods or phases based on the study of Danish peat bogs by Axel Blytt (1876) and Rutger Sernander (1908). The classification was incorporated into a sequence of pollen zones later defined by Lennart von Post, one of the founders of palynology.
+
+
+== Description ==
+Layers in peat were first noticed by Heinrich Dau in 1829. A prize was offered by the Royal Danish Academy of Sciences and Letters to anyone who could explain them. Blytt hypothesized that the darker layers were deposited in drier times; the lighter, in moister times, applying his terms Atlantic (warm, moist) and Boreal (cool, dry). In 1926 C.A. Weber noticed the sharp boundary horizons, or Grenzhorizonte, in German peat, which matched Blytt’s classification. Sernander defined subboreal and subatlantic periods, as well as the late glacial periods. Other scientists have since added other information.
+The classification was devised before the development of more accurate dating methods, such as C-14 dating and oxygen isotope ratio cycles. Currently geologists working in different regions are studying sea levels, peat bogs and ice core samples by a variety of methods, with a view toward further verifying and refining the Blytt-Sernander sequence. They find a general correspondence across Eurasia and North America.
+The fluctuations of climatic change are more complex than Blytt-Sernander periodizations can identify. For example, recent peat core samples at Roskilde Fjord and also Lake Kornerup in Denmark identified 40 to 62 distinguishable layers of pollen, respectively. However, no universally accepted replacement model has been proposed.
+
+
+== Problems ==
+
+
+=== Dating and calibration ===
+Today the Blytt-Sernander sequence has been substantiated by a wide variety of scientific dating methods, mainly radiocarbon dates obtained from peat. Earlier radiocarbon dates were often left uncalibrated; that is, they were derived by assuming a constant concentration of atmospheric radiocarbon. In fact the atmospheric radiocarbon concentration has varied over time and thus radiocarbon dates need to be calibrated.
+
+
+=== Cross-discipline correlation ===
+The Blytt-Sernander classification has been used as a temporal framework for the archaeological cultures of Europe and America. Some have gone so far as to identify stages of technology in north Europe with specific periods; however, this approach is an oversimplification not generally accepted. There is no reason, for example, why the north Europeans should stop using bronze and start using iron abruptly at the lower boundary of the Subatlantic at 600 BC. In the warm Atlantic period, Denmark was occupied by Mesolithic cultures, rather than Neolithic, notwithstanding the climatic evidence. Moreover, the technology stages vary widely globally.
+
+
+== The sequence ==
+The Pleistocene phases and approximate calibrated dates (see above) are:
+Older Dryas stadial, 14,000–13,600 BP (Before Present)
+Allerød interstadial, 13,600–12,900 BP
+Younger Dryas stadial, 12,900–11,640 BP
+The Holocene phases are
+Preboreal
+Boreal, cool, dry, rising temperature, 11,500–8,900 BP
+Atlantic, warm, moist, maximum temperature, 8900–5700 BP
+Subboreal, 5700–2600 BP
+Subatlantic, 2600–0 BP
+
+
+== Marker species ==
+Some marker plant genera/species studied in peat are
+Sphagnum
+Carex limosa
+Scheuchzeria palustris, Rannock rush
+Eriophorum vaginatum, cotton grass
+Vaccinium oxycoccos, bog cranberry
+Andromeda polifolia, bog rosemary
+Erica tetralix, cross-leaved heather
+Calluna vulgaris, heather
+Pinus, pine
+Betula, birch
+More sphagnum appears in wet periods. Dry periods feature more tree stumps, of birch and pine.
+
+
+== References ==
+
+
+== External links ==
+the Holocene
+10,000 Years of Climate Change
+Bogs and Mires of the Baltic Region

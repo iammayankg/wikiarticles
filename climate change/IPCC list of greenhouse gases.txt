@@ -1,0 +1,17 @@
+This is a list of LLGHG (long-lived greenhouse gases) greenhouse gases as used by the IPCC TAR.
+
+
+== Gases relevant to radiative forcing only (per IPCC documentation) ==
+The following table has its sources in Chapter 2, p. 141, Table 2.1. of the IPCC Fourth Assessment Report, 2007.
+Mole fractions: μmol/mol = ppm = parts per million (106); nmol/mol = ppb = parts per billion (109); pmol/mol = ppt = parts per trillion (1012).
+The older data from 1998 has been left for reference.
+
+
+== Gases relevant to radiative forcing and ozone depletion (per IPCC documentation) ==
+
+
+== References ==
+
+
+== External links ==
+(Source: IPCC radiative forcing report 1994 updated (to 1998) by IPCC TAR table 6.1 [1]. See also [2].

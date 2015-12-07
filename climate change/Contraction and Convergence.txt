@@ -1,0 +1,58 @@
+The contraction and convergence proposition is now incorporated into a Carbon Budget Accounting Tool [1] as CBAT Domain Two. CBAT information [2]
+
+Contraction and Convergence (C&C) is a proposed global framework for reducing greenhouse gas emissions to combat climate change. Conceived by the Global Commons Institute [GCI] in the early 1990s, the Contraction and Convergence strategy consists of reducing overall emissions of greenhouse gases to a safe level (contraction), resulting from every country bringing its emissions per capita to a level which is equal for all countries (convergence). It is intended to form the basis of an international agreement which will reduce carbon dioxide emissions to avoid dangerous climate change, carbon dioxide being the gas that is primarily responsible for changes in the greenhouse effect on Earth. It is expressed as a simple mathematical formula. This formula can be used as a way for the world to stabilize carbon levels at any level. Advocates of Contraction and Convergence stress that negotiations at the United Nations Framework Convention on Climate Change [UNFCCC] are governed sequentially by the 'objective' of the UNFCCC [safe and stable GHG concentration in the global atmosphere] followed by its organising principles ['precaution' and 'equity']. C&C is widely cited and supported. 
+
+
+== The C&C Proposal ==
+The "convergence" part structures how the entitlements to emit carbon are shared between the countries or regions of the world. Initially entitlements would reflect current emissions, however subject to a negotiation of 'the rate of convergence' these initial entitlements will converge towards equal per capita entitlements across the planet. An early date of convergence will mean that countries with currently low per capita emissions (which as a rule are poorer countries) will see their entitlements rise while a late date for full convergence would risk curtailing poorer countries' chances of development.
+Once convergence is reached then all countries entitlements would continue to fall, subject to the contraction-event required to be UNFCCC-compliant.
+Some argue that the per capita focus risks giving an incentive to countries to increase their population to "earn" more entitlements. To answer this, the GCI put a 'population base-year' function in the model for users to choose and specify any date between 2000 and 2050 beyond which no further entitlements would result from population growth.
+
+
+== Acceptable concentration levels ==
+Both the basic concept of Contraction and Convergence and the specific formulas that the Global Commons Institute advocate can be adapted to both very moderate restrictions on carbon emissions through to much more drastic measures depending on what final level of greenhouse gases concentration is deemed to carry an acceptable level of risk. However, supporters of Contraction and Convergence believe that a safe level at which concentrations of greenhouse gases should stabilize is much lower than many suggest. Specifically they believe that suggestions that atmospheric concentrations of carbon dioxide of 550 parts per million by volume (ppmv) would be safe are wrong. This they consider runs the risk of entering a phase of runaway “climate feedback”, where one change sparks off another with unpredictable results. They advocate erring on the side of caution, with atmospheric concentrations of carbon dioxide being stabilized at 350-450 ppmv. GCI's numerical analysis of the unrealistically optimistic 'sink-assumptions' behind the UK Climate Act is here 
+
+
+== History ==
+The origin of GCI's intervention dates from 1989 and resulted in a statement published in 1990 in the Guardian June 18th 1991 
+The formal calculating model 'Contraction and Convergence' [C&C] was developed over a period of three years in response to the objective and principles of the UNFCCC. Between 1992 and 1995, at the request of the Intergovernmental Panel on Climate Change, GCI undertook and presented an analysis on the growing trends of expansion and divergence, which revealed the increasing asymmetry in global development between developed and developing countries — ultimately observing that it was developing countries that would be worst affected by climate change. C&C was developed by GCI to counteract the adverse effects of these trends.
+
+
+== Application ==
+The application of the framework begins with a full-term contraction budget for global emissions consistent with stabilising atmospheric concentrations of greenhouse gases at a pre-agreed concentration deemed to be safe. In order to help negotiators at the UNFCCC negotiations internationally share this emissions contraction-budget in a way that is less arbitrary and chaotic than it was under 'Kyoto', the C&C model will calculate any rate of linear convergence of all Parties to the global per capita average arising under the chosen contraction rate. This can be on year anywhere between immediate and 'end-of-term' with or without a population base-year as desired. As Prof Ross Garnaut has observed in his 'Review' for the Australian Government, "this rate-of-convergence is the main equity lever" in the negotiations. Practically it means that the sooner the convergence occurs, the faster the gap between under-consumers and over consumers is closed but within the agreed contraction budget.
+
+
+== Support ==
+In 2009 the Hadley Centre [UKMO] agreed that the rates of C&C projected by GCI to keep within 2 degrees Celsius were better than those projected by the UK Government in its 'Climate Act'.
+
+
+== C&C & COP-15 ==
+The C&C aspect of the negotiations at the 2009 United Nations Climate Change Conference (COP-15) in Copenhagen in 2009 provoked controversy.
+However, these animations of C&C as 'Climate Justice without Vengeance' show transparently the financial implications of negotiating an 'accelerated convergence' which issue remains directly relevant to achieving the 'global climate deal' still sought for at COP-16 and beyond.
+The files are available as both *.swf file and flash-self-executable [for both Macs and PCs] and are stable and virus-free: -
+http://www.gci.org.uk/animations/C&C_COP_15.exe http://www.tangentfilms.com/C&CPRESMAC.hqx
+
+
+== See also ==
+
+Peak Oil
+Mitigation of global warming
+Greenhouse Development Rights
+Carbon rationing
+Rationing
+
+
+== References ==
+
+
+== External links ==
+Rajendra Pachauri backs C&C
+Age of Stupid film clip
+BBC News - The fair choice for climate change
+Climate Justice Project
+Global Commons Institute - Contraction and Convergence
+Global Commons Institute - C&C Support Consensus
+Tangent Films video 1
+Tangent Films video 2
+Second Memo from GCI to the UK House of Commons Environmental Audit Committee
+Video explaining Contraction and Convergence

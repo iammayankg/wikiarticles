@@ -1,0 +1,24 @@
+This table is a reference tool for rapidly locating Wikipedia articles on Historic and Prehistoric climate indicators of all types.
+To Add:
+Alkenone analysis
+TEX-86 analysis
+Nile river flood levels
+Trace mineral ratios in deltaic sediment
+Wildlife distribution
+Pollen analysis
+Historic storm-related sinkings
+Sea temperature and atmospheric pressure (ENSO)
+Scientific meteorological measurements (since 1800s)
+air temperature
+air pressure
+wind speed and direction
+
+Ocean currents and marine productivity
+Flooding and drought observations on land
+Volcanic activity
+elevated charcoal in lake sediments
+sand dune activation records
+eolian (wind-borne) sediment deposition
+
+
+== References ==

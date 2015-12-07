@@ -1,0 +1,56 @@
+Consumption is a major concept in economics and is also studied by many other social sciences. Economists are particularly interested in the relationship between consumption and income, and therefore in economics the consumption function plays a major role.
+Different schools of economists define production and consumption differently. According to mainstream economists, only the final purchase of goods and services by individuals constitutes consumption, while other types of expenditure — in particular, fixed investment, intermediate consumption, and government spending — are placed in separate categories (See consumer choice). Other economists define consumption much more broadly, as the aggregate of all economic activity that does not entail the design, production and marketing of goods and services (e.g. the selection, adoption, use, disposal and recycling of goods and services).
+
+
+== Consumption functionEdit ==
+
+The consumption function is a function that expresses consumer spending in terms of its determinants, such as income and accumulated wealth.
+
+
+== Behavioural economics and consumptionEdit ==
+The Keynesian consumption function is also known as the absolute income hypothesis, as it only bases consumption on current income and ignores potential future income (or lack of). Criticism of this assumption led to the development of Milton Friedman's permanent income hypothesis and Franco Modigliani's life cycle hypothesis. More recent theoretical approaches are based on behavioral economics and suggest that a number of behavioural principles can be taken as microeconomic foundations for a behaviourally-based aggregate consumption function.
+
+
+== Consumption and household productionEdit ==
+Consumption is defined in part by comparison to production. In the tradition of the Columbia School of Household Economics also known as the New Home Economics commercial consumption has to be analyzed in the context of household production. The opportunity cost of time affects the cost of home-produced substitutes and therefore demand for commercial goods and services. The elasticity of demand for consumption goods is also a function of who performs chores in households and how their spouses compensate them for opportunity costs of home production.
+Different schools of economists define production and consumption differently. According to mainstream economists, only the final purchase of goods and services by individuals constitutes consumption, while other types of expenditure — in particular, fixed investment, intermediate consumption, and government spending — are placed in separate categories (See consumer choice). Other economists define consumption much more broadly, as the aggregate of all economic activity that does not entail the design, production and marketing of goods and services (e.g. the selection, adoption, use, disposal and recycling of goods and services).
+Consumption can also be measured by a variety of different ways such as energy in energy economics metrics.
+
+
+== Effects of consumptionEdit ==
+Aggregate consumption is a component of aggregate demand. According to the UN, "today’s consumption is undermining the environmental resource base. It is exacerbating inequalities. And the dynamics of the consumption-poverty-inequality-environment nexus are accelerating. If the trends continue without change — not redistributing from high-income to low-income consumers, not shifting from polluting to cleaner goods and production technologies, not shifting priority from consumption for conspicuous display to meeting basic needs — today’s problems of consumption and human development will worsen." Developing countries like India, as they move down the path of copying the consumption patterns of developed economies, will basically create demands that earth will not be able to fulfill. Some economists talk about putting a price on using earth's resources which is in addition to the cost of just extracting them.
+
+
+== Old-age spendingEdit ==
+Spending the Kids' Inheritance (originally the title of a book on the subject by Annie Hulley) and the acronyms SKI and SKI'ing refer to the growing number of older people in Western society spending their money on travel, cars and property, in contrast to previous generations who tended to leave that money to their children.
+Die Broke (from the book Die Broke: A Radical Four-Part Financial Plan by Stephen Pollan and Mark Levine) is a similar idea.
+
+
+== See alsoEdit ==
+Aggregate demand
+Life cycle hypothesis
+Measures of national income and output
+Permanent income hypothesis
+Consumer debt
+Classification of Individual Consumption by Purpose (COICOP)
+Consumer choice
+Consumerism
+List of largest consumer markets
+Over-consumption
+
+
+== ReferencesEdit ==
+
+
+== Further readingEdit ==
+Bourdieu, Pierre (1984). Distinction: A Social Critique of the Judgement of Taste (paperback). Cambridge: Harvard University Press. ISBN 0-674-21277-0.  Also:. Lincoln: London. 1984. ISBN 0-415-04546-0.  
+Deaton, Angus (1992). Understanding Consumption. Oxford University Press. ISBN 0-19-828824-7. 
+Friedman, Jonathan (1994). Consumption and Identity (Studies in Anthropology & History). Washington, DC: Taylor & Francis. ISBN 3-7186-5592-6. 
+Isherwood, Baron C.; Douglas, Mary (1996). The World of Goods: Towards an Anthropology of Consumption (Paperback). New York: Routledge. ISBN 0-415-13047-6. 
+Mackay, Hugh (Editor) (1997). Consumption and Everyday Life (Culture, Media and Identities series) (Paperback). Thousand Oaks, Calif: SAGE Publications. ISBN 0-7619-5438-4. 
+Miller, Daniel (1998). A Theory of Shopping (paperback). Ithaca, N.Y.: Cornell University Press. ISBN 0-8014-8551-7. 
+Slater, Don (1997). Consumer Culture and Modernity. Cambridge, UK: Polity Press. ISBN 0-7456-0304-1. 
+
+
+== External linksEdit ==
+An essay examining the strengths and weaknesses of Keynes's theory of consumption

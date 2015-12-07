@@ -1,0 +1,114 @@
+Energy in Belgium describes energy and electricity production, consumption and import in Belgium.
+It is governed by the energy policy of Belgium, which is split over several levels of government. For example, the regional level is responsible for awarding green certificates (except for offshore wind parks) and the national level for anything concerning nuclear power. As a member country of the European Union Belgium also complies to its energy policy.
+
+
+== Overview ==
+
+
+== Primary energy consumption ==
+
+Primary energy is the amount of extractable energy present in fuels as they are found in nature. It is often expressed in tonnes of oil equivalent (toe) or watt-hour (Wh). Unless stated otherwise the lower heating value is used in the remainder of this text. A portion of primary energy is converted into other forms before it is used, depending on the energy conversion efficiency of the installation and method employed this number differs significantly from the final energy as consumed by end users.
+
+
+=== Production ===
+
+In recent years own production is about 25%. However this is mostly due to nuclear power generation, which by convention is counted as domestic production despite the uranium being imported. Renewable energy sources account for the rest of own production.
+Historically, up until 1992, coal was mined in Belgium. Since 2000 the quantities of Coalbed methane have been researched. These show that a concession of Limburgse Reconversie Maatschappij would contain 7 billion cubic meters of mine gas. In 2012 a deal was made with the Australian Dart Energy to investigate the practical extraction of this mine gas.
+
+
+=== Import ===
+In 2010, crude oil was imported mainly from Russia (44%), and OPEC countries (23%). Norway was the largest (37%) supplier of natural gas followed by The Netherlands (29%). While 39% of coal was imported from the United States and 22% from Australia.
+
+
+== Energy carrier conversions ==
+
+
+=== Oil refining ===
+At the end of 2011 Belgium had a distillation capacity 41 Mt. That year 72% of the capacity was used. 
+
+
+=== Electricity ===
+
+Electrabel is main producer of electricity, followed by EDF Luminus.
+With the exception of 2009 Belgium has been a net importer in recent years.
+Short term trading is done via the Belpex energy exchange, which is now part of APX-ENDEX. The Belgian transmission grid, operated by Elia System Operator, has a central position in the Synchronous grid of Continental Europe. This allows Belgium to trade electricity with its neighbours. Though currently there are only physical connections with the Netherlands and France. Direct links with Germany(Alegro) and The United Kingdom(Nemo) are planned. Currently a maximum of 3500 MW can be imported. In comparison, the net installed generation capacity in Belgium is estimated to be 19,627 MW
+In 2010, Belgium produced 95 TWh of electricity. After subtraction of the electricity used in the production process and losses and addition of the net import 84 TWh was consumed by end users.
+According to the GEMIX report the potential of renewable energy sources is 17 TWh per year. Edora, the union of renewable energy producers in Wallonia refers to studies claiming that 7.8 TWh may come from renewable sources in 2015. In 2000, renewable energy (including biomass) was used for producing 0.95% of the 78.85 TWh of electricity produced domestically In 2011 wind and solar power generated 3.8 TWh.
+
+
+==== Nuclear power ====
+
+Nuclear power typically contributes between 50% and 60% of the electricity produced domestically(50.4% in 2010).
+Belgium has two nuclear power plants:
+Nuclear Plant Doel with four reactors of 392, 433, 1006 and 1008 MWe (1975)
+Nuclear Plant Tihange with three reactors of 962, 1008 and 1015 MWe (1975)
+By law the nuclear power plants are to be phased-out. The first reactors are scheduled to be taken out of service in 2014, the last ones by 2025. It is widely assumed that the government will replace that law.
+Two reactors are scheduled to be shut down by 2015. The lifetime of one old reactor has been extended through to 2025.
+
+
+==== Fossil fuels ====
+The use of coal in thermal power plants has been decreasing, in 2000 it was still used to produce 14.25% of electricity, by 2006 this had dropped to about 10%. In 2010 it was down to 6.3%. The conventional coal units of the thermal power plants in Mol and Kallo were closed. Oil is also playing an increasingly less prominent role in 2010 it accounted only for 0.4% of gross electricity production.
+This reduction is mostly compensated by a rise in popularity of natural gas. Where in 2000 gas only accounted for 23% it was up to 33%(including blast furnace gas) of gross electricity generated in 2010. Natural gas power plants are less polluting and have a short start-up time,
+Fluxys is the main operator in natural gas transmission.
+Several power stations use a combined cycle including: Drogenbos, Amercoeur, Tessenderlo. Building permits are processed for plants in Seneffe and Visé.
+
+
+==== Wind power ====
+
+At the start of 2012, there were 498 operational wind turbines in Belgium, with a capacity of 1080 MW. The amount of electricity generated from wind energy has surpassed 2 TWh per year.
+On Sunday 6 February 2011, 12% of the consumed electricity was generated by wind turbines. Due to high winds. 
+There are seven large-scale offshore wind farm projects. Northwind (216MW), Thorntonbank Wind Farm (325 MW), Belwind Wind Farm (330 MW) are operational. The others are in various stages of planning.
+
+
+==== Solar power ====
+
+The exploitation of Solar power is on the rise in Belgium. In 2014 the installed capacity expanded to almost 3 GWp, nearly all of it was grid connected. Belgium's 2953 MWp of photovoltaics produced an estimated 2752 GWh of electricity in 2014.
+Sources:
+
+
+==== Biomass and waste ====
+In 2009, biomass and biogas were used to generate 3.5 TWh or 3.8% of gross domestic electricity production.
+In 2010 5.07 million tonnes of waste was produced in Belgium, of which 1.75 Mt was incinerated. Nearly always (99.8% of the time) energy was recovered during incineration. Non renewable waste was used for producing 1.4% of the gross domestic electricity production. 1.9 Mt was recycled and 1 Mt was composted or fermented; only 0.062 Mt was dumped. Ten years earlier this was only 0.71%.
+
+
+==== Hydroelectric power ====
+Belgium has two pumped storage hydroelectric power stations: Coo-Trois-Ponts (1164 MW) and Plate-Taille (143 MW). Pumped storage stations are a net consumer of electricity, but they contributed 1.4% to the gross electricity production in 2010.
+Despite the limited potential there are also a number of stations generating hydroelectric power. With a combined capacity of about 100 MW. Contributing 0.3% of gross domestic production in 2010.
+Almost all of this capacity is realised in the Walloon Region. Even though hydroelectric power was used extensively in Flanders prior to the industrial revolution, there are no rivers where it can be generated on a large scale. The region's 15 installations have a combined capacity just shy of 1 MW (994 kW).
+
+
+== Final energy consumption ==
+
+In 2010 the largest share (34%) of final energy was for domestic use (this includes: households, service sector, commerce, and agriculture). Transport and industrial sector both consumed about a quarter. Fossil fuels are also used as raw material in several manufacturing processes, this non-energetic use accounts for the remainder of the final energy.
+A more detailed picture of the energy and type of fuel used by various activities is given in the table below.
+
+
+=== Brussels-Capital Region ===
+In the Brussels-Capital Region, the electricity and natural gas net are operated by Sibelga. In 2011, the natural gas consumption was 10,480 GWh and the electricity consumption was 5,087 GWh.
+Sibelga invests in combined heat and power (CHP) installations for which it receives green certificates. In 2011 its eleven installations had a combined capacity of 17.8 MWe and 19.7 MWth and generated 50.5 GWh of electricity.
+The Region of Brussels-Capital also encourages MicroCHP and implemented the European directive of 2002/91/CE on Energy Performance of Buildings.
+
+
+=== Corporations ===
+The companies Umicore, BASF, Solvay, Duferco, Tessenderlo Chemie, ArcelorMittal, and Air Liquide together account for about 15% of the total electricity consumption of Belgium in 2006.
+
+
+== Greenhouse gas emissions ==
+
+In 1990, the greenhouse gas (GHG) emissions were 146.9 million tons of CO2 equivalent (Mt CO2 eq), whose 88 million tons came from the Flemish Region, 54.8 from the Walloon Region and 4 Mt from the Brussels-capital Region.
+Being a member of the European Union, Belgium, applied the European Union Emission Trading Scheme set up by the Directive 2003/87/EC. The Kyoto protocol sets a 7.5% reduction of greenhouse gas emission target compared to 1990. Belgium set up a National Allocation Plan at the federal level with target for each of the three regions.
+Belgium takes part in the United Nations Framework Convention on Climate Change and has ratified the Kyoto Protocol.
+On 14 November 2002, Belgium signed the Cooperation Agreement for the implementation of a National Climate Plan and reporting in the context of the UNFCCC and the Kyoto protocol. The first National Allocation Plan was for the period from 2005 to 2007. The European commission approved it on 20 October 2004. The second allocation plan was for the period 2008–2012 and aims a reduction of 7.5% of green house gas emissions compared to 1990.
+
+
+== Business ==
+According to Forbes list of billionaires (2011), the Belgian billionaire Wang Xingchun ($1 B 2011) made his wealth in coal business. Wang is a resident of Singapore who holds a Belgian citizenship. Wang is chairman of minerals concern Winsway Coking Coal, an importer of coal to China from Mongolia that went public in Hong Kong 2010.
+
+
+== See also ==
+
+Electricity sector in Belgium
+Energy policy of Belgium
+
+
+== References ==

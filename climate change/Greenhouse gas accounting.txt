@@ -1,0 +1,20 @@
+Greenhouse gas accounting describes the way to inventory and audit greenhouse gas (GHG) emissions. A corporate or organisational greenhouse gas (GHG) emissions assessment quantifies the total greenhouse gases produced directly and indirectly from a business or organisation’s activities. Also known as a carbon footprint, it is a business tool that provides information with a basis for understanding and managing climate change impacts.
+The drivers for corporate GHG accounting include mandatory GHG reporting in directors’ reports, investment due diligence, shareholder and stakeholder communication, staff engagement, green messaging, and tender requirements for business and government contracts. Accounting for greenhouse gas emissions is increasingly seen as a standard requirement for business. For example, in June 2012, the UK coalition government announced the introduction of mandatory carbon reporting, requiring around 1,100 of the UK’s largest listed companies to report their greenhouse gas emissions every year. Deputy Prime Minister Nick Clegg confirmed that emission reporting rules would come into effect from April 2013 in his piece for The Guardian.
+Guidance for accounting for GHG emissions from organizations and emission reduction projects is provided by the World Resources Institute (WRI) and World Business Council for Sustainable Development (WBCSD) GHG Protocol. For national GHG inventories, guidance is provided by the Intergovernmental Panel on Climate Change (IPCC) methodology reports.
+The International Organization for Standardization (ISO) also provides some general standards for
+greenhouse gas emissions at organisation level (ISO 14064 - 1) and
+greenhouse gas emissions at project level (ISO 14064 - 2).
+Specifications to validate and verify relevant accountings are documented in (ISO 14064 - 3).
+
+
+== See also ==
+Greenhouse gas emissions accounting
+Carbon accounting
+Enterprise carbon accounting
+Greenhouse gas inventory
+Greenhouse gas monitoring
+Carbon footprint
+Verified Carbon Standard
+
+
+== References ==

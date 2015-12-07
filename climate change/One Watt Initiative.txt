@@ -1,0 +1,35 @@
+The One Watt Initiative (or the proper One-Watt Initiative) is an energy-saving initiative by the International Energy Agency (IEA) to reduce standby power-use by any appliance to not more than one watt in 2010, and 0.5 watts in 2013, which has given rise to regulations in many countries and regions.
+
+
+== Standby powerEdit ==
+Standby power, informally called vampire or phantom power, refers to the electricity consumed by many appliances when they are switched off or in standby mode. The typical standby power per appliance is low (typically from less than 1 to 25 W), but, when multiplied by the billions of appliances in houses and in commercial buildings, standby losses represent a significant fraction of total world electricity use. According to Alan Meier, a staff scientist at the Lawrence Berkeley National Laboratory, standby power before the One Watt Initiative proposals were implemented as regulations accounted for as much as 10% of household power consumption. A study in France found that standby power accounted for 7% of total residential consumption, and other studies put the proportion of consumption due to standby power at 13%.
+The IEA estimated in 2007 that standby produced 1% of the world's carbon dioxide (CO2) emissions. To put the figure into context, total air travel contributes less than 3% of global CO2 emissions.
+Standby power can be reduced by technological means, reducing power used without affecting functionality, and by changing users' operating procedures; this is discussed in the relevant article.
+
+
+== PolicyEdit ==
+The One Watt Initiative was launched by the IEA in 1999 to ensure through international cooperation that by 2010 all new appliances sold in the world use only one watt in standby mode. This would reduce CO2 emissions by 50 million tons in the OECD countries alone by 2010; the equivalent to removing 18 million cars from the roads.
+In 2001 US President George W. Bush issued Executive Order 13221, which states that every government agency, “when it purchases commercially available, off-the-shelf products that use external standby power devices, or that contain an internal standby power function, shall purchase products that use no more than one watt in their standby power consuming mode.”
+By 2005 South Korea and Australia had introduced the one watt benchmark in all new electrical devices, and according to the IEA other countries, notably Japan and China, had undertaken "strong measures" to reduce standby power use.
+In July 2007 California's 2005 appliance standards came into effect, limiting external power supply standby power to 0.5 watts.
+On 6 January 2010, the European Commission's EC Regulation 1275/2008 came into force regulating requirements for standby and "off mode" electric power consumption of electrical and electronic household and ofﬁce equipment. The regulations mandate that from 6 January 2010 "off mode" and standby power shall not exceed 1W, "standby-plus" power (providing information or status display in addition to possible reactivation function) shall not exceed 2W (these figures are halved on 6 January 2013). Equipment must, where appropriate, provide off mode and/or standby mode when the equipment is connected to the mains power source.
+
+
+== See alsoEdit ==
+
+Low-carbon economy
+Carbon footprint
+Energy conservation
+Energy policy
+Energy-Efficient Ethernet
+Standby power
+Voltage optimisation
+
+
+== References and notesEdit ==
+
+
+== External linksEdit ==
+Things that go blip in the night, Standby power and how to limit it, International Energy Agency/Organisation for Economic Co-operation and Development, Paris, 2001
+International Energy Agency
+Standby Power Home Page, Lawrence Berkeley National Laboratory California

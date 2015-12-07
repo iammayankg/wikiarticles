@@ -1,0 +1,62 @@
+Arctic sea ice decline is the sea ice loss observed in recent decades in the Arctic Ocean. The Intergovernmental Panel on Climate Change (IPCC) Fourth Assessment Report states that greenhouse gas forcing is largely, but not wholly, responsible for the decline in Arctic sea ice extent. A study from 2011 found the decline to be “faster than forecasted” by model simulations. The IPCC Fifth Assessment Report concluded with high confidence that sea ice continues to decrease in extent, and that there is robust evidence for the downward trend in Arctic summer sea ice extent since 1979. It has been established that the region is at its warmest for at least 40,000 years and the Arctic-wide melt season has lengthened at a rate of 5 days per decade (from 1979 to 2013), dominated by a later autumn freezeup. Sea ice changes have been identified as a mechanism for polar amplification.
+
+
+== Definitions ==
+The Arctic sea ice minimum is the day in a given year when Arctic sea ice reaches its smallest extent. It occurs at the end of the summer melting season, normally during September. Sea ice maximum is the day of a year when Arctic sea ice reaches its largest extent near the end of the Arctic cold season, normally during March. Typical data visualizations for Arctic sea ice include average monthly measurements or graphs for the annual minimum or maximum extent, as shown in the images to the right.
+
+
+== Observation ==
+
+Observation with satellites show that Arctic sea ice area, extent, and volume have been in decline for a few decades. Sometime during the 21st century, sea ice may effectively cease to exist during the summer. Sea ice extent is defined as the area with at least 15% ice cover. The amount of multi-year sea ice in the Arctic has declined considerably in recent decades. In 1988, ice that was at least 4 years old accounted for 26% of the Arctic's sea ice. By 2013, ice that age was only 7% of all Arctic sea ice.
+Scientists recently measured sixteen-foot (five-meter) wave heights during a storm in the Beaufort Sea in mid-August until late October 2012. This is a new phenomenon for the region, since a permanent sea ice cover normally prevents wave formation. Wave action breaks up sea ice, and thus could become a feedback mechanism, driving sea ice decline.
+
+
+== Ice-free summer ==
+
+An "ice-free" Arctic Ocean is often defined as "having less than 1 million square kilometers of sea ice", because it is very difficult to melt the thick ice around the Canadian Arctic Archipelago. The IPCC AR5 defines "nearly ice-free conditions" as sea ice extent less than 106 km2 for at least five consecutive years.
+Many scientists have attempted to estimate when the Arctic will be "ice-free". They have noted that climate model predictions have tended to be overly conservative regarding sea ice decline. A 2013 paper suggested that models commonly underestimate the solar radiation absorption characteristics of wildfire soot. A 2006 paper predicted "near ice-free September conditions by 2040". Overland & Wang (2009) predicted that there would be an ice-free Arctic in the summer by 2037. The same year Boé et al. found that the Arctic will probably be ice-free in September before the end of the 21st century. A follow-up study concluded with the possibility of major sea ice loss within a decade or two. The IPCC AR5 (for at least one scenario) estimates an ice-free summer might occur around 2050. The Third U.S. National Climate Assessment (NCA), released May 6, 2014, reports that the Arctic Ocean is expected to be ice free in summer before mid-century. Simulations by global climate models generally map well to this seasonal pattern of observed Arctic sea ice loss. Models that best match historical trends project a nearly ice-free Arctic in the summer by the 2030s. However, these models do tend to underestimate the rate of sea ice loss since 2007. A 2010 paper suggests that the Arctic Ocean will be ice-free sooner than global climate models predict. They chart the summer of 2016 as ice-free, but show a possible date range out to 2020. This assessment was reported in the press as "US Navy predicts summer ice free Arctic by 2016" 
+
+
+== Tipping point ==
+There is an ongoing debate if the Arctic Ocean has already passed a "tipping point", and a 2013 study identified an abrupt transition to increased seasonal ice cover variability in 2007, which has persisted in following years. The researchers made a distinction between a bifurcation and a non-bifurcation `tipping point'. The IPCC AR5 report stated with medium confidence that precise levels of climate change sufficient to trigger a tipping point, defined as a threshold for abrupt and irreversible change, remain uncertain, and that the risk associated with crossing multiple tipping points increases with rising temperature.
+
+
+== Implications ==
+Implications which arise from lesser ocean surface covered with sea-ice include the ice-albedo feedback or warmer sea surface temperatures which increase ocean heat content, which in turn changes evaporation patterns and the polar vortex.
+
+
+=== Atmospheric chemistry ===
+Melting of sea ice releases molecular chlorine, which reacts with sunlight to produce chlorine atoms. Because chlorine atoms are highly reactive, they can expedite the degradation of methane and tropospheric ozone and the oxidation of mercury to more toxic forms. Cracks in sea ice are causing ozone and mercury uptake in the surrounding environment.
+
+
+=== Atmospheric regime ===
+
+A link has been proposed between reduced Barents-Kara sea ice and cold winter extremes over northern continents. Model simulation suggest diminished Arctic sea ice may have been a contributing driver of recent wet summers over northern Europe, because of a weakened jet stream, which dives further south. Extreme summer weather in northern mid-latitudes has been linked to a vanishing cryosphere. Evidence suggest that the continued loss of Arctic sea-ice and snow cover may influence weather at lower latitudes. Correlations have been identified between high-latitude cryosphere changes, hemispheric wind patterns and mid-latitude extreme weather events for the Northern Hemisphere. A study from 2004, connected the disappearing sea ice with a reduction of available water in the American west.
+Based on effects of Arctic amplification (warming) and ice loss, a study in 2015 concluded that highly amplified jet-stream patterns are occurring more frequently in the past two decades, and that such patterns can not be tied to certain seasons. Additionally it was found that these jet-stream patterns often lead to persistent weather patterns that result in extreme weather events. Hence, continued heat trapping emissions favour increased formation of extreme events caused by prolonged weather conditions.
+
+
+=== Plant and animal life ===
+Sea ice decline has been linked to boreal forest decline in North America and is assumed to culminate with an intensifying wildfire regime in this region. The annual net primary production of the Eastern Bering Sea was enhanced by 40–50% through phytoplankton blooms during warm years of early sea ice retreat.
+Polar bears are turning to alternate food sources because Arctic sea ice melts earlier and freezes later each year. As a result they have less time to hunt their historically preferred prey of seal pups, and must spend more time on land and hunt other animals. As a result, the diet is less nutritional, which leads to reduced body size and reproduction, thus indicating population decline in polar bears.
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==
+Third National Climate Assessment | Melting Ice
+NASA Earth Observatory | Arctic Sea Ice
+Wunderground | Arctic Sea Ice Decline
+
+
+=== Maps ===
+NSIDC | Arctic Sea Ice News
+Cryosphere Today
+Daily AMSR2 Sea Ice Maps
+
+
+=== Animations ===
+Video: Arctic Sea Ice, September 1979 to September 2014

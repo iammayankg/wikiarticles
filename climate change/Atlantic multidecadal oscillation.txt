@@ -1,0 +1,66 @@
+The Atlantic Multidecadal Oscillation (AMO) is an ocean current, with different modes on multi-decadal time-scales, affecting the North Atlantic Ocean, in particular its sea surface temperature. While there is some support for this mode in models and in historical observations, controversy exists with regard to its amplitude, and in particular, the attribution of sea surface temperature change to natural or anthropogenic causes, especially in tropical Atlantic areas important for hurricane development.
+
+
+== Definition ==
+The Atlantic multidecadal oscillation (AMO) was identified by Schlesinger and Ramankutty in 1994.
+The AMO signal is usually defined from the patterns of SST variability in the North Atlantic once any linear trend has been removed. This detrending is intended to remove the influence of greenhouse gas-induced global warming from the analysis. However, if the global warming signal is significantly non-linear in time (i.e. not just a smooth linear increase), variations in the forced signal will leak into the AMO definition. Consequently, correlations with the AMO index may mask effects of global warming.
+
+Several methods have been proposed to remove the global trend and ENSO influence over the North Atlantic SST. Trenberth and Shea, assuming that the effect of global forcing over the North Atlantic is similar to the global ocean, subtracted the global (60°N-60°S) mean SST from the North Atlantic SST to derive a revised AMO index.
+Ting et al. however argue that the forced SST pattern is not spatially uniform; they separated the forced and internally generated variability using signal to noise maximizing EOF analysis.
+Van Oldenborgh et al. derived an AMO index as the SST averaged over the extra-tropical North Atlantic (to remove the influence of ENSO that is greater at tropical latitude) minus the regression on global mean temperature.
+Guan and Nigam removed the non stationary global trend and Pacific natural variability before applying an EOF analysis to the residual North Atlantic SST.
+The linearly detrended index suggests that the North Atlantic SST anomaly at the end of the twentieth century is equally divided between the externally forced component and internally generated variability, and that the current peak is similar to middle twentieth century; by contrast the others methodology suggest that a large portion of the North Atlantic anomaly at the end of the twentieth century is externally forced.
+
+
+== Mechanisms ==
+In models, AMO-like variability is associated with small changes in the North Atlantic branch of the Thermohaline Circulation. However, historical oceanic observations are not sufficient to associate the derived AMO index to present-day circulation anomalies.
+The Atlantic Multidecadal Oscillation (AMO) is important for how external forcings are linked with North Atlantic SSTs.
+
+
+== Climate impacts worldwide ==
+The AMO index is correlated to air temperatures and rainfall over much of the Northern Hemisphere, in particular, North America and Europe such as North Eastern Brazilian and African Sahel rainfall and North American and European summer climate. It is also associated with changes in the frequency of North American droughts and is reflected in the frequency of severe Atlantic hurricanes.
+Recent research suggests that the AMO is related to the past occurrence of major droughts in the US Midwest and the Southwest. When the AMO is in its warm phase, these droughts tend to be more frequent or prolonged. Two of the most severe droughts of the 20th century occurred during the positive AMO between 1925 and 1965: The Dust Bowl of the 1930s and the 1950s drought. Florida and the Pacific Northwest tend to be the opposite—warm AMO, more rainfall.
+Climate models suggest that a warm phase of the AMO strengthens the summer rainfall over India and Sahel and the North Atlantic tropical cyclone activity. Paleoclimatologic studies have confirmed this pattern—increased rainfall in AMO warmphase, decreased in cold phase—for the Sahel over the past 3,000 years.
+
+
+== Relation to Atlantic hurricanes ==
+
+In viewing actual data on a short time horizon, sparse experience would suggest the frequency of major hurricanes is not strongly correlated with the AMO. During warm phases of the AMO, the number of minor hurricanes (category 1 and 2) saw a modest increase. With full consideration of meteorological science, the number of tropical storms that can mature into severe hurricanes is much greater during warm phases of the AMO than during cool phases, at least twice as many; the AMO is reflected in the frequency of severe Atlantic hurricanes. The hurricane activity index is found to be highly correlated with the Atlantic multidecadal oscillation. If there is an increase in hurricane activity connected to global warming, it is currently obscured by the AMO quasi-periodic cycle. The AMO alternately obscures and exaggerates the global increase in temperatures due to human-induced global warming. Based on the typical duration of negative and positive phases of the AMO, the current warm regime is expected to persist at least until 2015 and possibly as late as 2035. Enfield et al. assume a peak around 2020.
+The recent AMO increased the average number of Atlantic hurricanes and named storms from 6 to 12, when it began in 1995 and ended in 2012
+
+
+== Florida rainfall ==
+The AMO has a strong effect on Florida rainfall. Rainfall in central and south Florida becomes more plentiful when the Atlantic is in its warm phase and droughts and wildfires are more frequent in the cool phase. As a result of these variations, the inflow to Lake Okeechobee—the reservoir for South Florida’s water supply—changes by as much as 40% between AMO extremes. In northern Florida the relationship begins to reverse—less rainfall when the Atlantic is warm.
+
+
+== Periodicity and prediction of AMO shifts ==
+There are only about 130–150 years of data based on instrument data, which are too few samples for conventional statistical approaches. With the aid of multi-century proxy reconstruction, a longer period of 424 years was used by Enfield and Cid–Serrano as an illustration of an approach as described in their paper called "The Probabilistic Projection of Climate Risk". Their histogram of zero crossing intervals from a set of five re-sampled and smoothed version of Gray et al. (2004) index together with the Maximum Likelihood Estimate gamma distribution fit to the histogram, showed that the largest frequency of regime interval was around 10–20 year. The cumulative probability for all intervals 20 years or less was about 70%.
+There is no demonstrated predictability for when the AMO will switch, in any deterministic sense. Computer models, such as those that predict El Niño, are far from being able to do this. Enfield and colleagues have calculated the probability that a change in the AMO will occur within a given future time frame, assuming that historical variability persists. Probabilistic projections of this kind may prove to be useful for long-term planning in climate sensitive applications, such as water management.
+Assuming that the AMO continues with its quasi-cycle of roughly 70 years, the peak of the current warm phase would be expected in c. 2020, or based on its 50–90 year quasi-cycle, between 2000 and 2040 (after peaks in c. 1880 and c. 1950).
+
+
+== References ==
+
+Teegavarapu, R. S. V., A. Goly and J. Obeysekera (2013). Influences of Atlantic Multi-Decadal Oscillation on Regional Precipitation Extremes, Journal of Hydrology, 495 (2013) 74–93.
+Aneesh Goly, Ramesh S. V. Teegavarapu (2014). Individual and coupled influences of AMO and ENSO on regional precipitation characteristics and extremes. Water Resources Research, 50, doi:10.1002/2013WR014540.
+
+
+== Further reading ==
+Andronova, N. G.; Schlesinger, M. E. (2000). "Causes of global temperature changes during the 19th and 20th centuries". Geophys. Res. Lett. 27: 2137–2140. Bibcode:2000GeoRL..27.2137A. doi:10.1029/2000GL006109. 
+Delworth, T. L.; Mann, M. E. (2000). "Observed and simulated multidecadal variability in the Northern Hemisphere". Climate Dynamics 16: 661–676. Bibcode:2000ClDy...16..661D. doi:10.1007/s003820000075. 
+Enfield, D. B.; Mestas-Nunez, A. M.; Trimble, P. J. (2001). "The Atlantic Multidecadal Oscillation and its relationship to rainfall and river flows in the continental U.S.". Geophys. Res. Lett. 28: 2077–2080. Bibcode:2001GeoRL..28.2077E. doi:10.1029/2000GL012745. 
+Goldenberg, S. B.; et al. (2001). "The recent increase in Atlantic hurricane activity: Causes and implications". Science 293 (5529): 474–479. Bibcode:2001Sci...293..474G. doi:10.1126/science.1060040. PMID 11463911. 
+Gray, S. T.; et al. (2004). "A tree-ring based reconstruction of the Atlantic Multidecadal Oscillation since 1567 A.D.". Geophys. Res. Lett. 31: L12205. Bibcode:2004GeoRL..3112205G. doi:10.1029/2004GL019932. 
+Hetzinger, Steffen; et al. (2008). "Caribbean coral tracks Atlantic Multidecadal Oscillation and past hurricane activity". Geology 36 (1): 11–14. Bibcode:2008Geo....36...11H. doi:10.1130/G24321A.1. 
+Kerr, R. A. (2000). "A North Atlantic climate pacemaker for the centuries". Science 288 (5473): 1984–1986. doi:10.1126/science.288.5473.1984. PMID 17835110. 
+Kerr, R. A. (2005). "Atlantic climate pacemaker for millennia past, decades hence?". Science 309 (5731): 41–43. doi:10.1126/science.309.5731.41. PMID 15994503. 
+Knight, J. R. (2005). "A signature of persistent natural thermohaline circulation cycles in observed climate". Geophys. Res. Lett. 32: L20708. Bibcode:2005GeoRL..3220708K. doi:10.1029/2005GL024233. 
+McCabe, G. J., G. J.; Palecki, M. A.; Betancourt, J. L. (2004). "Pacific and Atlantic Ocean influences on multidecadal drought frequency in the United States". PNAS 101 (12): 4136–4141. Bibcode:2004PNAS..101.4136M. doi:10.1073/pnas.0306738101. PMC 384707. PMID 15016919. 
+Sutton, R. T.; Hodson, L. R. (2005). "Atlantic forcing of North American and European summer climate". Science 309 (5731): 115–118. Bibcode:2005Sci...309..115S. doi:10.1126/science.1109496. PMID 15994552. 
+Knight, J. R.; C. K. Folland; A. A. Scaife (2006). "Climate impacts of the Atlantic Multidecadal Oscillation". Geophys. Res. Lett. 33: L17706. Bibcode:2006GeoRL..3317706K. doi:10.1029/2006GL026242. 
+
+
+== External links ==
+Frequently asked questions about the AMO
+Probabilistic projection of future AMO regime shifts
+AMO Data from 1856 - Present

@@ -1,0 +1,44 @@
+The Journal of Geophysical Research is a peer-reviewed scientific journal published by the American Geophysical Union 12 times per year. It contains original research on the physical, chemical, and biological processes that contribute to the understanding of the Earth, Sun, and solar system. It has seven sections: A (Space Physics), B (Solid Earth), C (Oceans), D (Atmospheres), E (Planets), F (Earth Surface), and G (Biogeosciences). All current and back issues are available online for subscribers.
+
+
+== History ==
+The journal was originally named Terrestrial Magnetism by the American Geophysical Union's president Louis Agricola Bauer in 1896. It was entitled Terrestrial Magnetism and Atmospheric Electricity from 1899–1948. In 1980, three specialized sections were established: A: Space Physics, B: Solid Earth, and C: Oceans. Subsequently, further sections have been added: D: Atmospheres in 1984, E: Planets in 1991, F: Earth Surface in 2003, and G: Biogeosciences in 2005.
+
+
+== Sections ==
+The scopes of the current seven sections, published as separate issues, are:
+A: Space Physics covers aeronomy and magnetospheric physics, planetary atmospheres and magnetospheres, interplanetary and external solar physics, cosmic rays, and heliospheric physics.
+B: Solid Earth focuses on the physics and chemistry of the solid Earth and the liquid core of the Earth, geomagnetism, paleomagnetism, marine geology/geophysics, chemistry and physics of minerals, rocks, volcanology, seismology, geodesy, gravity, and tectonophysics.
+C: Oceans covers physical, biological, and chemical oceanography.
+D: Atmospheres includes physics and chemistry of the atmosphere, as well as the atmospheric-biospheric, lithospheric, or hydrospheric interface.
+E: Planets covers the geology, geophysics, geochemistry, atmospheres, biology, and dynamics of the planets, satellites, asteroids, rings, comets, and meteorites; planetary origins; and planetary detection. Studies of the Earth are included when they concern exogenic effects or the comparison of the Earth to other planets.
+F: Earth Surface focuses on the physical, chemical and biological processes that affect the form and function of the surface of the solid Earth over all temporal and spatial scales, including fluvial, eolian, and coastal sediment transport; hillslope mass movements; glacial and periglacial activity; weathering and pedogenesis; and surface manifestations of volcanism and tectonism.
+G: Biogeosciences focuses on the interface between biology and the geosciences and attempts to understand the functions of the Earth system across multiple spatial and temporal scales.
+Each of the sections has one or more editors who are appointed by and serve at the pleasure of the President of the American Geophysical Union for terms of three to four years. Each editor can in turn appoint associate editors.
+According to the Editor-in-Chief of JGR-Space Physics, "With the switch to Wiley, the separate sections of JGR were given distinct ISSN numbers. This means that in a couple of years, each section of JGR will have its own Impact Factor."
+
+
+== Abstracting and indexing ==
+The journal is indexed by GEOBASE, GeoRef, Scopus, PubMed, Web of Science, and several CSA indexes. It published 2995 articles in 2010. According to the Journal Citation Reports, the journal has a 2010 impact factor of 3.303, ranking it 15th out of 165 journals in the category "Geosciences, Multidisciplinary". Journal of Geophysical Research—Atmospheres was also the 6th most cited publication on climate change between 1999 and 2009.
+
+
+== Notable articles ==
+Among the most highly cited papers in the Journal of Geophysical Research (with over 1000 citations each) are:
+Cande, D. V.; Kent, S. C. (1995). "Revised calibration of the geomagnetic polarity timescale for the Late Cretaceous and Cenozoic". Journal of Geophysical Research 100 (B4). pp. 6093–6095. doi:10.1029/94JB03098. 
+Brune, J. N. (1970). "Tectonic stress and the spectra of seismic shear Waves from earthquakes". Journal of Geophysical Research 75 (26). pp. 4997–5009. doi:10.1029/JB075i026p04997. 
+Parsons, B.; Sclater, J. G. (1982). "Analysis of variation of ocean-floor bathymetry and heat-flow with age". Journal of Geophysical Research 82 (5). pp. 803–827. doi:10.1029/JB082i005p00803. 
+Minster, J. B.; Jordan, T. H. (1983). "Present-day plate motions". Journal of Geophysical Research 83 (NB11). pp. 5331–5354. doi:10.1029/JB083iB11p05331. 
+Alex Guenther, C. Nicholas Hewitt, David Erickson, Ray Fall, Chris Geron, Tom Graedel, Peter Harley, Lee Klinger, Manuel Lerdau, W. A. Mckay, Tom Pierce, Bob Scholes, Rainer Steinbrecher, Raja Tallamraju, John Taylor, and Pat Zimmerman (1995). "A global model of natural volatile organic compound emissions". Journal of Geophysical Research 100 (D5). pp. 8873–8892. doi:10.1029/94JD02950. 
+Kennel, C. F.; Petschek, H. E. (1966). "Limit on stably trapped particle fluxes". Journal of Geophysical Research 71 (1). pp. 1–28. doi:10.1029/JZ071i001p00001. 
+Birch, F. (1952). "Elasticity and constitution of the Earth interior". Journal of Geophysical Research 57 (2). pp. 227–286. doi:10.1029/JZ057i002p00227. 
+
+
+== See also ==
+List of scientific journals in earth and atmospheric sciences
+
+
+== References ==
+
+
+== External links ==
+Official website

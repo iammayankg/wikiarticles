@@ -1,0 +1,65 @@
+The term off-grid refers to not being connected to a grid, mainly used in terms of not being connected to the main or national electrical grid. In electricity, off-grid can be stand-alone power system or mini-grids typically to provide a smaller community with electricity. Off-grid electrification is an approach to access electricity used in countries and areas with little access to electricity, due to scattered or distant population. The term off-the-grid (OTG) can refer to living in a self-sufficient manner without reliance on one or more public utilities.
+Off-the-grid homes are autonomous; they do not rely on municipal water supply, sewer, natural gas, electrical power grid, or similar utility services. A true off-grid house is able to operate completely independently of all traditional public utility services. The idea has been recently popularized by certain celebrities including Ed Begley, Jr. who stars in Living with Ed television show on the Home & Garden Television (HGTV) network. Actress Daryl Hannah promotes off-grid living and constructed her home in Colorado according to those principles, as does survival expert and Dual Survival co-star Cody Lundin, who lives in a self-designed, passive solar earth house in the high-desert wilderness of Northern Arizona, collecting rainwater, composting waste, and paying nothing for utilities.
+
+
+== Electrical power ==
+Electrical power can be generated on-site with renewable energy sources such as solar (particularly with photovoltaics), wind, micro hydro, geothermal; with a generator or Micro combined heat and power with adequate fuel reserves. Such a system is called a stand-alone power system. In addition, it is possible to simply eliminate electric power such as in Old Order Amish and Old Order Mennonite communities.
+
+
+== Water ==
+On-site water sources can include a well, stream, or lake. Depending on the water source, this may include pumps and/or filtration. Rainwater can also be harvested. Filters can be advanced running off an energy source of boiling and storage.
+
+
+== Popularity ==
+On 13 April 2006, USA Today reported that there were "some 180,000 families living off-grid, a figure that has jumped 33% a year for a decade," and cited Richard Perez, publisher of Home Power Magazine, as the source. Assuming the same rate of growth, there would be a quarter million off-grid households in the United States by late 2007. Because many Third World citizens have never had the chance to go on the grid, current estimates are that 1.7 billion people live off-grid worldwide. A wave of TV shows and articles came out after the publication of "Off the Grid, Inside the Movement for More Space, Less Government and True Independence in Modern America" by Nick Rosen in 2010.
+
+
+== Community ==
+
+The concept of a sustainable off-grid community must take into consideration the basic needs of all who live in the community. To become truly self-sufficient, the community would need to provide all of its own electrical power, food, shelter and water. Using renewable energy, an on-site water source, sustainable agriculture and vertical farming techniques is paramount in taking a community off the grid. A recent concept design by Eric Wichman shows a multi-family community, which combines all of these technologies into one self-sufficient neighborhood. To grow the community you simply add neighborhoods using the same model as the first. A self-sustained community reduces its impact on the environment by controlling its waste and carbon footprint.
+
+
+== Environmental impact ==
+The State of California is encouraging solar and wind power generation that is connected to the electrical grid to avoid the use of toxic lead acid batteries for night time storage. Grid-tie systems are generally less expensive than off-grid systems due to the lack of additional equipment like charge controllers and the batteries. However, some systems may mitigate this difference by using old car batteries that can no longer supply enough current to start a car.
+It is often done to residential buildings only occasionally occupied, such as vacation cabins, to avoid high initial costs of traditional utility connections. Other persons choose to live in houses where the cost of outside utilities is prohibitive, or such a distance away as to be impractical. In his book How to live off-grid Nick Rosen lists seven reasons for going off-grid. The top two are saving money, and reducing the carbon footprint. Others include survivalists, preparing for the collapse of the oil economy and bringing life back to the countryside.
+
+
+=== Environmental concerns in Canadian off-grid communities ===
+Canada has about 175 aboriginal and northern off-grid communities, defined as "a community that is neither connected to the North American electrical grid nor to the piped natural gas network; it is permanent or long-term (5 years or more), and the settlements have at least 10 permanent buildings." Aboriginal Affairs and Northern Development Canada lists the following environmental concerns for these off-grid communities:
+
+Burning large amounts of diesel produces substantial greenhouse gas emissions. This contributes to climate change which negatively affects communities.
+Fuel must be transported long distances by airplane, truck or barge, leading to a greater risk of fuel spills.
+The transportation of fuel by trucks on winter roads impacts the environment negatively through high greenhouse gas emissions from the vehicles.
+Fuel spills may take place while the fuel is being transported and stored, posing environmental risks. Fuel tank leaks contaminate soil and groundwater ...
+Generators can be noisy and disruptive, especially in quiet, remote communities.
+Emissions from diesel generators could contribute to health problems in community members.
+
+
+== Economic consideration ==
+In situations where grid parity has been reached, it becomes cheaper to generate one's own electricity rather than purchasing it from the grid. This depends on equipment costs, the availability of renewable energy sources (wind, sun), and the cost of a grid connection. For example, in certain remote areas a grid connection would be prohibitively expensive, resulting in grid parity being reached immediately.
+
+
+== Off-grid Photovoltaic ==
+The photovoltaic off-grid market has been researched by international institutes, universities and market research companies. The cumulative installed PV capacity is estimated in 2010 between 1 to 2 GW depending on the source. The market research company Infinergia has gone further by mapping national cumulative installed off-grid PV capacity on 100 countries worldwide.
+
+
+== Africa ==
+In Africa, small and inexpensive pico solar electric lights and solar home systems are becoming readily available. Inexpensive solar panels, lithium ion batteries and high-efficiency LED lights make the systems affordable.
+
+
+== See also ==
+
+
+== Gallery ==
+
+
+== References ==
+
+
+== External links ==
+VelaCreations - a documentation of a couple living off-grid for more than a decade
+Smithsonian magazine interview about living off-grid
+West Texas Weekly article on John Wells' life off the grid
+Off Grid World - a website dedicated to providing free information for those who wish to live off the grid
+Into the wild: the rebels living off-grid all over Europe – in pictures. "They’ve opted out of cities and started all-new rural lives, building their own straw homes, teepees and bath tubs. Since 2010, photographer Antoine Bruy has travelled from the Pyrenees to Romania tracking down urban refuseniks." The Guardian
+Offgrid Mazagine

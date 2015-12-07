@@ -1,0 +1,130 @@
+Low-carbon power comes from processes or technologies that, produce power with substantially lower amounts of carbon dioxide emissions than is emitted from conventional fossil fuel power generation. It includes low carbon power generation sources such as wind power, solar power, hydropower and, including fuel preparation and decommissioning, nuclear power. The term largely excludes conventional fossil fuel plant sources, and is only used to describe a particular subset of operating fossil fuel power systems, specifically, those that are successfully coupled with a flue gas carbon capture and storage (CCS) system.
+
+
+== History ==
+Over the past 30 years, significant findings regarding global warming highlighted the need to curb carbon emissions. From this, the idea for low carbon power was born. The Intergovernmental Panel on Climate Change (IPCC), established by the World Meteorological Organization (WMO) and the United Nations Environment Program (UNEP) in 1988, set the scientific precedence for the introduction of low carbon power. The IPCC has continued to provide scientific, technical and socio-economic advice to the world community, through its periodic assessment reports and special reports.
+Internationally, the most prominent early step in the direction of low carbon power was the signing of the Kyoto Protocol, which came into force on February 16, 2005, under which most industrialized countries committed to reduce their carbon emissions. The historical event set the political precedence for introduction of low carbon power technology.
+On a social level, perhaps the biggest factor contributing to the general public’s awareness of climate change and the need for new technologies, including low carbon power, came from the documentary An Inconvenient Truth, which clarified and highlighted the problem of global warming.
+
+
+== Power sources by carbon dioxide emissions ==
+
+
+=== Vattenfall study ===
+
+The Swedish utility Vattenfall did a study of full life cycle emissions of nuclear, hydro, coal, gas, solar cell, peat and wind which the utility uses to produce electricity. The net result of the study was that nuclear power produced 3.3 grams of carbon dioxide per kW-hr of produced power. This compares to 400 for natural gas and 700 for coal (according to this study). The study also concluded that nuclear power produced the smallest amount of CO2 of any of their electricity sources.
+
+
+=== Sovacool life cycle study survey ===
+
+A 2008 meta analysis, "Valuing the use Gas Emissions from Nuclear Power: A Critical Survey," by Benjamin K. Sovacool, analysed 103 life cycle studies of greenhouse gas-equivalent emissions for nuclear power plants. The studies surveyed included the 1997 Vattenfall comparative emissions study, among others. Sovacool's analysis calculated that the mean value of emissions over the lifetime of a nuclear power plant is 66 g/kWh. Comparative results for wind power, hydroelectricity, solar thermal power, and solar photovoltaic, were 9-10 g/kWh, 10-13 g/kWh, 13 g/kWh and 32 g/kWh respectively. Sovacool's analysis has been criticized for poor methodology and data selection.
+
+
+=== Yale University life cycle analysis of nuclear power ===
+A 2012 life cycle assessment (LCA) review by Yale University said that "depending on conditions, median life cycle GHG emissions [for nuclear electricity generation technologies] could be 9 to 110 g CO2-eq/kWh by 2050." It stated:
+
+"The collective LCA literature indicates that life cycle GHG emissions from nuclear power are only a fraction of traditional fossil sources and comparable to renewable technologies."
+
+It added that for the most common category of reactors, the Light water reactor (LWR):
+
+"Harmonization decreased the median estimate for all LWR technology categories so that the medians of BWRs, PWRs, and all LWRs are similar, at approximately 12 g CO2-eq/kWh"
+
+
+== Differentiating attributes of low-carbon power sources ==
+There are many options for lowering current levels of carbon emissions. Some options, such as wind power and solar power, produce low quantities of total life cycle carbon emissions, using entirely renewable sources. Other options, such as nuclear power, produce a comparable amount of carbon dioxide emissions as renewable technologies in total life cycle emissions, but consume non-renewable, but sustainable materials (uranium). The term low carbon power can also include power that continues to utilize the world’s natural resources, such as natural gas and coal, but only when they employ techniques that reduce carbon dioxide emissions from these sources when burning them for fuel, such as the, as of 2012, pilot plants performing Carbon capture and storage.
+As the single largest emitter of carbon dioxide in the United States, the electric-power industry accounted for 39% of CO2 emissions in 2004, a 27% increase since 1990. Because the cost of reducing emissions in the electricity sector appears to be lower than in other sectors such as transportation, the electricity sector may deliver the largest proportional carbon reductions under an economically efficient climate policy.
+Technologies to produce electric power with low-carbon emissions are already in use at various scales. Together, they account for roughly 28% of all U.S. electric-power production, with nuclear power representing the majority (20%), followed by hydroelectric power (7%). However, demand for power is increasing, driven by increased population and per capita demand, and low carbon power can supplement the supply needed.
+According to a transatlantic collaborative research paper on Energy return on energy Invested(EROEI), conducted by 6 analysts led by D. Weißbach, and described as "...the most extensive overview so far based on a careful evaluation of available Life Cycle Assessments". Which was published in the peer reviewed journal Energy in 2013. The uncorrected for their intermittency("unbuffered") EROEI for each energy source analyzed is as depicted in the attached table at right. While the buffered(corrected for their intermittency) EROEI stated in the paper for all low carbon power sources, with the exception of nuclear and biomass, were yet lower still. As when corrected for their weather intermittency/"buffered", the EROEI figures for intermittent energy sources as stated in the paper is diminished - a reduction of EROEI dependent on how reliant they are on back up energy sources.
+Although the methodological integrity of this paper was challenged by, Marco Raugei, in late 2013. The authors of the initial paper responded to each of Raugei's concerns in 2014, and after analysis, each of Raugei's concerns were summarized as "not scientifically justified" and based on faulty EROEI understandings due to "politically motivated energy evaluations".
+
+
+== Examples of low carbon power technology ==
+
+
+=== Hydroelectric power ===
+
+Hydroelectric plants have the advantage of being long-lived and many existing plants have operated for more than 100 years. Hydropower is also an extremely flexible technology from the perspective of power grid operation. Large hydropower provides one of the lowest cost options in today’s energy market, even compared to fossil fuels and there are no harmful emissions associated with plant operation.
+Hydroelectric power is the world’s largest installed renewable source of electricity, supplying about 17% of total electricity in 2005. China is the world's largest producer of hydroelectricity in the world, followed by Canada.
+However, there are several significant social and environmental disadvantages of large-scale hydroelectric power systems: dislocation of people living where the reservoirs are planned, release of significant amounts of carbon dioxide and methane during construction and flooding of the reservoir, and disruption of aquatic ecosystems and birdlife. There is a strong consensus now that countries should adopt an integrated approach towards managing water resources, which would involve planning hydropower development in co-operation with other water-using sectors.
+
+
+=== Nuclear power ===
+
+Nuclear power, with as of 2007 a 20% share of U.S. electricity production, is the single largest deployed technology among current low-carbon power sources.
+Nuclear power, in 2010, also provided two thirds(2/3) of the twenty seven nation European Union's low-carbon energy. With for example some EU nations sourcing a considerable amount of their electricity from nuclear power, for example France derives 79% of its electricity from nuclear.
+According to the IAEA and European Nuclear Society, worldwide there were 68 civil nuclear power reactors under construction in 15 countries in 2013. China has 29 of these nuclear power reactors under construction, as of 2013, with plans to build many more, while in the US the licenses of almost half its reactors have been extended to 60 years, and plans to build another dozen are under serious consideration. There are also a considerable number of new reactors being built in South Korea, India, and Russia.
+
+Nuclear power's capability to add significantly to future low carbon energy growth depends on several factors, including the economics of new reactor designs, such as Generation III reactors, public opinion and national and regional politics.
+The 104 U.S. nuclear plants are undergoing a Light Water Reactor Sustainability Program, to sustainably extend the life span of the U.S. nuclear fleet by a further 20 years. With further US power plants under construction in 2013, such as the two AP1000s at Vogtle Electric Generating Plant. However the Economics of new nuclear power plants are still evolving and plans to add to those plants are mostly in flux.
+
+
+=== Wind power ===
+
+Worldwide there are now over two hundred thousand wind turbines operating, with a total nameplate capacity of 238,351 MW as of end 2011, while not correcting for Wind power's comparatively low ~30% capacity factor. The European Union alone passed some 100,000 MW nameplate capacity in September 2012, while the United States surpassed 50,000 MW in August 2012 and China passed 50,000 MW the same month. World wind generation capacity more than quadrupled between 2000 and 2006, doubling about every three years. The United States pioneered wind farms and led the world in installed capacity in the 1980s and into the 1990s. In 1997 German installed capacity surpassed the U.S. and led until once again overtaken by the U.S. in 2008. China has been rapidly expanding its wind installations in the late 2000s and passed the U.S. in 2010 to become the world leader.
+At the end of 2011, worldwide nameplate capacity of wind-powered generators was 238 gigawatts (GW), growing by 40.5 GW of nameplate capacity over the preceding year. According to the World Wind Energy Association, an industry organization, in 2010 wind power generated 430 TWh or about 2.5% of worldwide electricity usage, up from 1.5% in 2008 and 0.1% in 1997. Between 2005 and 2010 the average annual growth in new installations was 27.6 percent. Wind power market penetration is expected to reach 3.35 percent by 2013 and 8 percent by 2018. Several countries have already achieved relatively high levels of penetration, such as 28% of stationary (grid) electricity production in Denmark (2011), 19% in Portugal (2011), 16% in Spain (2011), 14% in Ireland (2010 to 2014) and 8% in Germany (2011). As of 2011, 83 countries around the world were using wind power on a commercial basis.
+
+
+=== Solar power ===
+
+Solar power is the conversion of sunlight into electricity, either directly using photovoltaics (PV), or indirectly using concentrated solar power (CSP). Concentrated solar power systems use lenses or mirrors and tracking systems to focus a large area of sunlight into a small beam. Photovoltaics convert light into electric current using the photoelectric effect.
+Commercial concentrated solar power plants were first developed in the 1980s. The 354 MW SEGS CSP installation is the largest solar power plant in the world, located in the Mojave Desert of California. Other large CSP plants include the Solnova Solar Power Station (150 MW) and the Andasol solar power station (150 MW), both in Spain. The over 200 MW Agua Caliente Solar Project in the United States, and the 214 MW Charanka Solar Park in India, are the world’s largest photovoltaic plants.
+
+
+=== Geothermal power ===
+
+Geothermal electricity is electricity generated from geothermal energy. Technologies in use include dry steam power plants, flash steam power plants and binary cycle power plants. Geothermal electricity generation is used in 24 countries while geothermal heating is in use in 70 countries.
+Current worldwide installed capacity is 10,715 megawatts (MW), with the largest capacity in the United States (3,086 MW), Philippines, and Indonesia. Estimates of the electricity generating potential of geothermal energy vary from 35 to 2000 GW.
+Geothermal power is considered to be sustainable because the heat extraction is small compared to the Earth's heat content. The emission intensity of existing geothermal electric plants is on average 122 kg of CO
+2 per megawatt-hour (MW·h) of electricity, a small fraction of that of conventional fossil fuel plants.
+
+
+=== Tidal power ===
+Tidal power is a form of hydropower that converts the energy of tides into electricity or other useful forms of power. The first large-scale tidal power plant (the Rance Tidal Power Station) started operation in 1966. Although not yet widely used, tidal power has potential for future electricity generation. Tides are more predictable than wind energy and solar power.
+
+
+=== Carbon capture and storage ===
+
+Carbon capture and storage captures carbon dioxide from the flue gas of power plants or other industry, transporting it to an appropriate location where it can be buried securely in an underground reservoir. While the technologies involved are all in use, and carbon capture and storage is occurring in other industries (e.g., at the Sleipner gas field), no large scale integrated project has yet become operational within the power industry.
+Improvements to current carbon capture and storage technologies could reduce CO2 capture costs by at least 20-30% over approximately the next decade, while new technologies under development promise more substantial cost reduction.
+
+
+== The outlook for, and requirements of, low carbon power ==
+
+
+=== Emissions ===
+
+The Intergovernmental Panel on Climate Change stated in its first working group report that “most of the observed increase in globally averaged temperatures since the mid-20th century is very likely due to the observed increase in anthropogenic greenhouse gas concentrations, contribute to climate change.
+As a percentage of all anthropogenic greenhouse gas emissions, carbon dioxide (CO2) accounts for 72 percent, and has increased in concentration in the atmosphere from 315 parts per million (ppm) in 1958 to more than 375 ppm in 2005.
+Emissions from energy make up more than 61.4 percent of all greenhouse gas emissions. Power generation from traditional coal fuel sources accounts for 18.8 percent of all world greenhouse gas emissions, nearly double that emitted by road transportation.
+Estimates state that by 2020 the world will be producing around twice as much carbon emissions as it was in 2000.
+
+
+=== Electricity usage ===
+
+World energy consumption is predicted to increase from 421 quadrillion British Thermal Units (BTU) in 2003 to 722 quadrillion BTU in 2030. Coal consumption is predicted to nearly double in that same time. The fastest growth is seen in non-OECD Asian countries, especially China and India, where economic growth drives increased energy use. By implementing low carbon power options, world electricity demand could continue to grow while maintaining stable carbon emission levels.
+
+
+=== Energy infrastructure ===
+
+By 2015, one-third of the 2007 U.S. coal plants will be more than 50 years old. Nearly two-thirds of the generation capacity required to meet power demand in 2030 is yet to be built. There are 151 new coal-fired power plants planned for the U.S., providing 90GW of power.
+
+
+=== Investment ===
+Investment in low carbon power sources and technologies is increasing at a rapid rate. Zero-carbon power sources produce about 2% of the world's energy, but account for about 18% of world investment in power generation, attracting $100 billion of investment capital in 2006.
+
+
+== See also ==
+Carbon capture and storage
+Carbon sink
+Climate Change
+Emissions trading
+Energy development
+Energy portal
+Global warming
+Greenhouse gases
+List of people associated with renewable energy
+List of renewable energy organizations
+Renewable energy commercialization
+
+
+== References ==

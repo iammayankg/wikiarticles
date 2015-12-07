@@ -1,0 +1,124 @@
+Energy in Finland describes energy and electricity production, consumption and import in Finland. Energy policy of Finland describes the politics of Finland related to energy. Electricity sector in Finland is the main article of electricity in Finland.
+Finland lacks domestic sources of fossil energy and must import substantial amounts of petroleum, natural gas, and other energy resources, including uranium for nuclear power.
+Energy consumption in Finland per capita is the highest in European Union. Reasons for this include industries with high energy consumption (half of energy is consumed by industry), high standards of living, cold climate (25% of consumption is used in heating) and long distances (16% of consumption is used in transport).
+
+
+== Overview ==
+There was no sustainable decline in CO2 emission in Finland during 1990–2007. The energy use decline 2008–2009 is based on recession and at least some paper industry factories relocation abroad. The annual changes of CO2 emissions of Finland were in some years 7–20% during 1990–2007. Increase of emissions was 18% in 1996 and 20% in 2006. The peat energy use and CO2 emissions per capita had correlation in 1990–2007.
+
+
+== Consumption ==
+Energy consumption increased 44 percent in electricity and 30 percent in the total energy use from 1990 to 2006. The increase in electricity consumption 15,000 GWh from 1995 to 2005 was more than the total hydropower capacity. The electricity consumption increased almost equally in all sectors (industry, homes, and services). The share of electricity generated from renewable energy in Finland has been stable from 1998 to 2005: 11 to 12 percent plus yearly changing hydropower, together around 24 to 27 percent. The RE of total energy has been 24 percent (1998 to 2005). The forest industry black liquor and forest industry wood burning were 57 percent (1990) and 67 percent (2005) of the RE of total energy. The rest is mainly water power. The most of available hydropower for energy is already in use. The forest industry uses 30 percent of all electricity in Finland (1990–2005). Its process wastes, wood residues and black liquor, gave 7000–8000 GWh RE electricity in 2005. In the year 2005 this and electricity consumption fell 10% compared to 2004 based on the long forest industry strike. Finland consumed (2005) 17.3 MWh electricity per capita compared to Germany 7.5 MWh per capita. This number includes the power losses of the distribution.
+
+
+=== Electricity ===
+
+In 2009 the consumption of energy sources in electricity generation by mode of production was: 28% nuclear power, 16% hydro power, 13% coal, 11% natural gas, 5% peat and 10% wood fuels and other renewables. Net imports of electricity in 2009 were 15%. In 2011, 16% of electricity consumption was derived from imported electricity.
+European Commission (EC) demanded for Finland a €32,000-day penalty from the Court of Justice of the European Union in March 2013 for not implementing the electricity directive in time.
+The share of electricity generation from renewables in Finland was 40% 2012 and target 33% by 2020. In comparison, unlike Finland most countries have target to increase the share of electricity generation from renewables from 2012 to 2020 in Europe as:
+Finland 40% 33%
+Denmark 48% 50%
+Belgium 14% 20.9%
+Netherlands 12% 37%
+France 16% 27%
+Ireland 20% 42.5%
+Germany 25% 40–45% by 2025
+UK 12% 50% by 2015
+Scotland 100% by 2020
+Sweden 58% 62.9%
+
+
+== Houses ==
+80% of the energy use of households was spent on heating in 2008–2011.
+
+
+== Energy sources ==
+
+
+=== Fossil fuels ===
+There are no fossil fuels in Finland.
+
+
+==== Petroleum ====
+In 2007 oil imports were almost 11 million tonnes in Finland. In 2006, Finnish oil imports came from Russia (64 percent), Norway (11 percent), Denmark (11 percent), and the rest from United Kingdom, Kazakhstan, and Algeria. Petroleum comprises 24 percent of Finnish energy consumption. Most of petroleum is used in vehicles, but about 260,000 homes are heated by heating oil.
+Neste Oil is the sole oil refiner in Finland, exporting petroleum products such as gasoline and fuel oil to Baltic countries and North America. Oil imports were valued at 6.5 billion euros and exports 3 billion euros in 2006.
+
+
+==== Natural gas ====
+In 2010 the share of gas in TPES was about 10%. Finland was 100% dependent on a single supplier in gas, namely Russia, and there is no gas storage capacity. However, in Finland, gas is essentially never used in direct heating of homes, which are heated by direct electric heating, oil or district heating. 75% of gas is used for production of electricity or combined heat and power and in industry, with domestic use being rare. In total, 93% of the gas is sold to large installations directly rather than by retail. In Helsinki, however, there are 30,000 network-connected domestic gas users and 300 restaurants. There is an alternative fuel obligation, so that in the event of a gas supply disturbance, other fuels can be immediately substituted. The gas distribution network reaches only the southeastern coast, with the northernmost point at Ikaalinen.
+The neighbouring country Sweden was 100% dependent on Danish gas in 2010. The share of gas in Sweden was lower than in Finland, 3.5% in 2009 (13 Twh gas /376 Twh total final use). The gas dependency in Finland and Sweden was less than in average in OECD countries in 2010. 16 out of 28 IEA member countries are dependent on gas over 20% in TPES.
+Natural gas has been used since 1974 after the first oil crisis. Gasum is the Finnish importer and seller of natural gas, which owns and operates Finnish natural gas transmission system. Natural gas vehicles aren't popular in Finland, but natural gas powered busses exist.
+
+
+==== Coal ====
+
+Coal is imported from Russia and Poland. 5.6 million tonnes were used in 2007.
+According to Finnwatch (27 September 2010) there are 13 coal power plants in Finland. The companies Pohjolan Voima, Fortum, Helsingin Energia and Rautaruukki consume coal most. According to the statistics of the Customs 18.3 million tonnes of coal was imported in Finland between 2007–2009 from: 72.5% Russia; 7.3% USA; 6.6% Canada; 5.9% Australia; 3.0% Poland, 1.4% South Africa; 1.3% Colombia and 1.1% Indonesia. The majority of Finnish coal is mined in the Kuznetsk Basin of the Kemerovo Oblast, Russia.
+The Finnish companies know the country of origin of coal. The specific mine of origin is not always known, especially for the coal blends. According to the Finnwatch inquiry in 2010 none of the Finnish companies have yet made a commitment to give up coal consumption. Based on new investments, companies reported the following reductions in their future coal use: Helsingin Energia −40 % by 2020, Lahti Energia several tens of % by 2012 and Vantaan Energia −30 % by 2014.
+The ILO Agreement 176 (1995) addresses health and safety risks in mines. Finland ratified the agreement in 1997. However, in 2010 the agreement was not ratified in the following countries that export coal to Finland: Russia, Canada, Australia, Colombia, Kazakhstan, Indonesia and China. At least two companies in Finland reported (2010) using the UN Global Compact initiative criteria in their supplier relationships. No Finnish company reported signing the UN Global Compact Initiative. According to the DanWatch report ”The Curse of Coal” Danish DONG Energy and Swedish Vattenfall have underlined UN Global Compact Initiative.
+
+
+==== Peat ====
+
+Peat and hard coal are the most harmful energy sources for global warming in Finland. According to VTT studies peat is often the most harmful one.
+Peat is the most popular energy source in Finland for new energy investments 2005–2015. The new energy plants in Finland starting 2005–2015 have as energy source: peat 36% and hard coal 11%: combined: 47%. The major carbon dioxide emitting peat plants during 2005–15 are/will be (CO2 kt): PVO 2700 kt, Jyväskylän Energia 561 kt, Etelä-Pohjanmaan Voima Oy (EPV Energia) 374 kt, Kuopion Energia 186 kt, UPM Kymmene 135 kt and Vapo 69 kt. EPV Energy is partner in TVO nuclear plants and Jyväskylän and Kuopion Energia partners in Fennovoima nuclear plants in Finland.
+According to IEA country report the Finnish subsidies for peat undermine the goal to reduce CO2 emissions and counteracts other environmental policies and The European Union emissions trading scheme. IEA recommends to adhere to the timetable to phase out the peat subsidies in 2010. “To encourage sustained production of peat in the face of negative incentives from the European Union's emissions trading scheme for greenhouse gases, Finland has put in place a premium tariff scheme to subsidise peat. The premium tariff is designed to directly counter the effect of the European Union's emissions trading scheme.”
+
+
+=== Nuclear power ===
+
+As of 2008, Finland's nuclear power program has four nuclear reactors in two power plants. The first of these came into operation in 1977. In 2007 they provided 28.4% of Finland's electricity. They are among the world's most efficient, with average capacity factors of 94% in the 1990s. A fifth nuclear reactor is under construction, scheduled to go online in 2015.
+If all planned projects are completed, the share of electricity produced by nuclear could double by 2025, reaching around 60%.
+
+
+=== Renewable energy ===
+
+Energy companies have no renewable energy obligations in Finland.
+The share of renewable energy in per cent in Finland was 28% in 2012 and 25% in 2000. The share of renewable energy 5 years average 2006–2010 was 24.7  % and 10 years average 2001–2010 was 26.0  %. The share of renewable energy in Finland:
+1990 18.2%
+1995 21.3%
+2000 24.6%
+2005 24.8%
+2010 27.1%
+Renewable energy of electricity (2005):
+Water, 60 percent
+Forest industry black liquor, 22 percent
+Other wood residues, 16 percent
+Wind power, 0.2 percent
+Other, 1 percent
+The renewable energy objectives set by the European Union are 22 percent renewable source electricity and 12 percent renewable of primary energy by 2010 under the European Union directive 2003/30/EC (Directive on the Promotion of the use of biofuels and other renewable fuels for transport) and white paper. This includes the objectives of 40 GW wind power, 3 GW photovoltaics and 5.75 percent biofuels by 2010.
+
+
+== Energy use ==
+
+
+=== Traffic ===
+The Kyoto agreement had obligation to restrict the traffic emissions in Finland between 2008–12 in the year 1990 level. According to Ministry report in 2004 the share of public transport in Finland is lower that in the most European countries.
+
+
+== Energy policy ==
+
+The objective of RE (2005) of electricity was 35% (1997–2010). However, (2006) the Finnish objective was dropped to 31.5% (1997–2010). According to 'Renewables Global Status Report' Finland aims to increase RE only 2% in 13 years. This objective to add the RE use with 2% in 13 years is among the modest of all the EU countries.
+
+
+== Carbon emissions ==
+The Finnish CO2 emissions grew 14.5% (1990:2004), when EU average was – 0.6%. According to the Finnish RE organisations and Finnish public the potential of RE increase in Finland is huge.
+The carbon dioxide emissions by fossil fuels in 2008 originated from 45% oil, 39% coal and 15% natural gas. In the year 2000 the shares were nearly equal: 48% oil and 37% coal. The fossil traffic fuels: motor petrol, diesel and aviation petrol are oil products. The biomass included 47% of black liquer and 52% of wood in 2008. These shares were practically same during 1990–2006. All biomass and agricultural warming gas emissions are free of charge in the EU emissions trading in 2008–2012. According to the official statistics the annual fossil fuel and coal emissions in Finland have large annual variation. E.g. the fossil fuel CO2 emissions dropped 18% in the year 2005 and 13% in 2008, but the annual coal emissions increased 22% in 1996, 22% in 2001 and 58% in 2006.
+According to the energy statistics the major changing factors for the annual emission changes were the consumption of coal and peat. In 2006 the hard coal increase was 92% subject to industry (including energy producing industry) separate electricity generation from hard coal. At the same time the controversial peat consumption was increased. The district heating used 42% of hard coal in average 1990–2006, but its annual variation was small compared to the industry separate electricity generation.
+
+
+== Energy subsidies ==
+The public energy subsidies in Finland in 2013 were €700 million for fossil energy and €60 million for renewable energy (mainly wood and wind).
+
+
+== See also ==
+Energy policy of Finland
+
+
+== External links ==
+Finland’s National Energy Efficiency Action Plan (NEEAP 2008–2010) 26 June 2007
+Findicator - Energy consumption 1970-2012
+Findicator - Final energy consumption by sector 1970-2012
+
+
+== References ==

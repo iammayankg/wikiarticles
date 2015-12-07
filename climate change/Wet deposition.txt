@@ -1,0 +1,29 @@
+In aerosol physics, deposition is the process by which aerosol particles collect or deposit themselves on solid surfaces, decreasing the concentration of the particles in the air. It can be divided into two sub-processes: dry and wet deposition. The rate of deposition, or the deposition velocity, is slowest for particles of an intermediate size. Mechanisms for deposition are most effective for either very small or very large particles. Very large particles will settle out quickly through sedimentation (settling) or impaction processes, while Brownian diffusion has the greatest influence on small particles. This is because very small particles coagulate in few hours until they achieve a diameter of 0.3 micrometres. At this size they no longer coagulate. This has a great influence in the amount of PM-2.5 present in the air.
+Deposition velocity is defined from F = vc, where F is flux density, v is deposition velocity and c is concentration. In gravitational deposition, this velocity is the settling velocity due to the gravity-induced drag.
+Often studied is whether or not a certain particle will impact with a certain obstacle. This can be predicted with the Stokes number Stk = S ∕ d, where S is stopping distance (which depends on particle size, velocity and drag forces), and d is characteristic size (often the diameter of the obstacle). If the value of Stk is less than 1, the particle will not collide with that obstacle. However, if the value of Stk is greater than 1, it will.
+Deposition due to Brownian motion obeys both Fick's first and second laws. The resulting deposition flux is defined as J = n√D ∕ πt, where J is deposition flux, n is the initial number density, D is the diffusion constant and t is time. This can be integrated to determine the concentration at each moment of time.
+
+
+== Dry deposition ==
+
+Dry deposition is caused by:
+Gravitational sedimentation – the settling of particles fall down due to gravity.
+Interception. This is when small particles follow the streamlines, but if they flow too close to an obstacle, they may collide (e.g. a branch of a tree).
+Impaction. This is when small particles interfacing a bigger obstacle are not able to follow the curved streamlines of the flow due to their inertia, so they hit or impact the droplet. The larger the masses of the small particles facing the big one, the greater the displacement from the flow streamline.
+Diffusion or Brownian motion. This is the process by which aerosol particles move randomly due to collisions with gas molecules. Such collisions may lead to further collisions with either obstacles or surfaces. There is a net flux towards lower concentrations.
+Turbulence. Turbulent eddies in the air transfer particles which can collide. Again, there is a net flux towards lower concentrations.
+Other processes, such as: thermophoresis, turbophoresis, diffusiophoresis and electrophoresis.
+
+
+== Wet deposition ==
+In wet deposition, atmospheric hydrometeors (rain drops, snow etc.) scavenge aerosol particles. This means that wet deposition is gravitational, Brownian and/or turbulent coagulation with water droplets. Different types of wet deposition include:
+Below-cloud scavenging. This happens when falling rain droplets or snow particles collide with aerosol particles through Brownian diffusion, interception, impaction and turbulent diffusion.
+In-cloud scavenging. This is where aerosol particles get into cloud droplets or cloud ice crystals through working as cloud nuclei, or being captured by them through collision. They can be brought to the ground surface when rain or snow forms in clouds. Within aerosol computer models aerosols and cloud droplets are mostly treated separately so that nucleation represents a loss process that has to be parametrised.
+
+
+== See also ==
+Condensation in aerosol dynamics
+Particle collection in wet scrubbers
+
+
+== References ==

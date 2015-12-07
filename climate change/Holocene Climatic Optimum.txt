@@ -1,0 +1,43 @@
+The Holocene Climate Optimum (HCO) was a warm period during roughly the interval 9,000 to 5,000 years BP. This event has also been known by many other names, including: Hypsithermal, Altithermal, Climatic Optimum, Holocene Optimum, Holocene Thermal Maximum, and Holocene Megathermal.
+This warm period was followed by a gradual decline until about two millennia ago.
+For other temperature fluctuations see: Temperature record
+For other past climate fluctuation see: Paleoclimatology
+For the pollen zone and Blytt-Sernander period associated with the climate optimum, see: Atlantic (period)
+
+
+== Global effects ==
+
+The Holocene Climate Optimum warm event consisted of increases of up to 4 °C near the North Pole (in one study, winter warming of 3 to 9 °C and summer of 2 to 6 °C in northern central Siberia). The northwest of Europe experienced warming, while there was cooling in the south. The average temperature change appears to have declined rapidly with latitude so that essentially no change in mean temperature is reported at low and mid latitudes. Tropical reefs tend to show temperature increases of less than 1 °C; the tropical ocean surface at the Great Barrier Reef ~5350 years ago was 1 °C warmer and enriched in 18O by 0.5 per mil relative to modern seawater. In terms of the global average, temperatures were probably colder than present day (depending on estimates of latitude dependence and seasonality in response patterns). While temperatures in the Northern Hemisphere were warmer than average during the summers, the tropics and areas of the Southern Hemisphere were colder than average.
+Of 140 sites across the western Arctic, there is clear evidence for warmer-than-present conditions at 120 sites. At 16 sites where quantitative estimates have been obtained, local HTM temperatures were on average 1.6±0.8 °C higher than present. Northwestern North America had peak warmth first, from 11,000 to 9,000 years ago, while the Laurentide ice sheet still chilled the continent. Northeastern North America experienced peak warming 4,000 years later. Along the Arctic Coastal Plain in Alaska, there are indications of summer temperatures 2–3 °C warmer than present. Research indicates that the Arctic had substantially less sea ice during this period compared to present.
+Current desert regions of Central Asia were extensively forested due to higher rainfall, and the warm temperate forest belts in China and Japan were extended northwards.
+West African sediments additionally record the "African Humid Period", an interval between 16,000 and 6,000 years ago when Africa was much wetter due to a strengthening of the African monsoon by changes in summer radiation resulting from long-term variations in the Earth's orbit around the sun. During this period, the "Green Sahara" was dotted with numerous lakes containing typical African lake crocodile and hippopotamus fauna. A curious discovery from the marine sediments is that the transitions into and out of this wet period occurred within decades, not millennia as previously thought.
+In the far southern hemisphere (e.g. New Zealand and Antarctica), the warmest period during the Holocene appears to have been roughly 8,000 to 10,500 years ago, immediately following the end of the last ice age. By 6,000 years ago, the time normally associated with the Holocene Climatic Optimum in the Northern Hemisphere, these regions had reached temperatures similar to those existing in the modern era, and did not participate in the temperature changes of the North. However, some authors have used the term "Holocene Climatic Optimum" to describe this earlier southern warm period as well.
+
+
+== Comparison of ice cores ==
+A comparison of the delta profiles at Byrd Station, West Antarctica (2164 m ice core recovered, 1968) and Camp Century, Northwest Greenland, shows the post glacial climatic optimum. Points of correlation indicate that in these two locations the Holocene climatic optimum (post glacial climatic optimum) probably occurred at the same time. A similar comparison is evident between the Dye 3 1979 and Camp Century 1963 cores regarding this period.
+The Hans Tausen Iskappe (ice cap) in Peary Land (northern Greenland) was drilled in 1977 with a new deep drill to 325 m. The ice core contained distinct melt layers all the way to bedrock indicating that Hans Tausen Iskappe contains no ice from the last glaciation; i.e., the world’s northernmost ice cap melted away during the post-glacial climatic optimum and was rebuilt when the climate got colder some 4000 years ago.
+From the delta-profile, the Renland ice cap in the Scoresbysund Fiord has always been separated from the inland ice, yet all the delta-leaps revealed in the Camp Century 1963 core recurred in the Renland 1985 ice core. The Renland ice core from East Greenland apparently covers a full glacial cycle from the Holocene into the previous Eemian interglacial. The Renland ice core is 325 m long.
+Although the depths are different, the GRIP and NGRIP cores also contain this climatic optimum at very similar times.
+
+
+== Milankovitch cycles ==
+
+This climatic event was probably a result of predictable changes in the Earth's orbit (Milankovitch cycles) and a continuation of changes that caused the end of the last glacial period.
+The effect would have had maximum Northern Hemisphere heating 9,000 years ago when axial tilt was 24° and nearest approach to the Sun (perihelion) was during boreal summer. The calculated Milankovitch Forcing would have provided 8% more solar radiation (+40 W/m2) to the Northern Hemisphere in summer, tending to cause greater heating at that time. There does seem to have been the predicted southward shift in the global band of thunderstorms called the Intertropical convergence zone.
+However, orbital forcing would predict maximum climate response several thousand years earlier than those observed in the Northern Hemisphere. This delay may be a result of the continuing changes in climate as the Earth emerged from the last glacial period and related to ice-albedo feedback. It should also be noted that different sites often show climate changes at somewhat different times and lasting for different durations. At some locations, climate changes associated with this event may have begun as early as 11,000 years ago, or persisted until 4,000 years before present. As noted above, the warmest interval in the far south significantly preceded warming in the North.
+
+
+== Other changes ==
+While there do not appear to have been significant temperature changes at most low latitude sites, other climate changes have been reported. These include significantly wetter conditions in Africa, Australia and Japan, and desert-like conditions in the Midwestern United States. Areas around the Amazon in South America show temperature increases and drier conditions.
+
+
+== See also ==
+8.2 kiloyear event
+Medieval Warm Period
+Little Ice Age
+Timeline of environmental events
+Younger Dryas
+
+
+== References ==

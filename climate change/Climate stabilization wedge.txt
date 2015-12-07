@@ -1,0 +1,51 @@
+The Climate stabilization Wedges is an approach produced by Princeton University researchers. looking at Climate change mitigation scenarios. The goal of the approach, Stephen Pacala and Robert H. Socolow, is to demonstrate that global warming is a problem which can be attacked using today's commercially available technologies to reduce CO
+2 emissions. The objective is to stabilize CO
+2 concentrations under 500ppm for the next fifty years, using wedges from a variety of different strategies which fit into the stabilization triangle. A new estimate by the original authors indicates that nine wedges are now necessary, as emissions have continued to rise since the original paper on which the wedges was based was published.
+
+
+== Concept ==
+
+
+=== Scenario ===
+Emissions of CO
+2 and other greenhouse gases have been increasing ever since the Industrial Revolution. If the trend continues to hold, emissions will double by 2055. To prevent the worst consequences of global warming, scientists recommend freezing and reducing net global emissions immediately.
+
+
+=== Stabilization triangle ===
+If global emissions of CO
+2 are graphed for the next 50 years, the difference between the business as usual scenario and the flat path forms a triangle. This triangle is known as the stabilization triangle. Pacala and Socolow divided this hypothetical triangle into seven stabilization wedges, which represent different measures that must be taken to reduce emissions. When speaking of different strategies to reduce emissions, the language "to reduce one wedge's worth," is often employed, and by reducing the stabilization wedge of fourteen gigatons of CO
+2 into seven wedges, the task is much easier to conceptualize.
+
+
+=== Wedge strategies ===
+As Pacala and Socolow originally presented the wedges concept in Science, there are fifteen different wedge strategies. Regarding the specific number, Socolow says that he and Pacala didn't include all of the possibilities, but that "It was a matter of rhetoric to stop at 15. And exhaustion. There was nothing magic about 15." On the CMI website, the same strategies are presented and expanded upon in detail, and are re-organized into four categories:
+Efficiency (four strategies)
+Decarbonization of power (five strategies)
+Decarbonization of fuel (four strategies)
+Forest and agricultural soils (two strategies)
+
+
+== Uses ==
+
+Because of the simplicity of the wedge game, it has become popular as a communication tool for global warming mitigation. It is used in a variety of arenas and by a variety of players including businessmen, politicians, teachers, and students. David Hawkins, climate director at the Natural Resources Defense Council, puts the ease of use of the Wedge Game this way:
+
+
+=== Education ===
+The Carbon Mitigation Initiative (CMI) permits anyone to use the game and make use of their materials, provided that they share the results with CMI. Because it is so widely accessible, it has become included in certain high school curricula. The Keystone Center has deemed the Stabilization Wedge Game to fulfill the following National Education Standards: S1, S6, LA4, LA5, C4, C5, E1, G1, G5, and WH9.
+The American Association for the Advancement of Science hosted a conference for educators at the Hilton in San Francisco 2007-02-18. Collaborating with AAAS were the National Science Teachers Association and the United Educators of San Francisco (representing the National Education Association and the American Federation of Teachers). Dr. Socolow and Dr. Hotinski personally presented the Stabilization Wedge concept at the event.
+
+
+=== Business ===
+The Stabilization Wedge Game is also used as a centerpiece for business seminars. Business executives played the game at as seminar held by the Sustainable Enterprise Academy at York University in Toronto.
+
+
+== Criticism ==
+The primary critique of the Wedge Game is that it is too simple, especially regarding the economic aspect of global warming mitigation. The materials provided by CMI only attach one, two, or three dollar signs to each wedge as a broad estimate of the expense of each option. James L. Connaughton, former chairman of the White House Council on Environmental Quality in the Bush Administration, is a critic of the Wedge Game for its oversimplicity, and he has even said that some of the numbers used by Socolow and Pacala, such as 550 ppm as a maximum allowable target for CO
+2, lack a scientific basis. Richard G. Richels, a senior engineer at the Electric Power Research Institute, says that the lack of economic precision in the game could create misconceptions:
+Another criticism of the game is that one of the premises, i.e. that humanity already has the tools and technologies to halt climate change, is misleading. Marty Hoffert of the New York University Physics Department claims that while the technologies are available in a technical sense, they are not available in an operational sense, and it will take a massive mobilization to make progress. Hoffert explains:
+In a 2010 Science article, Hoffert also suggested that 18-25 wedges may be necessary to achieve the goal, given the higher rates of emission growth that have occurred since the original study, even if no new sources were added beginning in 2010.
+In June 2008, Joseph Romm argued in Nature magazine that "If we are to have confidence in our ability to stabilize carbon dioxide levels below 450 p.p.m. emissions must average less than 5 GtC per year over the century. This means accelerating the deployment of the... wedges so they begin to take effect in 2015 and are completely operational in much less time than originally modelled by Socolow and Pacala."
+A final criticism is that the Wedge Game focuses on technological fixes rather than fundamentally challenging the endless growth economy that is at the heart of global climate change. The 2007 IPCC reports state clearly that economic and demographic growth are the fundamental drivers of global climate change. Yet of the fifteen wedges developed by Pacala and Socolow, only one—halving the number of miles driven by the world's automobile fleet—might be considered a "demand reduction" wedge. None of their wedges treat population reduction.
+
+
+== References ==

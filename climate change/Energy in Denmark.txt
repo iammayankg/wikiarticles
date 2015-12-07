@@ -1,0 +1,75 @@
+Denmark has considerable sources of oil and natural gas in the North Sea and ranks as number 32 in the world among net exporters of crude oil. Denmark expects to be self-sufficient with oil until 2050. However, gas resources are expected to decline, and production may decline below consumption in 2020, making imports necessary. A large proportion of electricity is produced from coal; wind turbines meet about 39% of electricity demand by 2014 (see Wind power in Denmark).
+In February 2011 the Danish government announced the "Energy Strategy 2050" with the aim to be fully independent of fossil fuels by 2050. The European Renewables Directive set a mandatory target at 20% share of energy from renewable sources by 2020 (EU combined). In 2012 the Danish government adopted a plan to increase the share of electricity production from wind to 50% by 2020, and to 84% in 2035.
+Denmark's electrical grid is connected by transmission lines to other European countries, and had, according to the World Economic Forum the best energy security in the EU in 2013  although this had fallen to third in the EU by 2014.
+
+
+== Overview ==
+The year 2014 was the warmest on record in Denmark, with the lowest number of degree days in history. A normal year has 2,906 while 2014 saw only 2,100 degree days. Since 2000, Denmark has increased Gross National Product and decreased energy consumption.
+
+
+== Energy sources ==
+
+
+=== Coal ===
+
+Coal power provided 48.0% of the electricity and 22.0% of the heat in district heating in Denmark in 2008; and in total provided 21.6% of total energy consumption (187PJ out of 864PJ) and is based mainly on coal imported from outside Europe.
+
+
+=== Geothermal ===
+Denmark has two geothermal district heating plants, one in Thisted started in 1988, and one in Copenhagen started in 2005. They produce no electricity.
+
+
+=== Natural gas ===
+The production of natural gas fell from 307 PJ in 2010 to 265 PJ in 2011. Consumption fell from 187 to 157 PJ.
+CO2 emissions from energy production fell from 49.4 to 44.3 million tons, from 2010 to 2011, a decline of 10%.
+
+
+=== Oil ===
+Production
+The production of crude oil fell from 523 PJ in 2010 to 470 PJ in 2011. As of May 2014, Denmark produced an average of 172 kbpd.
+Consumption
+Consumption fell from 315 to 306 PJ during 2011. Official statistics estimate 231,000 residences heated by oil in 2014 (down from 328,000 in 2013), but only 87,000 actually purchased oil during 2014.
+1Not applicable for industry
+Minor taxes are called "Compulsory storage fee" and "NOx tax".
+
+
+=== Solar ===
+
+Denmark already reached its year 2020 governmental goal of installing 200 MW of photovoltaic capacity in 2012. As of 2013, the total PV capacity from 90,000 private installations amounts to 500 MW. Danish energy sector players estimate that this development will result in 1000 MW by 2020 and 3400 MW by 2030.
+
+
+=== Wind power ===
+
+Wind provides 39% of the electricity generated in Denmark. Denmark is a long-time leader in wind energy, and as of May 2011 Denmark derives 3.1 percent of its Gross Domestic Product from renewable energy technology and energy efficiency, or around €6.5 billion ($9.4 billion).
+To encourage investment in wind power, families were offered a tax exemption for generating their own electricity within their own or an adjoining commune. While this could involve purchasing a turbine outright, more often families purchased shares in wind turbine cooperatives which in turn invested in community wind turbines. By 2004 over 150,000 Danes were either members of cooperatives or owned turbines, and about 5,500 turbines had been installed, although with greater private sector involvement the proportion owned by cooperatives had fallen to 75%.
+
+
+== Electricity ==
+
+The electricity sector relies on fossil energy and renewable energy: wind power, biogas, biomass and waste. No hydro power is produced domestically and other countries hydro is used only for buffering Denmark's renewable generation. The average consumption of electricity per person was 0.8 GWh less than EU 15 average in 2008. Denmark invested in the wind power development in the 1970s and has been the top wind power country of the world ever since. Danish consumption of wind electricity has been highest in the world per person: 1,218 kWh in 2009. Denmark produced more wind power per person in 2009 than Spain or the UK produced nuclear power.
+Because of energy taxes, Denmark has the highest household electricity prices in the world, while industries pay just below EU average. Transmission costs are around 7 øre/kWh, and support regimes cost 19 øre/kWh in 2014.
+
+
+== District heating ==
+Danish district heating plants use 100 Petajoule/year, mostly waste heat from thermal power plants burning coal, natural gas and biomass, but a small part of this consumption is from electrode boilers or heat pumps. Expansion of wind powered district heating is calculated to be economically efficient without taxes. The peak thermal load of district heating in Copenhagen is 2.5 GWth, and simulations suggest a potential heat pump would run 3,500 load-hours per year using sewage water as the heat reservoir. In 2013, Denmark imported 158,000 ton garbage for incineration in district heating plants.
+
+
+== Cities ==
+Copenhagen has a target to be carbon-neutral by 2025.
+Aarhus aims to be carbon-neutral by 2030.
+
+
+== See also ==
+List of power stations in Denmark
+Nordic energy market
+Energy policy of the European Union
+Energy policy of Denmark will describe the politics of Denmark related to energy more in detail.
+
+
+== References ==
+
+Lindboe, Hans Henrik&, János Hethey. "Vindintegration i Danmark" Ea Energianalyse, November 2014. Retrieved: January 2015. Source
+
+
+== External links ==
+Danish Energy Agency

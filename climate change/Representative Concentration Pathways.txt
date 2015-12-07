@@ -1,0 +1,33 @@
+Representative Concentration Pathways (RCPs) are four greenhouse gas concentration (not emissions) trajectories adopted by the IPCC for its fifth Assessment Report (AR5) in 2014. It supersedes Special Report on Emissions Scenarios (SRES) projections published in 2000.
+The pathways are used for climate modeling and research. They describe four possible climate futures, all of which are considered possible depending on how much greenhouse gases are emitted in the years to come. The four RCPs, RCP2.6, RCP4.5, RCP6, and RCP8.5, are named after a possible range of radiative forcing values in the year 2100 relative to pre-industrial values (+2.6, +4.5, +6.0, and +8.5 W/m2, respectively).
+
+
+== Emissions ==
+The RCPs are consistent with a wide range of possible changes in future anthropogenic (i.e., human) greenhouse gas (GHG) emissions. RCP 2.6 assumes that global annual GHG emissions (measured in CO2-equivalents) peak between 2010-2020, with emissions declining substantially thereafter. Emissions in RCP 4.5 peak around 2040, then decline. In RCP 6, emissions peak around 2080, then decline. In RCP 8.5, emissions continue to rise throughout the 21st century.
+The four RCPs are consistent with certain socio-economic assumptions but are to be substituted with the Shared Socio-economic Pathways which are anticipated to provide flexible descriptions of possible futures within each RCP.
+
+
+== Projections based on the RCPs ==
+21st century
+Mid- and late-21st century (2046-2065 and 2081-2100 averages, respectively) projections of global warming and global mean sea level rise from the IPCC Fifth Assessment Report (IPCC AR5 WG1) are tabulated below. The projections are relative to temperatures and sea levels in the late-20th to early-21st centuries (1986-2005 average). Temperature projections can be converted to a reference period of 1850-1900 or 1980-99 by adding 0.61 or 0.11 °C, respectively.
+Across all RCPs, global mean temperature is projected to rise by 0.3 to 4.8 °C by the late-21st century.
+Across all RCPs, global mean sea level is projected to rise by 0.26 to 0.82 m by the late-21st century.
+
+23rd century
+AR5 also projects changes in climate beyond the 21st century. The extended RCP2.6 pathway assumes sustained net negative anthropogenic GHG emissions after the year 2070. "Negative emissions" means that in total, humans absorb more GHGs from the atmosphere than they release. The extended RCP8.5 pathway assumes continued anthropogenic GHG emissions after 2100. In the extended RCP 2.6 pathway, atmospheric CO2 concentrations reach around 360 ppmv by 2300, while in the extended RCP8.5 pathway, CO2 concentrations reach around 2000 ppmv in 2250, which is nearly seven times the pre-industrial level.
+For the extended RCP2.6 scenario, global warming of 0.0 to 1.2 °C is projected for the late-23rd century (2281-2300 average), relative to 1986-2005. For the extended RCP8.5, global warming of 3.0 to 12.6 °C is projected over the same time period.
+
+
+== References ==
+
+Note: The following references are cited in this article using Template:Harvard citation no brackets:
+IPCC AR5 WG1 (2013), Stocker, T.F.; et al., eds., Climate Change 2013: The Physical Science Basis. Working Group 1 (WG1) Contribution to the Intergovernmental Panel on Climate Change (IPCC) 5th Assessment Report (AR5), Cambridge University Press . [Archived 16 July 2014.
+Meinshausen, M.; et al. (November 2011), "The RCP greenhouse gas concentrations and their extensions from 1765 to 2300 (open access)", Climatic Change 109 (1-2): 213–241, doi:10.1007/s10584-011-0156-z  CS1 maint: Explicit use of et al. (link).
+
+
+== External links ==
+RCP Database
+Special Issue: The representative concentration pathways: an overview, Climatic Change, Volume 109, Issue 1-2, November 2011. Most papers in this issue are freely accessible.
+The Guardian: A guide to the IPCC's new RCP emissions pathways
+G.P. Wayne: The Beginner's Guide to Representative Concentration Pathways
+Jubb, I., Canadell, P. and Dix, M. 2013. Representative Concentration Pathways: Australian Climate Change Science Program Information paper

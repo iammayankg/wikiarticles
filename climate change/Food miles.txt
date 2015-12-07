@@ -1,0 +1,124 @@
+Food miles is a term which refers to the distance food is transported from the time of its production until it reaches the consumer. Food miles are one factor used when assessing the environmental impact of food, including the impact on global warming.
+The concept of food miles originated in the early 1990s in the United Kingdom. It was conceived by Professor Tim Lang at the Sustainable Agriculture Food and Environment (SAFE) Alliance and first appeared in print in a report “The Food Miles Report: The dangers of long-distance food transport”, researched and written by Angela Paxton.
+
+Some scholars believe that an increase in the miles food travels is due to the globalization of trade; the focus of food supply bases into fewer, larger districts; drastic changes in delivery patterns; the increase in processed and packaged foods; and making fewer trips to the supermarket. At the same time, most of the greenhouse gas emissions created by food have their origin in the production phases, which create 83% of overall emissions of CO2.
+A range of studies compare emissions over the entire food cycle, including production, consumption, and transport. These include estimates of food-related emissions of greenhouse gas 'up to the farm gate' versus 'beyond the farm gate'. In the UK, for example, agricultural-related emissions may account for approximately 40% of the overall food chain (including retail, packaging, fertilizer manufacture, and other factors), whereas greenhouse gases emitted in transport account for around 12% of overall food-chain emissions. The goal of environmental protection agencies is to make people aware of the environmental impact of food miles and to show the pollution percentage and the energy used to transport food over long distances. . Researchers are currently working to provide the public with more information.
+The concept of "food miles" has been criticised, and food miles are not always correlated with the actual environmental impact of food production.
+
+
+== Overview ==
+The concept of food miles is part of the broader issue of sustainability which deals with a large range of environmental, social and economic issues, including local food. The term was coined by Tim Lang (now Professor of Food Policy, City University, London) who says: "The point was to highlight the hidden ecological, social and economic consequences of food production to consumers in a simple way, one which had objective reality but also connotations." Food that is transported by road produces more carbon emissions than any other form of transported food. Road transport produces 60% of the world's food transport carbon emissions. Air transport produces 20% of the world's food transport carbon emissions. Rail and sea transport produce 10% each of the world's food transport carbon emissions.
+Although it was never intended as a complete measure of environmental impact, it has come under attack as an ineffective means of finding the true environmental impact. For example, a DEFRA report in 2005 undertaken by researchers at AEA Technology Environment, entitled The Validity of Food Miles as an Indicator of Sustainable Development, included findings that "the direct environmental, social and economic costs of food transport are over £9 billion each year, and are dominated by congestion." The report also indicates that it is not only how far the food has travelled but the method of travel in all parts of the food chain that is important to consider. Many trips by personal cars to shopping centres would have a negative environmental impact compared to transporting a few truckloads to neighbourhood stores that can be easily reached by walking or cycling. More emissions are created by the drive to the supermarket to buy air freighted food than was created by the air freighting in the first place. Also, the positive environmental effects of organic farming may be compromised by increased transportation, unless it is produced by local farms. The Carbon Trust notes that to understand the carbon emissions from food production, all the carbon-emitting processes that occur as a result of getting food from the field to our plates need to be considered, including production, origin, seasonality and home care.
+
+
+== Food miles in business ==
+A recent study led by Professor Miguel Gomez (Applied Economics and Management), at Cornell University and supported by the Atkinson Center for a Sustainable Future found that in many instances, the supermarket supply chain did much better in terms of food miles and fuel consumption for each pound compared to farmers markets. It suggests that selling local foods through supermarkets may be more economically viable and sustainable than through farmers markets.
+
+
+== Calculating food miles ==
+With processed foods that are made of many different ingredients, it is very complicated, though not impossible, to calculate the CO2 emissions from transport by multiplying the distance travelled of each ingredient, by the carbon intensity of the mode of transport (air, road or rail). However, as both Prof. Lang and the original Food Miles report noted, the resulting number – although interesting, cannot give the whole picture of how sustainable – or not – a food product is.
+
+
+== Criticism ==
+
+
+=== Fair trade ===
+According to Oxfam researchers, there are many other aspects of the agricultural processing and the food supply chain that also contribute to greenhouse gas emissions which are not taken into account by simple "food miles" measurements. There are benefits to be gained by improving livelihoods in poor countries through agricultural development. Smallholder farmers in poor countries can often improve their income and standard of living if they can sell to distant export markets for higher value horticultural produce, moving away from the subsistence agriculture of producing staple crops for their own consumption or local markets.
+However, exports from poor countries do not always benefit poor people. Unless the product has a Fairtrade label, or a label from another robust and independent scheme, food exports might make a bad situation worse. For example, wages are often very low and working conditions bad and sometimes dangerous. Sometimes the food grown for export takes up land that had been used to grow food for local consumption, so local people can go hungry.
+
+
+=== Energy used in production as well as transport ===
+Researchers say a more complete environmental assessment of food that consumers buy needs to take into account how the food has been produced and what energy is used in its production. A recent DEFRA case study indicated that tomatoes grown in Spain and transported to the United Kingdom may have a lower carbon footprint in terms of energy efficiency than tomatoes grown in heated greenhouses in the United Kingdom.
+According to German researchers the food miles concept misleads consumers because the size of transportation and production units is not taken into account. Using the methodology of Life Cycle Assessment (LCA) in accordance to ISO 14040 entire supply chains to provide German consumers with food were investigated, comparing local food with food of European and global provenance. As a matter of fact an increasing size of transportation and production units leads to decreasing energy use per kilogram food. Research reports from the Chair of Process Engineering in Food and Service Business, Prof. Dr.-Ing. Elmar H. Schlich at Justus Liebig University Giessen, Germany, define and establish the term and theory of "Ecologies of Scale", by analogy to the well-known term of "Economies of Scale". In terms of energy use per kilogram small food production units may cause even more environmental impact compared to bigger units even if the food miles are lower. Case studies of lamb meat, beef, bottled wine, apples, fruit juices and pork meat gave evidence to this and disproved the food miles concept as too simple.
+A 2006 research report from the Agribusiness and Economics Research Unit at Lincoln University, New Zealand counters claims about food miles by comparing total energy used in food production in Europe and New Zealand, taking into account energy used to ship the food to Europe for consumers. The report states, "New Zealand has greater production efficiency in many food commodities compared to the UK. For example New Zealand agriculture tends to apply fewer fertilizers (which require large amounts of energy to produce and cause significant CO2 emissions) and animals are able to graze year round outside eating grass instead of large quantities of brought-in feed such as concentrates. In the case of dairy and sheep meat production NZ is by far more energy efficient, even including the transport cost, than the UK, twice as efficient in the case of dairy, and four times as efficient in case of sheep meat. In the case of apples, NZ is more energy-efficient even though the energy embodied in capital items and other inputs data was not available for the UK."
+Other researchers have contested the claims from New Zealand. Professor Gareth Edwards-Jones has said that the arguments “in favour of New Zealand apples shipped to the UK is probably true only or about two months a year, during July and August, when the carbon footprint for locally grown fruit doubles because it comes out of cool stores.”
+Studies by Dr. Chris Weber et al. of the total carbon footprint of food production in the U.S. have shown transportation to be of minor importance, compared to the carbon emissions resulting from pesticide and fertilizer production, and the fuel required by farm and food processing equipment.
+
+
+=== Intensive livestock production as a source of greenhouse gases ===
+Farm animals account for between 20% and 30% of global greenhouse gas emissions. That figure includes the clearing of land to feed and graze the animals. Clearing land of trees, and cultivation, are the main drivers of farming emissions. Deforestation eliminates carbon sinks, accelerating the process of climate change. Cultivation, including the use of synthetic fertilisers, releases greenhouse gases such as nitrous oxide. Nitrogen fertiliser is especially demanding of fossil fuels, as producing a tonne of it takes 1.5 tonnes of oil.
+Meanwhile, it’s increasingly recognised that meat and dairy are the largest sources of food-related emissions. The UK’s consumption of meat and dairy products (including imports) accounts for about 8% of national greenhouse gas emissions related to consumption.
+According to a study by engineers Christopher Weber and H. Scott Matthews of Carnegie Mellon University, of all the greenhouse gases emitted by the food industry, only 4% comes from transporting the food from producers to retailers. The study also concluded that adopting a vegetarian diet, even if the vegetarian food is transported over very long distances, does far more to reduce greenhouse gas emissions, than does eating a locally grown diet. They also concluded that "Shifting less than one day per week’s worth of calories from red meat and dairy products to chicken, fish, eggs, or a vegetable-based diet achieves more GHG reduction than buying all locally sourced food." In other words, the amount of red meat consumption is much more important than food miles.
+
+
+=== "Local" food miles ===
+A commonly ignored element is the local loop. For example, a gallon of gasoline could transport 5 kg of meat over 60,000 miles (97,000 km) by road (40 tonner at 8 mpg) in bulk transport, or it could transport a single consumer only 30 or 40 miles (64 km) to buy that meat. Thus foods from a distant farm that are transported in bulk to a nearby store consumer can have a lower footprint than foods a consumer picks up directly from a farm that is within driving distance but farther away than the store. This can mean that doorstep deliveries of food by companies can lead to lower carbon emissions or energy use than normal shopping practices. Relative distances and mode of transportation make this calculation complicated. For example, consumers can significantly reduce the carbon footprint of their part of the journey by walking, bicycling, or taking public transport. Another impact is that goods being transported by large ships very long distances can have lower associated carbon emissions or energy use than the same goods traveling by truck a much shorter distance.
+
+
+=== Lifecycle analysis, rather than food miles ===
+Lifecycle analysis, a technique that meshes together a wide range of different environmental criteria including emissions and waste, is a more holistic way of assessing the real environmental impact of the food we eat. The technique accounts for energy input and output involved in the production, processing, packaging and transport of food. It also factors in resource depletion, air pollution and water pollution and waste generation/municipal solid waste.
+A number of organisations are developing ways of calculating the carbon cost or lifecycle impact of food and agriculture. Some are more robust than others but, at the moment, there is no easy way to tell which ones are thorough, independent and reliable, and which ones are just marketing hype.
+
+
+=== Other aspects of sustainability, such as local jobs, and health ===
+Even a full lifecycle analysis accounts only for the environmental effects of food production and consumption. Important though that is, it is only one of the widely agreed three pillars of sustainable development, namely environmental, social and economic.
+
+
+== References ==
+^ Engelhaupt, E. (2008). Do food miles matter? Environmental Science & Technology, 42, p. 3482
+^ http://www.city.ac.uk/communityandhealth/phpcfp/foodpolicy/index.html. He explains its history in this article Tim Lang (2006). ‘locale / global (food miles)’, Slow Food (Bra, Cuneo Italy), 19, May 2006, p.94-97
+^ The SAFE Alliance merged with the National Food Alliance in 1999 to become Sustain: the alliance for better food and farming http://www.sustainweb.org/. Professor Tim Lang chaired Sustain from 1999 to 2005.
+^ a b Paxton, A (1994). The Food Miles Report: The dangers of long-distance food transport. SAFE Alliance, London, UK. http://www.sustainweb.org/publications/?id=191
+^ Iles, A. (2005). Learning in sustainable agriculture: Food miles and missing objects. Environmental Values, 14, 163-83
+^ Weber, C., & Matthews, H. (2008). Food-Miles and the Relative Climate Impacts of Food Choices in the United States. Environmental Science & Technology, 42(10), 3508-3513.
+^ [1]
+^ (Garnett 2011, Food Policy)
+^ Tim Lang (2006). ‘locale / global (food miles)’, Slow Food (Bra, Cuneo Italy), 19, May 2006, p.94-97
+^ Smith, A. et al. (2005) The Validity of Food Miles as an Indicator of Sustainable Development: Final report. DEFRA, London. See https://statistics.defra.gov.uk/esg/reports/foodmiles/default.asp
+^ a b http://www.motu.org.nz/files/docs/agdpresentations/AgD23_Saunders_-_Carbon_footprinting_and_other_trade_factors.pdf
+^ "Food, the carbon story", The Carbon Trust, 15 March 2012. Retrieved on 20 January 2015.
+^ Prevor, Jim (1 October 2010). "Jim Prevor’s Perishable Pundit". Retrieved 20 July 2011. 
+^ a b c Chi, Kelly Rae, James MacGregor and Richard King (2009). Fair Miles: Recharting the food miles map. IIED/Oxfam.
+^ Chi, 2009, p. 9.
+^ MacGregor, J.; Vorley, B (2006) Fair Miles? Weighing environmental and social impacts of fresh produce exports from Sub-Saharan Africa to the UK. Fresh Insights no.9. International Institute for Environment and Development/ Natural Resources Institute, London, UK, 18 pp. http://www.dfid.gov.uk/r4d/SearchResearchDatabase.asp?OutPutId=173492
+^ Action Aid is one of many organisations drawing attention to this problem and campaigning to improve this situation - http://www.actionaid.org.uk
+^ "Comparative life-cycle assessment of food commodities procured for UK consumption through a diversity of supply chains. 19 March 2003"
+^ [2]
+^ Schlich E, Fleissner U: The Ecology of Scale. Assessment of Regional Energy Turnover and Comparison with Global Food. Int J LCA 10 (3) 219-223:2005.
+^ Schlich E: Energy Economics and the Ecology of Scale in the Food Business. In: Caldwell PG and Taylor EV (editors): New Research on Energy Economics. Nova Science Publishers Hauppauge NY:2008.
+^ Saunders, C; Barber, A; Taylor, G, Food Miles – Comparative Energy/Emissions Performance of New Zealand’s Agriculture Industry (2006). Research Report No. 285. Agribusiness and Economics Research Unit, Lincoln University, Christchurch, New Zealand.
+^ McWilliams, James E. (2007-08-06). "Food that travels well". The New York Times. 
+^ 'Food miles' minor element of carbon footprint, http://www.freshplaza.com/news_detail.asp?id=40471. See also a range of publications by Professor Edwards-Jones and a team of researchers at Bangor University, http://www.bangor.ac.uk/senrgy/staff/edwards.php.en
+^ "Food-Miles and the Relative Climate Impacts of Food Choices in the United States Environ. Sci. Technol., 2008, 42 (10), pp 3508–3513"
+^ To see details of the United Nations research into meat and the environment, visit: http://www.fao.org/newsroom/en/news/2006/1000448/index.html. See also Steinfeld, H et al. (2006) Livestock’s long shadow: Environmental issues and options. Food and Agriculture Organization, Rome. http://www.virtualcentre.org/en/library/key_pub/longshad/A0701E00.htm
+^ Garnett, T (2007) Meat and dairy production and consumption. Exploring the livestock sector’s contribution to the UK’s greenhouse gas emissions and assessing what less greenhouse gas intensive systems of production and consumption might look like Working paper produced a part of the work of the Food Climate Research Network, Centre for Environmental Strategy, University of Surrey http://www.fcrn.org.uk/fcrnPublications/publications/PDFs/Livestock_paper_2006.pdf
+^ Food miles are less important to environment than food choices, study concludes, Jane Liaw, special to Mongabay, June 2, 2008
+^ Coley, D. A., Howard, M. and Winter, M., 2009. Local food, food miles and carbon emissions: A comparison of farm shop and mass distribution approaches. Food Policy, 34 (2), pp. 150-155.
+^ Coley, D. A., Howard, M. and Winter, M., 2011. Food miles: time for a re-think? British Food Journal, 113 (7), pp. 919-934.
+^ Chi, Kelly Rae, James MacGregor and Richard King (2009). Fair Miles: Recharting the food miles map. IIED/Oxfam. http://www.iied.org/pubs/display.php?o=15516IIED – p16
+^ Examples include http://www.carbontrustcertification.com/ and www.cffcarboncalculator.org.uk
+^ World Commission on Environment and Development, Our Common Future, (1987). Oxford University Press. Often known as the Brundtland report, after the Chair of the Commission, Gro Harlem Brundtland.
+Edwards-Jones, G., Milà i Canals, L., Hounsome, N., Truninger, M., Koerber, G., Hounsome, B., et al. (2008). Testing the assertion that ‘local food is best’: the challenges of an evidence-based approach. Trends in Food Science & Technology, 19(5), 265-274.
+Waye, V. (2008). Carbon Footprints, Food Miles and the Australian Wine Industry. Melbourne Journal of International Law, 9, 271-300.
+Weber, C., & Matthews, H. (2008). Food-Miles and the Relative Climate Impacts of Food Choices in the United States. Environmental Science & Technology, 42(10), 3508-3513.
+Iles, A. (2005). Learning in sustainable agriculture: Food miles and missing objects. Environmental Values, 14, 163-183.
+Engelhaupt, E. (2008). Do food miles matter? Environmental Science & Technology, 42, 3482.
+McKie, R. (2008). How the myth of food miles hurts the planet. Retrieved March 23, 2008, from http://www.guardian.co.uk/environment/2008/mar/23/food.ethicalliving
+Holt, D., & Watson, A. (2008). Exploring the dilemma of local sourcing versus international development –the case of the Flower Industry. Business Strategy and the Environment, 17, 318-329.
+Hogan, Lindsay and Sally Thorpe (2009). Issues in food miles and carbon labelling. ABARE (Australian Bureau of Agricultural and Resource Economics) http://www.abare.gov.au/interactive/09_ResearchReports/FoodMiles/
+Chi, Kelly Rae, James MacGregor and Richard King (2009). Fair Miles: Recharting the food miles map. IIED/Oxfam. http://www.iied.org/pubs/display.php?o=15516IIED
+Blanke, M. and B. Burdick (2005). Food (miles) for thought: energy balance for locally-grown versus imported apple fruit. Environmental Science and Pollution Research 12(3):125-127.
+Borot, A., J. MacGregor and A. Graffham(eds) (2008). Standard Bearers: Horticultural exports and private standards in Africa. IIED, London.
+DEFRA (2009) Food Statistics Pocketbook 2009. DEFRA, London. See https://statistics.defra.gov.uk/esg/publications/pocketstats/
+foodpocketstats/FoodPocketbook2009.pdf.
+ECA (2009) Shaping Climate-Resilient Development: A framework for decision-making. See www.gefweb.org/uploadedFiles/Publications/ECA_Shaping_Climate%20Resilent_Development.pdf.
+Garnett, T. (2008) Cooking Up a Storm: Food, greenhouse gas emissions and our changing climate. Food Climate Research Network Centre for Environmental Strategy, University of Surrey, UK.
+Jones, A. (2006) A Life Cycle Analysis of UK Supermarket Imported Green Beans from Kenya. Fresh Insights No. 4. IIED/DFID/NRI,
+London/Medway, Kent.
+Magrath, J. and E. Sukali (2009) The Winds of Change: Climate change, poverty and the environment in Malawi. Oxfam International, Oxford.
+Muuru, J. (2009) Kenya’s Flying Vegetables: Small farmers and the ‘food miles’ debate. Policy Voice Series. Africa Research Institute, London.
+Plassman, K. and G. Edwards-Jones (2009) Where Does the Carbon Footprint Fall? Developing a carbon map of food production. IIED, London. See www.iied.org/pubs/pdfs/16023IIED.pdf
+Smith, A. et al. (2005) The Validity of Food Miles as an Indicator of Sustainable Development: Final report. DEFRA, London. See https://statistics.defra.gov.uk/esg/reports/foodmiles/default.asp.
+The Strategy Unit (2008) Food: An analysis of the issues. Cabinet Office, London.
+Wangler, Z. (2006) Sub-Saharan African Horticultural Exports to the UK and Climate Change: A literature review. Fresh Insights
+
+
+== External links ==
+Food Climate Research Network
+Fairtrade Foundation
+Fairtrade Labelling Organisations (international)
+IIED
+Australian Bureau of Agricultural and Resource Economics
+Oxfam International
+Food miles at DEFRA
+The Validity of Food Miles as an Indicator of Sustainable Development

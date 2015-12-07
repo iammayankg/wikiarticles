@@ -1,0 +1,94 @@
+Wilhelm Dilthey (German: [ˈdɪltaɪ]; 19 November 1833 – 1 October 1911) was a German historian, psychologist, sociologist, and hermeneutic philosopher, who held Hegel's Chair in Philosophy at the University of Berlin. As a polymathic philosopher, working in a modern research university, Dilthey's research interests revolved around questions of scientific methodology, historical evidence and history's status as a science. He could be considered an empiricist, in contrast to the idealism prevalent in Germany at the time, but his account of what constitutes the empirical and experiential differs from British empiricism and positivism in its central epistemological and ontological assumptions, which are drawn from German literary and philosophical traditions.
+
+
+== BiographyEdit ==
+Dilthey was born in 1833 as the son of a Reformed pastor in the village of Biebrich in the Duchy of Nassau, now in Hesse, Germany. As a young man he followed family traditions by studying theology at Heidelberg University, where his teachers included the young Kuno Fischer. He then moved to the University of Berlin and was taught by, amongst others, Friedrich Adolf Trendelenburg and August Boeckh, both former pupils of Friedrich Schleiermacher. He edited Schleiermacher's letters and was also commissioned to write a biography. In 1867 he took up a professorship in Basel, but later returned to Berlin where he held the prestigious chair in philosophy at the University of Berlin. He died in 1911.
+
+
+== HermeneuticsEdit ==
+Dilthey took some of his inspiration from the works of Friedrich Schleiermacher on hermeneutics, which he helped revive. Both figures are linked to German Romanticism. Schleiermacher was strongly influenced by German Romanticism which led him to place more emphasis on human emotion and the imagination. Dilthey, in his turn, as the author of a vast monograph on Schleiermacher, responds to the questions raised by Droysen and Ranke about the philosophical legitimation of the human sciences. He argues that 'scientific explanation of nature' (erklären) must be completed with a theory of how the world is given to human beings through symbolically mediated practices. To provide such a theory is the aim of the philosophy of the humanities — a field of study to which Dilthey dedicated his entire academic career.
+The school of Romantic hermeneutics stressed that historically embedded interpreters — a "living" rather than a Cartesian dualism or "theoretical" subject — use 'understanding' and 'interpretation' (verstehen), which combine individual-psychological and social-historical description and analysis, to gain a greater knowledge of texts and authors in their contexts. However, Dilthey remains distinct from other German Romantics and life philosophers through his emphasis on “historicality.” Dilthey understood man as a historical being. However, history is not described in terms of an object of the past, but “a series of world views.” Man cannot understand himself through reflection or introspection, but only through what “history can tell him…never in objective concepts but always only in the living experience which springs up out of the depths of his own being.” Dilthey wants to emphasize the “intrinsic temporality of all understanding,” that man’s understanding is dependent on past worldviews, interpretations, and a shared world.
+The process of interpretive inquiry established by Schleiermacher involved what Dilthey called the hermeneutic circle — the recurring movement between the implicit and the explicit, the particular and the whole. Schleiermacher saw the approaches to interpreting sacred scriptures (for example, the Pauline epistles) and Classical texts (e.g. Plato’s philosophy) as more specific forms of what he proposed as “general hermeneutics.” Schleiermacher approached hermeneutics as the “art of understanding” and recognized both the importance of language, and the thoughts of an author, to interpreting a text.
+Dilthey saw understanding as the key for the human sciences (Geisteswissenschaften) in contrast with the natural sciences. The natural sciences observe and explain nature, but the humanities understand human expressions of life. So long as a science is “accessible to us through a procedure based on the systematic relation between life, expression, and understanding” Dilthey considered it a part of the human sciences.
+Along with Friedrich Nietzsche, Georg Simmel and Henri Bergson, Dilthey's work influenced early twentieth-century "Lebensphilosophie" and "Existenzphilosophie."
+Dilthey's students included Bernhard Groethuysen, Hans Lipps, Herman Nohl, Theodor Litt, Eduard Spranger, Georg Misch und Erich Rothacker. Dilthey's philosophy also influenced the religious philosopher Martin Buber.
+Dilthey's works informed the early Martin Heidegger's approach to hermeneutics in his early lecture courses, in which he developed a "hermeneutics of factical life," and in Being and Time (1927). Heidegger grew increasingly critical of Dilthey, arguing for a more radical "temporalization" of the possibilities of interpretation and human existence.
+In Wahrheit und Methode (Truth and Method, 1960), Hans-Georg Gadamer, influenced by Heidegger, criticised Dilthey's approach to hermeneutics as both overly aesthetic and subjective as well as method-oriented and "positivistic." According to Gadamer, Dilthey's hermeneutics is insufficiently concerned with the ontological event of truth and inadequately considers the implications of how the interpreter and the interpreter's interpretations are not outside of tradition but occupy a particular position within it, i.e., have a temporal horizon.
+
+
+== SociologyEdit ==
+Dilthey was very interested in what some would call sociology in the 21st century, although he strongly objected to being labelled as such, as the sociology of his time was mainly that of Auguste Comte and Herbert Spencer. He objected to their dialectical/evolutionist assumptions about the necessary changes that all societal formations must go through, as well as their narrowly natural-scientific methodology. Comte's idea of positivism was, according to Dilthey, one-sided and misleading. Dilthey did, however, have good things to say about the neo-Kantian sociology of Georg Simmel, with whom he was a colleague at the University of Berlin. Simmel himself was later an associate of Max Weber, the primary founder of sociological antipositivism. J. I. Hans Bakker has argued that Dilthey should be considered one of the classical sociological theorists due to his own influence in the foundation of nonpositivist "verstehende" sociology and the "verstehen" method.
+
+
+== Distinction between natural sciences and human sciencesEdit ==
+A lifelong concern was to establish a proper theoretical and methodological foundation for the "human sciences" (e.g. history, law, literary criticism), distinct from, but equally "scientific" as, the "natural sciences" (e.g. physics, chemistry). He suggested that all human experience divides naturally into two parts: that of the surrounding natural world, in which "objective necessity" rules, and that of inner experience, characterized by "sovereignty of the will, responsibility for actions, a capacity to subject everything to thinking and to resist everything within the fortress of freedom of his/her own person".
+Dilthey strongly rejected using a model formed exclusively from the natural sciences (Naturwissenschaften), and instead proposed developing a separate model for the human sciences (Geisteswissenschaften). His argument centered around the idea that in the natural sciences we seek to explain phenomena in terms of cause and effect, or the general and the particular; in contrast, in the human sciences, we seek to understand in terms of the relations of the part and the whole. In the social sciences we may also combine the two approaches, a point stressed by German sociologist Max Weber. His principles, a general theory of understanding or comprehension (Verstehen) could, he asserted, be applied to all manner of interpretation ranging from ancient texts to art work, religious works, and even law. His interpretation of different theories of aesthetics in the seventeenth, eighteenth, and nineteenth centuries was preliminary to his speculations concerning the form aesthetic theory would take in the twentieth century.
+Both the natural and human sciences originate in the context or "nexus of life" (Lebenszusammenhang), a concept which influenced the phenomenological account of the lifeworld (Lebenswelt), but are differentiated in how they relate to their life-context. Whereas the natural sciences abstract away from it, it becomes the primary object of inquiry in the human sciences.
+Dilthey defended his use of the term Geisteswissenschaft (literally, "science of the mind" or "spiritual knowledge") by pointing out that other terms such as "social science" and "cultural sciences" are equally one-sided and that the human mind or spirit is the central phenomenon from which all others are derived and analyzable. For Dilthey, like Hegel, Geist ("mind" or "spirit") has a cultural rather than a social meaning. It is not an abstract intellectual principle or disembodied behavioral experience but refers to the individual's life in its concrete cultural-historical context. The very term Geist lifts Dilthey's discussion beyond the philosophical premises of pragmatism, instrumentalism and modern-day postmodernism.
+
+
+== WeltanschauungenEdit ==
+Dilthey developed a typology of the three basic Weltanschauungen, or World-Views, which he considered to be "typical" (comparable to Max Weber's notion of "ideal types") and conflicting ways of conceiving of man's relation to Nature.
+in Naturalism, represented by Epicureans of all times and places, man sees himself as determined by nature
+in the Idealism of Freedom (or Subjective idealism), represented by Friedrich Schiller and Immanuel Kant, man is conscious of his separation from nature by his free will
+in Objective idealism, represented by G. W. F. Hegel, Baruch Spinoza, and Giordano Bruno, man is conscious of his harmony with nature.
+This approach influenced Karl Jaspers' Psychology of Worldviews as well as Rudolf Steiner.
+
+
+== Neo-KantiansEdit ==
+Dilthey's ideas should be examined in terms of his similarities and differences with Wilhelm Windelband and Heinrich Rickert, members of the Baden School of Neo-Kantianism. Dilthey was not a Neo-Kantian, but had a profound knowledge of Immanuel Kant's philosophy, which deeply influenced his thinking. But whereas Neo-Kantianism was primarily interested in epistemology on the basis of Kant's Critique of Pure Reason, Dilthey took Kant's Critique of Judgment as his point of departure. An important debate between Dilthey and the Neo-Kantians concerned the "human" as opposed to "cultural" sciences, with the Neo-Kantians arguing for the exclusion of psychology from the cultural sciences and Dilthey for its inclusion as a human science.
+
+
+== BibliographyEdit ==
+The Essence of Philosophy (1907, originally published in German as 'Das Wesen der Philosophie')
+Wilhelm Dilthey: Selected Works are being published by Princeton University Press under the editorship of the noted Dilthey scholars Rudolf A. Makkreel and Frithjof Rodi. Published volumes include:
+Volume I: Introduction to the Human Sciences
+Volume II: Understanding the Human World: Selected Works of Wilhelm Dilthey (2010)
+Volume III: The Formation of the Historical World in the Human Sciences
+Volume IV: Hermeneutics and the Study of History
+Volume V: Poetry and Experience
+Wilhelm Dilthey, Gesammelte Schriften are currently published by Vandenhoeck & Ruprecht:
+Volume 1: Einleitung in die Geisteswissenschaften
+Volume 2: Weltanschauung und Analyse des Menschen seit Renaissance und Reformation
+Volume 3: Studien zur Geschichte des deutschen Geistes
+Volume 4: Die Jugendgeschichte Hegels und andere Abhandlungen zur Geschichte des Deutschen Idealismus
+Volume 5: Die geistige Welt
+Volume 6: Die geistige Welt
+Volume 7: Der Aufbau der geschichtlichen Welt in den Geisteswissenschaften
+Volume 8: Weltanschauungslehre
+Volume 9: Pädagogik
+Volume 10: System der Ethik
+Volume 11: Vom Aufgang des geschichtlichen Bewußtseins
+Volume 12: Zur preußischen Geschichte
+Volume 13: Leben Schleiermachers. Erster Band
+Volume 14: Leben Schleiermachers. Zweiter Band
+Volume 15: Zur Geistesgeschichte des 19. Jahrhunderts
+Volume 16: Zur Geistesgeschichte des 19. Jahrhunderts
+Volume 17: Zur Geistesgeschichte des 19. Jahrhunderts
+Volume 18: Die Wissenschaften vom Menschen, der Gesellschaft und der Geschichte
+Volume 19: Grundlegung der Wissenschaften vom Menschen, der Gesellschaft und der Geschichte
+Volume 20: Logik und System der philosophischen Wissenschaften
+Volume 21: Psychologie als Erfahrungswissenschaft
+Volume 22: Psychologie als Erfahrungswissenschaft
+Volume 23: Allgemeine Geschichte der Philosophie
+Volume 24: Logik und Wert
+Volume 25: Dichter als Seher der Menschheit
+Volume 26: Das Erlebnis und die Dichtung
+
+
+== See alsoEdit ==
+Karl Dilthey
+Positivismusstreit
+
+
+== ReferencesEdit ==
+
+
+== Further readingEdit ==
+Rudolf A. Makkreel, Dilthey: Philosopher of the Human Studies (Princeton: Princeton University Press, 1993).
+Jos de Mul, The Tragedy of Finitude: Dilthey's Hermeneutics of Life (New Haven: Yale University Press, 2004).
+
+
+== External linksEdit ==
+Dilthey-Forschungsstelle an der Ruhr-Universität Bochum
+Wilhelm Dilthey at Stanford Encyclopedia of Philosophy

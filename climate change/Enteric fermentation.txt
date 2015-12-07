@@ -1,0 +1,26 @@
+Enteric fermentation is a digestive process by which carbohydrates are broken down by microorganisms into simple molecules for absorption into the bloodstream of an animal.
+It is one of the factors in increased methane emissions.
+Ruminant animals are those that have a rumen. A rumen is a multichambered stomach found almost exclusively among some artiodactyl mammals, such cattle, deer, and camels, enabling them to eat cellulose-enhanced tough plants and grains that monogastric (i.e., "single-chambered stomached") animals, such as humans, dogs, and cats, cannot digest.
+Enteric fermentation occurs when methane (CH4) is produced in the rumen as microbial fermentation takes place. Over 200 species of microorganisms are present in the rumen, although only about 10% of these play an important role in digestion. Most of the CH4 byproduct is belched by the animal, however, a small percentage of CH4 is also produced in the large intestine and passed out as flatulence.
+Methane emissions are an important contribution to global greenhouse gas emissions. The IPCC reports that methane is more than twenty times as effective as CO2 at trapping heat in the atmosphere - though note that it is produced in substantially smaller amounts. In Australia ruminant animals account for over half of their green house gas contribution from methane. Australia has implemented a voluntary immunization program for cattle in order to help reduce flatulence-produced CH4.
+However, in Australia there are ruminant species of the kangaroos that are able to produce 80% less methane than cows. This is because the gut microbiota of Macropodids, rumen and others parts of their digestive system, is dominated by bacteria of the family Succinivibrionaceae. These bacteria are able to produce succinate as a final product of the lignocelluloses degradation, producing small amounts of methane as end product. Its special metabolic route allows to utilize others proton acceptors avoiding the formation of methane.
+Enteric fermentation is the second largest anthropogenic source of methane emissions in the United States from 2000 through 2009. In 2007, methane emissions from enteric fermentation were 2.5% of net greenhouse gases produced in the United States at 139 teragrams of carbon dioxide equivalents (Tg CO2) out of a total net emission of 5618 Tg CO2.
+For this reason, scientists believe that, with the aid of microbial engineering, the use of microbioma to modify natural or anthropogenic processes, we could change the microbiota composition of the rumen of strong methane producers, emulating the Macropodidae microbiota. Recent studies claim that this technique is possible to perform. In one of these studies scientists analyze the changes of human microbiota by different alimentary changes. In other study, researchers introduce a human microbiota in gnotobiotic mice in order to compare the different changes for developing new ways to manipulate the properties of the microbiota so as to prevent or treat various diseases.
+
+
+== References ==
+^ Australian Greenhouse Office, "National Greenhouse Gas Inventory", Canberra ACT, March 2007.
+^ Isolation of Succinivibrionaceae Implicated in Low Methane Emissions from Tammar Wallabies P. B. Pope, Science 333, 646 (2011)
+^ Executive Summary - Inventory of U.S. Greenhouse Gas Emissions and Sinks: 1990-2009 - U.S. Environmental Protection Agency, April, 2011; available at: http://www.epa.gov/climatechange/emissions/downloads11/US-GHG-Inventory-2011-Executive-Summary.pdf
+^ Inventory of U.S. Greenhouse Gas Emissions and Sinks: 1990-2007 - U.S. Environmental Protection Agency, April, 2009; available at: http://www.epa.gov/climatechange/emissions/downloads09/ExecutiveSummary.pdf
+^ Linking Long-Term Dietary Patterns with Gut Microbial EnterotypesLinking Gary D. Wu, et al. Science 334, 105 (2011)
+^ Predicting a Human Gut Microbiota's Response to Diet in Gnotobiotic Mice Jeremiah J. Faith, Science 334, 105 (2011)
+
+
+== Un-cited References ==
+M. J. Gibbs and R. A. Leng, "Methane Emissions From Livestock", Methane And Nitrous Oxide, Proceedings Of The International IPCC Workshop, Amersfoort, The Netherlands, pp. 73–79, February 1993.
+State Workbook: Methodology For Estimating Greenhouse Gas Emissions, EPA 230-B-92-002, U. S. Environmental Protection Agency, Office of Policy, Planning and Evaluation, Washington, DC, 1995.
+International Anthropogenic Methane Emissions: Estimates for 1990, EPA-230-R-93-010. U. S. Environmental Protection Agency, Global Change Division, Office of Air and Radiation, Washington, DC, 1994.
+P. Crutzen, et al., Methane Production By Domestic Animals, Wild Ruminants, Other Herbivorous Fauna, and Humans, Tellus, 38B(3-4): 271-284, 1986.
+Anthropogenic Methane Emissions In The United States: Estimates For 1990, Report to Congress, U. S. Environmental Protection Agency, Office of Air and Radiation, Washington, DC, 1993.
+Greenhouse Gas Inventory Workbook, Intergovernmental Panel On Climate Change/Organization For Economic Cooperation And Development, Paris, France, pp. 4.1-4.5, 1995.
